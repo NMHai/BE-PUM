@@ -1,0 +1,30 @@
+[
+	{
+		"API_NAME"		: "GetStartupInfoA@kernel32.dll"
+		"ADDR": "7c801ef2"
+	},
+	{
+		"API_NAME"		: "GetModuleFileNameA@kernel32.dll"
+		"ADDR": "768314b1"
+	},
+	{
+		"API_NAME"		: "CreateFileA@kernel32.dll"
+		"ADDR": "768353ae"
+	},
+	{
+		"API_NAME"		: "ReadFile@kernel32.dll"
+		"ADDR": "76833eb3"
+	},
+	{
+		"API_NAME"		: "CloseHandle@kernel32.dll"
+		"ADDR": "76831410"
+	},
+	{
+		"API_NAME"		: "ExitProcess@kernel32.dll"
+		"ADDR": "768379f8"
+	}, 
+	{
+		"API_NAME"		: "LdrLoadDll@ntdll.dll"
+		"ADDR": "7c9163a3"
+	}
+]

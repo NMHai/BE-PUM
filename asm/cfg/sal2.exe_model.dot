@@ -1,0 +1,15 @@
+digraph G {
+node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
+bgcolor="transparent"
+a0x00401000movl_0x5UINT32_ebx[label="start\nmovl $0x5<UINT32>, %ebx",color="lightgrey",fillcolor="orange"];
+a0x00401005shll_0x1dUINT8_ebx[label="0x00401005\nshll $0x1d<UINT8>, %ebx"];
+a0x00401008sall_0x1INT8_ebx[label="0x00401008\nsall $0x1<INT8>, %ebx"];
+a0x0040100bcall_0x00401010[label="0x0040100b\ncall 0x00401010"];
+a0x00401010jmp_ExitProcess_kernel32_dll[label="0x00401010\njmp ExitProcess@kernel32.dll"];
+ExitProcess_kernel32_dll[label="ExitProcess@kernel32.dll",color="lightgrey",fillcolor="lightgrey"];
+a0x00401000movl_0x5UINT32_ebx -> a0x00401005shll_0x1dUINT8_ebx [color="#000000"];
+a0x00401005shll_0x1dUINT8_ebx -> a0x00401008sall_0x1INT8_ebx [color="#000000"];
+a0x00401008sall_0x1INT8_ebx -> a0x0040100bcall_0x00401010 [color="#000000"];
+a0x0040100bcall_0x00401010 -> a0x00401010jmp_ExitProcess_kernel32_dll [color="#000000"];
+a0x00401010jmp_ExitProcess_kernel32_dll -> ExitProcess_kernel32_dll [color="#000000"];
+}

@@ -1,0 +1,19 @@
+	/**
+	 * $func.description
+#foreach( $param in $func.paramsList )
+	 * 
+	 * @param $param.name
+	 *            $param.desc
+#end
+#if( $func.ret )
+	 *
+	 * @return $func.ret.desc
+#end
+ 	 */
+
+	$func.ret.type $func.funcName (#if ($func.paramsList.size() > 0)
+#foreach( $param in $func.paramsList )
+#if ( $param.order == $func.paramsList.size() )$param.type $param.name#else$param.type $param.name, #end
+#end
+#end);
+}

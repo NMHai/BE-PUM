@@ -1,0 +1,19 @@
+5157565253500FBA2D........0073:
+  CAFCE8........5B83FB22741890909090:
+    0. 1D ADC3 003D 0000:a=110:o=2:m=+11^/_ControlDispatcher:c=b:vireobc
+  CDFCE8........5B83FB22741083FB2374:
+    0. 15 547E 0035 -0014:_LocalPMhandler -000A:_LocalV86handler 0000:a=110:o=2:m=+11^/_ControlDispatcher:c=v:vireoms
+5333DBB9FFFFFFFF66B800EBCD215B83F9FF0F8407000000C605........030B:
+  0. 17 AC84 1B54 0000:o=1:a=105:ndprtd:m=+6CA^/ 07EC:interim_ 095B:__user_break 0967:__break_handler 0989:_seg_len 0998:_aia_kern 0A1D:__exit 0A29:_freemem 0A5D:_sbrk 0B2C:_brk 0B76:_curhpsz 0B82:_creat 0C25:_sopen 0C44:_open 0D89:_get_filemode 0DC1:_get_fileptr 0DD8:_setmode 0E48:_set_filemode 0E7E:_close 0EBF:_read 106B:_write 1162:_lseek 1227:_isatty 1252:_truncate 129B:_unlink 12B6:_rename 12D6:_fstat 12DC:_stat 13E9:_getpid 13EF:__spawnx 1450:_set_DOS_error_status 15C2:_stndpsw_ 15DE:_clrndpex_ 1602:_stndpcw_ 161E:_stndpenv_ 166A:_ldndpenv_ 16CB:_stshenv_ 16F7:_ldshenv_ 171E:_setndpsw_ 175C:_nstndpenv_ 1778:_ndptype_ 177E:_ldndpcw_ 17DA:_init_ndp_ 1850:_set_ex_hdl_ 1876:_ret_ex_hdl_ 189D:_cs_ip_ 189E:_@debug 18D2:_temp_dbl_ 1A1C:_pstat 1A39:xtnd_seg 1AA9:set_brk 1ABD:free_phys 1AE9:page_lock 1B0C:page_unlock 1B2F:pte_read
+EB:
+  5E4F70656E20574154434F4D20432F432B2B33322052756E2D54696D652073:
+    0. 38 34CE 02BF 0000:o=1:a=125:wa32rtd:wa32rt_:m=+274^+2F?E8^/main_;+3^/main 0279:__exit_ 027B:__do_exit_with_msg__ 02B4:__GETDS 02BF:___GETDSEnd_
+  69574154434F4D2043203338362052756E2D54696D652073797374656D2E20:
+    0. 53 6F78 0256 0000:o=1:a=125:wa32rtd:wa32rt_:m=+219^+11^/main 021E:__exit_ 0220:__exit_with_msg_ 024E:__GETDS
+  76574154434F4D20432F432B2B33322052756E2D54696D652073797374656D:
+    0. 50 13B5 02D7 0000:o=1:a=125:wa32rtd:wa32rt_:m=+28A^+40?E8^/main_;+3^/main 028F:__exit_ 0291:__do_exit_with_msg__ 02CC:__GETDS
+    1. 50 4378 02D7 0000:o=1:a=125:wa32rtd:wa32rt_:m=+28A^+4E?E8^/main_;+3^/main 028F:__exit_ 0291:__do_exit_with_msg__ 02CC:__GETDS 02D7:___GETDSEnd_ (024B: 0F)
+    2. 50 4378 02D7 0000:o=1:a=125:wa32rtd:wa32rt_:m=+28A^+40?E8^/main_;+3^/main 028F:__exit_ 0291:__do_exit_with_msg__ 02CC:__GETDS (024B: FF)
+  78574154434F4D20432F432B2B33322052756E2D54696D652073797374656D:
+    0. 50 13B5 02D5 0000:o=1:a=125:wa32rtd:wa32rt_:m=+28C^+40?E8^/main_;+3^/main 0291:__exit_ 0293:__do_exit_with_msg__ 02CC:__GETDS
+    1. 50 D976 0268 0000:o=1:a=125:wa32rtd:wa32rt_:m=+228^+40?E8^/main_;+1^/main 022D:__exit_ 022F:__exit_with_msg_ 0260:__GETDS

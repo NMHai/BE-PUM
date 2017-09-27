@@ -1,0 +1,608 @@
+3908000252040004520300055304000653030007060000020202020204040402:
+  0. 16 2A4F 029E 003E:@TSystemError@resume$qv 00DA:@TSystemError@suspend$qv
+3B7C5D7703037C5B4FCB478B445D03445B3BF872038B7C5DCB558BEC1E5657C5:
+  0. 64 0600 0084 0019:@TTerminal@prevLines$qusus
+  1. 65 259E 0085 0019:@TTerminal@prevLines$qusus
+558BEC:
+  33D233C0:
+    5DCB:
+      0. 00 0000 0009 0000:@TStrListMaker@read$qm8ipstream
+    EB005DCB:
+      0. 00 0000 000B 0000:@TStrListMaker@read$qm8ipstream
+  4C4C:
+    168D46FE50:
+      0EE8C801905959BBD705B8D705CD12B8020050168D46:
+        0. 1F 1CFA 02AB 002E:@TSystemError@$bctr$qv 0074:@TSystemError@$bdtr$qv 00B1:@TSystemError@selectKey$qv 010D:@TSystemError@sysErr$qsuc 01D6:@Int11trap@$bctr$qv 0239:@Int11trap@$bdtr$qv 0277:@Int11trap@handler$qve
+      FF760CFF760AFF7608FF7606C45E06268B5F06FF5F0C:
+        0. DB 8FF9 031A 0000:@TNSSortedCollection@indexOf$qnv 00A3:@TNSSortedCollection@insert$qnv 010C:@TNSSortedCollection@keyOf$qnv 0119:@TNSSortedCollection@search$qnvmi 01CE:@TSortedCollection@write$qm8opstream 0200:@TSortedCollection@read$qm8ipstream 0246:@TSortedCollection@$bctr$q14StreamableInit
+    A1....B108D3E88B16....B108D3E20BC28946FE817EFE0C037305:
+      0. 20 1273 0045 0032:@TDisplay@updateIntlChars$qv
+  56:
+    1EC576068B560AFCAD89C1AD89C3AD38D3750808FF740838F77404E2:
+      0. 1A 1650 1286 0000:@scanKeyMap$qnxvi 0029:@TEditor@$bctr$qmx5TRectn10TScrollBart2n10TIndicatorus 0173:@TEditor@$bdtr$qv 01B8:@TEditor@shutDown$qv 01DB:@TEditor@changeBounds$qmx5TRect 0288:@TEditor@charPos$qusus 02BA:@TEditor@charPtr$qusi 030E:@TEditor@clipCopy$qv 036C:@TEditor@clipCut$qv 038F:@TEditor@clipPaste$qv 03C8:@TEditor@convertEvent$qm6TEvent 04B7:@TEditor@cursorVisible$qv 04EC:@TEditor@deleteRange$qusus7Boolean 0569:@TEditor@deleteSelect$qv 0588:@TEditor@doneBuffer$qv 059F:@TEditor@doSearchReplace$qv 068A:@TEditor@doUpdate$qv 0810:@TEditor@draw$qv 087D:@TEditor@drawLines$qiius 091A:@TEditor@find$qv 0978:@TEditor@getMousePtr$q6TPoint 0A35:@TEditor@getPalette$xqv 0A64:@TEditor@checkScrollBar$qmx6TEventn10TScrollBarmi 0AAB:@TEditor@handleEvent$qm6TEvent
+      1. 16 83DF 0FE4 0000:@scanKeyMap$qnxvi 0027:@TEditor@$bctr$qmx5TRectn10TScrollBart2n10TIndicatorus 0130:@TEditor@$bdtr$qv 0172:@TEditor@shutDown$qv 0195:@TEditor@changeBounds$qmx5TRect 0260:@TEditor@charPos$qusus 0292:@TEditor@charPtr$qusi 02E1:@TEditor@clipCopy$qv 033B:@TEditor@clipCut$qv 035E:@TEditor@clipPaste$qv 0397:@TEditor@convertEvent$qm6TEvent 0470:@TEditor@cursorVisible$qv 0497:@TEditor@deleteRange$qusus7Boolean 0501:@TEditor@deleteSelect$qv 051C:@TEditor@doneBuffer$qv 0533:@TEditor@doSearchReplace$qv 061F:@TEditor@doUpdate$qv 0759:@TEditor@draw$qv 07AD:@TEditor@drawLines$qiius 0840:@TEditor@find$qv 08A4:@TEditor@getMousePtr$q6TPoint 096F:@TEditor@getPalette$xqv 099A:@TEditor@checkScrollBar$qmx6TEventn10TScrollBarmi 09DD:@TEditor@handleEvent$qm6TEvent
+    57:
+      1EC57606C47E0AC57426558CD80BC674548BC68CDA8CC58B5C048B:
+        0. 50 B6C6 0070 0000:@TGroup@removeView$qn5TView
+      8B:
+        46060B46087402EB10B8320050..........598956088946068B:
+          0. 1C E88D 0DC1 0000:@TListViewer@$bctr$qmx5TRectusn10TScrollBart3 012C:@TListViewer@changeBounds$qmx5TRect 0179:@TListViewer@draw$qv 041A:@TListViewer@focusItem$qs 04E1:@TListViewer@focusItemNum$qs 052D:@TListViewer@getPalette$xqv 055C:@TListViewer@getText$qnzcss 0568:@TListViewer@isSelected$qs 0582:@TListViewer@handleEvent$qm6TEvent 0A29:@TListViewer@selectItem$qs 0A4F:@TListViewer@setRange$qs 0AB6:@TListViewer@setState$qus7Boolean 0B7A:@TListViewer@shutDown$qv 0BAA:@TListViewer@write$qm8opstream 0C71:@TListViewer@read$qm8ipstream 0D0E:@TListViewer@build$qv 0D49:@TListViewer@$bctr$q14StreamableInit
+        5E0A8B4E12E3:
+          2F1E8BC3D1E08B560603D08E46088BC3D1E08B7E:
+            0. CD B501 00ED 0000:@TDrawBuffer@moveBuf$qusnxvusus 0040:@TDrawBuffer@moveChar$quszcusus 007D:@TDrawBuffer@moveCStr$qusnxzcus 00B9:@TDrawBuffer@moveStr$qusnxzcus
+          311E8BC3D1E08B560603D08E46088BC3D1E08B56:
+            0. D7 6430 00F7 0000:@TDrawBuffer@moveBuf$qusnxvusus 0042:@TDrawBuffer@moveChar$quszcusus 0083:@TDrawBuffer@moveCStr$qusnxzcus 00C1:@TDrawBuffer@moveStr$qusnxzcus
+        7E06F7C7FF0075368BC7B108D3E88BF083FE027506B0F0EB29EB:
+          0. 0D 38A8 00B9 0000:@getAltChar$qus 004C:@getAltCode$qzc
+      C4:
+        5E06268B57088BCA4949BE....037610BF....1E07FCA4ACF3AA:
+          0. 6B DB8C 00BF 0000:@TFrame@frameLine$qm11TDrawBufferssuc
+        7E06268B4510F7D0A94300757A268B4518268B55160BC07C6E26:
+          0. 7D 79E1 00BE 0000:@TView@resetCursor$qv
+    8B:
+      46060B46087402EB10B8200050..........598956088946068B46:
+        0. 3C 892C 0273 0000:@TCommandSet@$bctr$qv 004A:@TCommandSet@$bctr$qmx11TCommandSet 0099:@TCommandSet@has$qi 00CC:@TCommandSet@disableCmd$qi 00F6:@TCommandSet@enableCmd$qmx11TCommandSet 0113:@TCommandSet@disableCmd$qmx11TCommandSet 0132:@TCommandSet@enableCmd$qi 015A:@TCommandSet@$brand$qmx11TCommandSet 017F:@TCommandSet@$bror$qmx11TCommandSet 01A4:@$band$qmx11TCommandSett1 01E6:@$bor$qmx11TCommandSett1 0228:@TCommandSet@isEmpty$qv 024B:@$beql$qmx11TCommandSett1
+      76:
+        0A8B46060B4608:
+          74:
+            2633C050FF7608FF7606..........83C406:
+              0. 0C DB15 0038 0000:@TFileInputLine@$bdtr$qv (REF 0019: @TInputLine@$bdtr$qv)
+              1. 0C DB15 0038 (!)0000:? (REF 0019: @TView@$bdtr$qv)
+              2. 0C DB15 0038 0000:@TSortedListBox@$bdtr$qv (REF 0019: @TListBox@$bdtr$qv)
+            2833C050FF7608FF7606..........83C406:
+              0. 0C DB15 003A 0000:@TDeskTop@$bdtr$qv (REF 0019: @TGroup@$bdtr$qv)
+              1. 0C DB15 003A 0000:@THistoryWindow@$bdtr$qv (REF 0019: @TWindow@$bdtr$qv)
+            32F7C60200741733C0508B460605:
+              0600FF76:
+                0. 02 0293 0044 0000:@TCollection@$bdtr$qv
+              0800FF76:
+                0. 02 0293 0044 (!)0000:?
+            34F7C60200741733C0508B4606050800FF76:
+              0. 02 0293 0046 (!)0000:?
+            3B33C0508B4606053500FF760850:
+              0. 00 0000 004D 0000:@TTextDevice@$bdtr$qv
+            4333C050FF7608FF7606..........83C406:
+              0. 13 2620 0055 0000:@otstream@$bdtr$qv
+            44C45E06268B1F2683AFFEFF06268387FEFF:
+              0. 14 5C41 0056 (!)0000:?
+            4533C050FF7608FF7606..........83C406:
+              0. 13 7028 0057 0000:@otstream@$bdtr$qv
+          7514B8:
+            1C0050..........598956088946060B:
+              0. 2D 2B59 023E 0000:@TResourceCollection@$bctr$qss 0092:@TResourceCollection@freeItem$qnv 00B6:@TResourceCollection@keyOf$qnv 00C6:@TResourceCollection@build$qv 018D:@TResourceCollection@writeItem$qnvm8opstream 01DC:@TResourceCollection@readItem$qm8ipstream
+            490050..........598956088946060B:
+              0. 15 2F74 0177 0000:@TApplication@$bctr$qv 008C:@TApplication@$bdtr$qv 00D9:@TApplication@suspend$qv 00ED:@TApplication@resume$qv
+            560050..........598956088946060B:
+              0. 15 DFDB 0280 0000:@TDialog@$bctr$qmx5TRectnxzc 0090:@TDialog@getPalette$xqv 00BB:@TDialog@handleEvent$qm6TEvent 0198:@TDialog@valid$qus 01B9:@TDialog@build$qv 01EF:@TDialog@$bctr$q14StreamableInit
+        128B46060B4608:
+          7402EB10B82B0050..........598956088946:
+            0. 1E F105 0A25 0000:@TButton@$bctr$qmx5TRectnxzcusus 00CA:@TButton@$bdtr$qv 0121:@TButton@draw$qv 0137:@TButton@drawTitle$qm11TDrawBufferiius7Boolean 01EC:@TButton@drawState$q7Boolean 044C:@TButton@getPalette$xqv 047B:@TButton@handleEvent$qm6TEvent 0755:@TButton@makeDefault$q7Boolean 07AC:@TButton@setState$qus7Boolean 07F2:@TButton@press$qv 0883:@TButton@write$qm8opstream 08ED:@TButton@read$qm8ipstream 0994:@TButton@build$qv
+          7514B82B0050..........598956088946060B:
+            0. 0F 16A3 0992 0000:@TButton@$bctr$qmx5TRectnxzcusus 00A5:@TButton@$bdtr$qv 00F8:@TButton@draw$qv 010E:@TButton@drawTitle$qm11TDrawBufferiius7Boolean 01CC:@TButton@drawState$q7Boolean 0434:@TButton@getPalette$xqv 045F:@TButton@handleEvent$qm6TEvent 06F6:@TButton@makeDefault$q7Boolean 0745:@TButton@setState$qus7Boolean 078B:@TButton@press$qv 080B:@TButton@write$qm8opstream 086F:@TButton@read$qm8ipstream 0912:@TButton@build$qv
+  57:
+    8B46060B46087514B8200050..........598956088946060BC2740D:
+      0. 25 AB61 0242 0000:@TCommandSet@$bctr$qv 0036:@TCommandSet@$bctr$qmx11TCommandSet 0075:@TCommandSet@has$qi 00A3:@TCommandSet@disableCmd$qi 00CA:@TCommandSet@enableCmd$qmx11TCommandSet 00E7:@TCommandSet@disableCmd$qmx11TCommandSet 0106:@TCommandSet@enableCmd$qi 012B:@TCommandSet@$brand$qmx11TCommandSet 014E:@TCommandSet@$bror$qmx11TCommandSet 0171:@$band$qmx11TCommandSett1 01B7:@$bor$qmx11TCommandSett1 01FD:@TCommandSet@isEmpty$qv 021C:@$beql$qmx11TCommandSett1
+    C47E068B:
+      4E0A31D2B00DFCE307F2AE750342EBF78BC2:
+        5F5DCB558BEC:
+          0. 0B 6C3D 1489 0000:@countLines$qnvus 001D:@scan$qnxvusnxzc 008C:@iScan$qnxvusnxzc 0127:@TEditor@hasSelection$qv 0140:@TEditor@hideSelect$qv 0165:@TEditor@initBuffer$qv 0182:@TEditor@insertBuffer$qnzcusus7Booleant4 0496:@TEditor@insertFrom$qn7TEditor 04E5:@TEditor@insertText$qnxvus7Boolean 050B:@TEditor@isClipboard$qv 0528:@TEditor@lineMove$qusi 05B3:@TEditor@lock$qv 05BF:@TEditor@newLine$qv 065E:@TEditor@nextLine$qus 0683:@TEditor@nextWord$qus 0717:@TEditor@prevLine$qus 073C:@TEditor@prevWord$qus 07E8:@TEditor@replace$qv 0875:@TEditor@scrollTo$qii 0929:@TEditor@search$qnxzcus 0AB2:@TEditor@setBufLen$qus 0B50:@TEditor@setBufSize$qus 0B68:@TEditor@setCmdState$qus7Boolean 0BBB:@TEditor@setCurPtr$qusuc 0C80:@TEditor@setSelect$qusus7Boolean 0E11:@TEditor@setState$qus7Boolean 0EDA:@TEditor@startSelect$qv 0EF4:@TEditor@toggleInsMode$qv 0F35:@TEditor@trackCursor$q7Boolean 100E:@TEditor@undo$qv 1071:@TEditor@unlock$qv 1096:@TEditor@update$quc 10B7:@TEditor@updateCommands$qv 11C3:@TEditor@valid$qus 11CF:@TEditor@write$qm8opstream 12CF:@TEditor@read$qm8ipstream 140E:@TEditor@build$qv 1443:@TEditor@$bctr$q14StreamableInit
+        EB005F5DCB55:
+          0. 0C 9271 1637 0000:@countLines$qnvus 001F:@scan$qnxvusnxzc 008F:@iScan$qnxvusnxzc 012C:@TEditor@hasSelection$qv 014A:@TEditor@hideSelect$qv 0177:@TEditor@initBuffer$qv 0194:@TEditor@insertBuffer$qnzcusus7Booleant4 051B:@TEditor@insertFrom$qn7TEditor 0574:@TEditor@insertText$qnxvus7Boolean 059E:@TEditor@isClipboard$qv 05BD:@TEditor@lineMove$qusi 064A:@TEditor@lock$qv 0656:@TEditor@newLine$qv 06FB:@TEditor@nextLine$qus 0722:@TEditor@nextWord$qus 07CB:@TEditor@prevLine$qus 07F2:@TEditor@prevWord$qus 08AF:@TEditor@replace$qv 0936:@TEditor@scrollTo$qii 09D9:@TEditor@search$qnxzcus 0B84:@TEditor@setBufLen$qus 0C5C:@TEditor@setBufSize$qus 0C76:@TEditor@setCmdState$qus7Boolean 0CC7:@TEditor@setCurPtr$qusuc 0DAC:@TEditor@setSelect$qusus7Boolean 0F94:@TEditor@setState$qus7Boolean 1071:@TEditor@startSelect$qv 108B:@TEditor@toggleInsMode$qv 10D1:@TEditor@trackCursor$q7Boolean 11B3:@TEditor@undo$qv 123B:@TEditor@unlock$qv 1268:@TEditor@update$quc 128E:@TEditor@updateCommands$qv 139D:@TEditor@valid$qus 13AB:@TEditor@write$qm8opstream 1483:@TEditor@read$qm8ipstream 15A3:@TEditor@build$qv 15DE:@TEditor@$bctr$q14StreamableInit
+      5E0A263B5D3C720426035D3626C47D2E268A015F5DCB558B:
+        0. FF 4962 01A7 0000:@TEditor@bufChar$qus 001E:@TEditor@bufPtr$qus 0035:@TEditor@formatLine$qnvusius 00B6:@TEditor@lineEnd$qus 00F2:@TEditor@lineStart$qus 0147:@TEditor@nextChar$qus 0179:@TEditor@prevChar$qus (0087: CB)
+        1. FF 4962 01A8 0000:@TEditor@bufChar$qus 001E:@TEditor@bufPtr$qus 0035:@TEditor@formatLine$qnvusius 00B6:@TEditor@lineEnd$qus 00F2:@TEditor@lineStart$qus 0148:@TEditor@nextChar$qus 017A:@TEditor@prevChar$qus (0087: 5D)
+  5DCB:
+    0. 00 0000 0005 (!)0000:?
+  81EC800056578B5E0E81E30300D1E3D1E3FFB7....FFB7....FF7608FF:
+    0. 0A D441 05FD 0000:@messageBoxRect$qmx5TRectnxzcus 01C6:@messageBoxRect$qmx5TRectusnxzce 0286:@messageBox$qnxzcus 02B2:@messageBox$qusnxzce 02ED:@inputBox$qnxzct1nzcuc 0366:@inputBoxRect$qmx5TRectnxzct2nzcuc
+  83EC:
+    02:
+      168D46FE50:
+        0EE8A501905959BBD705B8D705CD12B8020050168D:
+          0. 1E CA38 0265 002F:@TSystemError@$bctr$qv 0065:@TSystemError@$bdtr$qv 009E:@TSystemError@selectKey$qv 00EC:@TSystemError@sysErr$qsuc 01B4:@Int11trap@$bctr$qv 0200:@Int11trap@$bdtr$qv 0239:@Int11trap@handler$qve
+        FF760CFF760AFF7608FF7606C45E06268B5F02FF5F:
+          0. C9 708E 02E6 0000:@TNSSortedCollection@indexOf$qnv 0093:@TNSSortedCollection@insert$qnv 00F8:@TNSSortedCollection@keyOf$qnv 0103:@TNSSortedCollection@search$qnvmi 01AA:@TSortedCollection@write$qm8opstream 01DC:@TSortedCollection@read$qm8ipstream 0221:@TSortedCollection@$bctr$q14StreamableInit
+      A1....B108D3E88B16....D3E20BC28946FE817EFE0C037305B8:
+        0. 1A C057 003E 002F:@TDisplay@updateIntlChars$qv
+    04:
+      56:
+        57C47E0626F745100008742533C0263B45087D1D263B450A7D:
+          0. EB 6FCA 010B 0000:@TView@exposed$qv
+        8B:
+          46060B46087402EB10B82A0050..........598956088946:
+            0. 1E 5ECC 0DC1 0000:@TCluster@$bctr$qmx5TRectn6TSItem 0174:@TCluster@$bdtr$qv 028A:@TCluster@dataSize$qv 0294:@TCluster@drawBox$qnxzczc 04AF:@TCluster@getData$qnv 04CE:@TCluster@getHelpCtx$qv 04F3:@TCluster@getPalette$xqv 0522:@TCluster@handleEvent$qm6TEvent 0A81:@TCluster@setData$qnv 0AA4:@TCluster@setState$qus7Boolean 0AD2:@TCluster@mark$qi 0ADB:@TCluster@movedTo$qi 0AE0:@TCluster@press$qi 0AE5:@TCluster@column$qi 0B73:@TCluster@findSel$q6TPoint 0C04:@TCluster@row$qi 0C18:@TCluster@write$qm8opstream 0C8B:@TCluster@read$qm8ipstream 0D0E:@TCluster@build$qv 0D49:@TCluster@$bctr$q14StreamableInit
+          760A:
+            8B46060B4608:
+              74:
+                438B46088B560683C2088946FE8956:
+                  0. 14 8943 005A 0000:@TSortedCollection@$bdtr$qv
+                4D8B46060B460874118B46088B5606:
+                  0. 1E 5806 0064 (!)0000:?
+                578B46060B4608741B8B46060B4608:
+                  0. 28 0E2E 006E 0000:@TResourceCollection@$bdtr$qv
+              7517B81C0050..........5989560889:
+                0. 33 8007 0218 0000:@TStringCollection@$bctr$qss 011B:@TStringCollection@compare$qnvt1 0134:@TStringCollection@freeItem$qnv 0146:@TStringCollection@build$qv 01ED:@TStringCollection@writeItem$qnvm8opstream 0206:@TStringCollection@readItem$qm8ipstream
+            C45E06268B4728268B57268946FE8956FCEB11C45EFC:
+              0. FF 81EC 01BD 0000:@TGroup@at$qs 0042:@TGroup@firstThat$qnqn5TViewnv$7Booleannv 00B6:@TGroup@forEach$qnqn5TViewnv$vnv 013C:@TGroup@indexOf$qn5TView
+      8B:
+        46060B460875:
+          0633D233C0EB:
+            33FF7608FF7606..........59:
+              0. 03 D2CD 004B 0000:@newStr$qnxzc
+            37FF7608FF7606..........59:
+              0. 03 D2CD 004F 0000:@newStr$qnxzc
+          14B82E0050..........598956088946060BC2:
+            0. 18 98CE 04A8 0000:@TMenuBar@$bctr$qmx5TRectn5TMenu 00A5:@TMenuBar@$bctr$qmx5TRectm8TSubMenu 0190:@TMenuBar@$bdtr$qv 01E8:@TMenuBar@draw$qv 0398:@TMenuBar@getItemRect$qn9TMenuItem 042D:@TMenuBar@build$qv 0462:@TMenuBar@$bctr$q14StreamableInit
+          17B82A0050..........598956088946060BC2:
+            0. 11 9ABB 0BB9 0000:@TCluster@$bctr$qmx5TRectn6TSItem 014A:@TCluster@$bdtr$qv 024E:@TCluster@dataSize$qv 0256:@TCluster@drawBox$qnxzczc 0484:@TCluster@getData$qnv 04A3:@TCluster@getHelpCtx$qv 04C1:@TCluster@getPalette$xqv 04EC:@TCluster@handleEvent$qm6TEvent 0893:@TCluster@setData$qnv 08B4:@TCluster@setState$qus7Boolean 08E2:@TCluster@mark$qi 08E9:@TCluster@movedTo$qi 08EE:@TCluster@press$qi 08F3:@TCluster@column$qi 0974:@TCluster@findSel$q6TPoint 09F9:@TCluster@row$qi 0A0B:@TCluster@write$qm8opstream 0A8C:@TCluster@read$qm8ipstream 0B25:@TCluster@build$qv 0B5A:@TCluster@$bctr$q14StreamableInit
+        4E0AC45E06268B4728268B5726EB0BC45EFC268B4706268B57:
+          0. FF 4DB9 018D 0000:@TGroup@at$qs 0038:@TGroup@firstThat$qnqn5TViewnv$7Booleannv 00A2:@TGroup@forEach$qnqn5TViewnv$vnv 0119:@TGroup@indexOf$qn5TView
+      B87E0050FF7608FF7606..........83C4068956FE8946FC0BC2:
+        0. 0B 1501 0BFC 0000:@hotKey$qnxzc 0039:@TInputLine@$bctr$qmx5TRecti 00CA:@TInputLine@$bdtr$qv 011D:@TInputLine@canScroll$qi 0166:@TInputLine@dataSize$qv 0173:@TInputLine@draw$qv 0372:@TInputLine@getData$qnv 03A2:@TInputLine@getPalette$xqv 03CD:@TInputLine@mouseDelta$qm6TEvent 0415:@TInputLine@mousePos$qm6TEvent 0485:@TInputLine@deleteSelect$qv 04CF:@TInputLine@handleEvent$qm6TEvent 0913:@TInputLine@selectAll$q7Boolean 097C:@TInputLine@setData$qnv 09DD:@TInputLine@setState$qus7Boolean 0A1F:@TInputLine@write$qm8opstream 0A9E:@TInputLine@read$qm8ipstream 0B68:@TInputLine@build$qv 0B9D:@TInputLine@$bctr$q14StreamableInit
+        1. 0B 5B59 0D70 0000:@hotKey$qnxzc 003D:@TInputLine@$bctr$qmx5TRecti 00FC:@TInputLine@$bdtr$qv 0153:@TInputLine@canScroll$qi 01AD:@TInputLine@dataSize$qv 01BC:@TInputLine@draw$qv 03D9:@TInputLine@getData$qnv 0409:@TInputLine@getPalette$xqv 0438:@TInputLine@mouseDelta$qm6TEvent 0486:@TInputLine@mousePos$qm6TEvent 0501:@TInputLine@deleteSelect$qv 055A:@TInputLine@handleEvent$qm6TEvent 0A41:@TInputLine@selectAll$q7Boolean 0ABA:@TInputLine@setData$qnv 0B1B:@TInputLine@setState$qus7Boolean 0B5D:@TInputLine@write$qm8opstream 0BE8:@TInputLine@read$qm8ipstream 0CBD:@TInputLine@build$qv 0CF8:@TInputLine@$bctr$q14StreamableInit
+      C45E06268B07C45E0A262B078946FCC45E06268B4702C45E0A26:
+        0. 94 1222 00B4 0000:@$bsub$qmx6TPointt1 0030:@$badd$qmx6TPointt1 0060:@$beql$qmx6TPointt1 008A:@$bneq$qmx6TPointt1
+        1. 9C 8568 00BC 0000:@$bsub$qmx6TPointt1 0032:@$badd$qmx6TPointt1 0064:@$beql$qmx6TPointt1 0090:@$bneq$qmx6TPointt1
+    08:
+      807E0A007506A0....E9:
+        A1008B46088B56068946FE8956FCFF76:
+          0. 1E 4BA1 00B7 0000:@TView@mapColor$quc
+        AA008B46088B56068946FE8956FCFF76:
+          0. 1E 4BA1 00C0 0000:@TView@mapColor$quc
+      8B46060B4608:
+        7402EB10B81E0050..........59895608894606:
+          0. 4A 52E1 0270 0000:@TStringCollection@$bctr$qss 0152:@TStringCollection@compare$qnvt1 016D:@TStringCollection@freeItem$qnv 017F:@TStringCollection@build$qv 0243:@TStringCollection@writeItem$qnvm8opstream 025C:@TStringCollection@readItem$qm8ipstream
+        7517B83B0050..........598956088946060BC2:
+          0. 11 8AD7 1339 0000:@TGroup@$bctr$qmx5TRect 00C2:@TGroup@$bdtr$qv 0104:@TGroup@shutDown$qv 01BE:@doCalcChange$qn5TViewnv 0200:@TGroup@changeBounds$qmx5TRect 02EC:@addSubviewDataSize$qn5TViewnv 0308:@TGroup@dataSize$qv 0335:@TGroup@remove$qn5TView 0395:@TGroup@draw$qv 046A:@TGroup@drawSubViews$qn5TViewt1 04A1:@TGroup@endModal$qus 04C9:@TGroup@eventError$qm6TEvent 04F6:@TGroup@execute$qv 057A:@TGroup@execView$qn5TView 06CA:@TGroup@first$qv 06F1:@TGroup@firstMatch$qusus 076E:@TGroup@freeBuffer$qv 07A6:@TGroup@getBuffer$qv 07E5:@TGroup@getData$qnv 0912:@TGroup@handleEvent$qm6TEvent 0A0C:@TGroup@insert$qn5TView 0A33:@TGroup@insertBefore$qn5TViewt1 0B02:@TGroup@insertView$qn5TViewt1 0BAE:@TGroup@lock$qv 0BCE:@TGroup@redraw$qv 0BF4:@TGroup@resetCurrent$qv 0C1E:@TGroup@resetCursor$qv 0C44:@TGroup@selectNext$q7Boolean 0CCE:@TGroup@selectView$qn5TView7Boolean 0CF4:@TGroup@focusView$qn5TView7Boolean 0D25:@TGroup@setCurrent$qn5TView10selectMode 0E0A:@TGroup@setData$qnv 0ED6:@TGroup@setState$qus7Boolean 0F9A:@TGroup@unlock$qv 0FC2:@isInvalid$qn5TViewnv 0FE2:@TGroup@valid$qus 1014:@TGroup@getHelpCtx$qv 109E:@TGroup@write$qm8opstream 1165:@TGroup@read$qm8ipstream 12B8:@TGroup@build$qv 12ED:@TGroup@$bctr$q14StreamableInit
+    0A:
+      56578B46060B46087402EB10B8140050..........5989560889:
+        0. 19 B051 07DD 0000:@TResourceFile@$bctr$qn8fpstream 0290:@TResourceFile@$bdtr$qv 03D8:@TResourceFile@count$qv 03ED:@TResourceFile@remove$qnxzc 045A:@TResourceFile@flush$qv 05B3:@TResourceFile@get$qnxzc 065C:@TResourceFile@keyAt$qs 0688:@TResourceFile@put$qn11TStreamablenxzc
+      8B46060B4608:
+        743D8B460A8946F68B460C8946F88B46108B560E:
+          0. 33 811B 0059 0000:@message$qn5TViewususnv 0053:@lowMemory$qv
+        750633D233C0EB458B460A8946F68B460C8946F8:
+          0. 40 51DB 0069 0000:@message$qn5TViewususnv 005D:@lowMemory$qv
+    0E5657BF0A00C746FE02008B460E0B46107503E98F00C45E0E268B:
+      0. 25 AB09 0601 0135:@TMenuBox@$bctr$qmx5TRectn5TMenun9TMenuView 0202:@TMenuBox@frameLine$qm11TDrawBuffers 028F:@TMenuBox@draw$qv 04F8:@TMenuBox@getItemRect$qn9TMenuItem 056D:@TMenuBox@build$qv 05A8:@TMenuBox@$bctr$q14StreamableInit
+    125657BE0A00C746FE02008B460E0B4610747DC45E0EEB63C45EEE:
+      0. 12 F026 0603 0124:@TMenuBox@$bctr$qmx5TRectn5TMenun9TMenuView 01E7:@TMenuBox@frameLine$qm11TDrawBuffers 026D:@TMenuBox@draw$qv 04DA:@TMenuBox@getItemRect$qn9TMenuItem 0588:@TMenuBox@build$qv 05BD:@TMenuBox@$bctr$q14StreamableInit
+    1656578B46060B46087517B8140050..........59895608894606:
+      0. 0D 8B43 0845 0000:@TResourceFile@$bctr$qn8fpstream 02B3:@TResourceFile@$bdtr$qv 03E7:@TResourceFile@count$qv 03FA:@TResourceFile@remove$qnxzc 045F:@TResourceFile@flush$qv 0612:@TResourceFile@get$qnxzc 06CB:@TResourceFile@keyAt$qs 06F2:@TResourceFile@put$qn11TStreamablenxzc
+    2056168D46E050..........595933F6:
+      56168D46E050:
+        0. 13 F53E 1E78 009D:@TView@$bctr$qmx5TRect 0136:@TView@$bdtr$qv 0178:@TView@blockCursor$qv 0197:@TView@calcBounds$qm5TRect6TPoint 036E:@TView@changeBounds$qmx5TRect 0394:@TView@clearEvent$qm6TEvent 03AF:@TView@commandEnabled$qus 03D5:@TView@dataSize$qv 03DC:@TView@disableCommands$qm11TCommandSet 0432:@TView@disableCommand$qus 046D:@TView@moveGrow$q6TPointt1m5TRectt1t1uc 0642:@TView@change$quc6TPointm6TPointt3 068E:@TView@dragView$qm6TEventucm5TRect6TPointt4 0A0A:@TView@draw$qv 0A6E:@TView@drawCursor$qv 0A8A:@TView@drawHide$qn5TView 0AB8:@TView@drawShow$qn5TView 0AEB:@TView@drawUnderRect$qm5TRectn5TView 0C03:@TView@drawUnderView$q7Booleann5TView 0C4A:@TView@drawView$qv 0C7D:@TView@enableCommands$qm11TCommandSet 0CF3:@TView@enableCommand$qus 0D38:@TView@endModal$qus 0D79:@TView@eventAvail$qv 0DC4:@TView@getBounds$qv 0E63:@TView@execute$qv 0E6B:@TView@getClipRect$qv 0F33:@TView@getColor$qus 0F82:@TView@getCommands$qm11TCommandSet 0F9A:@TView@getData$qnv 0F9F:@TView@getEvent$qm6TEvent 0FCC:@TView@getExtent$qv 1047:@TView@getHelpCtx$qv 1063:@TView@getPalette$xqv 108D:@TView@getState$qus 10A9:@TView@growTo$qss 1101:@TView@handleEvent$qm6TEvent 1149:@TView@hide$qv 116D:@TView@hideCursor$qv 118B:@TView@keyEvent$qm6TEvent 11B1:@TView@locate$qm5TRect 1365:@TView@makeFirst$qv 138C:@TView@makeGlobal$q6TPoint 1401:@TView@makeLocal$q6TPoint 1476:@TView@mouseEvent$qm6TEventus 14AE:@TView@mouseInView$q6TPoint 1504:@TView@moveTo$qss 1557:@TView@nextView$qv 1586:@TView@normalCursor$qv 15A4:@TView@prev$qv 15E2:@TView@prevView$qv 1615:@TView@putEvent$qm6TEvent 1642:@TView@putInFrontOf$qn5TView 17F2:@TView@select$qv 1832:@TView@setBounds$qmx5TRect 1871:@TView@setCommands$qm11TCommandSet 18C5:@TView@setCursor$qss 18E5:@TView@setData$qnv 18EA:@TView@setState$qus7Boolean 1A23:@TView@show$qv 1A45:@TView@showCursor$qv 1A64:@TView@sizeLimits$qm6TPointt1 1AA7:@TView@TopView$qv 1AF5:@TView@valid$qus 1AFD:@TView@containsMouse$qm6TEvent 1B30:@TView@shutDown$qv 1B6F:@TView@write$qm8opstream 1C84:@TView@read$qm8ipstream 1DDE:@TView@build$qv 1E13:@TView@$bctr$q14StreamableInit
+      EB0F56168D46E050:
+        0. 00 0000 1F23 009B:@TView@$bctr$qmx5TRect 017D:@TView@$bdtr$qv 01C2:@TView@blockCursor$qv 01E1:@TView@calcBounds$qm5TRect6TPoint 03C2:@TView@changeBounds$qmx5TRect 03E8:@TView@clearEvent$qm6TEvent 0406:@TView@commandEnabled$qus 0431:@TView@dataSize$qv 043A:@TView@disableCommands$qm11TCommandSet 0490:@TView@disableCommand$qus 04CB:@TView@moveGrow$q6TPointt1m5TRectt1t1uc 066A:@TView@change$quc6TPointm6TPointt3 06D5:@TView@dragView$qm6TEventucm5TRect6TPointt4 0A7D:@TView@draw$qv 0ADE:@TView@drawCursor$qv 0AFF:@TView@drawHide$qn5TView 0B2F:@TView@drawShow$qn5TView 0B64:@TView@drawUnderRect$qm5TRectn5TView 0C6D:@TView@drawUnderView$q7Booleann5TView 0CB4:@TView@drawView$qv 0CE7:@TView@enableCommands$qm11TCommandSet 0D44:@TView@enableCommand$qus 0D7F:@TView@endModal$qus 0DC2:@TView@eventAvail$qv 0E0F:@TView@getBounds$qv 0E55:@TView@execute$qv 0E5F:@TView@getClipRect$qv 0F5E:@TView@getColor$qus 0FAE:@TView@getCommands$qm11TCommandSet 0FC6:@TView@getData$qnv 0FCB:@TView@getEvent$qm6TEvent 0FFE:@TView@getExtent$qv 1035:@TView@getHelpCtx$qv 1053:@TView@getPalette$xqv 1081:@TView@getState$qus 10A1:@TView@growTo$qss 10EC:@TView@handleEvent$qm6TEvent 1141:@TView@hide$qv 116A:@TView@hideCursor$qv 1188:@TView@keyEvent$qm6TEvent 11AE:@TView@locate$qm5TRect 138C:@TView@makeFirst$qv 13B3:@TView@makeGlobal$q6TPoint 1430:@TView@makeLocal$q6TPoint 14AD:@TView@mouseEvent$qm6TEventus 14F3:@TView@mouseInView$q6TPoint 1551:@TView@moveTo$qss 1595:@TView@nextView$qv 15C8:@TView@normalCursor$qv 15E6:@TView@prev$qv 162C:@TView@prevView$qv 1663:@TView@putEvent$qm6TEvent 1696:@TView@putInFrontOf$qn5TView 1855:@TView@select$qv 189C:@TView@setBounds$qmx5TRect 18DD:@TView@setCommands$qm11TCommandSet 191D:@TView@setCursor$qss 1942:@TView@setData$qnv 1947:@TView@setState$qus7Boolean 1A8A:@TView@show$qv 1AB4:@TView@showCursor$qv 1AD3:@TView@sizeLimits$qm6TPointt1 1B1F:@TView@TopView$qv 1B7A:@TView@valid$qus 1B84:@TView@containsMouse$qm6TEvent 1BB9:@TView@shutDown$qv 1BFD:@TView@write$qm8opstream 1D0C:@TView@read$qm8ipstream 1E4E:@TView@build$qv 1E89:@TView@$bctr$q14StreamableInit
+    2256578B7E068D46F41650B8....1E50B90B00..........8D46DE:
+      0. 03 B47F 007E 0000:@ctrlToArrow$qus 005D:@cstrlen$qnxzc (005A: CB)
+      1. 03 B47F 0085 0000:@ctrlToArrow$qus 0060:@cstrlen$qnxzc (005A: EA)
+    3456578B5E0E83E303D1E3D1E3FFB7....FFB7....FF7608FF7606:
+      0. 07 AD71 0697 0000:@messageBoxRect$qmx5TRectnxzcus 0215:@messageBoxRect$qmx5TRectusnxzce 02C5:@messageBox$qnxzcus 02EF:@messageBox$qusnxzce 033B:@inputBox$qnxzct1nzcuc 03A8:@inputBoxRect$qmx5TRectnxzct2nzcuc
+    388B46060B46087402EB10B85C0050..........59895608894606:
+      0. 2E EFA4 0495 0000:@TEditWindow@$bctr$qmx5TRectnxzci 0260:@TEditWindow@close$qv 0298:@TEditWindow@getTitle$qs 02E8:@TEditWindow@handleEvent$qm6TEvent 033C:@TEditWindow@write$qm8opstream 038C:@TEditWindow@read$qm8ipstream 03C5:@TEditWindow@build$qv 0403:@TEditWindow@$bctr$q14StreamableInit
+    44568B760A8B46060B46087517B85A0050..........5989560889:
+      0. 1B 78E1 04B4 0000:@TEditWindow@$bctr$qmx5TRectnxzci 0246:@TEditWindow@close$qv 027C:@TEditWindow@getTitle$qs 02C6:@TEditWindow@handleEvent$qm6TEvent 0321:@TEditWindow@sizeLimits$qm6TPointt1 0351:@TEditWindow@write$qm8opstream 03B5:@TEditWindow@read$qm8ipstream 0406:@TEditWindow@build$qv 043C:@TEditWindow@$bctr$q14StreamableInit
+    4C56578B7E188B46060B46087402EB10B8B40050..........5989:
+      0. 34 2B01 0D73 0000:@TFileDialog@$bctr$qnxzct1t1usuc 04C9:@TFileDialog@$bdtr$qv 052C:@TFileDialog@shutDown$qv 0625:@TFileDialog@getFileName$qnzc 07F8:@TFileDialog@handleEvent$qm6TEvent 0864:@TFileDialog@readDirectory$qv 08B0:@TFileDialog@setData$qnv 090B:@TFileDialog@getData$qnv 0923:@TFileDialog@checkDirectory$qnxzc 096A:@TFileDialog@valid$qus 0BBD:@TFileDialog@write$qm8opstream 0C58:@TFileDialog@read$qm8ipstream 0CCD:@TFileDialog@build$qv
+    4E56578B760A8B7E188B46060B46087517B8B20050..........59:
+      0. 1F 5564 0CC3 0000:@TFileDialog@$bctr$qnxzct1t1usuc 0494:@TFileDialog@$bdtr$qv 04ED:@TFileDialog@shutDown$qv 05C3:@TFileDialog@getFileName$qnzc 076F:@TFileDialog@handleEvent$qm6TEvent 07D2:@TFileDialog@readDirectory$qv 081E:@TFileDialog@setData$qnv 0877:@TFileDialog@getData$qnv 088F:@TFileDialog@checkDirectory$qnxzc 08D2:@TFileDialog@valid$qus 0AD5:@TFileDialog@write$qm8opstream 0B91:@TFileDialog@read$qm8ipstream 0C31:@TFileDialog@build$qv
+    5C56:
+      578B760A8B7E0C8B46060B46087517B8660050..........59:
+        0. 1F 0DE4 0950 0000:@TChDirDialog@$bctr$qusus 03BA:@TChDirDialog@dataSize$qv 03C1:@TChDirDialog@shutDown$qv 0404:@TChDirDialog@getData$qnv 0409:@TChDirDialog@handleEvent$qm6TEvent 0578:@TChDirDialog@setData$qnv 057D:@TChDirDialog@setUpDialog$qv 0645:@TChDirDialog@valid$qus 06C8:@TChDirDialog@write$qm8opstream 07EC:@TChDirDialog@read$qm8ipstream 08BE:@TChDirDialog@build$qv
+      8B760C8B46060B46087402EB10B8680050..........598956:
+        0. 32 03FA 0960 0000:@TChDirDialog@$bctr$qusus 03EB:@TChDirDialog@dataSize$qv 03F4:@TChDirDialog@shutDown$qv 0442:@TChDirDialog@getData$qnv 0447:@TChDirDialog@handleEvent$qm6TEvent 05D5:@TChDirDialog@setData$qnv 05DA:@TChDirDialog@setUpDialog$qv 06B8:@TChDirDialog@valid$qus 0751:@TChDirDialog@write$qm8opstream 083A:@TChDirDialog@read$qm8ipstream 08BB:@TChDirDialog@build$qv
+  8A:
+    0E....32EDA0....FEC8F6E1D1E0C43E....03F81EC57606268B05A5:
+      0. 08 857C 0028 0000:@TSystemError@swapStatusLine$qm11TDrawBuffer
+    5606B43680EA40CD21407402B001:
+      5DCB558BEC83EC2CB8100050168D:
+        0. 09 A953 033B 0000:@driveValid$qzc 0014:@isDir$qnxzc 0046:@pathValid$qnxzc 00A6:@validFileName$qnxzc 014B:@getCurDir$qnzc 01A1:@isWild$qnxzc 01C4:@TDirCollection@build$qv 025B:@TDirCollection@writeItem$qnvm8opstream 02A2:@TDirCollection@readItem$qm8ipstream
+      EB005DCB558BEC83EC2CB8100050:
+        0. 0B CC3E 035F 0000:@driveValid$qzc 0016:@isDir$qnxzc 004D:@pathValid$qnxzc 00BD:@validFileName$qnxzc 0168:@getCurDir$qnzc 01C5:@isWild$qnxzc 01EA:@TDirCollection@build$qv 0291:@TDirCollection@writeItem$qnvm8opstream 02D8:@TDirCollection@readItem$qm8ipstream
+  8B:
+    16....A1....:
+      5DCB:
+        0. 00 0000 000C 0000:@TColorDialog@streamableName$xqv (REF 0005: @TColorDialog@name)
+        1. 00 0000 000C 0000:@TColorItemList@streamableName$xqv (REF 0005: @TColorItemList@name)
+        2. 00 0000 000C 0000:@TColorGroupList@streamableName$xqv (REF 0005: @TColorGroupList@name)
+        3. 00 0000 000C 0000:@TColorDisplay@streamableName$xqv (REF 0005: @TColorDisplay@name)
+        4. 00 0000 000C 0000:@TMonoSelector@streamableName$xqv (REF 0005: @TMonoSelector@name)
+        5. 00 0000 000C 0000:@TColorSelector@streamableName$xqv (REF 0005: @TColorSelector@name)
+        6. 00 0000 000C 0000:@TEditor@streamableName$xqv (REF 0005: @TEditor@name)
+        7. 00 0000 000C 0000:@TMemo@streamableName$xqv (REF 0005: @TMemo@name)
+        8. 00 0000 000C 0000:@TIndicator@streamableName$xqv (REF 0005: @TIndicator@name)
+        9. 00 0000 000C 0000:@TEditWindow@streamableName$xqv (REF 0005: @TEditWindow@name)
+        10. 00 0000 000C 0000:@TFileInputLine@streamableName$xqv (REF 0005: @TFileInputLine@name)
+        11. 00 0000 000C 0000:@TFileInfoPane@streamableName$xqv (REF 0005: @TFileInfoPane@name)
+        12. 00 0000 000C 0000:@TSortedListBox@streamableName$xqv (REF 0005: @TSortedListBox@name)
+        13. 00 0000 000C 0000:@TGroup@streamableName$xqv (REF 0005: @TGroup@name)
+        14. 00 0000 000C 0000:@TBackground@streamableName$xqv (REF 0005: @TBackground@name)
+        15. 00 0000 000C 0000:@TButton@streamableName$xqv (REF 0005: @TButton@name)
+        16. 00 0000 000C 0000:@TChDirDialog@streamableName$xqv (REF 0005: @TChDirDialog@name)
+        17. 00 0000 000C 0000:@TCheckBoxes@streamableName$xqv (REF 0005: @TCheckBoxes@name)
+        18. 00 0000 000C 0000:@TCluster@streamableName$xqv (REF 0005: @TCluster@name)
+        19. 00 0000 000C 0000:@TCollection@streamableName$xqv (REF 0005: @TCollection@name)
+        20. 00 0000 000C 0000:@TDeskTop@streamableName$xqv (REF 0005: @TDeskTop@name)
+        21. 00 0000 000C 0000:@TDialog@streamableName$xqv (REF 0005: @TDialog@name)
+        22. 00 0000 000C 0000:@TDirCollection@streamableName$xqv (REF 0005: @TDirCollection@name)
+        23. 00 0000 000C 0000:@TDirListBox@streamableName$xqv (REF 0005: @TDirListBox@name)
+        24. 00 0000 000C 0000:@TScroller@streamableName$xqv (REF 0005: @TScroller@name)
+        25. 00 0000 000C 0000:@TFileDialog@streamableName$xqv (REF 0005: @TFileDialog@name)
+        26. 00 0000 000C 0000:@TFileCollection@streamableName$xqv (REF 0005: @TFileCollection@name)
+        27. 00 0000 000C 0000:@TSortedCollection@streamableName$xqv (REF 0005: @TSortedCollection@name)
+        28. 00 0000 000C 0000:@TFileList@streamableName$xqv (REF 0005: @TFileList@name)
+        29. 00 0000 000C 0000:@TFrame@streamableName$xqv (REF 0005: @TFrame@name)
+        30. 00 0000 000C 0000:@THistory@streamableName$xqv (REF 0005: @THistory@name)
+        31. 00 0000 000C 0000:@TWindow@streamableName$xqv (REF 0005: @TWindow@name)
+        32. 00 0000 000C 0000:@TListViewer@streamableName$xqv (REF 0005: @TListViewer@name)
+        33. 00 0000 000C 0000:@TInputLine@streamableName$xqv (REF 0005: @TInputLine@name)
+        34. 00 0000 000C 0000:@TLabel@streamableName$xqv (REF 0005: @TLabel@name)
+        35. 00 0000 000C 0000:@TListBox@streamableName$xqv (REF 0005: @TListBox@name)
+        36. 00 0000 000C 0000:@TMenuBar@streamableName$xqv (REF 0005: @TMenuBar@name)
+        37. 00 0000 000C 0000:@TMenuView@streamableName$xqv (REF 0005: @TMenuView@name)
+        38. 00 0000 000C 0000:@TMenuBox@streamableName$xqv (REF 0005: @TMenuBox@name)
+        39. 00 0000 000C 0000:@TParamText@streamableName$xqv (REF 0005: @TParamText@name)
+        40. 00 0000 000C 0000:@TRadioButtons@streamableName$xqv (REF 0005: @TRadioButtons@name)
+        41. 00 0000 000C 0000:@TStringCollection@streamableName$xqv (REF 0005: @TStringCollection@name)
+        42. 00 0000 000C 0000:@TResourceCollection@streamableName$xqv (REF 0005: @TResourceCollection@name)
+        43. 00 0000 000C 0000:@TScrollBar@streamableName$xqv (REF 0005: @TScrollBar@name)
+        44. 00 0000 000C 0000:@TStaticText@streamableName$xqv (REF 0005: @TStaticText@name)
+        45. 00 0000 000C 0000:@TStatusLine@streamableName$xqv (REF 0005: @TStatusLine@name)
+        46. 00 0000 000C (!)0000:? (REF 0005: @TStringList@name)
+        47. 00 0000 000C 0000:@TView@streamableName$xqv (REF 0005: @TView@name)
+        48. 00 0000 000C 0000:@TFileEditor@streamableName$xqv (REF 0005: @TFileEditor@name)
+      EB005DCB:
+        0. 00 0000 000E 0000:@TColorDialog@streamableName$xqv (REF 0005: @TColorDialog@name)
+        1. 00 0000 000E 0000:@TColorItemList@streamableName$xqv (REF 0005: @TColorItemList@name)
+        2. 00 0000 000E 0000:@TColorGroupList@streamableName$xqv (REF 0005: @TColorGroupList@name)
+        3. 00 0000 000E 0000:@TColorDisplay@streamableName$xqv (REF 0005: @TColorDisplay@name)
+        4. 00 0000 000E 0000:@TMonoSelector@streamableName$xqv (REF 0005: @TMonoSelector@name)
+        5. 00 0000 000E 0000:@TColorSelector@streamableName$xqv (REF 0005: @TColorSelector@name)
+        6. 00 0000 000E 0000:@TEditor@streamableName$xqv (REF 0005: @TEditor@name)
+        7. 00 0000 000E 0000:@TMemo@streamableName$xqv (REF 0005: @TMemo@name)
+        8. 00 0000 000E 0000:@TIndicator@streamableName$xqv (REF 0005: @TIndicator@name)
+        9. 00 0000 000E 0000:@TFileEditor@streamableName$xqv (REF 0005: @TFileEditor@name)
+        10. 00 0000 000E 0000:@TEditWindow@streamableName$xqv (REF 0005: @TEditWindow@name)
+        11. 00 0000 000E 0000:@TFileInfoPane@streamableName$xqv (REF 0005: @TFileInfoPane@name)
+        12. 00 0000 000E 0000:@TSortedListBox@streamableName$xqv (REF 0005: @TSortedListBox@name)
+        13. 00 0000 000E 0000:@TFileInputLine@streamableName$xqv (REF 0005: @TFileInputLine@name)
+        14. 00 0000 000E 0000:@TGroup@streamableName$xqv (REF 0005: @TGroup@name)
+        15. 00 0000 000E 0000:@TBackground@streamableName$xqv (REF 0005: @TBackground@name)
+        16. 00 0000 000E 0000:@TButton@streamableName$xqv (REF 0005: @TButton@name)
+        17. 00 0000 000E 0000:@TChDirDialog@streamableName$xqv (REF 0005: @TChDirDialog@name)
+        18. 00 0000 000E 0000:@TCheckBoxes@streamableName$xqv (REF 0005: @TCheckBoxes@name)
+        19. 00 0000 000E 0000:@TCluster@streamableName$xqv (REF 0005: @TCluster@name)
+        20. 00 0000 000E 0000:@TCollection@streamableName$xqv (REF 0005: @TCollection@name)
+        21. 00 0000 000E 0000:@TDeskTop@streamableName$xqv (REF 0005: @TDeskTop@name)
+        22. 00 0000 000E 0000:@TDialog@streamableName$xqv (REF 0005: @TDialog@name)
+        23. 00 0000 000E 0000:@TDirCollection@streamableName$xqv (REF 0005: @TDirCollection@name)
+        24. 00 0000 000E 0000:@TDirListBox@streamableName$xqv (REF 0005: @TDirListBox@name)
+        25. 00 0000 000E 0000:@TScroller@streamableName$xqv (REF 0005: @TScroller@name)
+        26. 00 0000 000E 0000:@TFileDialog@streamableName$xqv (REF 0005: @TFileDialog@name)
+        27. 00 0000 000E 0000:@TFileCollection@streamableName$xqv (REF 0005: @TFileCollection@name)
+        28. 00 0000 000E 0000:@TFileList@streamableName$xqv (REF 0005: @TFileList@name)
+        29. 00 0000 000E 0000:@TSortedCollection@streamableName$xqv (REF 0005: @TSortedCollection@name)
+        30. 00 0000 000E 0000:@TFrame@streamableName$xqv (REF 0005: @TFrame@name)
+        31. 00 0000 000E 0000:@THistory@streamableName$xqv (REF 0005: @THistory@name)
+        32. 00 0000 000E 0000:@TWindow@streamableName$xqv (REF 0005: @TWindow@name)
+        33. 00 0000 000E 0000:@TListViewer@streamableName$xqv (REF 0005: @TListViewer@name)
+        34. 00 0000 000E 0000:@TInputLine@streamableName$xqv (REF 0005: @TInputLine@name)
+        35. 00 0000 000E 0000:@TLabel@streamableName$xqv (REF 0005: @TLabel@name)
+        36. 00 0000 000E 0000:@TListBox@streamableName$xqv (REF 0005: @TListBox@name)
+        37. 00 0000 000E 0000:@TMenuBar@streamableName$xqv (REF 0005: @TMenuBar@name)
+        38. 00 0000 000E 0000:@TMenuBox@streamableName$xqv (REF 0005: @TMenuBox@name)
+        39. 00 0000 000E 0000:@TMenuView@streamableName$xqv (REF 0005: @TMenuView@name)
+        40. 00 0000 000E 0000:@TParamText@streamableName$xqv (REF 0005: @TParamText@name)
+        41. 00 0000 000E 0000:@TRadioButtons@streamableName$xqv (REF 0005: @TRadioButtons@name)
+        42. 00 0000 000E 0000:@TResourceCollection@streamableName$xqv (REF 0005: @TResourceCollection@name)
+        43. 00 0000 000E 0000:@TStringCollection@streamableName$xqv (REF 0005: @TStringCollection@name)
+        44. 00 0000 000E 0000:@TScrollBar@streamableName$xqv (REF 0005: @TScrollBar@name)
+        45. 00 0000 000E 0000:@TStaticText@streamableName$xqv (REF 0005: @TStaticText@name)
+        46. 00 0000 000E 0000:@TStatusLine@streamableName$xqv (REF 0005: @TStatusLine@name)
+        47. 00 0000 000E (!)0000:? (REF 0005: @TStringList@name)
+        48. 00 0000 000E 0000:@TView@streamableName$xqv (REF 0005: @TView@name)
+    46:
+      060B4608:
+        74:
+          02EB10B8:
+            020050..........598956088946068B4606:
+              0. 0D D33B 03E9 0000:@TEventQueue@$bctr$qv 003C:@TEventQueue@resume$qv 00A9:@TEventQueue@suspend$qv 00B3:@TEventQueue@$bdtr$qv 00DA:@TEventQueue@getMouseEvent$qm6TEvent 0263:@TEventQueue@getMouseState$qm6TEvent 02F4:@TEventQueue@mouseInt$qv 0398:@TEvent@getKeyEvent$qv (01DA: 07)
+              1. 0D D33B 020B 0000:@THWMouse@$bctr$qv 003C:@THWMouse@resume$qv 0068:@THWMouse@$bdtr$qv 0090:@THWMouse@suspend$qv 00D1:@THWMouse@show$qv 00F1:@THWMouse@hide$qv 0106:@THWMouse@setRange$qusus 0132:@THWMouse@getEvent$qm14MouseEventType 016B:@THWMouse@registerHandler$quinqv$v 018D:@TMouse@$bctr$qv 01D4:@TMouse@$bdtr$qv (01DA: EB)
+            040050..........598956088946068B4606:
+              0. 3B 3D4F 026D 0000:@THistInit@$bctr$qnq5TRectn7TWindowus$n11TListViewer 0047:@THistoryWindow@$bctr$qmx5TRectus 0189:@THistoryWindow@getPalette$xqv 01B8:@THistoryWindow@getSelection$qnzc 01ED:@THistoryWindow@initViewer$q5TRectn7TWindowus
+              1. 3B 62A3 0783 0000:@TDeskInit@$bctr$qnq5TRect$n11TBackground 0047:@TDeskTop@$bctr$qmx5TRect 0143:@TDeskTop@shutDown$qv 0164:@doCount$qn5TViewnv 019B:@doCascade$qn5TViewnv 0206:@TDeskTop@cascade$qm5TRect 02CF:@TDeskTop@handleEvent$qm6TEvent 034E:@TDeskTop@initBackground$q5TRect 036D:@iSqr$qs 0398:@mostEqualDivisors$qsmst2 03E3:@doCountTileable$qn5TViewnv 040D:@dividerLoc$qiiii 0446:@calcTileRect$qsm5TRect 0592:@doTile$qn5TViewnv 05EA:@TDeskTop@tile$qm5TRect 06B3:@TDeskTop@tileError$qv 06B8:@TDeskTop@build$qv 06F6:@TDeskTop@$bctr$q14StreamableInit
+              2. 3B D4CE 0B94 0000:@TWindowInit@$bctr$qnq5TRect$n6TFrame 0047:@TWindow@$bctr$qmx5TRectnxzcs 01DD:@TWindow@$bdtr$qv 0234:@TWindow@close$qv 029C:@TWindow@shutDown$qv 02BD:@TWindow@getPalette$xqv 0340:@TWindow@getTitle$qs 0352:@TWindow@handleEvent$qm6TEvent 05DE:@TWindow@initFrame$q5TRect 05F9:@TWindow@setState$qus7Boolean 0713:@TWindow@standardScrollBar$qus 07AA:@TWindow@sizeLimits$qm6TPointt1 07DA:@TWindow@zoom$qv 0876:@TWindow@write$qm8opstream 097C:@TWindow@read$qm8ipstream 0A76:@TWindow@build$qv 0AB4:@TWindow@$bctr$q14StreamableInit
+              3. 12 F31A 01D8 0000:@TPalette@$bctr$qnxzcus 0075:@TPalette@$bctr$qmx8TPalette 00EE:@TPalette@$bdtr$qv 0122:@TPalette@$basg$qmx8TPalette 01C4:@TPalette@$bsubs$xqi
+            060050..........598956088946068B4606:
+              0. 3C 3BD8 062D 0000:@TStrIndexRec@$bctr$qv 0040:@TStrListMaker@$bctr$qusus 0129:@TStrListMaker@$bdtr$qv 0192:@TStrListMaker@closeCurrent$qv 01DA:@TStrListMaker@put$qusnzc 0292:@TStringList@$bctr$q14StreamableInit 0324:@TStringList@$bdtr$qv 037B:@TStringList@get$qnzcus 048A:@TStrListMaker@write$qm8opstream 050B:@TStringList@read$qm8ipstream 05F3:@TStringList@build$qv
+            0A0050..........598956088946068B4606:
+              0. 38 DEE0 28AC 0000:@TStreamableClass@$bctr$qnxzcnqv$n11TStreamablei 0074:@TStreamableTypes@$bctr$qv 0132:@TStreamableTypes@$bnew$quinv 013F:@TStreamableTypes@$bdtr$qv 01A3:@TStreamableTypes@registerType$qnx16TStreamableClass 01C1:@TStreamableTypes@lookup$qnxzc 020A:@TStreamableTypes@keyOf$qnv 021B:@TStreamableTypes@compare$qnvt1 0236:@TPWrittenObjects@$bctr$qv 02FD:@TPWrittenObjects@$bdtr$qv 0361:@TPWrittenObjects@registerObject$qnxv 03AA:@TPWrittenObjects@find$qnxv 03F9:@TPWrittenObjects@keyOf$qnv 040A:@TPWrittenObjects@compare$qnvt1 0443:@TPWObj@$bctr$qnxvui 0494:@TPReadObjects@$bctr$qv 0510:@TPReadObjects@$bdtr$qv 0555:@TPReadObjects@registerObject$qnxv 0579:@TPReadObjects@find$qui 0591:@pstream@$bctr$qn9streambuf 05E5:@pstream@$bdtr$qv 0611:@pstream@initTypes$qv 0636:@pstream@rdstate$xqv 0644:@pstream@eof$xqv 0655:@pstream@fail$xqv 0666:@pstream@bad$xqv 0677:@pstream@good$xqv 068F:@pstream@clear$qi 06AE:@pstream@registerType$qn16TStreamableClass 06C8:@pstream@$onv$xqv 06EB:@pstream@$bnot$xqv 06FE:@pstream@rdbuf$xqv 070F:@pstream@$bctr$qv 074F:@pstream@error$q15StreamableError 0759:@pstream@error$q15StreamableErrormx11TStreamable 0763:@pstream@init$qn9streambuf 0781:@pstream@setstate$qi 0793:@ipstream@$bctr$qn9streambuf 0831:@ipstream@$bdtr$qv 08A3:@ipstream@tellg$qv 08D8:@ipstream@seekg$ql 0959:@ipstream@seekg$ql8seek_dir 09DA:@ipstream@readByte$qv 0A49:@ipstream@readWord$qv 0A75:@ipstream@readBytes$qnvui 0A98:@ipstream@readString$qv 0B0D:@ipstream@readString$qnzcui 0B67:@$brsh$qm8ipstreammzc 0B86:@$brsh$qm8ipstreammuc 0BA5:@$brsh$qm8ipstreamms 0BC4:@$brsh$qm8ipstreammus 0BE3:@$brsh$qm8ipstreammi 0C02:@$brsh$qm8ipstreammui 0C21:@$brsh$qm8ipstreamml 0C45:@$brsh$qm8ipstreammul 0C69:@$brsh$qm8ipstreamm11TStreamable 0CB5:@$brsh$qm8ipstreammnv 0D85:@ipstream@$bctr$qv 0E0C:@ipstream@readPrefix$qv 0E54:@ipstream@readData$qnx16TStreamableClassn11TStreamable 0EA4:@ipstream@readSuffix$qv 0EBC:@ipstream@find$qui 0ED7:@ipstream@registerObject$qnxv 0EF3:@opstream@$bctr$qv 0F85:@opstream@$bctr$qn9streambuf 102E:@opstream@$bdtr$qv 10B5:@opstream@seekp$ql 1141:@opstream@seekp$ql8seek_dir 11CD:@opstream@tellp$qv 1202:@opstream@flush$qv 122E:@opstream@writeByte$quc 12A7:@opstream@writeBytes$qnxvui 12CA:@opstream@writeWord$qus 12ED:@opstream@writeString$qnxzc 1347:@$blsh$qm8opstreamzc 1365:@$blsh$qm8opstreamuc 1383:@$blsh$qm8opstreams 13A0:@$blsh$qm8opstreamus 13BD:@$blsh$qm8opstreami 13DA:@$blsh$qm8opstreamui 13F7:@$blsh$qm8opstreaml 141A:@$blsh$qm8opstreamul 143D:@$blsh$qm8opstreamm11TStreamable 1486:@$blsh$qm8opstreamn11TStreamable 1511:@opstream@writePrefix$qmx11TStreamable 1545:@opstream@writeData$qm11TStreamable 15B7:@opstream@writeSuffix$qmx11TStreamable 15CC:@opstream@find$qnxv 15EB:@opstream@registerObject$qnxv 1608:@iopstream@$bctr$qn9streambuf 16DA:@iopstream@$bdtr$qv 175F:@iopstream@$bctr$qv 181A:@fpbase@$bctr$qv 18BD:@fpbase@$bctr$qnxzcii 197B:@fpbase@$bctr$qi 1A22:@fpbase@$bctr$qinzci 1AD3:@fpbase@$bdtr$qv 1B45:@fpbase@open$qnxzcii 1BB8:@fpbase@attach$qi 1C22:@fpbase@close$qv 1C67:@fpbase@setbuf$qnzci 1CBB:@fpbase@rdbuf$qv 1CCB:@ifpstream@$bctr$qv 1D86:@ifpstream@$bctr$qnxzcii 1E54:@ifpstream@$bctr$qi 1F12:@ifpstream@$bctr$qinzci 1FD9:@ifpstream@$bdtr$qv 205E:@ifpstream@rdbuf$qv 2071:@ifpstream@open$qnxzcii 2096:@ofpstream@$bctr$qv 2151:@ofpstream@$bctr$qnxzcii 221F:@ofpstream@$bctr$qi 22DD:@ofpstream@$bctr$qinzci 23A4:@ofpstream@$bdtr$qv 2429:@ofpstream@rdbuf$qv 243C:@ofpstream@open$qnxzcii 2461:@fpstream@$bctr$qv 2539:@fpstream@$bctr$qnxzcii 2624:@fpstream@$bctr$qi 26FF:@fpstream@$bctr$qinzci 27E3:@fpstream@$bdtr$qv 2871:@fpstream@rdbuf$qv 2884:@fpstream@open$qnxzcii
+            0B0050..........598956088946068B4606:
+              0. 14 0AD7 233E 0000:@TColorItem@$bctr$qnxzcucn10TColorItem 0072:@TColorItem@$bdtr$qv 00AF:@TColorGroup@$bctr$qnxzcn10TColorItemn11TColorGroup 0128:@TColorGroup@$bdtr$qv 0165:@$badd$qm10TColorItemt1 01B4:@$badd$qm11TColorGroupm10TColorItem 0254:@$badd$qm11TColorGroupt1 02A3:@TColorSelector@$bctr$qmx5TRect8ColorSel 0323:@TColorSelector@draw$qv 0404:@TColorSelector@colorChanged$qv 0442:@TColorSelector@handleEvent$qm6TEvent 06B7:@TColorSelector@write$qm8opstream 06F7:@TColorSelector@read$qm8ipstream 074D:@TColorSelector@build$qv 0788:@TColorSelector@$bctr$q14StreamableInit 07E1:@TMonoSelector@$bctr$qmx5TRect 097E:@TMonoSelector@draw$qv 099C:@TMonoSelector@handleEvent$qm6TEvent 09E6:@TMonoSelector@mark$qi 0A06:@TMonoSelector@newColor$qv 0A61:@TMonoSelector@press$qi 0A82:@TMonoSelector@movedTo$qi 0AA3:@TMonoSelector@build$qv 0ADE:@TMonoSelector@$bctr$q14StreamableInit 0B37:@TColorDisplay@$bctr$qmx5TRectnxzc 0BC3:@TColorDisplay@$bdtr$qv 0C1A:@TColorDisplay@draw$qv 0CB5:@TColorDisplay@handleEvent$qm6TEvent 0D54:@TColorDisplay@setColor$qnuc 0DA2:@TColorDisplay@write$qm8opstream 0DD4:@TColorDisplay@read$qm8ipstream 0E1C:@TColorDisplay@build$qv 0E57:@TColorDisplay@$bctr$q14StreamableInit 0EB0:@TColorGroupList@$bctr$qmx5TRectn10TScrollBarn11TColorGroup 100F:@TColorGroupList@$bdtr$qv 106F:@TColorGroupList@focusItem$qs 10DE:@TColorGroupList@getText$qnzcss 1130:@TColorGroupList@writeItems$qm8opstreamn10TColorItem 11CA:@TColorGroupList@writeGroups$qm8opstreamn11TColorGroup 1266:@TColorGroupList@write$qm8opstream 1297:@TColorGroupList@readItems$qm8ipstream 1349:@TColorGroupList@readGroups$qm8ipstream 13FC:@TColorGroupList@read$qm8ipstream 1434:@TColorGroupList@build$qv 146F:@TColorGroupList@$bctr$q14StreamableInit 14C8:@TColorItemList@$bctr$qmx5TRectn10TScrollBarn10TColorItem 157E:@TColorItemList@focusItem$qs 15EF:@TColorItemList@getText$qnzcss 1641:@TColorItemList@handleEvent$qm6TEvent 16EE:@TColorItemList@build$qv 1729:@TColorItemList@$bctr$q14StreamableInit 1782:@TColorDialog@$bctr$qn8TPaletten11TColorGroup 1D77:@TColorDialog@$bdtr$qv 1DC6:@TColorDialog@handleEvent$qm6TEvent 1E2C:@TColorDialog@dataSize$qv 1E42:@TColorDialog@getData$qnv 1E73:@TColorDialog@setData$qnv 1F83:@TColorDialog@write$qm8opstream 2160:@TColorDialog@read$qm8ipstream 226E:@TColorDialog@build$qv 22AC:@TColorDialog@$bctr$q14StreamableInit
+            0C0050..........598956088946068B4606:
+              0. 5D 71D3 0A1F 0000:@TProgInit@$bctr$qnq5TRect$n11TStatusLinenq5TRect$n8TMenuBarnaV 0069:@TProgram@$bctr$qv 026F:@TProgram@$bdtr$qv 02C0:@TProgram@shutDown$qv 02F6:@TProgram@getEvent$qm6TEvent 03BA:@TProgram@getPalette$xqv 043A:@TProgram@handleEvent$qm6TEvent 04F4:@TProgram@idle$qv 053A:@TProgram@initDeskTop$q5TRect 0566:@TProgram@initMenuBar$q5TRect 0596:@TProgram@initScreen$qv 05F7:@TProgram@initStatusLine$q5TRect 0859:@TProgram@outOfMemory$qv 085E:@TProgram@putEvent$qm6TEvent 0876:@TProgram@run$qv 088C:@TProgram@setScreenMode$qus 08FD:@TProgram@validView$qn5TView
+              1. 22 FA38 0398 0000:@TBufListEntry@$bctr$qmnv 0095:@TBufListEntry@$bdtr$qv 012A:@TBufListEntry@$bnew$quiui 0142:@TBufListEntry@$bnew$qui 014D:@TBufListEntry@$bdele$qnv 015F:@TBufListEntry@freeHead$qv 018B:@TVMemMgr@$bctr$qv 01D9:@TVMemMgr@resizeSafetyPool$qui 021C:@TVMemMgr@safetyPoolExhausted$qv 023A:@TVMemMgr@allocateDiscardable$qmnvui 02A9:@TVMemMgr@freeDiscardable$qnv 02C3:@$bnew$qui 034A:@$bdele$qnv
+            0E0050..........598956088946068B4606:
+              0. 13 7356 0893 0000:@TNSCollection@$bctr$qii 0090:@TNSCollection@$bctr$qv 0119:@TNSCollection@$bdtr$qv 0155:@TNSCollection@shutDown$qv 0193:@TNSCollection@at$qi 01B1:@TNSCollection@atRemove$qi 0218:@TNSCollection@atFree$qi 0261:@TNSCollection@atInsert$qinv 0310:@TNSCollection@atPut$qinv 034D:@TNSCollection@remove$qnv 0378:@TNSCollection@removeAll$qv 0386:@TNSCollection@error$qii 0398:@TNSCollection@firstThat$qnqnvt1$7Booleannv 03F2:@TNSCollection@lastThat$qnqnvt1$7Booleannv 044E:@TNSCollection@forEach$qnqnvt1$vnv 0485:@TNSCollection@free$qnv 04B5:@TNSCollection@freeAll$qv 04F5:@TNSCollection@freeItem$qnv 0507:@TNSCollection@indexOf$qnv 054D:@TNSCollection@insert$qnv 057F:@TNSCollection@pack$qv 0605:@TNSCollection@setLimit$qi 06B2:@TCollection@write$qm8opstream 073C:@TCollection@read$qm8ipstream 07F8:@TCollection@$bctr$q14StreamableInit
+            140050..........598956088946068B4606:
+              0. 2E D0BD 0278 0000:@TSubMenu@$bctr$qnxzcusus 0066:@$badd$qm8TSubMenum9TMenuItem 0145:@$badd$qm8TSubMenut1 0191:@$badd$qm10TStatusDefm11TStatusItem 022C:@$badd$qm10TStatusDeft1
+              1. 14 E0A1 152C 0000:@TMenuItem@$bctr$qnxzcusususnzcn9TMenuItem 00C8:@TMenuItem@$bctr$qnxzcusn5TMenuusn9TMenuItem 016E:@TMenuItem@$bdtr$qv 01D8:@TMenu@$bdtr$qv 0246:@TMenuView@$bctr$qmx5TRect 02D8:@TMenuView@trackMouse$qm6TEvent 0391:@TMenuView@nextItem$qv 03CC:@TMenuView@prevItem$qv 0427:@TMenuView@trackKey$q7Boolean 046F:@TMenuView@mouseInOwner$qm6TEvent 0516:@TMenuView@mouseInMenus$qm6TEvent 057A:@TMenuView@topMenu$qv 05B8:@TMenuView@execute$qv 0C04:@TMenuView@findItem$qzc 0CAC:@TMenuView@getItemRect$qn9TMenuItem 0CD9:@TMenuView@getHelpCtx$qv 0D51:@TMenuView@getPalette$xqv 0D80:@TMenuView@updateMenu$qn5TMenu 0E20:@TMenuView@do_a_select$qm6TEvent 0EBB:@TMenuView@handleEvent$qm6TEvent 1033:@TMenuView@findHotKey$qn9TMenuItemus 10D1:@TMenuView@hotKey$qus 10F6:@TMenuView@newSubView$qmx5TRectn5TMenun9TMenuView 111D:@TMenuView@writeMenu$qm8opstreamn5TMenu 122C:@TMenuView@write$qm8opstream 125D:@TMenuView@readMenu$qm8ipstream 1423:@TMenuView@read$qm8ipstream 1479:@TMenuView@build$qv 14B4:@TMenuView@$bctr$q14StreamableInit
+            1E0050..........598956088946068B4606:
+              0. 47 AD7F 028E 0000:@TResourceCollection@$bctr$qss 00B6:@TResourceCollection@freeItem$qnv 00DA:@TResourceCollection@keyOf$qnv 00EC:@TResourceCollection@build$qv 01D9:@TResourceCollection@writeItem$qnvm8opstream 0228:@TResourceCollection@readItem$qm8ipstream
+            220050..........598956088946068B4606:
+              0. 19 4BF7 07A0 0000:@TFrame@$bctr$qmx5TRect 006D:@TFrame@draw$qv 041E:@TFrame@getPalette$xqv 044D:@TFrame@dragWindow$qm6TEventuc 04ED:@TFrame@handleEvent$qm6TEvent 06BE:@TFrame@setState$qus7Boolean 06ED:@TFrame@build$qv 0728:@TFrame@$bctr$q14StreamableInit
+            230050..........598956088946068B4606:
+              0. 19 E6F2 021D 0000:@TBackground@$bctr$qmx5TRectzc 006E:@TBackground@$bctr$q14StreamableInit 00C7:@TBackground@draw$qv 012D:@TBackground@getPalette$xqv 015C:@TBackground@write$qm8opstream 018B:@TBackground@read$qm8ipstream 01C4:@TBackground@build$qv
+            260050..........598956088946068B4606:
+              0. 19 F558 03EF 0000:@TStaticText@$bctr$qmx5TRectnxzc 0074:@TStaticText@$bdtr$qv 00CB:@TStaticText@draw$qv 026E:@TStaticText@getPalette$xqv 029D:@TStaticText@getText$qnzc 02D1:@TStaticText@write$qm8opstream 0303:@TStaticText@read$qm8ipstream 033C:@TStaticText@build$qv 0377:@TStaticText@$bctr$q14StreamableInit
+            280050..........598956088946068B4606:
+              0. 19 0E37 0553 0000:@THistory@$bctr$qmx5TRectn10TInputLineus 0089:@THistory@shutDown$qv 00AA:@THistory@draw$qv 0109:@THistory@getPalette$xqv 0138:@THistory@handleEvent$qm6TEvent 03AA:@THistory@initHistoryWindow$qmx5TRect 03F2:@THistory@write$qm8opstream 0453:@THistory@read$qm8ipstream 04A0:@THistory@build$qv 04DB:@THistory@$bctr$q14StreamableInit
+              1. 19 D4D4 0341 0000:@TIndicator@$bctr$qmx5TRect 0064:@TIndicator@draw$qv 01D4:@TIndicator@getPalette$xqv 0203:@TIndicator@setState$qus7Boolean 0232:@TIndicator@setValue$qmx6TPoint7Boolean 028E:@TIndicator@build$qv 02C9:@TIndicator@$bctr$q14StreamableInit
+            2A0050..........598956088946068B4606:
+              0. 19 55ED 0BBE 0000:@TStatusLine@$bctr$qmx5TRectm10TStatusDef 0094:@TStatusLine@disposeItems$qn11TStatusItem 00D1:@TStatusLine@$bdtr$qv 017C:@TStatusLine@draw$qv 0195:@TStatusLine@drawSelect$qn11TStatusItem 03ED:@TStatusLine@findItems$qv 0466:@TStatusLine@getPalette$xqv 0495:@TStatusLine@itemMouseIsIn$q6TPoint 051D:@TStatusLine@handleEvent$qm6TEvent 06EB:@TStatusLine@hint$qus 06F7:@TStatusLine@update$qv 075E:@TStatusLine@writeItems$qm8opstreamn11TStatusItem 07FB:@TStatusLine@writeDefs$qm8opstreamn10TStatusDef 0897:@TStatusLine@write$qm8opstream 08C8:@TStatusLine@readItems$qm8ipstream 09CE:@TStatusLine@readDefs$qm8ipstream 0AC7:@TStatusLine@read$qm8ipstream 0B0B:@TStatusLine@build$qv 0B46:@TStatusLine@$bctr$q14StreamableInit
+            2C0050..........598956088946068B4606:
+              0. 1F 78DA 00DF 0000:@TParamText@$bctr$qmx5TRectnxzci 007B:@TParamText@dataSize$qv 008D:@TParamText@getText$qnzc 00CC:@TParamText@setData$qnv
+              1. 1F BB1B 042B 0000:@TLabel@$bctr$qmx5TRectnxzcn5TView 008E:@TLabel@shutDown$qv 00AF:@TLabel@draw$qv 017C:@TLabel@getPalette$xqv 01AB:@TLabel@handleEvent$qm6TEvent 02E6:@TLabel@write$qm8opstream 0336:@TLabel@read$qm8ipstream 0378:@TLabel@build$qv 03B3:@TLabel@$bctr$q14StreamableInit
+            2E0050..........598956088946068B4606:
+              0. 19 C77E 04A4 0000:@TMenuBar@$bctr$qmx5TRectn5TMenu 007E:@TMenuBar@$bctr$qmx5TRectm8TSubMenu 0143:@TMenuBar@$bdtr$qv 01A9:@TMenuBar@draw$qv 0369:@TMenuBar@getItemRect$qn9TMenuItem 0410:@TMenuBar@build$qv 044B:@TMenuBar@$bctr$q14StreamableInit
+            300050..........598956088946068B4606:
+              0. 1C B03B 0AF5 0000:@TFileInputLine@$bctr$qmx5TRects 0070:@TFileInputLine@handleEvent$qm6TEvent 0152:@TSortedListBox@$bctr$qmx5TRectusn10TScrollBar 0213:@TSortedListBox@handleEvent$qm6TEvent 051C:@TSortedListBox@getKey$qnxzc 0529:@TSortedListBox@newList$qn17TSortedCollection 0560:@TFileInfoPane@$bctr$qmx5TRect 05C5:@TFileInfoPane@draw$qv 09DE:@TFileInfoPane@getPalette$xqv 0A0D:@TFileInfoPane@handleEvent$qm6TEvent 0A64:@TFileInfoPane@build$qv
+            310050..........598956088946068B4606:
+              0. 1A 8525 0B0D 0000:@TScrollBar@$bctr$qmx5TRect 00DC:@TScrollBar@draw$qv 00FD:@TScrollBar@drawPos$qs 0244:@TScrollBar@getPalette$xqv 0273:@TScrollBar@getPos$qv 02DF:@TScrollBar@getSize$qv 030E:@TScrollBar@getPartCode$qv 039B:@TScrollBar@handleEvent$qm6TEvent 0789:@TScrollBar@scrollDraw$qv 07AF:@TScrollBar@scrollStep$qs 07E9:@TScrollBar@setParams$qsssss 0897:@TScrollBar@setRange$qss 08C4:@TScrollBar@setStep$qss 08F1:@TScrollBar@setValue$qs 0922:@TScrollBar@write$qm8opstream 09B0:@TScrollBar@read$qm8ipstream 0A55:@TScrollBar@build$qv 0A90:@TScrollBar@$bctr$q14StreamableInit
+            340050..........598956088946068B4606:
+              0. 2A EEE8 028C 0000:@THistoryViewer@$bctr$qmx5TRectn10TScrollBart2us 00DE:@THistoryViewer@getPalette$xqv 010D:@THistoryViewer@getText$qnzcss 0154:@THistoryViewer@handleEvent$qm6TEvent 0214:@THistoryViewer@historyWidth$qv
+            350050..........598956088946068B4606:
+              0. 1A 374A 06FD 0000:@TScroller@$bctr$qmx5TRectn10TScrollBart2 00C0:@TScroller@shutDown$qv 00F0:@TScroller@changeBounds$qmx5TRect 0149:@TScroller@checkDraw$qv 0178:@TScroller@getPalette$xqv 01A7:@TScroller@handleEvent$qm6TEvent 0219:@TScroller@scrollDraw$qv 02E4:@TScroller@scrollTo$qss 0349:@TScroller@setLimit$qss 040A:@TScroller@showSBar$qn10TScrollBar 0449:@TScroller@setState$qus7Boolean 049B:@TScroller@write$qm8opstream 0583:@TScroller@read$qm8ipstream 064A:@TScroller@build$qv 0685:@TScroller@$bctr$q14StreamableInit
+            360050..........598956088946068B4606:
+              0. 28 B23C 0429 0000:@TListBox@$bctr$qmx5TRectusn10TScrollBar 008B:@TListBox@$bdtr$qv 014A:@TListBox@dataSize$qv 0154:@TListBox@getData$qnv 018D:@TListBox@getText$qnzcss 01D1:@TListBox@newList$qn11TCollection 02B3:@TListBox@setData$qnv 030B:@TListBox@write$qm8opstream 035C:@TListBox@read$qm8ipstream 0395:@TListBox@build$qv 03D0:@TListBox@$bctr$q14StreamableInit
+            390050..........598956088946068B4606:
+              0. 23 320F 0988 0000:@TFileList@$bctr$qmx5TRectnxzcn10TScrollBar 007A:@TFileList@$bdtr$qv 00C9:@TFileList@focusItem$qs 013B:@TFileList@getData$qnv 0140:@TFileList@setData$qnv 0145:@TFileList@dataSize$qv 014E:@TFileList@getKey$qnxzc 019C:@TFileList@getText$qnzcss 0222:@TFileList@handleEvent$qm6TEvent 028D:@TFileList@readDirectory$qnxzct1 02D0:@TFileList@readDirectory$qnxzc 073B:@squeeze$qnzc 07B5:@fexpand$qnzc 0905:@TFileList@build$qv
+            3B0050..........598956088946068B4606:
+              0. 1A 39AB 13B5 0000:@TGroup@$bctr$qmx5TRect 00CE:@TGroup@$bdtr$qv 0113:@TGroup@shutDown$qv 01C5:@doCalcChange$qn5TViewnv 0207:@TGroup@changeBounds$qmx5TRect 02E7:@addSubviewDataSize$qn5TViewnv 0301:@TGroup@dataSize$qv 032A:@TGroup@remove$qn5TView 0390:@TGroup@draw$qv 0450:@TGroup@drawSubViews$qn5TViewt1 0487:@TGroup@endModal$qus 04B4:@TGroup@eventError$qm6TEvent 04E7:@TGroup@execute$qv 0575:@TGroup@execView$qn5TView 06D2:@TGroup@first$qv 06FD:@TGroup@firstMatch$qusus 0785:@TGroup@freeBuffer$qv 07C3:@TGroup@getBuffer$qv 080E:@TGroup@getData$qnv 094A:@TGroup@handleEvent$qm6TEvent 0A42:@TGroup@insert$qn5TView 0A69:@TGroup@insertBefore$qn5TViewt1 0B41:@TGroup@insertView$qn5TViewt1 0BFB:@TGroup@lock$qv 0C1E:@TGroup@redraw$qv 0C44:@TGroup@resetCurrent$qv 0C71:@TGroup@resetCursor$qv 0C9D:@TGroup@selectNext$q7Boolean 0D30:@TGroup@selectView$qn5TView7Boolean 0D56:@TGroup@focusView$qn5TView7Boolean 0D87:@TGroup@setCurrent$qn5TView10selectMode 0E76:@TGroup@setData$qnv 0F48:@TGroup@setState$qus7Boolean 100E:@TGroup@unlock$qv 1039:@isInvalid$qn5TViewnv 105B:@TGroup@valid$qus 108C:@TGroup@getHelpCtx$qv 1102:@TGroup@write$qm8opstream 11D6:@TGroup@read$qm8ipstream 1321:@TGroup@build$qv 135C:@TGroup@$bctr$q14StreamableInit
+            4B0050..........598956088946068B4606:
+              0. 2A 46A2 0179 0000:@TApplication@$bctr$qv 00A6:@TApplication@$bdtr$qv 00F0:@TApplication@suspend$qv 0104:@TApplication@resume$qv
+            580050..........598956088946068B4606:
+              0. 2B 11F5 0331 0000:@TDialog@$bctr$qmx5TRectnxzc 00B1:@TDialog@getPalette$xqv 00E0:@TDialog@handleEvent$qm6TEvent 021B:@TDialog@valid$qus 0242:@TDialog@build$qv 0280:@TDialog@$bctr$q14StreamableInit
+            5B0050..........598956088946068B4606:
+              0. 25 C108 07C7 0000:@TTextDevice@$bctr$qmx5TRectn10TScrollBart2 0082:@TTextDevice@overflow$qi 00B7:@TTerminal@$bctr$qmx5TRectn10TScrollBart2us 01A9:@TTerminal@$bdtr$qv 0232:@TTerminal@bufDec$qmus 0256:@TTerminal@bufInc$qmus 0279:@TTerminal@canInsert$qus 02E1:@TTerminal@draw$qv 04F0:@TTerminal@nextLine$qus 0554:@TTerminal@do_sputn$qnxzci 06F1:@TTerminal@queEmpty$qv 070F:@otstream@$bctr$qn9TTerminal
+            620050..........598956088946068B4606:
+              0. 2E 49BD 03C8 0000:@TMemo@$bctr$qmx5TRectn10TScrollBart2n10TIndicatorus 0071:@TMemo@dataSize$qv 0081:@TMemo@getData$qnv 0134:@TMemo@setData$qnv 0194:@TMemo@getPalette$xqv 01C3:@TMemo@handleEvent$qm6TEvent 01F0:@TMemo@write$qm8opstream 0272:@TMemo@read$qm8ipstream 0315:@TMemo@build$qv 0350:@TMemo@$bctr$q14StreamableInit
+            880050..........598956088946068B4606:
+              0. 23 0161 0AA6 0000:@TDirListBox@$bctr$qmx5TRectn10TScrollBar 0078:@TDirListBox@$bdtr$qv 00BD:@TDirListBox@getText$qnzcss 00F4:@TDirListBox@handleEvent$qm6TEvent 015F:@TDirListBox@isSelected$qs 017A:@TDirListBox@showDrives$qn14TDirCollection 03AD:@TDirListBox@showDirs$qn14TDirCollection 0824:@TDirListBox@newDirectory$qnxzc 09F7:@TDirListBox@setState$qus7Boolean 0A34:@TDirListBox@build$qv
+            B20050..........598956088946068B4606:
+              0. 2F 1181 088E 0000:@TFileEditor@$bctr$qmx5TRectn10TScrollBart2n10TIndicatornxzc 00CB:@TFileEditor@doneBuffer$qv 00E2:@TFileEditor@handleEvent$qm6TEvent 0153:@TFileEditor@initBuffer$qv 0170:@TFileEditor@loadFile$qv 02CF:@TFileEditor@save$qv 02FE:@TFileEditor@saveAs$qv 0380:@TFileEditor@saveFile$qv 053B:@TFileEditor@setBufSize$qus 05FE:@TFileEditor@updateCommands$qv 063C:@TFileEditor@valid$qus 06B3:@TFileEditor@write$qm8opstream 071B:@TFileEditor@read$qm8ipstream 07FA:@TFileEditor@build$qv 0835:@TFileEditor@$bctr$q14StreamableInit
+          1EC45E0626C707....F7460A0100740FFF7608FF7606:
+            0. 00 0000 0030 0000:@TObject@$bdtr$qv 002B:@TObject@shutDown$qv
+          2933C050FF7608FF7606..........83C406F7460A01:
+            0. 09 FC07 0036 (!)0000:? (REF 0015: @TCluster@$bdtr$qv)
+            1. 09 FC07 0036 0000:@TSortedListBox@$bdtr$qv (REF 0015: @TListBox@$bdtr$qv)
+            2. 09 FC07 0036 0000:@TFileInputLine@$bdtr$qv (REF 0015: @TInputLine@$bdtr$qv)
+            3. 09 FC07 0036 0000:@TDeskTop@$bdtr$qv (REF 0015: @TGroup@$bdtr$qv)
+          338B46060B4608741333C050FF7608FF7606:
+            0. 00 0000 0040 (!)0000:? (REF 001D: @TView@$bdtr$qv)
+            1. 00 0000 0040 0000:@TChDirDialog@$bdtr$qv (REF 001D: @TWindow@$bdtr$qv)
+          4833C0508B4606053500FF760850..........83C406:
+            0. 11 55A0 0055 0000:@TTextDevice@$bdtr$qv
+        75:
+          12B8050050..........598956088946060BC28B5608:
+            0. 05 6A92 0025 0000:@TCrossRef@$bctr$qv
+          14B8:
+            010050..........598956088946060BC27405:
+              0. 00 0000 035E 0000:@TEventQueue@$bctr$qv 002C:@TEventQueue@resume$qv 00BE:@TEventQueue@suspend$qv 00C4:@TEventQueue@$bdtr$qv 00ED:@TEventQueue@getMouseEvent$qm6TEvent 0219:@TEventQueue@getMouseState$qm6TEvent 029B:@TEventQueue@mouseInt$qv 0336:@TEvent@getKeyEvent$qv (01B6: C0)
+              1. 00 0000 01D7 0000:@THWMouse@$bctr$qv 002C:@THWMouse@resume$qv 0050:@THWMouse@$bdtr$qv 007A:@THWMouse@suspend$qv 00B3:@THWMouse@show$qv 00CF:@THWMouse@hide$qv 00E0:@THWMouse@setRange$qusus 010C:@THWMouse@getEvent$qm14MouseEventType 013C:@THWMouse@registerHandler$quinqv$v 0167:@TMouse@$bctr$qv 019E:@TMouse@$bdtr$qv (01B6: CB)
+            040050..........598956088946060BC274:
+              10C4:
+                0. 2A 52C6 070A 0000:@TDeskInit@$bctr$qnq5TRect$n11TBackground 0037:@TDeskTop@$bctr$qmx5TRect 010A:@TDeskTop@shutDown$qv 0129:@doCount$qn5TViewnv 015D:@doCascade$qn5TViewnv 01D6:@TDeskTop@cascade$qmx5TRect 029C:@TDeskTop@handleEvent$qm6TEvent 0311:@TDeskTop@initBackground$q5TRect 032D:@iSqr$qs 0370:@mostEqualDivisors$qsmst2 03B9:@doCountTileable$qn5TViewnv 03E0:@dividerLoc$qiiii 040C:@calcTileRect$qsmx5TRect 0541:@doTile$qn5TViewnv 0596:@TDeskTop@tile$qmx5TRect 065C:@TDeskTop@tileError$qv 0661:@TDeskTop@build$qv 0697:@TDeskTop@$bctr$q14StreamableInit
+                1. 2A D4FC 020B 0000:@THistInit@$bctr$qnq5TRectn7TWindowus$n11TListViewer 0037:@THistoryWindow@$bctr$qmx5TRectus 0142:@THistoryWindow@getPalette$xqv 016D:@THistoryWindow@getSelection$qnzc 019F:@THistoryWindow@initViewer$q5TRectn7TWindowus
+                2. 2D F73C 0B8E 0000:@TWindowInit@$bctr$qnq5TRect$n6TFrame 0037:@TWindow@$bctr$qmx5TRectnxzcs 0173:@TWindow@$bdtr$qv 01CA:@TWindow@close$qv 023C:@TWindow@shutDown$qv 025B:@TWindow@getPalette$xqv 02D6:@TWindow@getTitle$qs 02E6:@TWindow@handleEvent$qm6TEvent 0557:@TWindow@initFrame$q5TRect 056F:@TWindow@setState$qus7Boolean 0677:@TWindow@standardScrollBar$qus 076C:@TWindow@sizeLimits$qm6TPointt1 079C:@TWindow@zoom$qv 0856:@TWindow@write$qm8opstream 0973:@TWindow@read$qm8ipstream 0A92:@TWindow@build$qv 0AC8:@TWindow@$bctr$q14StreamableInit
+              3B8B:
+                0. 04 0BA5 01B3 0000:@TPalette@$bctr$qnxzcus 0062:@TPalette@$bctr$qmx8TPalette 00CB:@TPalette@$bdtr$qv 0101:@TPalette@$basg$qmx8TPalette 01A1:@TPalette@$bsubs$xqi
+            060050..........598956088946060BC27409C4:
+              0. 27 B104 0560 0000:@TStrIndexRec@$bctr$qv 0030:@TStrListMaker@$bctr$qusus 00DD:@TStrListMaker@$bdtr$qv 0142:@TStrListMaker@closeCurrent$qv 0184:@TStrListMaker@put$qusnzc 0228:@TStringList@$bctr$q14StreamableInit 0286:@TStringList@$bdtr$qv 02D9:@TStringList@get$qnzcus 03DE:@TStrListMaker@write$qm8opstream 0459:@TStringList@read$qm8ipstream 052C:@TStringList@build$qv
+            0A0050..........598956088946060BC27437C4:
+              0. 24 EB35 23C4 0000:@TStreamableClass@$bctr$qnxzcnqv$n11TStreamablei 005E:@TStreamableTypes@$bctr$qv 00FC:@TStreamableTypes@$bnew$quinv 0107:@TStreamableTypes@$bdtr$qv 0158:@TStreamableTypes@registerType$qnx16TStreamableClass 0176:@TStreamableTypes@lookup$qnxzc 01B9:@TStreamableTypes@keyOf$qnv 01C8:@TStreamableTypes@compare$qnvt1 01E1:@TPWrittenObjects@$bctr$qv 02A3:@TPWrittenObjects@$bdtr$qv 0300:@TPWrittenObjects@registerObject$qnxv 0347:@TPWrittenObjects@find$qnxv 0391:@TPWrittenObjects@keyOf$qnv 03A0:@TPWrittenObjects@compare$qnvt1 03EC:@TPWObj@$bctr$qnxvui 042A:@TPReadObjects@$bctr$qv 0472:@TPReadObjects@$bdtr$qv 04AE:@TPReadObjects@registerObject$qnxv 0500:@TPReadObjects@find$qui 0516:@pstream@$bctr$qn9streambuf 0557:@pstream@$bdtr$qv 0580:@pstream@initTypes$qv 059F:@pstream@rdstate$xqv 05AB:@pstream@eof$xqv 05BA:@pstream@fail$xqv 05C9:@pstream@bad$xqv 05D8:@pstream@good$xqv 05EE:@pstream@clear$qi 060A:@pstream@registerType$qn16TStreamableClass 0624:@pstream@$onv$xqv 0645:@pstream@$bnot$xqv 0656:@pstream@rdbuf$xqv 0666:@pstream@$bctr$qv 0695:@pstream@error$q15StreamableError 069F:@pstream@error$q15StreamableErrormx11TStreamable 06A9:@pstream@init$qn9streambuf 06C5:@pstream@setstate$qi 06D7:@ipstream@$bctr$qn9streambuf 0758:@ipstream@$bdtr$qv 07D9:@ipstream@tellg$qv 0804:@ipstream@seekg$ql 0851:@ipstream@seekg$ql8seek_dir 089E:@ipstream@readByte$qv 0904:@ipstream@readWord$qv 0930:@ipstream@readBytes$qnvui 0954:@ipstream@readString$qv 09BE:@ipstream@readString$qnzcui 0A39:@$brsh$qm8ipstreammzc 0A56:@$brsh$qm8ipstreammuc 0A73:@$brsh$qm8ipstreamms 0A90:@$brsh$qm8ipstreammus 0AAD:@$brsh$qm8ipstreammi 0ACA:@$brsh$qm8ipstreammui 0AE7:@$brsh$qm8ipstreamml 0B09:@$brsh$qm8ipstreammul 0B2B:@$brsh$qm8ipstreammf 0B4D:@$brsh$qm8ipstreammd 0B6F:@$brsh$qm8ipstreamm11TStreamable 0BB7:@$brsh$qm8ipstreammnv 0CA1:@ipstream@$bctr$qv 0D0E:@ipstream@readPrefix$qv 0D77:@ipstream@readData$qnx16TStreamableClassn11TStreamable 0DC5:@ipstream@readSuffix$qv 0E01:@ipstream@find$qui 0E1A:@ipstream@registerObject$qnxv 0E36:@opstream@$bctr$qv 0EAC:@opstream@$bctr$qn9streambuf 0F33:@opstream@$bdtr$qv 0FC2:@opstream@seekp$ql 100D:@opstream@seekp$ql8seek_dir 1058:@opstream@tellp$qv 1086:@opstream@flush$qv 10AB:@opstream@writeByte$quc 111A:@opstream@writeBytes$qnxvui 113E:@opstream@writeWord$qus 1162:@opstream@writeString$qnxzc 11BD:@$blsh$qm8opstreamzc 11D9:@$blsh$qm8opstreamuc 11F5:@$blsh$qm8opstreams 1210:@$blsh$qm8opstreamus 122B:@$blsh$qm8opstreami 1246:@$blsh$qm8opstreamui 1261:@$blsh$qm8opstreaml 1282:@$blsh$qm8opstreamul 12A3:@$blsh$qm8opstreamf 12C4:@$blsh$qm8opstreamd 12E5:@$blsh$qm8opstreamm11TStreamable 132C:@$blsh$qm8opstreamn11TStreamable 13B4:@opstream@writePrefix$qmx11TStreamable 13E8:@opstream@writeData$qm11TStreamable 1457:@opstream@writeSuffix$qmx11TStreamable 146C:@opstream@find$qnxv 1489:@opstream@registerObject$qnxv 14A6:@iopstream@$bctr$qn9streambuf 154D:@iopstream@$bdtr$qv 15C7:@iopstream@$bctr$qv 165A:@fpbase@$bctr$qv 16E0:@fpbase@$bctr$qnxzcii 1780:@fpbase@$bctr$qi 180A:@fpbase@$bctr$qinzci 189D:@fpbase@$bdtr$qv 1903:@fpbase@open$qnxzcii 194F:@fpbase@attach$qi 199B:@fpbase@close$qv 19D7:@fpbase@setbuf$qnzci 1A22:@fpbase@rdbuf$qv 1A30:@ifpstream@$bctr$qv 1AC3:@ifpstream@$bctr$qnxzcii 1B66:@ifpstream@$bctr$qi 1BFC:@ifpstream@$bctr$qinzci 1C9B:@ifpstream@$bdtr$qv 1D15:@ifpstream@rdbuf$qv 1D26:@ifpstream@open$qnxzcii 1D48:@ofpstream@$bctr$qv 1DDB:@ofpstream@$bctr$qnxzcii 1E7E:@ofpstream@$bctr$qi 1F14:@ofpstream@$bctr$qinzci 1FB3:@ofpstream@$bdtr$qv 202D:@ofpstream@rdbuf$qv 203E:@ofpstream@open$qnxzcii 2060:@fpstream@$bctr$qv 2103:@fpstream@$bctr$qnxzcii 21B9:@fpstream@$bctr$qi 225F:@fpstream@$bctr$qinzci 2311:@fpstream@$bdtr$qv 2391:@fpstream@rdbuf$qv 23A2:@fpstream@open$qnxzcii
+            0B0050..........598956088946060BC27435C4:
+              0. 05 C8B6 2179 0000:@TColorItem@$bctr$qnxzcucn10TColorItem 005C:@TColorItem@$bdtr$qv 0098:@TColorGroup@$bctr$qnxzcn10TColorItemn11TColorGroup 00FB:@TColorGroup@$bdtr$qv 0137:@$badd$qm10TColorItemt1 017B:@$badd$qm11TColorGroupm10TColorItem 0204:@$badd$qm11TColorGroupt1 0248:@TColorSelector@$bctr$qmx5TRect8ColorSel 02A8:@TColorSelector@draw$qv 0395:@TColorSelector@colorChanged$qv 03CE:@TColorSelector@handleEvent$qm6TEvent 0611:@TColorSelector@write$qm8opstream 064E:@TColorSelector@read$qm8ipstream 06A3:@TColorSelector@build$qv 06D8:@TColorSelector@$bctr$q14StreamableInit 071E:@TMonoSelector@$bctr$qmx5TRect 08D7:@TMonoSelector@draw$qv 08F5:@TMonoSelector@handleEvent$qm6TEvent 0937:@TMonoSelector@mark$qi 0957:@TMonoSelector@newColor$qv 09AC:@TMonoSelector@press$qi 09CD:@TMonoSelector@movedTo$qi 09EE:@TMonoSelector@build$qv 0A23:@TMonoSelector@$bctr$q14StreamableInit 0A69:@TColorDisplay@$bctr$qmx5TRectnxzc 0ADC:@TColorDisplay@$bdtr$qv 0B2F:@TColorDisplay@draw$qv 0BCC:@TColorDisplay@handleEvent$qm6TEvent 0C48:@TColorDisplay@setColor$qnuc 0C93:@TColorDisplay@write$qm8opstream 0CC5:@TColorDisplay@read$qm8ipstream 0D08:@TColorDisplay@build$qv 0D3D:@TColorDisplay@$bctr$q14StreamableInit 0D83:@TColorGroupList@$bctr$qmx5TRectn10TScrollBarn11TColorGroup 0EC8:@TColorGroupList@$bdtr$qv 0F1A:@TColorGroupList@focusItem$qs 0F83:@TColorGroupList@getText$qnzcss 0FDD:@TColorGroupList@writeItems$qm8opstreamn10TColorItem 106A:@TColorGroupList@writeGroups$qm8opstreamn11TColorGroup 10F9:@TColorGroupList@write$qm8opstream 112A:@TColorGroupList@readItems$qm8ipstream 11D5:@TColorGroupList@readGroups$qm8ipstream 127F:@TColorGroupList@read$qm8ipstream 12B5:@TColorGroupList@build$qv 12EA:@TColorGroupList@$bctr$q14StreamableInit 1330:@TColorItemList@$bctr$qmx5TRectn10TScrollBarn10TColorItem 13CA:@TColorItemList@focusItem$qs 1435:@TColorItemList@getText$qnzcss 148F:@TColorItemList@handleEvent$qm6TEvent 152E:@TColorItemList@build$qv 1563:@TColorItemList@$bctr$q14StreamableInit 15A9:@TColorDialog@$bctr$qn8TPaletten11TColorGroup 1B48:@TColorDialog@$bdtr$qv 1B8E:@TColorDialog@handleEvent$qm6TEvent 1BE7:@TColorDialog@dataSize$qv 1BFB:@TColorDialog@getData$qnv 1C2C:@TColorDialog@setData$qnv 1D36:@TColorDialog@write$qm8opstream 1F5A:@TColorDialog@read$qm8ipstream 20CB:@TColorDialog@build$qv 2101:@TColorDialog@$bctr$q14StreamableInit
+            0C0050..........598956088946060BC274:
+              2CC4:
+                0. 49 70BB 09E4 0000:@TProgInit@$bctr$qnq5TRect$n11TStatusLinenq5TRect$n8TMenuBarnaV 0053:@TProgram@$bctr$qv 023A:@TProgram@$bdtr$qv 028C:@TProgram@shutDown$qv 02C2:@TProgram@getEvent$qm6TEvent 037F:@TProgram@getPalette$xqv 03F7:@TProgram@handleEvent$qm6TEvent 04A1:@TProgram@idle$qv 04E7:@TProgram@initDeskTop$q5TRect 0506:@TProgram@initMenuBar$q5TRect 0529:@TProgram@initScreen$qv 058E:@TProgram@initStatusLine$q5TRect 07AF:@TProgram@outOfMemory$qv 07B4:@TProgram@putEvent$qm6TEvent 07CC:@TProgram@run$qv 07E2:@TProgram@setScreenMode$qus 08B1:@TProgram@validView$qn5TView
+              4FC4:
+                0. 11 3343 03B9 0000:@TBufListEntry@$bctr$qmnv 0076:@TBufListEntry@$bdtr$qv 00FC:@TBufListEntry@$bnew$quiui 0112:@TBufListEntry@$bnew$qui 011B:@TBufListEntry@$bdele$qnv 012D:@TBufListEntry@freeHead$qv 0151:@TVMemMgr@$bctr$qv 0189:@TVMemMgr@resizeSafetyPool$qui 01CC:@TVMemMgr@safetyPoolExhausted$qv 01E4:@TVMemMgr@allocateDiscardable$qmnvui 0240:@TVMemMgr@freeDiscardable$qnv 025A:@$bnew$qui 033E:@$bdele$qnv
+            0E0050..........598956088946060BC27442C4:
+              0. 05 C8B6 07CA 0000:@TNSCollection@$bctr$qii 0069:@TNSCollection@$bctr$qv 00CD:@TNSCollection@$bdtr$qv 011A:@TNSCollection@shutDown$qv 0156:@TNSCollection@at$qi 0191:@TNSCollection@atRemove$qi 01F3:@TNSCollection@atFree$qi 023C:@TNSCollection@atInsert$qinv 02D0:@TNSCollection@atPut$qinv 030D:@TNSCollection@remove$qnv 0338:@TNSCollection@removeAll$qv 0346:@TNSCollection@error$qii 0358:@TNSCollection@firstThat$qnqnvt1$7Booleannv 03B0:@TNSCollection@lastThat$qnqnvt1$7Booleannv 040A:@TNSCollection@forEach$qnqnvt1$vnv 0441:@TNSCollection@free$qnv 0471:@TNSCollection@freeAll$qv 04AE:@TNSCollection@freeItem$qnv 04C0:@TNSCollection@indexOf$qnv 0504:@TNSCollection@insert$qnv 052D:@TNSCollection@pack$qv 0596:@TNSCollection@setLimit$qi 0637:@TCollection@write$qm8opstream 06B5:@TCollection@read$qm8ipstream 0761:@TCollection@$bctr$q14StreamableInit
+            140050..........598956088946060BC2742333:
+              0. 1A 1A53 0213 0000:@TSubMenu@$bctr$qnxzcusus 004A:@$badd$qm8TSubMenum9TMenuItem 010D:@$badd$qm8TSubMenut1 014E:@$badd$qm10TStatusDefm11TStatusItem 01D2:@$badd$qm10TStatusDeft1
+            220050..........598956088946060BC2742DFF:
+              0. 0B 3A8C 06FB 0000:@TFrame@$bctr$qmx5TRect 0054:@TFrame@draw$qv 03C7:@TFrame@getPalette$xqv 03F2:@TFrame@dragWindow$qm6TEventuc 049E:@TFrame@handleEvent$qm6TEvent 0638:@TFrame@setState$qus7Boolean 0667:@TFrame@build$qv 069C:@TFrame@$bctr$q14StreamableInit
+            230050..........598956088946060BC2742EFF:
+              0. 0B 3A8C 01E2 0000:@TBackground@$bctr$qmx5TRectzc 0055:@TBackground@$bctr$q14StreamableInit 009B:@TBackground@draw$qv 0104:@TBackground@getPalette$xqv 012F:@TBackground@write$qm8opstream 015E:@TBackground@read$qm8ipstream 0195:@TBackground@build$qv
+            260050..........598956088946060BC2743AFF:
+              0. 0B 3A8C 03B3 0000:@TStaticText@$bctr$qmx5TRectnxzc 0061:@TStaticText@$bdtr$qv 00B4:@TStaticText@draw$qv 0257:@TStaticText@getPalette$xqv 0282:@TStaticText@getText$qnzc 02B6:@TStaticText@write$qm8opstream 02E8:@TStaticText@read$qm8ipstream 031F:@TStaticText@build$qv 0354:@TStaticText@$bctr$q14StreamableInit
+            280050..........598956088946060BC274:
+              27FF:
+                0. 0B 3A8C 0321 0000:@TIndicator@$bctr$qmx5TRect 004E:@TIndicator@draw$qv 01D9:@TIndicator@getPalette$xqv 0204:@TIndicator@setState$qus7Boolean 0233:@TIndicator@setValue$qmx6TPoint7Boolean 028D:@TIndicator@build$qv 02C2:@TIndicator@$bctr$q14StreamableInit
+              42FF:
+                0. 0B 3A8C 0550 0000:@THistory@$bctr$qmx5TRectn10TInputLineus 0069:@THistory@shutDown$qv 0088:@THistory@draw$qv 00EC:@THistory@getPalette$xqv 0117:@THistory@handleEvent$qm6TEvent 03A1:@THistory@initHistoryWindow$qmx5TRect 03E5:@THistory@write$qm8opstream 0457:@THistory@read$qm8ipstream 04BC:@THistory@build$qv 04F1:@THistory@$bctr$q14StreamableInit
+            2A0050..........598956088946060BC2744BFF:
+              0. 0B 3A8C 0B0B 0000:@TStatusLine@$bctr$qmx5TRectm10TStatusDef 0072:@TStatusLine@disposeItems$qn11TStatusItem 00AF:@TStatusLine@$bdtr$qv 0154:@TStatusLine@draw$qv 016D:@TStatusLine@drawSelect$qn11TStatusItem 03B9:@TStatusLine@findItems$qv 0428:@TStatusLine@getPalette$xqv 0453:@TStatusLine@itemMouseIsIn$q6TPoint 04C9:@TStatusLine@handleEvent$qm6TEvent 0677:@TStatusLine@hint$qus 0681:@TStatusLine@update$qv 06DE:@TStatusLine@writeItems$qm8opstreamn11TStatusItem 0770:@TStatusLine@writeDefs$qm8opstreamn10TStatusDef 0801:@TStatusLine@write$qm8opstream 0832:@TStatusLine@readItems$qm8ipstream 093B:@TStatusLine@readDefs$qm8ipstream 0A37:@TStatusLine@read$qm8ipstream 0A77:@TStatusLine@build$qv 0AAC:@TStatusLine@$bctr$q14StreamableInit
+            2C0050..........598956088946060BC274:
+              3BFF:
+                0. 11 E01B 01B0 0000:@TParamText@$bctr$qmx5TRectnxzci 0062:@TParamText@dataSize$qv 0072:@TParamText@getText$qnzc 00AE:@TParamText@setData$qnv 00C1:@TParamText@write$qm8opstream 00EF:@TParamText@read$qm8ipstream 0135:@TParamText@build$qv 016A:@TParamText@$bctr$q14StreamableInit
+              47FF:
+                0. 11 E01B 03E6 0000:@TLabel@$bctr$qmx5TRectnxzcn5TView 006E:@TLabel@shutDown$qv 008D:@TLabel@draw$qv 015D:@TLabel@getPalette$xqv 0188:@TLabel@handleEvent$qm6TEvent 0294:@TLabel@write$qm8opstream 02F8:@TLabel@read$qm8ipstream 0352:@TLabel@build$qv 0387:@TLabel@$bctr$q14StreamableInit
+            300050..........598956088946060BC274:
+              1F33:
+                0. 08 E76E 009C 0000:@TFileInputLine@$bctr$q14StreamableInit 0046:@TFileInputLine@build$qv
+              30FF:
+                0. 0E D46B 09CE 0000:@TFileInputLine@$bctr$qmx5TRects 0057:@TFileInputLine@handleEvent$qm6TEvent 0129:@TSortedListBox@$bctr$qmx5TRectusn10TScrollBar 01CD:@TSortedListBox@handleEvent$qm6TEvent 0478:@TSortedListBox@getKey$qnxzc 0483:@TSortedListBox@newList$qn17TSortedCollection 04BA:@TFileInfoPane@$bctr$qmx5TRect 0509:@TFileInfoPane@draw$qv 08D2:@TFileInfoPane@getPalette$xqv 08FD:@TFileInfoPane@handleEvent$qm6TEvent 094E:@TFileInfoPane@build$qv
+            310050..........598956088946060BC27479FF:
+              0. 0B 3A8C 09E2 0000:@TScrollBar@$bctr$qmx5TRect 00A0:@TScrollBar@draw$qv 00C1:@TScrollBar@drawPos$qs 01FA:@TScrollBar@getPalette$xqv 0225:@TScrollBar@getPos$qv 0280:@TScrollBar@getSize$qv 02A8:@TScrollBar@getPartCode$qv 0329:@TScrollBar@handleEvent$qm6TEvent 06DB:@TScrollBar@scrollDraw$qv 0701:@TScrollBar@scrollStep$qs 072D:@TScrollBar@setParams$qsssss 07B8:@TScrollBar@setRange$qss 07DD:@TScrollBar@setStep$qss 0802:@TScrollBar@setValue$qs 0828:@TScrollBar@write$qm8opstream 08AA:@TScrollBar@read$qm8ipstream 094D:@TScrollBar@build$qv 0982:@TScrollBar@$bctr$q14StreamableInit
+            350050..........598956088946060BC27466FF:
+              0. 0B 3A8C 069C 0000:@TScroller@$bctr$qmx5TRectn10TScrollBart2 008D:@TScroller@shutDown$qv 00B8:@TScroller@changeBounds$qmx5TRect 0104:@TScroller@checkDraw$qv 012B:@TScroller@getPalette$xqv 0156:@TScroller@handleEvent$qm6TEvent 01C2:@TScroller@scrollDraw$qv 0273:@TScroller@scrollTo$qss 02CD:@TScroller@setLimit$qss 036F:@TScroller@showSBar$qn10TScrollBar 03AC:@TScroller@setState$qus7Boolean 03FA:@TScroller@write$qm8opstream 050C:@TScroller@read$qm8ipstream 0608:@TScroller@build$qv 063D:@TScroller@$bctr$q14StreamableInit
+            360050..........598956088946060BC2744CFF:
+              0. 1A BBD6 038E 0000:@TListBox@$bctr$qmx5TRectusn10TScrollBar 0073:@TListBox@$bdtr$qv 00B5:@TListBox@dataSize$qv 00BD:@TListBox@getData$qnv 00F6:@TListBox@getText$qnzcss 013F:@TListBox@newList$qn11TCollection 0206:@TListBox@setData$qnv 025E:@TListBox@write$qm8opstream 02C2:@TListBox@read$qm8ipstream 0313:@TListBox@build$qv 0348:@TListBox@$bctr$q14StreamableInit
+            390050..........598956088946060BC2742CFF:
+              0. 15 E15C 0A10 0000:@TFileList@$bctr$qmx5TRectn10TScrollBar 0053:@TFileList@$bdtr$qv 0183:@TFileList@focusItem$qs 01F9:@TFileList@getData$qnv 01FE:@TFileList@setData$qnv 0203:@TFileList@dataSize$qv 020A:@TFileList@getKey$qnxzc 0252:@TFileList@getText$qnzcss 02DE:@TFileList@handleEvent$qm6TEvent 033B:@TFileList@readDirectory$qnxzct1 037E:@DirSearchRec@$bnew$qui 03BD:@TFileList@readDirectory$qnxzc 07E8:@squeeze$qnzc 0858:@fexpand$qnzc 099E:@TFileList@build$qv
+            5B0050..........598956088946060BC27445FF:
+              0. 17 B157 06F3 0000:@TTextDevice@$bctr$qmx5TRectn10TScrollBart2 006C:@TTextDevice@overflow$qi 009F:@TTerminal@$bctr$qmx5TRectn10TScrollBart2us 016D:@TTerminal@$bdtr$qv 01DB:@TTerminal@bufDec$qmus 01FF:@TTerminal@bufInc$qmus 0222:@TTerminal@canInsert$qus 0279:@TTerminal@draw$qv 045C:@TTerminal@nextLine$qus 04BC:@TTerminal@do_sputn$qnxzci 0640:@TTerminal@queEmpty$qv 0659:@otstream@$bctr$qn9TTerminal
+            620050..........598956088946060BC27437FF:
+              0. 20 E4B8 0363 0000:@TMemo@$bctr$qmx5TRectn10TScrollBart2n10TIndicatorus 005E:@TMemo@dataSize$qv 006D:@TMemo@getData$qnv 010B:@TMemo@setData$qnv 0168:@TMemo@getPalette$xqv 0193:@TMemo@handleEvent$qm6TEvent 01BD:@TMemo@write$qm8opstream 0233:@TMemo@read$qm8ipstream 02CF:@TMemo@build$qv 0304:@TMemo@$bctr$q14StreamableInit
+            880050..........598956088946060BC27438FF:
+              0. 15 9F84 0AF0 0000:@TDirListBox@$bctr$qmx5TRectn10TScrollBar 005F:@TDirListBox@$bdtr$qv 0112:@TDirListBox@getText$qnzcss 0163:@TDirListBox@handleEvent$qm6TEvent 01C0:@TDirListBox@isSelected$qs 01D9:@TDirListBox@showDrives$qn14TDirCollection 0414:@TDirListBox@showDirs$qn14TDirCollection 089C:@TDirListBox@newDirectory$qnxzc 0A4C:@TDirListBox@setState$qus7Boolean 0A89:@TDirListBox@build$qv
+          17B8:
+            140050..........598956088946060BC27503E9:
+              0. 08 E640 1302 0000:@TMenuItem@$bctr$qnxzcusususnzcn9TMenuItem 00AB:@TMenuItem@$bctr$qnxzcusn5TMenuusn9TMenuItem 012F:@TMenuItem@$bdtr$qv 0198:@TMenu@$bdtr$qv 0203:@TMenuView@trackMouse$qm6TEvent 029D:@TMenuView@nextItem$qv 02D5:@TMenuView@prevItem$qv 032D:@TMenuView@trackKey$q7Boolean 036E:@TMenuView@mouseInOwner$qm6TEvent 0405:@TMenuView@mouseInMenus$qm6TEvent 0459:@TMenuView@topMenu$qv 048F:@TMenuView@execute$qv 0AAC:@TMenuView@findItem$qzc 0B3E:@TMenuView@getItemRect$qn9TMenuItem 0BA6:@TMenuView@getHelpCtx$qv 0C0A:@TMenuView@getPalette$xqv 0C35:@TMenuView@updateMenu$qn5TMenu 0CB6:@TMenuView@do_a_select$qm6TEvent 0D46:@TMenuView@handleEvent$qm6TEvent 0E8B:@TMenuView@findHotKey$qn9TMenuItemus 0F16:@TMenuView@hotKey$qus 0F39:@TMenuView@newSubView$qmx5TRectn5TMenun9TMenuView 0F5E:@TMenuView@writeMenu$qm8opstreamn5TMenu 104E:@TMenuView@write$qm8opstream 107F:@TMenuView@readMenu$qm8ipstream 1220:@TMenuView@read$qm8ipstream 126E:@TMenuView@build$qv 12A3:@TMenuView@$bctr$q14StreamableInit
+            320050..........598956088946060BC27503E9:
+              0. 0E E4AE 0CDC 0000:@TListViewer@$bctr$qmx5TRectusn10TScrollBart3 00F0:@TListViewer@changeBounds$qmx5TRect 0134:@TListViewer@draw$qv 03F5:@TListViewer@focusItem$qs 0490:@TListViewer@focusItemNum$qs 04CD:@TListViewer@getPalette$xqv 04F8:@TListViewer@getText$qnzcss 0504:@TListViewer@isSelected$qs 051C:@TListViewer@handleEvent$qm6TEvent 0945:@TListViewer@selectItem$qs 096B:@TListViewer@setRange$qs 09BD:@TListViewer@setState$qus7Boolean 0A79:@TListViewer@shutDown$qv 0AA4:@TListViewer@write$qm8opstream 0B80:@TListViewer@read$qm8ipstream 0C48:@TListViewer@build$qv 0C7D:@TListViewer@$bctr$q14StreamableInit
+            340050..........598956088946060BC27503E9:
+              0. 1E 9BE2 0234 0000:@THistoryViewer@$bctr$qmx5TRectn10TScrollBart2us 00C2:@THistoryViewer@getPalette$xqv 00ED:@THistoryViewer@getText$qnzcss 013C:@THistoryViewer@handleEvent$qm6TEvent 01C6:@THistoryViewer@historyWidth$qv
+            3F0050..........598956088946060BC27503E9:
+              0. 1A DB5B 0A05 0000:@THelpViewer@$bctr$qmx5TRectn10TScrollBart2n9THelpFileus 00D0:@THelpViewer@$bdtr$qv 015F:@THelpViewer@changeBounds$qm5TRect 01B5:@THelpViewer@draw$qv 0434:@THelpViewer@getPalette$xqv 045F:@THelpViewer@makeSelectVisible$qim6TPointmucmi 0534:@THelpViewer@switchToTopic$qi 05EB:@THelpViewer@handleEvent$qm6TEvent 088B:@THelpWindow@$bctr$qn9THelpFileus 09A9:@THelpWindow@getPalette$xqv
+            B20050..........598956088946060BC27503E9:
+              0. 23 BFEF 088C 0000:@TFileEditor@$bctr$qmx5TRectn10TScrollBart2n10TIndicatornxzc 00B5:@TFileEditor@doneBuffer$qv 00CC:@TFileEditor@handleEvent$qm6TEvent 0133:@TFileEditor@initBuffer$qv 0150:@TFileEditor@loadFile$qv 02A3:@TFileEditor@save$qv 02CA:@TFileEditor@saveAs$qv 0389:@TFileEditor@saveFile$qv 04FE:@TFileEditor@setBufSize$qus 05ED:@TFileEditor@shutDown$qv 0629:@TFileEditor@updateCommands$qv 0667:@TFileEditor@valid$qus 06D7:@TFileEditor@write$qm8opstream 0739:@TFileEditor@read$qm8ipstream 0811:@TFileEditor@build$qv 0846:@TFileEditor@$bctr$q14StreamableInit
+      0A0B460C7432C45E0A26FF770226FF37..........5959C45E0A26:
+        0. 07 4F19 003F 0000:@TDirCollection@freeItem$qnv
+      0E050900FF7610508B460A050900FF760C50..........83C4080B:
+        0. 0A 1A40 023B 0000:@TFileCollection@compare$qnvt1 00BA:@TFileCollection@build$qv 0161:@TFileCollection@writeItem$qnvm8opstream 01C8:@TFileCollection@readItem$qm8ipstream
+        1. 0A 2ED7 026F 0000:@TFileCollection@compare$qnvt1 00C6:@TFileCollection@build$qv 018A:@TFileCollection@writeItem$qnvm8opstream 01F7:@TFileCollection@readItem$qm8ipstream
+    56:
+      06F7C2FF007538B108D3EA83FA027504B0F0EB2D83FA10721083FA:
+        0. 0A 5B9E 009D 0000:@getAltChar$qus 0048:@getAltCode$qzc
+      0A8B46:
+        060B46087419C45E0626C707....F7C20100740BFF760853:
+          0. 00 0000 002E 0000:@TObject@$bdtr$qv 0029:@TObject@shutDown$qv
+        08:
+          5DCB558BEC..........33D233C05DCB558BEC83EC08A1:
+            0. 00 0000 038F 0000:@HistRec@$bnew$quin7HistRec 000B:@HistRec@$bnew$qui 0019:@advanceStringPointer$qv 008C:@deleteString$qv 00EA:@insertString$qucnxzc 021D:@startId$quc 0236:@historyCount$quc 025A:@historyAdd$qucnxzc 02B2:@historyStr$quci 02E9:@clearHistory$qv 0369:@initHistory$qv 037F:@doneHistory$qv
+          EB005DCB558BEC..........33D233C0EB005DCB558BEC:
+            0. 02 725B 038A 0000:@HistRec@$bnew$quin7HistRec 000D:@HistRec@$bnew$qui 001D:@advanceStringPointer$qv 009F:@deleteString$qv 00F8:@insertString$qucnxzc 020C:@startId$quc 0225:@historyCount$quc 024F:@historyAdd$qucnxzc 02AC:@historyStr$quci 02EA:@clearHistory$qv 035C:@initHistory$qv 0376:@doneHistory$qv
+  B0:
+    0750FF36....FF36....FF7608FF7606..........83C40A5DCB558B:
+      0. 45 1116 0111 0000:@TRadioButtons@draw$qv 001E:@TRadioButtons@mark$qi 0038:@TRadioButtons@press$qi 0047:@TRadioButtons@movedTo$qi 0056:@TRadioButtons@setData$qnv 007D:@TRadioButtons@build$qv 00B8:@TRadioButtons@$bctr$q14StreamableInit
+      1. 43 C87D 00F3 0000:@TRadioButtons@draw$qv 001E:@TRadioButtons@mark$qi 0036:@TRadioButtons@press$qi 0045:@TRadioButtons@movedTo$qi 0054:@TRadioButtons@setData$qnv 0078:@TRadioButtons@build$qv 00AD:@TRadioButtons@$bctr$q14StreamableInit
+    5850FF36....FF36....FF7608FF7606..........83C40A5DCB558B:
+      0. 49 6AA7 00EE 0000:@TCheckBoxes@draw$qv 001E:@TCheckBoxes@mark$qi 003D:@TCheckBoxes@press$qi 005A:@TCheckBoxes@build$qv 0095:@TCheckBoxes@$bctr$q14StreamableInit
+      1. 42 8969 00D0 0000:@TCheckBoxes@draw$qv 001E:@TCheckBoxes@mark$qi 003B:@TCheckBoxes@press$qi 0055:@TCheckBoxes@build$qv 008A:@TCheckBoxes@$bctr$q14StreamableInit
+  B403B700..........8BC1EB005DCB558BECB4018B4E06..........5D:
+    0. 15 651A 0269 0000:@TDisplay@getCursorType$qv 0012:@TDisplay@setCursorType$qus 0021:@TDisplay@clearScreen$qucuc 003C:@TDisplay@videoInt$qv 0047:@TDisplay@getRows$qv 0064:@TDisplay@getCols$qv 0075:@TDisplay@getCrtMode$qv 0097:@TDisplay@setCrtMode$qus 00FD:@TScreen@$bctr$qv 013E:@TScreen@resume$qv 0156:@TScreen@$bdtr$qv 017E:@TScreen@suspend$qv 01A3:@TScreen@fixCrtMode$qus 01BB:@TScreen@setCrtData$qv 023F:@TScreen@clearScreen$qv 0252:@TScreen@setVideoMode$qus
+  B8:
+    020050B8....50B8....50FF36....FF36....1EB8....50:
+      0. 00 0000 00CB 0000:? (0088: B8)
+      1. 00 0000 00AA 0000:? (0088: 5D)
+      2. 00 0000 0026 0000:?
+    040050B8....50B8....50FF36....FF36....1EB8....50:
+      0. 00 0000 0026 0000:?
+    0B00:
+      5DCB:
+        0. 00 0000 0008 0000:@defEditorDialog$qie
+      EB005DCB:
+        0. 00 0000 000A 0000:@defEditorDialog$qie
+    0C0050B8....50B8....50FF36....FF36....1EB8....50:
+      0. 00 0000 0026 0000:?
+  C45E0626F7471001007422C45E0A26FF770726FF7705FF7608FF7606:
+    0. 00 0000 0034 0000:@hasMouse$qn5TViewnv (0013: CB)
+    1. 00 0000 0036 0000:@hasMouse$qn5TViewnv (0013: 00)
+  FF760CFF760A:
+    C45E06:
+      0626FF37..........83C4085DCB:
+        0. 00 0000 001A 0000:@TDirCollection@indexOf$qn9TDirEntry (REF 0011: @TNSCollection@indexOf$qnv)
+        1. 00 0000 001A 0000:@TDirCollection@insert$qn9TDirEntry (REF 0011: @TNSCollection@insert$qnv)
+      26FF770226FF37..........83C408EB005DCB:
+        0. 00 0000 001F 0000:@TDirCollection@indexOf$qn9TDirEntry (REF 0014: @TNSCollection@indexOf$qnv)
+        1. 00 0000 001F 0000:@TDirCollection@insert$qn9TDirEntry (REF 0014: @TNSCollection@insert$qnv)
+    FF7608FF7606..........83C408:
+      5DCB:
+        0. 00 0000 0019 0000:@TFileCollection@indexOf$qn10TSearchRec (REF 0010: @TNSSortedCollection@indexOf$qnv)
+        1. 00 0000 0019 0000:@TFileCollection@insert$qn10TSearchRec (REF 0010: @TNSSortedCollection@insert$qnv)
+      EB005DCB:
+        0. 00 0000 001B 0000:@TFileCollection@indexOf$qn10TSearchRec (REF 0010: @TNSSortedCollection@indexOf$qnv)
+        1. 00 0000 001B 0000:@TFileCollection@insert$qn10TSearchRec (REF 0010: @TNSSortedCollection@insert$qnv)
+      FF760CFF760AFF7608:
+        0. 03 1DC1 14FE 0000:@THelpTopic@write$qm8opstream 002D:@THelpTopic@read$qm8ipstream 006F:@THelpTopic@build$qv 00D0:@THelpTopic@$bctr$qv 014C:@THelpTopic@readParagraphs$qm8ipstream 023C:@THelpTopic@readCrossRefs$qm8ipstream 02D5:@THelpTopic@disposeParagraphs$qv 0335:@THelpTopic@$bdtr$qv 03AE:@THelpTopic@addCrossRef$q9TCrossRef 046F:@THelpTopic@addParagraph$qn10TParagraph 04F4:@THelpTopic@getCrossRef$qim6TPointmucmi 05D5:@THelpTopic@getLine$qi 06BA:@THelpTopic@getNumCrossRefs$qv 06C6:@THelpTopic@numLines$qv 0732:@THelpTopic@setCrossRef$qim9TCrossRef 0775:@THelpTopic@setNumCrossRefs$qi 081A:@THelpTopic@setWidth$qi 0829:@THelpTopic@writeParagraphs$qm8opstream 08E0:@THelpTopic@writeCrossRefs$qm8opstream 09D3:@isBlank$qzc 09EC:@scan$qnzcizc 0A42:@textToLine$qnviinzc 0A6E:@THelpTopic@wrapText$qnzcimi7Boolean 0B80:@THelpIndex@write$qm8opstream 0BE0:@THelpIndex@read$qm8ipstream 0C78:@THelpIndex@build$qv 0CD9:@THelpIndex@$bdtr$qv 0D2C:@THelpIndex@$bctr$qv 0D7E:@THelpIndex@position$qi 0DBC:@THelpIndex@add$qil 0EA1:@THelpFile@$bctr$qm8fpstream 1073:@THelpFile@$bdtr$qv 1290:@THelpFile@getTopic$qi 1333:@THelpFile@invalidTopic$qv 13DB:@THelpFile@recordPositionInIndex$qi 1406:@THelpFile@putTopic$qn10THelpTopic 14B6:@notAssigned$qm8opstreami
+    ..........59595DCB:
+      0. 00 0000 0012 0000:@TFileCollection@freeItem$qnv
+891E....893E....8C06....03CB33D2C43E....0BC07C1A263B450A7D140BDB:
+  0. 24 D8AC 0375 0000:@TView@writeView$qv 022E:@TView@writeBuf$qssssnxv 0268:@TView@writeChar$qsszcucs 02C9:@TView@writeLine$qssssnxv 02FB:@TView@writeStr$qssnxzcuc
+8BDC36:
+  834704:
+    AAEA........8BDC36834704B2EA........8BDC36834704C6EA:
+      0. 00 0000 0024 0000:@fpstream@$vsf
+    B2EA........8BDC36834704C6EA:
+      0. 00 0000 0018 0000:@ifpstream@$vsf
+    BEEA........8BDC36834704C6EA:
+      0. 00 0000 0018 0000:@ofpstream@$vsf
+    C4EA........:
+      8BDC36834704:
+        AEEA........:
+          8BDC36834704A4EA:
+            0. 00 0000 0024 0000:@fpstream@$vsf
+          ..:
+            0. 00 0000 0018 0000:@ifpstream@$vsf
+        BAEA:
+          0. 00 0000 0018 0000:@ofpstream@$vsf
+      ..:
+        0. 00 0000 000C 0000:@fpbase@$vsf
+    C6EA:
+      0. 00 0000 000C 0000:@fpbase@$vsf
+    CBEA........8BDC36834704CBEA........8BDC36834704:
+      CBEA:
+        0. 00 0000 0048 0000:@TTerminal@$vsf
+      FEEA:
+        0. 00 0000 003C 0000:@TTextDevice@$vsf
+    E4EA........8BDC36834704ECEA:
+      0. 00 0000 0018 0000:@iopstream@$vsf
+    EAEA........:
+      8BDC36834704E0EA:
+        0. 00 0000 0018 0000:@iopstream@$vsf
+      ..:
+        0. 00 0000 000C 0000:@ipstream@$vsf
+    ECEA:
+      0. 00 0000 000C 0000:@ipstream@$vsf
+    F6EA........:
+      8BDC36834704F6EA........8BDC36834704F6EA:
+        0. 00 0000 0024 0000:@TPWrittenObjects@$vsf
+      ..:
+        0. 00 0000 000C 0000:@opstream@$vsf
+    F8EA........:
+      8BDC36834704F8EA........8BDC36834704F8EA:
+        0. 00 0000 0078 0000:@TSortedCollection@$vsf (0046: F0)
+        1. 00 0000 009C 0000:@TStringCollection@$vsf (0046: F4)
+      ..:
+        0. 00 0000 000C 0000:@opstream@$vsf
+    FAEA........:
+      8BDC36834704FEEA........8BDC36834704FEEA:
+        0. 00 0000 0030 0000:@TCollection@$vsf
+      ..:
+        0. 00 0000 000C 0000:@otstream@$vsf
+    FCEA........:
+      8BDC36834704FCEA........8BDC36834704FCEA:
+        0. 00 0000 003C 0000:@TDirCollection@$vsf (0010: 8B)
+        1. 00 0000 0030 0000:@TCollection@$vsf
+      ..:
+        0. 00 0000 000C 0000:@otstream@$vsf
+    FEEA........8BDC36834704FEEA........8BDC36834704FEEA:
+      0. 00 0000 0048 0000:@TTerminal@$vsf (0023: EA)
+      1. 00 0000 0024 0000:@TParamText@$vsf (REF 0014: @TParamText@read$qm8ipstream)
+      2. 00 0000 0024 0000:@THelpWindow@$vsf (REF 0008: @TWindow@write$qm8opstream)
+      3. 00 0000 0024 0000:@TEditor@$vsf (REF 0014: @TEditor@read$qm8ipstream)
+      4. 00 0000 0024 0000:@THelpViewer@$vsf (REF 0008: @TScroller@write$qm8opstream)
+      5. 00 0000 003C 0000:@TTextDevice@$vsf (REF 0020: @TScroller@write$qm8opstream)
+      6. 00 0000 0024 0000:@TFileInputLine@$vsf (REF 0014: @TInputLine@read$qm8ipstream)
+  C45F04268B47FE05:
+    F2FF8BDC36014704EA........8BDC36C45F04268B:
+      0. 0C 463D 009C 0000:@TSortedCollection@$vsf (0052: FA)
+      1. 0C 463D 00CC 0000:@TStringCollection@$vsf (0052: F8)
+    F6FF8BDC36014704EA........8BDC36C45F04268B:
+      0. 0C A302 0048 0000:@TPWrittenObjects@$vsf
+    F8FF8BDC36014704EA........8BDC36C45F04268B:
+      0. 0C 76D9 0054 0000:@TDirCollection@$vsf (0016: FE)
+      1. 0C 76D9 0048 (!)0000:? (0016: 04)
+B403B700..........8BC1CB558BECB4018B4E06..........5DCB558BECB707:
+  0. 0F 09F9 022C 0000:@TDisplay@getCursorType$qv 000C:@TDisplay@setCursorType$qus 001B:@TDisplay@clearScreen$qucuc 0036:@TDisplay@videoInt$qv 003D:@TDisplay@getRows$qv 0054:@TDisplay@getCols$qv 005F:@TDisplay@getCrtMode$qv 007B:@TDisplay@setCrtMode$qus 00E1:@TScreen@$bctr$qv 0120:@TScreen@resume$qv 0143:@TScreen@$bdtr$qv 016D:@TScreen@suspend$qv 018B:@TScreen@fixCrtMode$qus 01A1:@TScreen@setCrtData$qv 0206:@TScreen@clearScreen$qv 0215:@TScreen@setVideoMode$qus
+B8:
+  020050B8....50B8....50FF36....FF36....1EB8....50..........83C4:
+    0. 02 88ED 0022 0000:?
+    1. 06 CB19 00C7 0000:? (007F: B8)
+    2. 06 CB19 00A6 0000:? (007F: CB)
+  080050B8....50B8....50FF36....FF36....1EB8....50..........83C4:
+    0. 02 88ED 0022 0000:?

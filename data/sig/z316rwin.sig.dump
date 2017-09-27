@@ -1,0 +1,3118 @@
+1EB8....50E8....83C404:
+  1EB8....50E8....83C404C20400:
+    0. 00 0000 0019 0000:_flush_stdio__7ostreamNv
+  C3558BEC1EB8....50FF7604E8....83C4065DC355:
+    0. 0C 9FAC 008D 0000:_getchar 000C:_putchar 001F:_putc 0033:_getc 0044:_ferror 0053:_feof 0062:_clearerr 006F:_rewind
+31C050B08150:
+  1EB8....50E8....31C050501EB8....501EB8....50E8....C4:
+    0. 01 8709 0047 0000:__STIiosst1_cpp_ 002E:__STDiosst1_cpp_
+  B8....50E8....31C050B8....50B8....50E8....8B1E....C7:
+    0. 02 0D42 003C 0000:__STIiosst1_cpp_ 0025:__STDiosst1_cpp_
+33:
+  C0:
+    C3B8....E9....90558BEC8B46048B5E0683FB017404F7E3722150E8:
+      0. 29 F25F 02DF 000A:_calloc 0042:___mallocf 0062:_malloc 0134:_realloc 01D6:___freef 01E7:_free
+    CBB8....EA........9045558BEC8B46068B5E0883FB017404F7E3722450:
+      0. 00 0000 02E8 000C:_calloc 0049:___mallocf 006A:_malloc 0142:_realloc 01EF:___freef
+  DB:
+    45558BECE8....535250..........0BC0741889460650..........0BD2:
+      0. 08 8452 0111 0000:_dos_alloc 0038:_dos_calloc 004B:_dos_free 0074:_dos_setblock 00B0:__copy 00F1:_dos_avail
+    558BECE8....535250..........0BC0741889460450..........0BD274:
+      0. 07 32E0 0103 0000:_dos_alloc 0036:_dos_calloc 0046:_dos_free 006D:_dos_setblock 00A7:__copy 00E6:_dos_avail
+  F68BF9F7C7FF7F742881E7807F81FF807F75258BF9F7C740007405BE0800EB:
+    0. 9E 9B1D 0669 0000:fget_dtype_pair 007E:__FTST@ 0085:__FTST0EXC@ 0088:__FTST0@ 00D4:__FCMPEXC@ 00D8:__FCMP@ 0163:__FSUB@ 0188:__FADD@ 02E5:__FDIV@ 0445:__FMUL@ 0551:__FNEG@ 0555:__INTFLT@ 0564:__UNSFLT@ 056D:__LNGFLT@ 0576:__FLTUNS@ 0590:__FLTINT@ 05BF:__FLTLNG@
+    1. 9E F370 0661 0000:fget_dtype_pair 007E:__FTST@ 0085:__FTST0EXC@ 0088:__FTST0@ 00D4:__FCMPEXC@ 00D8:__FCMP@ 0163:__FSUB@ 0188:__FADD@ 02E5:__FDIV@ 0445:__FMUL@ 0551:__FNEG@ 0555:__INTFLT@ 0560:__UNSFLT@ 0567:__LNGFLT@ 056E:__FLTUNS@ 0588:__FLTINT@ 05B7:__FLTLNG@
+45558BEC:
+  06:
+    8CDB8EC38B5E088B460626894718268B4704E8....268947080653:
+      0. 06 B941 0549 0000:STDIOFONTSET 0089:STDIOCLEAR 00DF:STDIOSET 01DF:STDIOGET 01F5:STDIOHOOKSET 0215:STDIOHOOKGET 022F:STDIORELEASE 0470:___wincio_rw 04DF:___wincio_rwx
+    C45E088B460626894718268B4704E8....26894708065326FF7708:
+      0. 02 171A 04C7 0000:STDIOFONTSET 0085:STDIOCLEAR 00D7:STDIOSET 01D3:STDIOGET 01E5:STDIOHOOKSET 0201:STDIOHOOKGET 0217:STDIORELEASE 0454:___wincio_rw
+  1EC5560CB41A..........C556068B4E0AB44E..........1FEB1745:
+    0. 09 3599 0042 0000:__dos_findfirst 001F:__dos_findnext
+  5657:
+    068A4606B435..........8B7608891C8B760A8C04075F5E5D4D:
+      0. 13 6685 026D 0000:_int_getvector 0021:_int_setvector 003C:_int_service 00DA:_int_intercept 01A5:_int_restore 0202:_int_on 0204:_int_off 0206:_int_prev
+    1E078B3E....0BFF754833F6A1....0BC07511..........8916:
+      0. 00 0000 008F 0000:_getenv
+    833E....00751CA1....0BC07512..........0BD27435A3:
+      0. 02 2421 006E 0000:_getenv
+    8A4606B435..........8CC0C4760826891CC4760C2689045F5E:
+      0. 15 F90A 0299 0000:_int_getvector 0023:_int_setvector 003E:_int_service 00E3:_int_intercept 01C8:_int_restore 0231:_int_on 0233:_int_off 0235:_int_prev
+    8B7606BFFFFF33C050FF760AFF760856..........83C4083BD7:
+      0. 0C 3ACE 0065 0000:_chsize 0042:_chmod
+      1. 0B 84D8 0062 0000:_chsize 0041:_chmod
+    B419..........8AD00441A2....FEC2BE....B447:
+      0. 03 5F8E 0072 0000:_getcwd
+      1. 03 FF27 0077 0000:_getcwd
+  57:
+    1EC57E068B158B4D02B42B..........32E41F5F8BE55D4DCB4555:
+      0. 05 C0FD 006E 0000:_dos_setdate 001E:_dos_getdate 0038:_dos_settime 0053:_dos_gettime
+    33DBB459..........:
+      1EC57E068CDA0BD7740A890586FB895D0288:
+        0. 07 185D 0027 0000:dosexterr
+      8B7E060BFF740A890586FB895D02886D045F:
+        0. 03 9134 0023 0000:dosexterr
+    8B:
+      460C8B5E0A8B4E088B56068BF881E7F07F74:
+        3681FFF07F744ED1:
+          0. 70 E5C9 037B 0000:_frexp 007E:_logb 00F8:_rint 01FF:___flt_rounds 0211:_nextafter
+        3781FFF07F744FD1:
+          0. 71 2373 037C 0000:_frexp 007F:_logb 00F9:_rint 0200:___flt_rounds 0212:_nextafter
+      7E068B158B4D02B42B..........32E45F8BE55D4DCB45558BEC:
+        0. 03 7C1A 0069 0000:_dos_setdate 001C:_dos_getdate 0035:_dos_settime 004F:_dos_gettime
+    B430..........A3....E8....5F5D4DCB45558BEC8BEC8A4604B4:
+      0. 01 1078 006C 0000:__cinit 0016:__exit 003E:__dodtors 005C:___faterr
+  803E....007405B80100EB4AB86735..........5657BF0A00BE:
+    0. 1E 4F49 016A 0000:_emm_init 0067:_emm_getpagemapsize 0086:_emm_maphandle 00A5:_emm_getunalloc 00BF:_emm_gettotal 00C7:_emm_gethandlecount 00CB:_emm_physpage 00EC:_emm_allocpages 00FD:_emm_deallocpages 010E:_emm_gethandlepages 0112:_emm_savepagemap 0116:_emm_restorepagemap 011A:_emm_getversion 0120:_emm_gethandlespages 0133:_emm_getpagemap 0138:_emm_setpagemap 014C:_emm_getsetpagemap 015F:_emm_term (012A: 00)
+    1. 1E 4F49 0169 0000:_emm_init 0067:_emm_getpagemapsize 0086:_emm_maphandle 00A5:_emm_getunalloc 00BF:_emm_gettotal 00C7:_emm_gethandlecount 00CB:_emm_physpage 00EC:_emm_allocpages 00FD:_emm_deallocpages 010E:_emm_gethandlepages 0112:_emm_savepagemap 0116:_emm_restorepagemap 011A:_emm_getversion 0120:_emm_gethandlespages 0131:_emm_getpagemap 0136:_emm_setpagemap 014C:_emm_getsetpagemap 015E:_emm_term (012A: CB)
+  83:
+    3E....0074219BDF460E9BDD46069BD9FD9BDD5E069BDDD88B460C:
+      0. 1B 39D7 00CD 0000:_ldexp
+    C4FC568B7606B801005048505056..........83C4088946FE8956:
+      0. 13 3900 0057 0000:_filelength
+    EC:
+      02:
+        509BDD7EFE8326....3F9B8B46FE0906....9BDED99BDD7EFE:
+          0. 1B 6209 0124 0000:__FCOMPP@ 002D:__FTEST0@ 0052:__FTEST@ 0071:__DTST87@ 007A:__87TOPSW@ 008F:__DBLTO87@ 009F:__DBLINT87@ 00BC:__DBLLNG87@ 00D4:__FLTTO87@ 00E2:__status87 00F0:__clear87 00FE:__control87 0120:__fpreset
+        8B5E0683C30F83E3F074508BD3B104D3EB8BCB895606A1:
+          0. 06 6878 00B2 0000:_sbrk
+      04:
+        8B5E080BDB74088B47048B5706EB0953..........83C40289:
+          0. 09 6C6A 0098 0000:_utime
+        C45E0A8CC00BC3740A268B4704268B5706EB0A5353:
+          0. 00 0000 00A5 0000:_utime
+  8A4606:
+    8B5E083C0A74165D4DFF4F0278448BD78B3F8E470CAA893F8B:
+      0. 0C 8D8C 00C2 0000:_fputc 0070:_fgetc
+    8CD9C55E083C0A74155D4DFF4F0478488BD7C43FAA893F8ED9:
+      0. 0D C942 00D2 0000:_fputc 007A:_fgetc
+  8B:
+    4E0633C0CD31730333C0485D4DCB45558BECB802008B5E06EBEA45:
+      0. FF A6D1 0361 0000:_dpmi_AllocLDTDescriptors 0013:_dpmi_SegToDescriptor 001F:_dpmi_GetNextDescriptorIncremen 0028:_dpmi_SetDescriptorRights 0034:_dpmi_CreateCodeSegAlias 003D:_dpmi_GetDescriptor 005F:_dpmi_SetDescriptor 0068:_dpmi_AllocThisLDTDescriptor 0071:_dpmi_DOSAlloc 0096:_dpmi_DOSFree 00A9:_dpmi_DOSRealloc 00BC:_dpmi_GetRealModeVector 00CF:_dpmi_SetRealModeVector 00E7:_dpmi_GetExceptionHandler 00F0:_dpmi_SetExceptionHandler 00F9:_dpmi_GetProtectedModeVector 0102:_dpmi_SetProtectedModeVector 010B:_dpmi_SimRealModeInterrupt 0126:_dpmi_CallRealModeProcWithFarRe 0133:_dpmi_CallRealModeProcWithIRet 013E:_dpmi_RealModeCallBackAlloc 0162:_dpmi_RealModeCallBackFree 0172:_dpmi_GetStateSaveRestoreInfo 01A6:_dpmi_GetRawModeSwitchInfo 01D3:_dpmi_GetVersionInfo 01FF:_dpmi_GetFreeMemInfo 020B:_dpmi_MemBlockAlloc 023F:_dpmi_MemBlockFree 024F:_dpmi_MemBlockRealloc 0263:_dpmi_LockLinearRegion 0279:_dpmi_UnlockLinearRegion 0282:_dpmi_UnlockRealModeRegion 028B:_dpmi_LockRealModeRegion 0294:_dpmi_IsPageSize 02AC:_dpmi_MarkAsDemandPage 02B5:_dpmi_DiscardPage 02BE:_dpmi_IsLinearAddress 02E2:_dpmi_DisableVirtualInterruptSt 02EC:_dpmi_EnableVirtualInterruptSta 02F6:_dpmi_IsVirtualInterruptState 0300:_dpmi_GetVendorAPI 0323:_dpmi_SetDebugWatchPoint 0343:_dpmi_ClearDebugWatchPoint 034D:_dpmi_IsDebugWatchPointState 0357:_dpmi_ResetDebugWatchPoint
+    560AB41A..........8B56068B4E08B44E..........EB1545558B:
+      0. 06 5123 003E 0000:__dos_findfirst 001D:__dos_findnext
+    5E06:
+      B445..........7305A3....1BC05D4DCB45558BEC8B5E068B:
+        0. 04 D5F8 002D 0000:_dup 0018:_dup2
+      B80600CD31730433C98BD18BC28BD15D4DCB45558BECB80100:
+        0. 31 C4D2 0051 0000:_dpmi_GetBaseAddress 0019:_dpmi_FreeDescriptor 0022:_dpmi_SetSegLimit 002B:_dpmi_SetBaseAddress 0045:_dpmi_IsRealMode
+  9BDD46069BD9FA83EC089BDD7EF89B8B46F8253F000906....9BDD5E:
+    0. 71 A2F0 035C 0000:__sqrt87 0029:__poly87 005D:__chop87 0061:__floor87 0065:__ceil87 0093:__fmod87 00B6:__atan287 0123:__asincos87 0170:_trigerr 019E:__sincostan87 02BC:__log87 02C1:__log1087 02D5:__exp87 02E7:__pow87
+    1. 76 A5E3 0361 0000:__sqrt87 0029:__poly87 0062:__chop87 0066:__floor87 006A:__ceil87 0098:__fmod87 00BB:__atan287 0128:__asincos87 0175:_trigerr 01A3:__sincostan87 02C1:__log87 02C6:__log1087 02DA:__exp87 02EC:__pow87
+  B4:
+    0B..........98F7D85D4DCB45558BEC..........B408EB0C9045:
+      0. 03 9439 014D 0000:_kbhit 0011:_getch 001F:_getche 0034:_dos_set_verify 0047:_dos_get_verify 0056:_dos_set_ctrl_break 0069:_dos_get_ctrl_break 007B:_dos_getdiskfreespace 009E:_dos_abs_disk_read 00F8:_dos_abs_disk_write 00FC:_chdir 0114:_mkdir 0118:_rmdir 011C:__chdrive 013D:__getdrive (0129: CB)
+      1. 03 9439 014F 0000:_kbhit 0011:_getch 001F:_getche 0034:_dos_set_verify 0047:_dos_get_verify 0056:_dos_set_ctrl_break 0069:_dos_get_ctrl_break 007B:_dos_getdiskfreespace 009E:_dos_abs_disk_read 00F8:_dos_abs_disk_write 00FC:_chdir 0116:_mkdir 011A:_rmdir 011E:__chdrive 013F:__getdrive (0129: 5D)
+    19..........32E440:
+      8B5E0689075D4DCB45558BEC8B56064AB40E:
+        0. 00 0000 00A0 0000:_dos_getdrive 0016:_dos_setdrive 002C:_dos_getftime 004C:_dos_setftime 0069:_dos_getfileattr 0089:_dos_setfileattr
+      C45E062689075D4DCB45558BEC8B56064AB4:
+        0. 01 0619 00A8 0000:_dos_getdrive 0017:_dos_setdrive 002D:_dos_getftime 004F:_dos_setftime 006C:_dos_getfileattr 008F:_dos_setfileattr
+    2C..........:
+      5D4D5252BB3C008AC3F6E532ED03C1F7E35B8ADF32:
+        0. 1D CD44 005B 0000:_clock
+      8AC5BB3C00F6E332ED03C18ACEF7E303C112D55250:
+        0. 02 11DC 0083 0000:_time (0060: CB)
+        1. 02 11DC 0085 0000:_time (0060: 5D)
+  BA....B41A..........:
+    1E8E5E088B56068B4E0AB44E..........1F:
+      0. 07 C8AD 0049 0000:_findfirst 0022:_findnext
+    8B56068B4E08B44E..........EB1545558B:
+      0. 02 AF55 0041 0000:_findfirst 001D:_findnext
+  CD115D4DCB45558BECCD125D4DCB45558BEC8A6606:
+    1EC55E0880FC01:
+      0. 50 5412 0070 0000:__bios_equiplist 0009:__bios_memsize 0012:__bios_timeofday 0036:__bios_disk
+    8B5E0880FC0175:
+      0. 4D FD46 006D 0000:__bios_equiplist 0009:__bios_memsize 0012:__bios_timeofday 0034:__bios_disk
+  DBE3B91400E2FED93E....B90A00E2FE33DBA1....80E40F80FC0375:
+    0. 04 BFE0 007A 0000:__8087_init
+  E461508B5E0624FCE6618B4E08E2FE0C02E6618B4E0AE2FE4B75EB58:
+    0. 0C C927 004D 0000:_sound_tone 0025:_sound_beep 0034:_sound_click
+558BEC:
+  06:
+    8CDB8EC38B5E068B460426894718268B4704E8....26894708065326:
+      0. 05 DBE4 0524 0000:STDIOFONTSET 0087:STDIOCLEAR 00DB:STDIOSET 01D9:STDIOGET 01ED:STDIOHOOKSET 0204:STDIOHOOKGET 0218:STDIORELEASE 0454:___wincio_rw 04BE:___wincio_rwx
+    C45E068B460426894718268B4704E8....26894708065326FF77081E:
+      0. 01 A9EA 04A6 0000:STDIOFONTSET 0083:STDIOCLEAR 00D3:STDIOSET 01CD:STDIOGET 01DD:STDIOHOOKSET 01F0:STDIOHOOKGET 0200:STDIORELEASE 0438:___wincio_rw
+  1EC5:
+    560AB41A..........C556048B4E08B44E..........1FEB16558B:
+      0. 07 7B16 003F 0000:__dos_findfirst 001E:__dos_findnext
+    5E:
+      048C078C4F028C5704588947068ED85DC3558BEC56571E1EC55E:
+        0. 13 45FF 0158 0000:_segread 0017:_intdos 003F:_intdosx 0074:_int86 00D7:_int86x 0125:_bdos 0141:_bdosx
+      068C078C4F028C5704588947068ED85DCB45558BEC56571E1EC5:
+        0. 14 0FA8 0160 0000:_segread 0017:_intdos 0040:_intdosx 0076:_int86 00DB:_int86x 012A:_bdos 0148:_bdosx
+  31:
+    C050:
+      1EB8....50FF760AFF7608FF7606FF7604FF760CFF7610FF760E:
+        0. 07 CA18 03A2 0000:_ecvt 002B:_fcvt 0057:__FLOATCVT 0301:__DOEXPONENT 037B:__TRIM0
+      B8....50FF760AFF7608FF7606FF7604FF760CFF760EFF7610E8:
+        0. 00 0000 0346 0000:_ecvt 0024:_fcvt 0049:__FLOATCVT 02AD:__DOEXPONENT 0321:__TRIM0
+      FF76:
+        04E8....8B46045DC20200:
+          0. 00 0000 0013 0000:_ends__NR7ostream (REF 000A: _put__7ostreamNc)
+          1. 00 0000 0013 0000:_ws__NR7istream (REF 000A: _ipfx__7istreamNi)
+        06FF7604E8....8B56068B46045DC20400:
+          0. 00 0000 0019 0000:_ends__NR7ostream (REF 000D: _put__7ostreamNc)
+          1. 00 0000 0019 0000:_ws__NR7istream (REF 000D: _ipfx__7istreamNi)
+    C9:
+      837E040074128B5E04803F00740A837E0600740341EB01498BC15D:
+        0. 97 C051 00B7 0000:_mblen 0021:_mbtowc 004F:_wctomb 0069:_mbstowcs 0090:_wcstombs
+      8B46060B46047413C45E0426803F00740A837E0800740341EB0149:
+        0. AB 793C 00CB 0000:_mblen 0024:_mbtowc 005C:_wctomb 0079:_mbstowcs 00A2:_wcstombs
+  56:
+    1EC576:
+      04C45E088B4E0CE32DB441B65AAC268A17433AC27505E2F5EB:
+        0. 2D B1AC 004D 0000:_memicmp
+      06C45E0A8B4E0EE32DB441B65AAC268A17433AC27505E2F5EB:
+        0. 2D 539C 004D 0000:_memicmp
+    31F6:
+      8B46060B4604750BE8....09C0787931F6EB75C45E04268A470A:
+        0. 27 68B7 0093 0000:_fflush
+      C45E06268B5708268B470689D109C1751581E60400B940005156:
+        0. 07 FB39 0307 0000:_ungetc 0099:_fseek 0229:_ftell 02BD:_fgetpos 02E9:_fsetpos
+    57:
+      068A4604B435..........8B7606891C8B76088C04075F5E5DC355:
+        0. 10 71D2 0251 0000:_int_getvector 001F:_int_setvector 0038:_int_service 00D6:_int_intercept 0191:_int_restore 01E8:_int_on 01EA:_int_off 01EC:_int_prev
+      1E:
+        078B3E....0BFF754633F6A1....0BC07511..........8916:
+          0. 00 0000 0083 0000:_getenv
+        8E5E:
+          048B76068E46088B7E0A8B4E0CD1E9F3A5D1D1F3A41F5F5E:
+            0. 02 5F98 0022 0000:_movedata
+          068B76088E460A8B7E0C8B4E0ED1E9F3A5D1D1F3A41F5F5E:
+            0. 02 1714 0022 0000:_movedata
+        C47E:
+          048BDF33C0B9FFFFF2AE4F8BD7C47E08B9FFFFF2AEF7D149:
+            0. 23 5F74 0043 0000:_strncat
+          068BDF33C0B9FFFFF2AE4F8BD7C47E0AB9FFFFF2AEF7D149:
+            0. 23 ADD9 0043 0000:_strncat
+        C576:
+          04AC3C2074FB3C0972093C0D76F33C2B7501AC8B5E0C0BDB:
+            0. 9B 274D 00E1 0000:_strtoul
+          06AC3C2074FB3C0972093C0D76F33C2B7501AC8B5E0E0BDB:
+            0. 9B AE8E 00E1 0000:_strtoul
+          088B5E068B4E0403F14E8BFE8CD88EC033D232E4FDACF6F3:
+            0. 14 3E25 0034 0000:_div__6_2CompNPUcii
+          0A8B5E088B4E0603F14E8BFE8CD88EC033D232E4FDACF6F3:
+            0. 14 FCE3 0034 0000:_div__6_2CompFPUcii
+          0E8CD88EC033DB8AC38B4E048B7E0AF3AAAC0AC0742950EB:
+            0. 67 E789 0087 0000:_xlate__6_2CompNPcPUciii
+          108CD88EC033DB8AC38B4E068B7E0CF3AAAC0AC0742950EB:
+            0. 67 6DF6 0087 0000:_xlate__6_2CompFPcPUciii
+      833E....00751CA1....0BC07512..........0BD27435A3....89:
+        0. 01 CF85 0064 0000:_getenv
+      8A4604B435..........8CC0C4760626891CC4760A2689045F5E5D:
+        0. 12 EB63 027C 0000:_int_getvector 0021:_int_setvector 003A:_int_service 00DF:_int_intercept 01B3:_int_restore 0216:_int_on 0218:_int_off 021A:_int_prev
+      8B:
+        46:
+          0483C00C8B5E048B4F0EF6471880742F89CF83C7FF8B770489:
+            0. 3A 58C0 0074 0000:_flushbuf__7filebufNv
+          060B4604:
+            7464C45E0426C7470A....268C5F0C26C4770626C7:
+              0. 01 5CB6 008B 0000:___dt__8iostreamNv
+            75:
+              03E9:
+                8300C45E0426C74738....268C5F3A26C477:
+                  0. 04 A4D6 0115 0000:___dt__8ifstreamNv (REF 0044: ___dt__7istreamNv)
+                  1. 04 A4D6 0115 0000:___dt__8ofstreamNv (REF 0044: ___dt__7ostreamNv)
+                8D00C45E0426C74742....268C5F4426C747:
+                  0. 01 B34D 0129 0000:___dt__7fstreamNv
+              08C74604....8C5E06803E....00750AFE06:
+                0. 01 3E9B 0223 0000:_tmpnam 008D:_tmpfile 00DC:_tempnam
+              16B8:
+                800050E8....89D109C18956068946047503:
+                  0. 1F 69BC 00D1 0000:___ct__8ifstreamNiPcii (REF 0068: ___ct__7istreamNv)
+                  1. 1F 69BC 00D1 0000:___ct__8ofstreamNiPcii (REF 0068: ___ct__7ostreamNv)
+                8A0050E8....89D109C18956068946047503:
+                  0. 1F 13CF 00E5 0000:___ct__7fstreamNiPcii
+        4E:
+          0CD1E976:
+            71D1E18B46088B560A8BD80BDA740FA801755F0BD2:
+              0. 0B 22FB 00DD 0000:__beginthread 0088:threadstart 00D1:__endthread
+            74D1E18B46088B560A8BD80BDA740FA80175620BD2:
+              0. 0B 4652 00EA 0000:__beginthread 008B:threadstart 00DE:__endthread
+          0ED1E976:
+            75D1E18B460A8B560C8BD80BDA740FA80175630BD2:
+              0. 0A 3EFF 00E7 0000:__beginthread 008E:threadstart 00DB:__endthread
+            78D1E18B460A8B560C8BD80BDA740FA80175660BD2:
+              0. 0A 15DC 00F4 0000:__beginthread 0091:threadstart 00E8:__endthread
+        56:
+          068B4604E8....:
+            50535152E8....83C408E8....5F5E5DC355:
+              0. 13 A1C0 02BA 0000:_sqrtf 001F:_sqrt 026E:_hypot (0285: 5D)
+              1. 13 A1C0 02B9 0000:_sqrtf 001F:_sqrt 026D:_hypot (0285: C3)
+            83FE00741183FE03750883CA40830E....01:
+              0. 66 6748 0244 0000:_rintf 00DD:___fpclassify_f 012A:_nextafterf
+          088B4606E8....83FE00741183FE03750883CA40830E....01:
+            0. 66 1111 0244 0000:_rintf 00DD:___fpclassify_f 012A:_nextafterf
+        5E:
+          04:
+            8B770831C989DF83C70AEB07803C0A750141468B153BD677:
+              0. 09 8044 0029 0000:_newlines__7filebufNv
+            F64718807405BE0510EB03BE040856E8....83C40289C709:
+              0. 1A B4DC 0045 0000:_doallocate__7filebufNv
+          068B7E041E0730C0B9FFFFF2AEF7D14989CA8BF20376048A04:
+            0. 1C 71E9 003C 0000:_strrchr
+        76:
+          04:
+            09F675014656E8....83C40289C709FF750D833E....0074:
+              0. 03 629A 002F 0000:___nw__NUi
+            31FF09F6750BE8....09C0785731FFEB538A440624263C02:
+              0. 20 BB89 0072 0000:_fflush
+            837C16FF7411837C0800740656E8....89C783FFFF7509B8:
+              0. 12 53CB 003E 0000:_sync__7filebufNv
+            8A0C4680F92074F880F909720580F90D76EE33C0998BE88A:
+              0. 46 A07C 0066 0000:_atol
+            8B:
+              4E088BFEEB088A56068BDE4688178BD14909D27405803C:
+                0. 09 DE0D 0029 0000:_strnset
+              7E:
+                06:
+                  09F6750DB95A0051E8....89C609C0742609FF7404:
+                    0. 0C 84D3 0095 0000:___ct__14fstream_commonNv
+                  807C12007527837C0200752109FF740583FF077C18:
+                    0. 06 9122 0040 0000:_setbuf__7filebufNpci
+                  8B4608D1E8EB118A148A4C01880D885501B9020001:
+                    0. 0E 72BE 002E 0000:_swab
+                  EB17578A049850E8....83C404B9FFFF3BC1750489:
+                    0. 11 4334 0031 0000:_fputs
+                0A09F6750DB95C0051E8....89C609C0743609FF7402:
+                  0. 0F B3F2 0406 0000:___ct__10istrstreamNpci 0063:___dt__10istrstreamNv 00B0:___ct__10ostrstreamNv 010E:___ct__10ostrstreamNpcii 018B:___dt__10ostrstreamNv 01D8:_str__10ostrstreamNv 0210:_unfreeze__10ostrstreamNv 023C:___ct__9strstreamNv 02A8:___ct__9strstreamNpcii 0350:___dt__9strstreamNv 03A2:_str__9strstreamNv 03DA:_unfreeze__9strstreamNv
+              FEEB:
+                088A4E068BDE46880F803C0075F38BC75F5E5DC3:
+                  0. 00 0000 001F 0000:_strset
+                0D8A049850E8....83C402880446803C0075EE8BC7:
+                  0. 04 D19F 0024 0000:_strupr (REF 0011: _toupper)
+                  1. 04 D19F 0024 0000:_strlwr (REF 0011: _tolower)
+            AC3C2074FB3C0972093C0D76F33C2B7501AC8B5E080BDB74:
+              0. 98 F448 00D7 0000:_strtoul
+            BFFFFF33C050FF7608FF760656E8....83C4083BD775043B:
+              0. 0A 4DE9 005D 0000:_chsize 003C:_chmod
+              1. 09 916B 005A 0000:_chsize 003B:_chmod
+          06:
+            8A0C4680F92074F880F909720580F90D76EE33C0998BE88A:
+              0. 46 E8F0 0066 0000:_atol
+            8B4E048BFE8CD88EC0F9ACF6D01400AAE2F85F5E5DC20400:
+              0. 00 0000 0020 0000:_negate__6_2CompNpUci
+            AC3C2074FB3C0972093C0D76F33C2B7501AC8B5E0A0BDB74:
+              0. 98 3E73 00D7 0000:_strtoul
+          088B:
+            4E068BFE8CD88EC0F9ACF6D01400AAE2F85F5E5DCA0400:
+              0. 00 0000 0020 0000:_negate__6_2CompFpUci
+            5E068B4E0403F14E8BFE8CD88EC033D232E4FDACF6F30A:
+              0. 12 67DA 0032 0000:_div__6_2CompNpUcii
+          0A8B5E088B4E0603F14E8BFE8CD88EC033D232E4FDACF6F30A:
+            0. 12 A51C 0032 0000:_div__6_2CompFpUcii
+          0C8CD88EC033DB8AC38B4E048B7E0AF3AAAC0AC0742950EB4E:
+            0. 65 2E19 0085 0000:_xlate__6_2CompNpcpUciii
+          0E8CD88EC033DB8AC38B4E068B7E0CF3AAAC0AC0742950EB4E:
+            0. 65 32BD 0085 0000:_xlate__6_2CompFpcpUciii
+        7E:
+          04:
+            578B1DFF570E89C683FEFF7403FF45088BC65F5E5DC20200:
+              0. 00 0000 0020 0000:_sbumpc_special__9streambufNv
+            8B:
+              460C0B460A75198B4608F7660683C00250E8....89D109:
+                0. 76 C3AA 009E 0000:__vec_new__NPvUiUipNv_Pv 0054:__vec_delete__NPvUiUipNv_ii
+              76:
+                06:
+                  09FF750DB9:
+                    3E0051E8....89C709C074:
+                      2309F67404:
+                        0. 0E 9008 0050 0000:___ct__7ostreamNv
+                      2809F67404:
+                        0. 0E 9008 0055 0000:___ct__7istreamNv
+                    440051E8....89C709C0743009F67402:
+                      0. 0C 30F5 0066 0000:___ct__8iostreamNv
+                  8B:
+                    D6EB178A0C8A053AC8750689F85F5E5DC346803C:
+                      0. 11 582E 0031 0000:_strpbrk
+                    DF8BD6EB:
+                      118A0C8A053AC8740E46803C0075F28B:
+                        0. 0F 8B9E 002F 0000:_strcspn
+                      128A053AC87409468A0C08C9740AEBF1:
+                        0. 10 5835 0030 0000:_strspn
+                08:
+                  09FF750DB9:
+                    3E0051E8....89C709C074:
+                      2309F67404:
+                        0. 0E 3382 0050 0000:___ct__7ostreamNp9streambuf
+                      2809F67404:
+                        0. 0E 3382 0055 0000:___ct__7istreamNp9streambuf
+                    400051E8....89C709C0742609F67402:
+                      0. 0C F21C 00B3 0000:___ct__18istream_withassignNp9streambuf 0053:___dt__18istream_withassignNv (REF 0033: ___ct__7istreamNv)
+                      1. 0C F21C 00B3 0000:___ct__18ostream_withassignNp9streambuf 0053:___dt__18ostream_withassignNv (REF 0033: ___ct__7ostreamNv)
+                    440051E8....89C709C0743009F67402:
+                      0. 0C 937F 0066 0000:___ct__8iostreamNp9streambuf
+                    460051E8....89C709C0742B09F67402:
+                      0. 0C 2BCA 00C6 0000:___ct__19iostream_withassignNp9streambuf 0061:___dt__19iostream_withassignNv
+                  578B1DFF570A807D1300740F837D02007409FF7502:
+                    0. 01 3E9B 0077 0000:_setbuf__9streambufNpci
+                0A09FF750DB9:
+                  600051E8....89C709C0743909F67402:
+                    0. 0A A6DD 006F 0000:___ct__8ifstreamNii (REF 003B: ___ct__7istreamNv)
+                    1. 0A A6DD 006F 0000:___ct__8ofstreamNii (REF 003B: ___ct__7ostreamNv)
+                  660051E8....89C709C0743E09F67402:
+                    0. 0A 7F0B 007D 0000:___ct__7fstreamNii
+                0C09FF750DB9:
+                  600051E8....89C709C0743C09F67402:
+                    0. 0A A6DD 0072 0000:___ct__8ifstreamNpCcii (REF 003B: ___ct__7istreamNv)
+                    1. 0A A6DD 0072 0000:___ct__8ofstreamNpCcii (REF 003B: ___ct__7ostreamNv)
+                  660051E8....89C709C0744109F67402:
+                    0. 0A 7F0B 0080 0000:___ct__7fstreamNpCcii
+                0E09FF750DB9:
+                  600051E8....89C709C0744509F67402:
+                    0. 0A A6DD 007B 0000:___ct__8ifstreamNipcii (REF 003B: ___ct__7istreamNv)
+                    1. 0A A6DD 007B 0000:___ct__8ofstreamNipcii (REF 003B: ___ct__7ostreamNv)
+                  660051E8....89C709C0744A09F67402:
+                    0. 0A 7F0B 0089 0000:___ct__7fstreamNipcii
+          06:
+            31F68B4D0409C97517837D0C00751181E60400BA40005256:
+              0. 03 4AEA 02B2 0000:_ungetc 0093:_fseek 01EB:_ftell 0272:_fgetpos 0299:_fsetpos
+            8B460C0B460A75188BC7F7660883C00250E8....89D109C1:
+              0. 89 F0EA 0127 0000:___vec_new__NPvUiipNv_Pv 005F:___vec_delete__NPviUipNv_i 00B1:___vec_ctor__NPvUiipNv_Pv 00EC:___vec_dtor__NPvUiipNv_i
+          0A09FF75138B46:
+            06F7660883C00250E8....89C709C074258B:
+              0. 64 0D13 00EE 0000:___vec_new__NpvUiipNv_pv 004C:___vec_delete__NpviUipNv_i 008C:___vec_ctor__NpvUiipNv_pv 00BB:___vec_dtor__NpvUiipNv_i
+            08F7660683C00250E8....89C709C0741B83:
+              0. 57 64B4 007F 0000:__vec_new__NpvUiUipNv_pv 0042:__vec_delete__NpvUiUipNv_ii
+      8C:
+        D88EC08B:
+          76:
+            068B7E0433C0B9FFFFF2AE4F8BD78BFEB9FFFFF2AE:
+              0. 1E F95D 003E 0000:_strncat
+            088B7E0633C0B9FFFFF2AE4F8BD78BFEB9FFFFF2AE:
+              0. 1E BADC 003E 0000:_strncat
+          7E:
+            048B76068BC78B4E083BF777198BD183E10103F24E:
+              0. 1D 7920 003D 0000:_memcpy
+            06:
+              33C0B9FFFFF2AEF7D12BF98BD1B9FFFF8BF78B7E:
+                0. 16 5AD9 0036 0000:_strcat
+              8B:
+                76:
+                  04:
+                    33C0B9FFFFF2AEF7D12BF98B56083BCA72:
+                      0. 13 3A52 0033 0000:_strncmp
+                    8B4E0833C0F3A674061BC0F51500005F5E:
+                      0. 02 5F98 0022 0000:_memcmp
+                  088BC78B4E0A3BF777198BD183E10103F24E:
+                    0. 1D 31AC 003D 0000:_memcpy
+                DF33C0B9FFFFF2AEF7D18B56083BD173028BCA:
+                  0. 23 B1FE 0043 0000:_strncpy
+            08:
+              33C0B9FFFFF2AEF7D12BF98BD1B9FFFF8BF78B7E:
+                0. 16 B90F 0036 0000:_strcat
+              8B:
+                7606:
+                  33C0B9FFFFF2AEF7D12BF98B560A3BCA72:
+                    0. 13 72DE 0033 0000:_strncmp
+                  8B4E0A33C0F3A674061BC0F51500005F5E:
+                    0. 02 1714 0022 0000:_memcmp
+                DF33C0B9FFFFF2AEF7D18B560A3BD173028BCA:
+                  0. 23 80F0 0043 0000:_strncpy
+        DB:
+          C47E:
+            04C576088BC78B4E0C3BF777198BD183E10103F24E03FA:
+              0. 1F A813 003F 0000:_memcpy
+            06C5760A8BC78B4E0E3BF777198BD183E10103F24E03FA:
+              0. 1F E09F 003F 0000:_memcpy
+            08C57604:
+              33C0B9FFFFF2AEF7D12BF98B560C3BCA72028B:
+                0. 13 EB1D 0033 0000:_strncmp
+              8B4E0C33C0F3A674061BC0F51500008EDB5F5E:
+                0. 02 5F98 0022 0000:_memcmp
+            0AC57606:
+              33C0B9FFFFF2AEF7D12BF98B560E3BCA72028B:
+                0. 13 A391 0033 0000:_strncmp
+              8B4E0E33C0F3A674061BC0F51500008EDB5F5E:
+                0. 02 1714 0022 0000:_memcmp
+          C576:
+            068B4E048BFE8CD88EC0F9ACF6D01400AAE2F88EDB5F5E:
+              0. 04 B549 0024 0000:_negate__6_2CompNPUci
+            088B4E068BFE8CD88EC0F9ACF6D01400AAE2F88EDB5F5E:
+              0. 04 778F 0024 0000:_negate__6_2CompFPUci
+      B419..........8AD00441A2....FEC2BE....B447..........72:
+        0. 02 0C0C 006E 0000:_getcwd
+        1. 02 6C6B 0073 0000:_getcwd
+      C4:
+        76:
+          04268A0C4680F92074F780F909720580F90D76ED33C0998BE8:
+            0. 49 FF63 0069 0000:_atol
+          06268A0C4680F92074F780F909720580F90D76ED33C0998BE8:
+            0. 49 B7EF 0069 0000:_atol
+        7E:
+          0833C0B9FFFFF2AEF7D1:
+            2BF98BD1B9FFFF8BF7C47E048BDFF2:
+              0. 19 DE69 0039 0000:_strcat
+            8B560C3BD173028BCA2BD11EC47E04:
+              0. 22 ECC5 0042 0000:_strncpy
+          0A33C0B9FFFFF2AEF7D1:
+            2BF98BD1B9FFFF8BF7C47E068BDFF2:
+              0. 19 C5D9 0039 0000:_strcat
+            8B560E3BD173028BCA2BD11EC47E06:
+              0. 22 60A7 0042 0000:_strncpy
+      FF76:
+        04E8....83C40289C683FEFF7503E98E00FF7606B9....51E8:
+          0. 00 0000 00AC 0000:_fdopen
+        06FF7604:
+          C45E0426C43726FF540E89C783FFFF7407C45E0426:
+            0. 0B 37B0 002B 0000:_sbumpc_special__9streambufNv
+          E8....83C40483F80372218B56068B4604E8....50:
+            0. 0C 8E20 13D3 0000:_log1pf 0051:_log1p 00A2:_logf 00D7:_log 0104:_log10f 013A:_log10 0521:_expm1f 0579:_expm1 05D0:_expf 05EF:_exp 0803:_powf 08D7:_pow (13A6: C3)
+            1. 0C 8E20 1455 0000:_log1pf 0051:_log1p 00A2:_logf 00DD:_log 0110:_log10f 014C:_log10 0562:_expm1f 05BA:_expm1 0611:_expf 0630:_exp 0846:_powf 091A:_pow (13A6: BE)
+    837E04007422B8FFFF50..........B8200050FF7604..........89:
+      0. 05 6A50 00DF 0000:_malloc 0033:_calloc 006D:_realloc 00BE:_free
+    8B:
+      46060B4604:
+        740C837E06107504837E0400720431F6EB1E8B56068B:
+          0. 13 9B55 01AA 0000:_farmalloc 0045:_farcalloc 009B:_farfree 00BE:_farrealloc 01A6:_farcoreleft
+        75:
+          13B8:
+            480050E8....89D109C189560689460474:
+              4B8B:
+                0. 1F 17BE 007F 0000:___ct__7ostreamNv
+              4D8B:
+                0. 21 152D 0081 0000:___ct__7ostreamNP9streambuf
+              518B:
+                0. 1F 17BE 0085 0000:___ct__7istreamNv
+              538B:
+                0. 21 152D 0087 0000:___ct__7istreamNP9streambuf
+            4A0050E8....89D109C189560689460474548B:
+              0. 1B E89D 013A 0000:___ct__18istream_withassignNP9streambuf 0088:___dt__18istream_withassignNv (REF 0050: ___ct__7istreamNv)
+              1. 1B E89D 013A 0000:___ct__18ostream_withassignNP9streambuf 0088:___dt__18ostream_withassignNv (REF 0050: ___ct__7ostreamNv)
+            520050E8....89D109C189560689460474:
+              6A8B:
+                0. 19 A415 00A8 0000:___ct__8iostreamNv
+              6C8B:
+                0. 1B 91BB 00AA 0000:___ct__8iostreamNP9streambuf
+            540050E8....89D109C1895606894604745E8B:
+              0. 1B E782 0158 0000:___ct__19iostream_withassignNP9streambuf 009C:___dt__19iostream_withassignNv
+            800050E8....89D109C1895606894604747A8B:
+              0. 1B 6766 00B8 0000:___ct__8ifstreamNii (REF 0064: ___ct__7istreamNv)
+              1. 1B 6766 00B8 0000:___ct__8ofstreamNii (REF 0064: ___ct__7ostreamNv)
+          16B8:
+            800050E8....89D109C18956068946047503E9:
+              0. 1E 7782 00C1 0000:___ct__8ifstreamNPCcii (REF 0067: ___ct__7istreamNv)
+              1. 1E 7782 00C1 0000:___ct__8ofstreamNPCcii (REF 0067: ___ct__7ostreamNv)
+            8A0050E8....89D109C18956068946047503E9:
+              0. 1E 5A62 00D5 0000:___ct__7fstreamNPCcii
+              1. 1E B2E8 00CF 0000:___ct__7fstreamNii
+      5E048B:
+        37D1E68B84....0906....8B1FD1E38B87....A3....31C0:
+          0. 03 2CC2 0023 0000:_matherr
+        4F0489CE8B54088B4406:
+          24F10C:
+            0289540889440689D85E5D:
+              0. 03 5E4A 0023 0000:_leftjust__NR7ostream
+            0489540889440689D85E5D:
+              0. 03 5E4A 0023 0000:_rightjust__NR7ostream
+            0889540889440689D85E5D:
+              0. 03 5E4A 0023 0000:_internal__NR7ostream
+          80E4E780CC:
+            0889540889440689D8:
+              0. 05 A609 0025 0000:_scientific__NR7ostream
+            1089540889440689D8:
+              0. 05 A609 0025 0000:_fixed__NR7ostream
+      76:
+        04:
+          09F6:
+            74:
+              0EC704....F6460601740456E8....5E5DC20400:
+                0. 00 0000 001E 0000:___dt__3iosNv
+              23C704....:
+                56E8....807C1D00740456E8....31C050:
+                  0. 02 26E3 0033 0000:___dt__7filebufNv
+                807C1300740F837C02007409FF7402E8:
+                  0. 00 0000 0033 0000:___dt__9streambufNv
+            75:
+              0B8B36....833E....007411FF760656E8....83C404:
+                0. 11 3C13 004B 0000:_strtok
+              0DB8:
+                160050E8....89C609C0742F31C0884412884413:
+                  0. 02 C1CE 004E 0000:___ct__9streambufNv
+                1E0050E8....89C609C074:
+                  1F56E8....C74416FF:
+                    0. 15 12E8 003E 0000:___ct__7filebufNv
+                  3E56E8....8B460889:
+                    0. 0F 8C8C 005D 0000:___ct__7filebufNii
+                  48FF760AFF760856E8:
+                    0. 00 0000 0067 0000:___ct__7filebufNipcii
+                200050E8....89C609C0741C31C05089C15156E8:
+                  0. 00 0000 015C 0000:___ct__8stdiobufNp6_iobuf 003B:___dt__8stdiobufNv 0060:_underflow__8stdiobufNv 00E8:_overflow__8stdiobufNi 0115:_pbackfail__8stdiobufNi
+                380050E8....89C609C0743E8B4606894402C744:
+                  0. 21 9FD3 005D 0000:___ct__3iosNp9streambuf
+          807C1200741AF644188074148B44025083C0025031C05056E8:
+            0. 00 0000 0040 0000:_buffer_setup__7filebufNv
+          83:
+            7C02007506807C1200740731C05E5DC20200568B1CFF5710:
+              0. 05 A609 0025 0000:_allocate__9streambufNv
+            7E08007504C70403008A46069883F841740C83F853740D83:
+              0. 8F 320C 0134 00C4:___rs__7istreamNRf 0108:___rs__7istreamNRd
+          8B:
+            460A8944028B46088944048A46068844135E5DC20800:
+              0. 00 0000 001E 0000:_setb__9streambufNpcpci
+            54088B4406248F0C:
+              1089540889440689F05E5DC20200:
+                0. 00 0000 001E 0000:_dec__NR3ios
+              2089540889440689F05E5DC20200:
+                0. 00 0000 001E 0000:_oct__NR3ios
+              4089540889440689F05E5DC20200:
+                0. 00 0000 001E 0000:_hex__NR3ios
+            5E068B4E08E32CB441B65A90AC8A17433AC27504E2F6EB1B:
+              0. 29 52D6 0049 0000:_memicmp
+          B00A5056E8....56E8....8BC65E5DC20200:
+            0. 00 0000 0019 0000:_endl__NR7ostream
+          B8FFFF394416750A8B4E08894C163BC87506405E5DC206008B:
+            0. 09 7F59 0074 0000:_attach__7filebufNii
+          EB:
+            0D8BDE468A079850E8....83C402803C0075EE5E5DC3558B:
+              0. 13 60B5 012F 0000:_disp_puts 001E:_disp_fillbox 0048:_disp_box
+            1AB8....508A049850E8....83C40483F8FF7506B801005E:
+              0. 09 6EC8 0042 0000:_puts
+          FF7406FF7404FF7402FF348B44068B4C028B148B5C04E8:
+            0. 0D 3AB6 0C4A 0000:_asinh__NRCd 005A:_acosh__NRCd 00B4:_atanh__NRCd 0111:_asin__NRC7complex 052A:_acos__NRC7complex 0942:_atan__NRC7complex
+        068B5E088B4E0AE32CB441B65A90AC8A17433AC27504E2F6EB1B:
+          0. 29 3333 0049 0000:_memicmp
+        08:
+          8B:
+            54088B44060B46040B560689540889440689F05E5DC20600:
+              0. 00 0000 0020 0000:__iomanip_setiosflags__NR3iosl
+            DE368B0483C002368B4C023BC17C:
+              3136894402368B4402D1:
+                0. 0D 7775 02F5 006C:RESPONSE_EXPAND
+              3336894402368B4402D1:
+                0. 0C 790F 0316 006E:RESPONSE_EXPAND
+          C45E0426807F2400753B268B4706260B4704753109F6740583:
+            0. 10 76DA 0054 0000:_setbuf__7filebufNPci
+          F6440683740756E8....83C402FF7604FF760656E8....5E5D:
+            0. 01 EF04 0021 0000:_freopen
+        0CD1EEEB1DC45E04268A17268A4701C45E0826880726885701B8:
+          0. 12 5BE8 0032 0000:_swab
+    B8:
+      000250E8....83C40289C609C07508B8FFFF5E5DC20200568BC605:
+        0. 0B F930 0035 0000:_doallocate__9streambufNv
+      ....50E8....83C40289C631C050FF7604B8....50B8....505631:
+        0. 03 E774 0392 0000:_system 002B:_spawnl 0040:_spawnv 0054:_spawnlp 0069:_spawnvp 030A:_execl 031C:_execv 032F:_execlp 0341:_execvp
+    C4:
+      1E....268A47FFC41E....26880768....:
+        68....8E06....26FF36:
+          0. 00 0000 0136 0000:_ReadInBuf 00C8:_WriteOutBuf (0115: C3)
+          1. 00 0000 013A 0000:_ReadInBuf 00CA:_WriteOutBuf (0115: 01)
+        FF36....A1....8B16:
+          0. 00 0000 00FC 0000:_ReadInBuf 00A0:_WriteOutBuf (00DB: C3)
+          1. 00 0000 0100 0000:_ReadInBuf 00A2:_WriteOutBuf (00DB: 01)
+      5E0426:
+        837F28FF7418268B4712260B47107409FF760653E8....89:
+          0. 20 D215 004B 0000:_sync__7filebufNv
+        8B37D1E68B84....0906....268B1FD1E38B87....A3:
+          0. 05 DB2F 0025 0000:_matherr
+    FF7606FF7604C45E0426C43726FF540AC45E0426807F25007418268B:
+      0. 11 0E30 00CA 0000:_setbuf__9streambufNPci
+  57:
+    1EC57E048B158B4D02B42B..........32E41F5F8BE55DC3558BEC57:
+      0. 02 11DC 0069 0000:_dos_setdate 001C:_dos_getdate 0035:_dos_settime 004F:_dos_gettime
+    33DBB459..........:
+      1EC57E048CDA0BD7740A890586FB895D02886D:
+        0. 05 03CD 0025 0000:dosexterr
+      8B7E040BFF740A890586FB895D02886D045F5D:
+        0. 01 EF04 0021 0000:dosexterr
+    56:
+      6A006A006A00FF76:
+        04E8....83C4080BD07408B8FFFF5E5FC9C390:
+          0. 10 FEE9 02D0 0000:_CopyFile 00F8:_ExpandOrCopyFile 01C8:_Expand
+        06..........83C4080BD07408B8FFFF5E5FC9:
+          0. 11 61D1 02F6 0000:_CopyFile 0100:_ExpandOrCopyFile 01DA:_Expand
+      8B4E:
+        048B46068BF98ED88B76088E460A8BDE46268A078BDF478807:
+          0. 05 705D 07C4 (l)0000:lStringCopy 0032:LZINIT 0206:GETEXPANDEDNAME 02B4:LZOPENFILE 034C:LZSEEK 03F2:LZREAD 0756:LZCLOSE (06C2: 1E)
+          1. 05 705D 06EA (l)0000:lStringCopy 0032:LZINIT 01C2:GETEXPANDEDNAME 0260:LZOPENFILE 02EC:LZSEEK 0392:LZREAD 0686:LZCLOSE (06C2: C2)
+        068B46088BF98ED88B760A8E460C8BDE46268A078BDF478807:
+          0. 05 705D 07F2 (l)0000:lStringCopy 0032:LZINIT 0212:GETEXPANDEDNAME 02CC:LZOPENFILE 036C:LZSEEK 0414:LZREAD 077E:LZCLOSE (06F8: 18)
+          1. 05 705D 071E (l)0000:lStringCopy 0032:LZINIT 01CE:GETEXPANDEDNAME 0278:LZOPENFILE 0310:LZSEEK 03B8:LZREAD 06B4:LZCLOSE (06F8: 00)
+    8B:
+      460A8B5E088B4E068B56048BF881E7F07F74:
+        3581FFF07F744DD1EF:
+          0. 6E EEF6 0379 0000:_frexp 007C:_logb 00F6:_rint 01FD:___flt_rounds 020F:_nextafter
+        3681FFF07F744ED1EF:
+          0. 6F 7C96 037A 0000:_frexp 007D:_logb 00F7:_rint 01FE:___flt_rounds 0210:_nextafter
+      5E048B7F0480:
+        4D:
+          068089D85F5DC20200:
+            0. 00 0000 0015 0000:_showbase__NR7ostream
+          070189D85F5DC20200:
+            0. 00 0000 0015 0000:_showpoint__NR7ostream
+        6507E6806508FF89D85F5DC20200:
+          0. 00 0000 0019 0000:_floating__NR7ostream
+      7E:
+        04:
+          09FF74:
+            41C74506....8B5D04C707....C705....31C05089F9:
+              0. 05 3C08 0063 0000:___dt__8iostreamNv
+            4FC74522....8B5D20C707....C7451E....31C05089:
+              0. 06 4EB5 00BC 0000:___dt__8ifstreamNv (REF 0026: ___dt__7istreamNv)
+              1. 06 4EB5 00BC 0000:___dt__8ofstreamNv (REF 0026: ___dt__7ostreamNv)
+            54C74528....C74522....8B5D20C707....C7451E:
+              0. 00 0000 00CA 0000:___dt__7fstreamNv
+          8B158B4D02B42B..........32E45F8BE55DC3558BEC57B42A:
+            0. 00 0000 0064 0000:_dos_setdate 001A:_dos_getdate 0032:_dos_settime 004B:_dos_gettime
+        068BDF8B0583C0028B4D023BC17C:
+          218945028B4502D1E050FF75:
+            0. 02 6103 0229 004B:RESPONSE_EXPAND
+          238945028B4502D1E050FF75:
+            0. 01 5CB6 024A 004D:RESPONSE_EXPAND
+    8C:
+      D88EC08B7E:
+        0433C0B9FFFFF2AEF7D12BF98A4606F2AE8BC175038B:
+          0. 05 8F19 0025 0000:_strchr
+        0633C0B9FFFFF2AEF7D12BF98A4608F2AE8BC175038B:
+          0. 05 C795 0025 0000:_strchr
+      DA8EC28B7E:
+        048BDF8B4E088A46068AE0D1E9F3ABD1D1F3AA8BC35F:
+          0. 02 5F98 0022 0000:_memset
+        068BDF8B4E0A8A46088AE0D1E9F3ABD1D1F3AA8BC35F:
+          0. 02 1714 0022 0000:_memset
+    C47E:
+      04:
+        33C0B9FFFFF2AEF7D12BF98A4608F2AE8BC19975058CC28BC7:
+          0. 04 8D51 0024 0000:_strchr
+        8BDF8B4E0A8A46088AE0D1E9F3ABD1D1F3AA8CC28BC35F5DC3:
+          0. 00 0000 0020 0000:_memset
+      06:
+        33C0B9FFFFF2AEF7D12BF98A460AF2AE8BC19975058CC28BC7:
+          0. 04 C5DD 0024 0000:_strchr
+        8BDF8B4E0C8A460A8AE0D1E9F3ABD1D1F3AA8CC28BC35F5DCB:
+          0. 00 0000 0020 0000:_memset
+    FF76:
+      08FF7606FF7604E8....83C4068B7E061E0730C0B9FFFFF2AEF7:
+        0. 07 D99B 0027 0000:_strxfrm
+      0CFF760AFF7608FF7606FF7604E8....83C40AC47E0830C0B9FF:
+        0. 0B 6A2A 002B 0000:_strxfrm
+  80:
+    3E....007405B80100EB4AB86735..........5657BF0A00BE....B9:
+      0. 1D 107B 0153 0000:_emm_init 0063:_emm_getpagemapsize 0080:_emm_maphandle 009D:_emm_getunalloc 00B5:_emm_gettotal 00BB:_emm_gethandlecount 00BF:_emm_physpage 00DE:_emm_allocpages 00ED:_emm_deallocpages 00FC:_emm_gethandlepages 0100:_emm_savepagemap 0104:_emm_restorepagemap 0108:_emm_getversion 010E:_emm_gethandlespages 011F:_emm_getpagemap 0124:_emm_setpagemap 0136:_emm_getsetpagemap 0148:_emm_term (0114: 00)
+      1. 1D 107B 0152 0000:_emm_init 0063:_emm_getpagemapsize 0080:_emm_maphandle 009D:_emm_getunalloc 00B5:_emm_gettotal 00BB:_emm_gethandlecount 00BF:_emm_physpage 00DE:_emm_allocpages 00ED:_emm_deallocpages 00FC:_emm_gethandlepages 0100:_emm_savepagemap 0104:_emm_restorepagemap 0108:_emm_getversion 010E:_emm_gethandlespages 011D:_emm_getpagemap 0122:_emm_setpagemap 0136:_emm_getsetpagemap 0147:_emm_term (0114: C3)
+    660B7F8B461225008009460A8B460A8B5E088B4E068B56045DC3558B:
+      0. 59 0FC1 0079 0000:_copysign 001E:_copysignf 0036:_fabs 004B:_fabsf 005A:_nan 0063:_nanf 0069:_nans 0073:_nansf
+  81:
+    7E04800019C0F7D85DC3:
+      0. 00 0000 000E 0000:_isascii
+    EC:
+      0E0256578B7E061E0730C0B9FFFFF2AEF7D149898EF2FD8B7E041E:
+        0. FF 2F1F 012A 0000:_strstr
+      16025657C47E0830C0B9FFFFF2AEF7D149898EEAFDC47E0430C0B9:
+        0. FF 1FA2 017A 0000:_strstr
+      1E01565731C050FF7604E8....09C07503E945028B7E0E1E0730C0:
+        0. 8B 2F92 0269 0000:_extract__7istreamNpvpCcpipNpvpCcpv_vpNicpv_ipv
+      4E01565731C050FF7606FF7604E8....09C07503E92903C47E1430:
+        0. B6 ACFA 0353 0000:_extract__7istreamNPvPCcPipNPvPCcPv_vpNicPv_iPv
+      820056578B460E8B5E0C8B4E0A8B56088946C0895EBE894EBC8956:
+        0. 12 395D 087F 0000:___ls__7ostreamNd 0314:_fixed_point__7ostreamNdPc 0581:_sci_notation__7ostreamNdPcRi
+      BE0056578B760A8B7E0C8BC69933C225010003D009D2740BB9:
+        0. 09 B525 02EA 0000:_qsort
+  83:
+    3E....00:
+      74:
+        13EB07FFD08306....FE8B1E....8B0709C075EF833E:
+          0. 00 0000 0049 0000:_exit
+        209BDF460C9BDD46049BD9FD9BDD5E049BDDD88B460A8B:
+          0. 19 14A1 00CA 0000:_ldexp
+      7506C706........813E........7205B801005DC38B4604:
+        0. 02 D5CC 002F 0000:_atexit
+    7E0A007508C45E0426C70703008A46089883F841740C83F853741183:
+      0. B1 1D3F 017B 00ED:___rs__7istreamNRf 0140:___rs__7istreamNRd
+    C4FC568B7604B801005048505056E8....83C4088946FE8956FC3DFF:
+      0. 11 B441 004F 0000:_filelength
+    EC:
+      02:
+        509BDD7EFE8326....3F9B8B46FE0906....9BDED99BDD7EFE9B:
+          0. 18 935F 011C 0000:__FCOMPP@ 002B:__FTEST0@ 004F:__FTEST@ 006E:__DTST87@ 0077:__87TOPSW@ 008C:__DBLTO87@ 009C:__DBLINT87@ 00B9:__DBLLNG87@ 00D1:__FLTTO87@ 00DF:__status87 00EB:__clear87 00F8:__control87 0118:__fpreset
+        56:
+          57:
+            31F631FFB9....5189F951E8....09C08946FE7452B9:
+              0. 05 1FD4 00A6 0000:_sync_with_stdio__3iosNv
+            837E04007406837E06007507C746FE0000EB:
+              568B7E041E07:
+                0. 22 BDB8 09FE 00D4:_unmangle_ident (REF 09EC: .)
+              5A8B7E041E07:
+                0. 21 0291 0A48 00E2:_unmangle_ident (REF 0A36: .)
+            8B:
+              46048946FE89C289C71E0730C0B9FFFFF2AEF7D14903D1:
+                0. 2F 1990 004F 0000:_strrev
+              4E048B5606BBFFFFBE....EB558B44023BC1754BF60483:
+                0. 20 62A2 007F 0000:_setmode
+              5E048B77048976FE837C0200740C8B7EFE8B7502568B1C:
+                0. 0E 6773 002E 0000:_flush__7ostreamNv
+              7604:
+                837C16FF753031FF8B4E08894C188B4C18894EFE81:
+                  0. 23 8410 00DB 0000:_open__7filebufNpCcii
+                8B:
+                  560809D27E088B460A03C28946FE09D27907C746:
+                    0. 2D CF47 0719 0000:_buffer_setup__12strstreambufNpcipc 00D7:___ct__12strstreambufNpcipc 0110:___ct__12strstreambufNpUciT1 0149:___ct__12strstreambufNi 0187:___ct__12strstreambufNpNUi_pvpNpv_vi 01C5:___dt__12strstreambufNv 01FC:_freeze__12strstreambufNi 0218:_str__12strstreambufNv 022F:_setbuf__12strstreambufNpci 0241:_doallocate__12strstreambufNv 0283:_overflow__12strstreambufNi 039B:_underflow__12strstreambufNv 03E9:_seekoff__12strstreambufN9streamoff11relative_toX3iosi 0714:_sync__12strstreambufNv
+                  7E0631C9884EFF884EFE8B4E08FF4E0809C97449:
+                    0. 08 F3E1 007B 0000:_strnicmp
+                  FEB9....51E8....83C4028946FE83F8FF742EEB:
+                    0. 0A 73C3 0057 0000:_gets
+              7E04:
+                09FF7503BF....803E....00750AFE06....E8:
+                  0. 01 E967 01D7 0000:_tmpnam 007F:_tmpfile 00C0:_tempnam
+                1E0730C0B9FFFFF2AEF7D1494151E8....83C40209:
+                  0. 26 6A4E 0046 0000:_strdup
+                FF7608FF76068B75048B4C0251E8....8945023B46:
+                  0. 1B 871A 003B 0000:_write__7ostreamNpCvUi
+          8B760C31C08846FF8846FE8BC64E09C07451C45E04FF460426:
+            0. 05 A1A9 007B 0000:_strnicmp
+          BE....EB:
+            1FF60483751789F083C0FA8946FEFF7604FF760650:
+              0. 01 3E9B 003E 0000:_fopen
+            26F60483751E89F083C0F68946FEFF7606FF7604FF:
+              0. 08 4AE4 0046 0000:_fopen
+          C45E0426837F28FF753531F68B460A2689472A268B472A8946:
+            0. 28 A3D0 0100 0000:_open__7filebufNPCcii
+        8B5E0483C30F83E3F074508BD3B104D3EB8BCB895604A1....85:
+          0. 05 B551 00B0 0000:_sbrk
+      04:
+        1EB8....50E8....83C4048956FE8946FC31C95151FF7606FF76:
+          0. 03 74A1 0475 0000:_system 003A:_spawnl 0053:_spawnv 006D:_spawnlp 0086:_spawnvp 03D6:_execl 03EC:_execv 0405:_execlp 041B:_execvp
+        56:
+          57:
+            31C98B7604EB0F803C5875058BC140EB0231C089C146803C:
+              0. 10 0021 009A 0000:_mktemp
+            8B:
+              46:
+                060B460474088B460A0B4608750CC746FC0000C746FE:
+                  0. 27 452B 0CF1 0104:_unmangle_ident (REF 0CD6: .)
+                  1. 26 68F9 0D3B 0112:_unmangle_ident (REF 0D20: .)
+                0E0B460C74468B46060B4604743EC45E0C26803F0074:
+                  0. 83 8ADA 0169 0000:__FOPEN
+              5E:
+                048B57028B078956FE8946FCBB3C0031C9E8....891E:
+                  0. 00 0000 012F 0000:_localtime
+                06807F1C0074308B7604837E0400750DB8060050E8:
+                  0. 00 0000 0131 0000:_seekoff__7filebufN9streamoff11relative_toX3iosi
+              7604:
+                56E8....8946FC83F8FF75108B7C04C746FE07008A:
+                  0. 19 3007 0039 (?)0000:_get__7istreamNRc
+                8B7E:
+                  068976FEEB1CFF7608E8....83C4028946FC83:
+                    0. 38 4720 0058 0000:_fgets
+                  0809F6750DB9160051E8....89C609C0746131:
+                    0. 09 C181 008A 0000:___ct__9streambufNpci
+              7E:
+                04:
+                  09FF74488B5D04C707....C705....8B4D04894EFE:
+                    0. 2A 0A7D 0068 (?)0000:___dt__7istreamNv (001D: FF)
+                  8B:
+                    46080B46067503E9B200C45E0626803F007507C7:
+                      0. 07 E8B9 00E8 0000:_setlocale
+                    760609FF750DB9:
+                      400051E8....89C709C0743909:
+                        0. 0F F1F1 006B 0000:___ct__18istream_withassignNv (REF 0036: ___ct__7istreamNv)
+                        1. 0F F1F1 006B 0000:___ct__18ostream_withassignNv (REF 0036: ___ct__7ostreamNv)
+                      460051E8....89C709C0743E09:
+                        0. 0F 2827 0079 0000:___ct__19iostream_withassignNv
+                      600051E8....89C709C0744209:
+                        0. 0D 04E1 007D 0000:___ct__8ifstreamNv (REF 003E: ___ct__7istreamNv)
+                        1. 0D 04E1 007D 0000:___ct__8ofstreamNv (REF 003E: ___ct__7ostreamNv)
+                      660051E8....89C709C0744709:
+                        0. 0D DD37 008B 0000:___ct__7fstreamNv
+                  B801005057E8....09C07434FF7608FF76068B7504:
+                    0. 05 9C97 005A 0000:_read__7istreamNpvi
+                06:
+                  09FF7503E9A200803D007507C746FC0100EB35BE:
+                    0. 00 0000 00D3 0000:_setlocale
+                  837E0800743F837E040074398B5E08803F007431BE:
+                    0. 73 413F 0141 0000:__FOPEN
+            C4:
+              5E04268B57:
+                02268B078956FE8946FCBB3C0031C9E8:
+                  0. 02 6CAD 0133 0000:_localtime
+                08268B47068956FE8946FC8EC289C6268B4C:
+                  0. 22 60A8 0042 0000:_leftjust__NR7ostream
+                  1. 22 70FE 0042 0000:_fixed__NR7ostream
+                  2. 22 B759 0042 0000:_scientific__NR7ostream
+                  3. 22 E584 0042 0000:_rightjust__NR7ostream
+                  4. 22 EFDD 0042 0000:_internal__NR7ostream
+              7E0430C0B9FFFFF2AEF7D149:
+                4151E8....83C40289D109:
+                  0. 2E 2897 004E 0000:_strdup
+                89CE8BC68CC28B5E0403D8:
+                  0. 33 49A2 0053 0000:_strrchr
+            FF7604E8....:
+              09C0746E8B7E061E0730C0B9FFFFF2AEF7D1:
+                0. 0C EDA8 008B 0000:___ls__7ostreamNpCc
+              89C609C0751B8B5E048B7F20897EFE8B76FE:
+                0. 17 5C88 0037 0000:_close__14fstream_commonNv
+          8B:
+            5E048B4F048B16....A1....8956FE8946FC8B56FE8B46FC:
+              0. 15 127A 0035 0000:_nospacing__NR7ostream
+              1. 11 E15C 0031 0000:_spacing__NR7ostream (REF 000F: _spacing__3ios)
+              2. 11 E15C 0031 0000:_stickywidth__NR7ostream (REF 000F: _stickywidth__3ios)
+            7604:
+              09F675014656E8....83C4028956FE8946FC89D109C1:
+                0. 04 EA49 003C 0000:___nw__NUi
+              8B460631C93BC17902EB0289C1894C0E8B16....A1:
+                0. 00 0000 0041 0000:_width__3iosNi
+          C45E0426:
+            8B5708268B47068956FE8946FC8EC289C62680:
+              4C:
+                0C:
+                  0. 0D B795 002D 0000:_showbase__NR7ostream
+                0D:
+                  0. 0D B856 002D 0000:_showpoint__NR7ostream
+              640D:
+                0. 12 5D2A 0032 0000:_floating__NR7ostream
+            F6472A807405BE0510EB03BE040856E8....83C402:
+              0. 31 75BF 005D 0000:_doallocate__7filebufNv
+          FF76:
+            04E8....83C40289C683FEFF7503E9AC00FF7608FF7606:
+              0. 02 0539 00CE 0000:_fdopen
+            06FF7604C45E0426C43726FF540A8946FCC45E04268B4F:
+              0. 0C 17A7 0060 0000:_close__7filebufNv
+        578B7E04578B1DFF570A8946FC8B4D16BAFFFF3BCA7502EB0951:
+          0. 01 3E9B 004C 0000:_close__7filebufNv
+        8B:
+          46:
+            060B46047507..........EB:
+              3131C050E8....83C4020346:
+                0. 0C 4F64 010E 0000:_sleep 004A:_msleep 00AC:_usleep
+              3331C05050E8....83C40403:
+                0. 0D C5B5 0110 0000:_sleep 004C:_msleep 00AE:_usleep
+            0831C93BC17902EB0289C1C45E0426894F148B16....A1:
+              0. 00 0000 0043 0000:_width__3iosNi
+          4E0A8B56068B46048956FE8946FCEB0C8A4608C45E04FF4604:
+            0. 1D 7DA9 003D 0000:_strnset
+          56:
+            068B46048956FE8946FCEB:
+              0C8A4608C45E04FF4604268807:
+                0. 13 6126 0033 0000:_strset
+              17C45E04268A079850E8....83:
+                0. 1E A3FC 003E 0000:_strupr (REF 001D: _toupper)
+                1. 1E A3FC 003E 0000:_strlwr (REF 001D: _tolower)
+            0A8B46088956FE8946FCEB33C45E08268A07C45E04268A0F:
+              0. 37 C711 0057 0000:_strpbrk
+          5E:
+            048B4F04894EFE89CB807F0A0075238B4EFE89CB837F0400:
+              0. 0F 6B89 0042 0000:_opfx__7ostreamNv
+            060BDB74088B47048B5706EB0753E8....83C4028946FC89:
+              0. 07 4869 0092 0000:_utime
+        B8000250E8....83C40289D109C18956FE8946FC7509B8FFFF8B:
+          0. 21 976A 004C 0000:_doallocate__9streambufNv
+        C45E088CC00BC3740A268B4704268B5706EB085353E8....83C4:
+          0. 0D 523C 009F 0000:_utime
+      06:
+        168D460E5089E083C0041650E8....31C050FF760CFF760AFF76:
+          0. 27 7B28 00CE 0000:_seekpos__9streambufN9streamposi 0083:_seekoff__9streambufN9streamoff11relative_toX3iosi
+        56:
+          57:
+            31C98B56068B46048956FC8946FAEB15C45EFA26803F5875:
+              0. 28 E1A1 00C1 0000:_mktemp
+            8B:
+              7604FF76:
+                08FF760656E8....89C709C0751C8B54208956:
+                  0. 2D CFAD 004D 0000:_attach__14fstream_commonNii
+                0AFF7608FF760656E8....89C709C0751C8B54:
+                  0. 30 5E94 0050 0000:_open__14fstream_commonNpCcii
+              7E:
+                04837E06FF7503E9C900807D12007465B8010050B9FF:
+                  0. 07 09EE 0116 0000:_pbackfail__7filebufNi
+                06897EFA8B460483C0108946FC8B460483C00E8946FE:
+                  0. 44 D2B9 0086 0000:_sputn__9streambufNpCci
+            C746FA0000C746FC0000C746FE01008D5EFA83C304B90300:
+              0. 26 7B4D 0046 0000:_tellg__7istreamNv
+          8B:
+            46060B460475:
+              13B8:
+                4A0050E8....89D109C1895606894604:
+                  0. 1C 2C53 00A9 0000:___ct__18istream_withassignNv (REF 0051: ___ct__7istreamNv)
+                  1. 1C 2C53 00A9 0000:___ct__18ostream_withassignNv (REF 0051: ___ct__7ostreamNv)
+                540050E8....89D109C1895606894604:
+                  0. 1C D16A 00BD 0000:___ct__19iostream_withassignNv
+              16B8:
+                800050E8....89D109C1895606894604:
+                  0. 21 F3AD 00D1 0000:___ct__8ifstreamNv (REF 006A: ___ct__7istreamNv)
+                  1. 21 F3AD 00D1 0000:___ct__8ofstreamNv (REF 006A: ___ct__7ostreamNv)
+                8A0050E8....89D109C1895606894604:
+                  0. 21 00D1 00E5 0000:___ct__7fstreamNv
+            76088B56068B46048956FE8946FCEB26FF760CFF760AE8:
+              0. 00 0000 0080 0000:_fgets
+        8B56068B46048956FE8946FC1EB8....50E8....83C4048946FA:
+          0. 15 7F1D 0070 0000:_gets
+        8D460A5089E083C00250E8....31C050FF7608FF7606FF76048B:
+          0. 1D 5098 0090 0000:_seekpos__9streambufN9streamposi 005F:_seekoff__9streambufN9streamoff11relative_toX3iosi
+      08:
+        56:
+          57:
+            31C050:
+              8B56068B4604E8....505351528D46F850E8....:
+                89:
+                  0. 0D 9CC8 0B59 0000:_asinf 0035:_asin 0062:_acosf 0098:_acos 0547:_atanf 056F:_atan 058F:_atan2f 05BB:_atan2
+                8E:
+                  0. 13 058A 0B94 0000:_asinf 003B:_asin 006E:_acosf 00AA:_acos 057F:_atanf 05A7:_atan 05C7:_atan2f 05F3:_atan2
+              FF7604E8....09C074528B5E048B47048946FA89C6:
+                0. 20 E7B4 0072 0000:___rs__7istreamNRc
+            8B:
+              46060B46047506BEFFFFE9930031F6C45E04268B4F0AF6:
+                0. 0E 2138 00B1 0000:_fclose
+              56068B4604:
+                8956FE8946FC508EC289C730C0B9FFFFF2AE:
+                  0. 4C F58D 006C 0000:_strrev
+                E8....5053515231C0508D46F850E8....:
+                  89:
+                    0. 0D 9CC8 07E4 0000:_sinf 0035:_sin 0062:_cosf 0098:_cos 049F:_tanf 04BE:_tan
+                  8E:
+                    0. 13 058A 081D 0000:_sinf 003B:_sin 006E:_cosf 00AA:_cos 04D6:_tanf 04F5:_tan
+              5E04F64718807405B80100EB0231C08946F8807F120075:
+                0. 10 2E2D 0189 0000:_fillbuf__7filebufNv
+              7604F64418017479837C0200751656E8....83F8FF746A:
+                0. 17 701E 0095 0000:_underflow__7filebufNv
+              7E048B4606F766088946F88B5E0AF647070174278B7604:
+                0. 0D 570B 0154 0000:_fwrite
+            B8010050:
+              8B56068B4604E8....505351528D46F850E8:
+                0. 14 0BC5 0720 0000:_sinhf 003C:_sinh 0070:_coshf 00AB:_cosh 047A:_tanhf 0499:_tanh
+                1. 0E 4AB9 06F5 0000:_sinhf 0036:_sinh 0064:_coshf 0099:_cosh 0451:_tanhf 0470:_tanh
+              FF7604E8....09C0745A8B5E048B47048946FA89:
+                0. 21 9FD1 0083 0000:_get__7istreamNv
+            C45E04268B5708268B47068956FA8946F88B0E....8B36:
+              0. 00 0000 0046 0000:_spacing__NR7ostream (0025: 00) (REF 001B: _spacing__3ios)
+              1. 00 0000 0046 0000:_stickywidth__NR7ostream (0025: 00) (REF 001B: _stickywidth__3ios)
+              2. 00 0000 004A 0000:_nospacing__NR7ostream (0025: E5)
+            FF7604E8....09C074578B5E048B47048946F889C68B4402:
+              0. 54 1D63 0074 0000:_put__7ostreamNc
+          8B:
+            46060B46047516B8280050E8....89D109C1895606894604:
+              0. 15 A127 00FA 0000:___ct__9streambufNPci
+            5E048B47048946FA89C68B44028946F85089C68B34FF540A:
+              0. 36 6F52 0056 0000:_sync__7istreamNv
+          C45E04268B:
+            472AA8027460A808744CB801005048505026FF77:
+              0. 02 F289 00EE 0000:_syncout__7filebufNv
+            5712268B47108956FA8946F831F68CC289D883C0:
+              0. 2C 6960 004C 0000:_newlines__7filebufNv
+        578B:
+          3E....31C050:
+            50FF7606FF7604E8....83C4088946FE895E:
+              0. 09 D898 0030 0000:_atof
+            FF7604E8....83C4048946FE895EFC894EFA:
+              0. 05 1543 002C 0000:_atof
+          7E048B4518A8027453A8087444B8010050485050FF7516E8:
+            0. 00 0000 00B5 0000:_syncout__7filebufNv
+        8B56068B46048956FA8946F88B560A8B46088956FE8946FCEB:
+          28:
+            0. 3B B55C 005B 0000:_strspn
+          2B:
+            0. 3E 81B6 005E 0000:_strcspn
+        FF7606FF7604E8....8946F883F8FF7523C45E04268B5708268B:
+          0. 2F 42FC 004F (?)0000:_get__7istreamNRc
+      0A:
+        168D46F650E8....83C4048B46F62346048BE55DC3558BEC83EC:
+          0. 07 3D76 01CE 0000:_fetestexcept 001B:_feclearexcept 0050:_fegetexcept 0065:_fesetexcept 0081:_fegetround 009C:_fesetround 00DF:_fegetprec 00FA:_fesetprec 013D:_fegetenv 017E:_fesetenv 01B2:_feprocentry
+        56:
+          57:
+            8B:
+              56048B7606BFFFFFB8....89C3C746FA....8C5EFC89D9:
+                0. 3C E11B 00A0 0000:_setmode
+              5E048B:
+                470A83C0BC8946FA83F8597603E9B700B96D01F7:
+                  0. 1A 29D9 00DD 0000:_mktime
+                7F04897EFC807D0A0075588B46FC8946F689C68B:
+                  0. 5A BF27 007A 0000:_putback__7istreamNc
+              760409F67505BFFFFFEB7A31FF8B4C06F6C1837419F6C1:
+                0. 05 0AA6 0096 0000:_fclose
+              7E:
+                04:
+                  57E8....09C0747FB80C0050B901005157E8....09:
+                    0. 5A EAD6 009C 0000:___ls__7ostreamNc
+                  8B450A8B4D0889F883C00A807D1C00757389CEC746:
+                    0. 58 E034 00AC 0000:_syncin__7filebufNv
+                08897EF68B56068B460483C0208956FA8946F88B5606:
+                  0. 60 7BBD 00A3 0000:_sputn__9streambufNPCci
+            B8010050FF7604E8....09C0747DEB178B5EFA8B3F8B7502:
+              0. 7E 7104 009E 0000:_ignore__7istreamNii
+            C45E04268B470A83C0BC8946FA83F8597603E9C100B96D01:
+              0. 1C 4E12 00E8 0000:_mktime
+          FF760CFF760AFF7608C45E04268B5708268B47068956F88946:
+            0. 10 F4A5 0069 0000:_write__7ostreamNPCvUi
+        833E....007416FF760AFF7608FF7606FF7604E8....83C4088B:
+          0. 04 1BD1 0DB9 0000:_ceil 006A:_ceilf 00A4:_floor 010E:_floorf 0148:__largestNaN 01A6:__AsQNaN 01BB:_round 0201:_roundf 0235:_nearbyint 029C:_nearbyintf 02F2:_trunc 0339:_truncf 036E:_rndtol 0388:_rndtonl 03E6:_remainderf 0407:_remainder 0434:_remquof 06D9:_remquo 09AB:_fmodf 0A3E:_fmod 0B00:_modff 0BB5:_modf 0C86:_frexpf 0CAB:_ldexpf 0CCD:_scalb 0D3A:_scalbf (0D6C: E8)
+          1. 04 1BD1 0D93 0000:_ceil 006A:_ceilf 00A4:_floor 010E:_floorf 0148:__largestNaN 01A6:__AsQNaN 01BB:_round 0201:_roundf 0235:_nearbyint 0299:_nearbyintf 02EC:_trunc 0333:_truncf 0368:_rndtol 0382:_rndtonl 03E0:_remainderf 0400:_remainder 042C:_remquof 06CF:_remquo 09A0:_fmodf 0A33:_fmod 0AF5:_modff 0BA4:_modf 0C63:_frexpf 0C85:_ldexpf 0CA7:_scalb 0D14:_scalbf (0D6C: 5E)
+        8D46F650E8....83C4028B46F62346048BE55DC3558BEC83EC0A:
+          0. 05 2786 01BA 0000:_fetestexcept 001A:_feclearexcept 004D:_fegetexcept 0061:_fesetexcept 007C:_fegetround 0096:_fesetround 00D7:_fegetprec 00F1:_fesetprec 0132:_fegetenv 0175:_fesetenv 01A2:_feprocentry
+      0C56:
+        31C0998956FA8946F88956FE8946FC1EBB....535050E8:
+          0. 0E B516 0103 0000:_sync_with_stdio__3iosNv
+        57:
+          8B:
+            56068B46048956F68946F48B4608F7660A89C7C45E0C26:
+              0. 25 732F 015B 0000:_fwrite
+            5E048B7F04897EFA807D0A007403E99E008B76FA837C04:
+              0. 0B 74CA 00CD 0000:_ipfx__7istreamNi (REF 004A: .)
+            7E:
+              04:
+                C746F60000C746F80000C746FA01008D5EF683C304:
+                  0. 44 3FBA 0091 0000:_tellp__7ostreamNv
+                F64518027503E95001837D0200751957E8....83F8:
+                  0. 1D AC14 0179 0000:_overflow__7filebufNi
+              06897EF48B460483C0128946F88B460483C0088946FA:
+                0. 5D D898 009F 0000:_sgetn__9streambufNpci
+          B8010050FF7604E8....09C0745B8B5E048B47048946F689:
+            0. 5C 0529 007C 0000:_peek__7istreamNv
+          C45E0426F6472A807405B80100EB0231C08946F426807F24:
+            0. 1F 8EF3 01D9 0000:_fillbuf__7filebufNv
+        8B56068B460483C018C45E0426F6472A807462268B4F1E268B:
+          0. 83 6BDC 00BF 0000:_flushbuf__7filebufNv
+      0E:
+        5657:
+          83EC068D46:
+            065089E083C00250E8....B80200508B5E048B:
+              0. 3A 53F2 00B5 0000:_seekp__7ostreamN9streampos
+            085089E083C00250E8....FF7606B80200508B:
+              0. 3D AA3C 00B8 0000:_seekp__7ostreamN9streamoff11relative_toX3ios
+          8B:
+            5E048B7F04897EFC8B55088B45062306....2316....09:
+              0. 6E DA9F 00D4 0000:_osfx__7ostreamNv
+            7E:
+              048B4D0489CB8B470209C08946F274:
+                0457E8....C745:
+                  0. 4C 3FC1 0087 0000:___as__18istream_withassignNp9streambuf (REF 001C: _sync__7istreamNv)
+                  1. 4C 3FC1 0087 0000:___as__18ostream_withassignNp9streambuf (REF 001C: _flush__7ostreamNv)
+                0D57E8....89F8:
+                  0. 05 5F0D 0090 0000:___as__19iostream_withassignNp9streambuf
+              0A8B46048946F28B4606F7660809C08946F47503E98F:
+                0. 11 AC57 0157 0000:_fread
+          A1....8946F2C706....0000FF76:
+            06FF7604E8....83C404:
+              0. 0D F548 00B1 0000:_strtof
+            0AFF7608FF7606FF7604:
+              0. 01 3E9B 00B7 0000:_strtof
+          FF7606FF7604E8....09C07503E9A300C47E0830C0B9FFFF:
+            0. 14 1EE7 00C9 0000:___ls__7ostreamNPCc
+        C746F60000C746F80000C746FA01008CD08EC08D5EF683C304B9:
+          0. 4B C966 006B 0000:_tellg__7istreamNv
+      10:
+        56:
+          57:
+            31C050FF7606FF7604E8....09C07503E98100C45E04268B:
+              0. 44 3141 00AA 0000:___rs__7istreamNRc
+            8B:
+              460683C0088946FC8B460683C00A8946FE8B5EFC8B078B:
+                0. 1B 401E 00A9 0000:___ls__7ostreamNp9streambuf
+              5E04C747020000C746F00000B801005053E8....09C075:
+                0. D6 4B30 00F6 0000:_get__7istreamNpcic
+              7E048B75048B54088B4406250E0031C989CA09C2894EF2:
+                0. A2 388C 00C2 0000:_pad__7ostreamNii
+            B8010050FF76:
+              04E8....09C07503E9B700EB528B46F08946:
+                0. BB 4E29 00DB 0000:___rs__7istreamNp9streambuf
+              06FF7604E8....09C07503E98900C45E0426:
+                0. 45 ACE6 00B9 0000:_get__7istreamNv
+            C45E04268B4714268B4F108CC289D883C01426807F2E0074:
+              0. 8D A382 00E6 0000:_syncin__7filebufNv
+            FF7606FF7604E8....09C07503E9:
+              8500C45E04268B570826:
+                0. 8B 79DC 00AB 0000:_put__7ostreamNc
+              B700B80C0050B9010051:
+                0. 07 437B 00DD 0000:___ls__7ostreamNc
+          8B46060B46047503E99100C45E0426C4770626C704....268C:
+            0. 08 1FEE 00B4 (?)0000:___dt__7istreamNv (008B: FF)
+        C45E04268B5708268B47068956:
+          F28946F08946FC8956FE8EC289:
+            0. 3D AEC3 0070 0000:_opfx__7ostreamNv
+          F68946F48946FC8956FE8EC289:
+            0. 42 EA7C 0062 0000:_flush__7ostreamNv
+      1256:
+        57:
+          1E:
+            078B7E:
+              08BB01008B4E048D76FF883C83FF0A75070BC979:
+                0. 35 BDAE 0055 0000:_itoa
+              0ABB01008B4E068D76FF883C83FF0A75070BC979:
+                0. 35 286B 0055 0000:_itoa
+            161F8B7E:
+              0ABB01008B4E048D76FF883C83FF0A75070BC9:
+                0. 39 0273 0059 0000:_itoa
+              0CBB01008B4E068D76FF883C83FF0A75070BC9:
+                0. 39 441E 0059 0000:_itoa
+          8B:
+            56068B46048956F08946EE8B4608F7660A89C709C07503:
+              0. 24 592C 0168 0000:_fread
+            5E04C747020000B801005053E8....09C07503E99D00FF:
+              0. D4 75C0 00F4 0000:_getline__7istreamNpcic
+          C45E0426F6472A017503E9EB00268B4706260B4704752FFF:
+            0. 04 01A9 010B 0000:_underflow__7filebufNv
+          C746EE0000C746F00000C746F800008B46048946FAEB03FF:
+            0. 0C 5EFB 02A8 0000:_strtol 01CB:_div 01EF:_ldiv 0238:_bsearch (REF 00F5: .)
+        B8010050FF7606FF7604E8....09C07471FF760CFF760AFF76:
+          0. 21 DAE0 009F 0000:_read__7istreamNPvi
+        FF7606FF7604E8....89D109C18956F08946EE753BC45E0426:
+          0. 3E C691 005E 0000:_close__14fstream_commonNv
+      1456:
+        57:
+          31C9894EEC8B5E048B77048976F88B540E8956EE09D27405:
+            0. 16 26AD 011E 0000:___rs__7istreamNpc (REF 00C6: .)
+          8B7E08897EEC8B56068B460483C0248956F28946F08B5606:
+            0. 84 7874 00C7 0000:_sgetn__9streambufNPci
+          C45E0826807F2E0074478B56068B46048956F28946F089D1:
+            0. 09 D1F4 0194 0000:_seekoff__7filebufN9streamoff11relative_toX3iosi
+          C746EC0000C746EE0000C746F600008B56068B46048956FA:
+            0. 13 D245 02DF 0000:_strtol 01E9:_div 020D:_ldiv 025E:_bsearch (REF 0103: .)
+        C746F00000C746F20000C746F401008CD08EC08D5EF083C304:
+          0. 67 FB15 00C7 0000:_tellp__7ostreamNv
+      1656:
+        57:
+          83:
+            7E040074088B5E048B4704EB0231C03B46067503E9A900:
+              0. 13 F1CC 00D4 0000:___as__19iostream_withassignNR3ios
+            EC068D46:
+              065089E083C00250E8....31C05040508B5E04:
+                0. 3B C1AC 00C1 0000:_seekg__7istreamN9streampos
+              085089E083C00250E8....FF7606B80100508B:
+                0. 3D FB78 00BE 0000:_seekg__7istreamN9streamoff11relative_toX3ios
+          8B:
+            5E04C747020000B801005053E8....09C07503E9E600E9:
+              0. F0 8964 0110 0000:_get__7istreamNR9streambufc
+            7604C746EA00448976EC168D46EA501650E8....83C408:
+              0. 0A 2BDF 03A5 0000:_fstat 0115:_stat
+          C45E0426F6472A027503E9D601268B4706260B4704752FFF:
+            0. 04 01A9 0200 0000:_overflow__7filebufNi
+        C45E04268B5708268B47068956F08946EE8EC289C6268B5406:
+          0. 6C 3861 008C 0000:_sync__7istreamNv
+      1856:
+        57:
+          83EC06168D46:
+            085089E083C0041650E8....B8020050C45E:
+              0. 5E 18CD 00FA 0000:_seekp__7ostreamN9streampos
+            0A5089E083C0041650E8....FF7608B80200:
+              0. 61 A107 00FD 0000:_seekp__7ostreamN9streamoff11relative_toX3ios
+          8B7E048B7606C746E80044897EEA8D4EE85151E8....83C4:
+            0. 0B 0DD5 0331 0000:_fstat 00F7:_stat
+          B8010050FF7606FF7604E8....09C07503E99700C45E0426:
+            0. 9E 35DA 00BE 0000:_peek__7istreamNv
+        8B5E048B47068B4F028B178B5F0480E47F8946F6895EF4894E:
+          0. 85 2784 09AB 0000:_abs__NRC7complex 0181:_sqrt__NRC7complex 039D:_pow__NRC7complexT1 0621:_pow__NRC7complexi 0836:_pow__NRC7complexd 0964:_pow__NdRC7complex
+        C45E04268B4706268B4F02268B17268B5F0480E47F8946F689:
+          0. 8D CE31 0B89 0000:_abs__NRC7complex 0189:_sqrt__NRC7complex 0433:_pow__NRC7complexT1 0733:_pow__NRC7complexi 09E5:_pow__NRC7complexd 0B3B:_pow__NdRC7complex
+        FF76:
+          0AFF7608FF7606FF7604E8....89D109C18956EA8946E8:
+            0. 67 C3B5 0087 0000:_attach__14fstream_commonNii
+          0EFF760CFF760AFF7608FF7606FF7604E8....89D109C1:
+            0. 6D 3140 008D 0000:_open__14fstream_commonNPCcii
+      1A5657837E:
+        04007503E998018B46048946E6EB0E8B5EE6803F0075:
+          0. 3F FD17 01B0 0000:_putenv
+        08FF7503E94001C45E0426807F24007470B8010050B9:
+          0. 09 1C42 01C7 0000:_pbackfail__7filebufNi
+      1C:
+        5657:
+          8B:
+            560A8B460883C0108956FA8946F88B560A8B460883C014:
+              0. 33 CA69 00FA 0000:___ls__7ostreamNP9streambuf
+            760C09F67E0E8B56108B460E03C68956E68946E409F679:
+              0. 4D A7CA 0BB6 0000:_buffer_setup__12strstreambufNPciPc 01CE:___ct__12strstreambufNPciPc 0227:___ct__12strstreambufNPUciT1 0280:___ct__12strstreambufNi 02D8:___ct__12strstreambufNpNUi_PvpNPv_vi 0330:___dt__12strstreambufNv 0383:_freeze__12strstreambufNi 03A2:_str__12strstreambufNv 03C1:_setbuf__12strstreambufNPci 03D6:_doallocate__12strstreambufNv 0427:_overflow__12strstreambufNi 060B:_underflow__12strstreambufNv 069F:_seekoff__12strstreambufN9streamoff11relative_toX3iosi 0BB1:_sync__12strstreambufNv
+          FF7606E8....09C07503E9EA008B5E0683C3048B078946EC:
+            0. 19 1B1C 0258 0000:___ls__NR7ostreamRC7complex 0110:___rs__NR7istreamR7complex
+        8B460C8B5E0A8B4E088B56068946:
+          EE895EEC894EEA8956E8837E:
+            0. 05 A546 010F 0000:__arcerr 0062:_poly
+          FE895EFC894EFA8956F88B46:
+            0. 23 5D23 00F1 0000:___trigerr 0062:___matherr
+      1E:
+        5657C45E04268B5708268B47068956E48946E28946F88956FA8E:
+          0. AD D516 00CD 0000:_putback__7istreamNc
+        8B460C8B5E0A8B4E088B56068946:
+          EE895EEC894EEA8956E8837E:
+            0. 05 A546 012D 0000:__arcerr 0068:_poly
+          FE895EFC894EFA8956F88B46:
+            0. 23 0018 00FE 0000:___trigerr 0068:___matherr
+      205657FF:
+        06....B8....A3....8B56088B46068916....A3....52:
+          0. 02 F6B7 31AE 0000:WINMAIN 0177:WINC_COMMANDLINE 2134:BUFFEROUTPUT 23F6:TIMERPROC 245B:MAINWNDPROC 2A24:INSETWNDPROC 2C5A:EDITPROC 2D08:ABOUTDLGPROC 2D71:___ct__8ListPtrCNv 2DB8:___dt__8ListPtrCNv 2DE6:_Add__8ListPtrCNUsPv 2E77:_Reset__8ListPtrCNv 2EEF:_View__8ListPtrCNv 2F15:_View__8ListPtrCNUsUs 2FA9:_View__8ListPtrCNUs 2FE4:_TopLineSet__8ListPtrCNUl 3043:_FileRedirectBeg__8ListPtrCNv 308A:_FileRedirectEnd__8ListPtrCNv 30AA:_TextLengthGet__8ListPtrCNv 3112:_TextLengthGet__8ListPtrCNUsUsUsUs 3198:__STIwinc_cpp_ 31A1:__STDwinc_cpp_ (REF 0AFA: .)
+        7606FF7604E8....09C07503E9B200B8100050168D5EE4:
+          0. 05 3CA2 00D8 0000:___ls__7ostreamNPv
+      225657:
+        8B46043B46067503E9CC0089C3C7470601008B7F04837D02:
+          0. 05 0E3C 00EA 0000:___as__18istream_withassignNR7istream (REF 0025: _sync__7istreamNv)
+          1. 05 0E3C 00EA 0000:___as__18ostream_withassignNR7ostream (REF 0025: _flush__7ostreamNv)
+        B8010050FF7606FF7604E8....09C07503E9EB00EB38C45E:
+          0. F5 6814 0115 0000:_ignore__7istreamNii
+        C45E04268B5708268B47068956E48946E28EC289C6268B54:
+          0. 16 6775 0118 0000:___as__19iostream_withassignNP9streambuf
+          1. 16 813F 010A 0000:___as__18istream_withassignNP9streambuf (REF 0036: _sync__7istreamNv)
+          2. 16 813F 010A 0000:___as__18ostream_withassignNP9streambuf (REF 0036: _flush__7ostreamNv)
+        FF7604E8....09C07503E9AA00B81000508D46E050FF7606:
+          0. 01 3E9B 00CA 0000:___ls__7ostreamNpv
+      2456578B46048946F6EB03FF46048B5E048A079889C3F687....08:
+        0. 4E B29F 053B 0000:_strtod (REF 0371: .)
+      26565783EC06168D46:
+        085089E083C0041650E8....31C0504050C4:
+          0. 5F 3376 0122 0000:_seekg__7istreamN9streampos
+        0A5089E083C0041650E8....FF7608B80100:
+          0. 61 DC76 0112 0000:_seekg__7istreamN9streamoff11relative_toX3ios
+      285657:
+        8B46060B4604740DC45E04268B5708268B4706EB0331C099:
+          0. 37 CD67 0177 0000:___as__19iostream_withassignNR3ios
+        C746F000008B460A83C00A8946F28B460A83C00E8946F48B:
+          0. 41 6F0D 02B2 0000:_strftime
+        FF06....B8....A3....B8....A3....8B56088B46068956:
+          0. 1E 2951 2D7B 0000:WINMAIN 01DB:WINC_COMMANDLINE 1E2F:BUFFEROUTPUT 20CF:TIMERPROC 2132:MAINWNDPROC 26BE:INSETWNDPROC 28EE:EDITPROC 299A:ABOUTDLGPROC 2A01:___ct__8ListPtrCNv 2A30:___dt__8ListPtrCNv 2A52:_Add__8ListPtrCNUspv 2AAA:_Reset__8ListPtrCNv 2B06:_View__8ListPtrCNv 2B29:_View__8ListPtrCNUsUs 2BB3:_View__8ListPtrCNUs 2BE1:_TopLineSet__8ListPtrCNUl 2C37:_FileRedirectBeg__8ListPtrCNv 2C6D:_FileRedirectEnd__8ListPtrCNv 2C85:_TextLengthGet__8ListPtrCNv 2CE4:_TextLengthGet__8ListPtrCNUsUsUsUs 2D67:__STIwinc_cpp_ 2D6F:__STDwinc_cpp_ (REF 0A33: .)
+      2A5657:
+        8B56068B46048956F28946F0EB03FF4604C45E04268A0798:
+          0. 04 4215 0583 0000:_strtod (REF 0395: .)
+        FF760AFF7608E8....09C07503E95301C45E0883C306268B:
+          0. 34 2670 034B 0000:___ls__NR7ostreamRC7complex 0182:___rs__NR7istreamR7complex
+      2C5657:
+        8B46060B46047503E97D028B56068B46048956D68946D4EB:
+          0. 4C 2FB1 0295 0000:_putenv
+        B8010050FF7606FF7604E8....09C07503E93E01E9810089:
+          0. FF 3225 0168 0000:___rs__7istreamNP9streambuf
+        C45E04268B5708268B47068956:
+          D68946D48946F88956FA8E:
+            0. 0D EF90 0160 0000:_osfx__7ostreamNv
+          DC8946DA8EC289C3268B57:
+            0. FF 1DA6 013A 0000:_pad__7ostreamNii
+      3056578B46088946F88B56068B46048956D28946D0C646F4008D4E:
+        0. 4C 1B37 00BB 0000:_ltoa
+      325657:
+        8B560A8B46088956F88946F68B56068B46048956D08946CE:
+          0. 53 106D 00CA 0000:_ltoa
+        C45E0426C747040000B8010050FF760653E8....09C07503:
+          0. FF E6D3 019F 0000:_get__7istreamNR9streambufc
+      3456578B5E088B76068B44068B4C028B148B5C0480E47F50535152:
+        0. 10 D5A4 0543 0000:___dv__NRC7complexT1 02CB:___dv__NdRC7complex
+      365657:
+        8B7E0AC45E0426C747040000C746CA0000B8010050FF7606:
+          0. 02 9E9D 0194 0000:_get__7istreamNPcic
+        C45E04268B5708268B47068956CC8946CA8946F88956FA8E:
+          0. 42 2A99 0186 0000:_ipfx__7istreamNi (REF 0095: .)
+      385657:
+        31C050FF7608E8....09C07503E941038D46C88946DCC746:
+          0. FF CE9E 0364 0000:_extract__6_2CompNR7istreampvi (REF 0258: .)
+        8B7E0AC45E0426C747040000B8010050FF760653E8....09:
+          0. FF EABC 0193 0000:_getline__7istreamNPcic
+        C45E0CC47608268B4406268B4C02268B14268B5C0480E47F:
+          0. 18 A96A 0615 0000:___dv__NRC7complexT1 0341:___dv__NdRC7complex
+        C746E200008B56108B460E83C00A8956E68946E48B56108B:
+          0. 6C 6782 0336 0000:_strftime
+      40565731C08946C0C45E04268B5708268B5F068956C6895EC48956:
+        0. 36 BAF7 01D7 0000:___rs__7istreamNPc (REF 0138: .)
+      4256578B:
+        56068B46043B560A75033B46087503E9A2018EC289C326:
+          0. 24 E745 01CB 0000:___as__18istream_withassignNR7istream (REF 0044: _sync__7istreamNv)
+          1. 24 E745 01CB 0000:___as__18ostream_withassignNR7ostream (REF 0044: _flush__7ostreamNv)
+        7E0A57E8....09C07503E96C02FF7606FF76088D4ED251:
+          0. 01 3E9B 0316 0000:_insert__6_2CompNR7ostreampCvii 028C:_format__6_2CompNpUcpciiii
+      5456578B460C8B5E0A8B4E088B56068946EE895EEC894EEA8956E8:
+        0. 0E 3B6D 05CE 0000:___ls__7ostreamNd 021C:_fixed_point__7ostreamNdpc 03AB:_sci_notation__7ostreamNdpcRi
+      5856578B760409F674108BFE1E0730C0B9FFFFF2AEF7D149EB0231:
+        0. 21 FFAA 00AC 0000:__assert
+      5A56578B46060B4604740FC47E0430C0B9FFFFF2AEF7D149EB0231:
+        0. 23 E2D7 00C4 0000:__assert
+      5E56578B7E088BC79933C225010003D009D2740BB8....8946FC89:
+        0. 05 7380 01F9 0000:_qsort
+      68565731C089469A89469E8946A08946F6E989018B469A83C0023B:
+        0. 11 F127 01CD 0000:__STI_wildcard
+      74565731C08946908946948946968946988946F4E907028B469083:
+        0. 19 8B17 0262 0000:__STI_wildcard
+      7856578B7E04FF760EFF760CE8....09C07503E9A103FF7606FF76:
+        0. 0A 27C0 0476 0000:_insert__6_2CompNR7ostreamPCvii 03CA:_format__6_2CompNPUcPciiii
+      7E565731C050FF760CFF760AE8....09C07503E9B8048CD28D4682:
+        0. FF 05D3 04E1 0000:_extract__6_2CompNR7istreamPvi (REF 0350: .)
+  8A4604:
+    8B5E06:
+      3C0A74155DFF4F02783D8BD78B3F8E470CAA893F8BFA32:
+        0. 0B B176 00AC 0000:_fputc 0060:_fgetc
+      88470B89D85DC20400:
+        0. 00 0000 0012 0000:__iomanip_setfill__NR3iosi
+    8CD9C55E063C0A74145DFF4F0478418BD7C43FAA893F8ED98BFA:
+      0. 0C 68DF 00BA 0000:_fputc 0068:_fgetc
+    C45E06268847118CC289D85DC20600:
+      0. 00 0000 0015 0000:__iomanip_setfill__NR3iosi
+  8B:
+    1E....8B4604A3....89D85DC20200:
+      0. 00 0000 0013 0000:_set_new_handler__NpNv_v
+    46:
+      04:
+        09C07802EB03B80600:
+          8B5E0689470C89D85DC20400:
+            0. 00 0000 001B 0000:__iomanip_setprecision__NR3iosi
+          C45E06268947128CC289D85DC20600:
+            0. 00 0000 001E 0000:__iomanip_setprecision__NR3iosi
+        257F005DC3:
+          0. 00 0000 000B 0000:_toascii
+        8B:
+          4E06D3C05DC390558BEC8B46048B4E06D3C85DC390558BEC8B:
+            0. 36 B13E 0056 0000:__rotl 000E:__rotr 001C:__lrotl 0038:__lrotr
+          56065D8BC8250F00D1E9D1E9D1E9D1E903D1C3558BEC8B4604:
+            0. 40 F66F 0060 0000:__farptr_norm 001A:__farptr_fromlong 0042:__farptr_tolong
+        B90A0099F7F904308B5E0688078B460499F7F980C2308857015D:
+          0. 21 23FD 00C3 0023:_asctime
+          1. 18 34C7 00CB 0023:_asctime
+          2. 22 A95C 00DE 0023:_asctime
+          3. 17 D634 00B0 0023:_asctime
+      06:
+        0B4604:
+          74:
+            19C45E0426C707....268C5F02F64608017407FF7606:
+              0. 02 9E9D 0028 0000:___dt__3iosNv
+            3AC45E0426C707....268C5F0226807F25007418268B:
+              0. 11 0E30 0049 0000:___dt__9streambufNv
+            3FC45E0426C707....268C5F02FF760653E8....C45E:
+              0. 0D 0646 004E 0000:___dt__7filebufNv
+          7513:
+            8B16....A1....89560689460489D109C1741EFF76:
+              0. 0B B4A8 0074 0000:_strtok
+            B8:
+              280050E8....89D109C1895606894604746431C0:
+                0. 0E 2FC9 008C 0000:___ct__9streambufNv
+              300050E8....89D109C189560689460474:
+                31FF76:
+                  0. 05 1A6B 0059 0000:___ct__7filebufNv
+                55FF76:
+                  0. 05 1A6B 007D 0000:___ct__7filebufNii
+                68FF76:
+                  0. 0E 7100 0090 0000:___ct__7filebufNiPcii
+              380050E8....89D109C1895606894604743B31C0:
+                0. 0A 1C30 0252 0000:___ct__8stdiobufNP6_iobuf 0063:___dt__8stdiobufNv 0097:_underflow__8stdiobufNv 0199:_overflow__8stdiobufNi 01CB:_pbackfail__8stdiobufNi
+              3E0050E8....89D109C1895606894604745E8B56:
+                0. 40 3B9D 0086 0000:___ct__3iosNP9streambuf
+              760050E8....89D109C189560689460474558B46:
+                0. 20 FDD4 00E5 0000:___ct__14fstream_commonNv
+              780050E8....89D109C1895606894604746B8B46:
+                0. 1F AA14 05FD 0000:___ct__10istrstreamNPci 009D:___dt__10istrstreamNv 010B:___ct__10ostrstreamNv 019F:___ct__10ostrstreamNPcii 025B:___dt__10ostrstreamNv 02C9:_str__10ostrstreamNv 0321:_unfreeze__10ostrstreamNv 035F:___ct__9strstreamNv 040C:___ct__9strstreamNPcii 04EF:___dt__9strstreamNv 0567:_str__9strstreamNv 05BF:_unfreeze__9strstreamNv
+        2B460A1BD2D1E0D1D2D1E0D1D2D1E0D1D2D1E0D1D203460483D2:
+          0. 36 2F76 0056 0000:__aNahdiff 002B:__aFahdiff
+        8B:
+          4E08D3C05DCB90558BEC8B46068B4E08D3C85DCB90558BEC8B:
+            0. 36 826E 0056 0000:__rotl 000E:__rotr 001C:__lrotl 0038:__lrotr
+          56085D8BC8250F00D1E9D1E9D1E9D1E903D1CB558BEC8B4606:
+            0. 40 0C92 0060 0000:__farptr_norm 001A:__farptr_fromlong 0042:__farptr_tolong
+      0A2B46061BD2D1E0D1D2D1E0D1D2D1E0D1D2D1E0D1D203460883D2:
+        0. 1B 0E97 0046 0000:HUGEPTR_DIFF 002B:HUGEPTR_ADD
+      0C2B46081BD2D1E0D1D2D1E0D1D2D1E0D1D2D1E0D1D203460A83D2:
+        0. 1B 2D16 0046 0000:HUGEPTR_DIFF 002B:HUGEPTR_ADD
+    4E:
+      04:
+        33C0CD31730333C0485DC3558BECB802008B5E04EBEC558BECB8:
+          0. ED 40DC 0327 0000:_dpmi_AllocLDTDescriptors 0011:_dpmi_SegToDescriptor 001C:_dpmi_GetNextDescriptorIncremen 0024:_dpmi_SetDescriptorRights 002F:_dpmi_CreateCodeSegAlias 0037:_dpmi_GetDescriptor 0057:_dpmi_SetDescriptor 005F:_dpmi_AllocThisLDTDescriptor 0067:_dpmi_DOSAlloc 008B:_dpmi_DOSFree 009C:_dpmi_DOSRealloc 00AE:_dpmi_GetRealModeVector 00BF:_dpmi_SetRealModeVector 00D5:_dpmi_GetExceptionHandler 00DD:_dpmi_SetExceptionHandler 00E5:_dpmi_GetProtectedModeVector 00ED:_dpmi_SetProtectedModeVector 00F5:_dpmi_SimRealModeInterrupt 010F:_dpmi_CallRealModeProcWithFarRe 011B:_dpmi_CallRealModeProcWithIRet 0125:_dpmi_RealModeCallBackAlloc 0147:_dpmi_RealModeCallBackFree 0156:_dpmi_GetStateSaveRestoreInfo 0188:_dpmi_GetRawModeSwitchInfo 01B4:_dpmi_GetVersionInfo 01DE:_dpmi_GetFreeMemInfo 01E9:_dpmi_MemBlockAlloc 021B:_dpmi_MemBlockFree 022A:_dpmi_MemBlockRealloc 023D:_dpmi_LockLinearRegion 0252:_dpmi_UnlockLinearRegion 025A:_dpmi_UnlockRealModeRegion 0262:_dpmi_LockRealModeRegion 026A:_dpmi_IsPageSize 0280:_dpmi_MarkAsDemandPage 0288:_dpmi_DiscardPage 0290:_dpmi_IsLinearAddress 02B2:_dpmi_DisableVirtualInterruptSt 02BB:_dpmi_EnableVirtualInterruptSta 02C4:_dpmi_IsVirtualInterruptState 02CD:_dpmi_GetVendorAPI 02EE:_dpmi_SetDebugWatchPoint 030C:_dpmi_ClearDebugWatchPoint 0315:_dpmi_IsDebugWatchPointState 031E:_dpmi_ResetDebugWatchPoint
+        83F9:
+          417C0C83F95A7F0789C883C020EB0289C85DC3:
+            0. 00 0000 001B 0000:_tolower
+          617C0C83F97A7F0789C883C0E0EB0289C85DC3:
+            0. 00 0000 001B 0000:_toupper
+      08E317578CD88EC08B7E048A4606F2AE8BC175038BC7485F5DC38B:
+        0. 03 9201 0023 0000:_memchr
+      0A:
+        56578CD88E5E048B76068EC08B7E08F3A48ED85F5E5DC3558BEC:
+          0. 14 C36A 0034 0000:_peek 001D:_poke
+        E3:
+          1657C47E048A4608F2AE8BC19975058CC28BC7485F5DC38BC1:
+            0. 03 B344 0023 0000:_memchr
+          17578CD88EC08B7E068A4608F2AE8BC175038BC7485F5DCB8B:
+            0. 03 DA8D 0023 0000:_memchr
+      0C:
+        56578CD88E5E:
+          048B7606C47E08F3A48ED85F5E5DC3558BEC8B4E:
+            0. 16 731E 0036 0000:_peek 001B:_poke
+          068B76088EC08B7E0AF3A48ED85F5E5DCB558BEC:
+            0. 14 E159 0034 0000:_peek 001D:_poke
+        E31657C47E068A460AF2AE8BC19975058CC28BC7485F5DCB8BC1:
+          0. 03 FBC8 0023 0000:_memchr
+      0E56578CD88E5E068B7608C47E0AF3A48ED85F5E5DCB558BEC8B4E:
+        0. 16 7A92 0036 0000:_peek 001B:_poke
+    56:
+      068B4604:
+        2B46081B560AE8....5DC331C0:
+          99C3:
+            0. 00 0000 0018 0000:_difftime 0014:_gmtime
+          C3:
+            0. 00 0000 0017 0000:_difftime 0014:_gmtime
+        F7D2F7D0:
+          8B5E0821470621570889D85DC20600:
+            0. 00 0000 001C 0000:__iomanip_resetiosflags__NR3iosl
+          C45E082621470C2621570E8CC289D85DC20800:
+            0. 00 0000 0020 0000:__iomanip_resetiosflags__NR3iosl
+      08B41A..........8B56048B4E06B44E..........EB14558BEC8B:
+        0. 04 E6E3 003B 0000:__dos_findfirst 001C:__dos_findnext
+      108B460EC45E0426895706268947048B560C8B460A2689570A2689:
+        0. 0D 3B2D 002D 0000:_setb__9streambufNPcPci
+    5E:
+      04:
+        8A87....:
+          25:
+            01005DC3:
+              0. 00 0000 000F 0000:_isupper (REF 0008: .)
+            02005DC3:
+              0. 00 0000 000F 0000:_islower (REF 0008: .)
+            03005DC3:
+              0. 00 0000 000F 0000:_isalpha (REF 0008: .)
+            04005DC3:
+              0. 00 0000 000F 0000:_isdigit (REF 0008: .)
+            07005DC3:
+              0. 00 0000 000F 0000:_isalnum (REF 0008: .)
+            08005DC3:
+              0. 00 0000 000F 0000:_isspace (REF 0008: .)
+            10005DC3:
+              0. 00 0000 000F 0000:_ispunct (REF 0008: .)
+            17005DC3:
+              0. 00 0000 000F 0000:_isgraph (REF 0008: .)
+            20005DC3:
+              0. 00 0000 000F 0000:_iscntrl (REF 0008: .)
+            57005DC3:
+              0. 00 0000 000F 0000:_isprint (REF 0008: .)
+          982580005DC3:
+            0. 00 0000 0010 0000:_isxdigit (REF 0008: .)
+        8B:
+          470E8B4F0C3BC1750631C05DC20200B8FFFF5DC20200:
+            0. 00 0000 001D 0000:_sync__9streambufNv
+          D3803F007418803F2F740A803F5C7405803F3A75038D570143:
+            0. 83 B52B 02C0 0000:_ExtractFileName 002A:_ExtractExtension 005A:_MakePathName 00F0:_MakeCompressedName 0178:_MakeExpandedName 023E:_CopyDateTimeStamp 027A:_MyDOSFarAlloc 02B4:_MyDOSFarFree (REF 01D0: .)
+        8C078C4F028C57048C5F065DC3558BEC56571E8B5E048B078B4F:
+          0. 0D 2974 0140 0000:_segread 0013:_intdos 003A:_intdosx 0072:_int86 00D3:_int86x 0124:_bdosx
+        B445..........7305A3....1BC05DC3558BEC8B5E048B4E06B4:
+          0. 01 4AD7 002A 0000:_dup 0016:_dup2
+        B80600CD31730433C98BD18BC28BD15DC3558BECB80100EB1455:
+          0. 29 8B97 0049 0000:_dpmi_GetBaseAddress 0017:_dpmi_FreeDescriptor 001F:_dpmi_SetSegLimit 0027:_dpmi_SetBaseAddress 003F:_dpmi_IsRealMode
+        C747060500C74708000089D85DC20200:
+          0. 00 0000 0016 0000:_defaults__NR3ios
+      06:
+        8BD3803F007418803F2F740A803F5C7405803F3A75038D570143:
+          0. 13 E6A5 02CC 0000:_ExtractFileName 002A:_ExtractExtension 005C:_MakePathName 00F2:_MakeCompressedName 017A:_MakeExpandedName 0242:_CopyDateTimeStamp 0282:_MyDOSFarAlloc 02BE:_MyDOSFarFree (REF 01D3: .)
+        8C078C4F028C57048C5F065DCB45558BEC56571E8B5E068B078B:
+          0. 0E 23CE 0147 0000:_segread 0013:_intdos 003B:_intdosx 0074:_int86 00D7:_int86x 0129:_bdosx
+    D6:
+      1EC576:
+        04C45E08AC268A0F433AC175060AC075F3EB1B3C4172173C:
+          0. 21 112F 0041 0000:_stricmp
+        06C45E0AAC268A0F433AC175060AC075F3EB1B3C4172173C:
+          0. 21 59A3 0041 0000:_stricmp
+      8B76:
+        048B5E0690AC8A0F433AC175060AC075F4EB1B3C4172173C5A:
+          0. 1F 4F3C 003F 0000:_stricmp
+        068B5E0890AC8A0F433AC175060AC075F4EB1B3C4172173C5A:
+          0. 1F 07B0 003F 0000:_stricmp
+  8D46:
+    0850FF7606FF7604:
+      B8....50B8....50E8....83C40A5DC3558BEC:
+        0. 08 6FCD 0934 0000:_fscanf 001D:_scanf 0074:_sscanf (REF 0781: .)
+      E8....83C4065DC3558BECFF7608FF7606FF76:
+        0. 02 E451 099E 0000:_fprintf 0015:_vfprintf 002D:_printf 003F:_vprintf 0087:_sprintf 009C:_vsprintf 00CE:__pformat (REF 0205: .)
+    0C50FF760AFF7608FF7606FF7604:
+      B8....50B8....50E8....83C4:
+        0. 12 E4E2 09F5 0000:_fscanf 0023:_scanf 008F:_sscanf (REF 080A: .)
+      E8....83C40A5DC3558BECFF76:
+        0. 0E 3851 0A71 0000:_fprintf 001B:_vfprintf 0039:_printf 004E:_vprintf 00A2:_sprintf 00BD:_vsprintf 0101:__pformat (REF 0250: .)
+  9BDD46049BD9FA83EC08909BDD7EF89B8B46F8253F000906....9BDD5E:
+    0. 6E 1C8F 034C 0000:__sqrt87 0028:__poly87 005B:__chop87 005F:__floor87 0063:__ceil87 0090:__fmod87 00B2:__atan287 011E:__asincos87 0167:_trigerr 0192:__sincostan87 02AF:__log87 02B4:__log1087 02C7:__exp87 02D8:__pow87
+    1. 73 20DC 0351 0000:__sqrt87 0028:__poly87 0060:__chop87 0064:__floor87 0068:__ceil87 0095:__fmod87 00B7:__atan287 0123:__asincos87 016C:_trigerr 0197:__sincostan87 02B4:__log87 02B9:__log1087 02CC:__exp87 02DD:__pow87
+  B00A50FF7606FF7604E8....FF7606FF7604E8....8B56068B46045DC2:
+    0. 02 2768 0022 0000:_endl__NR7ostream
+  B4:
+    19..........32E440:
+      8B5E0489075DC3558BEC8B56044AB40E:
+        0. 00 0000 0097 0000:_dos_getdrive 0014:_dos_setdrive 0029:_dos_getftime 0047:_dos_setftime 0062:_dos_getfileattr 0080:_dos_setfileattr
+      C45E042689075DC3558BEC8B56044AB40E:
+        0. 00 0000 009F 0000:_dos_getdrive 0015:_dos_setdrive 002A:_dos_getftime 004A:_dos_setftime 0065:_dos_getfileattr 0086:_dos_setfileattr
+    2C..........:
+      5D5252BB3C008AC3F6E532ED03C1F7E35B8ADF32FF03:
+        0. 1B DD58 0057 0000:_clock
+      8AC5BB3C00F6E332ED03C18ACEF7E303C112D55250B4:
+        0. 01 207E 0081 0000:_time (005E: 5D)
+        1. 01 207E 0083 0000:_time (005E: 8B)
+  BA....B41A..........:
+    1E8E5E068B56048B4E08B44E..........1FEB:
+      0. 05 C492 0046 0000:_findfirst 0021:_findnext
+    8B56048B4E06B44E..........EB14558BECBA:
+      0. 00 0000 003E 0000:_findfirst 001C:_findnext
+  C45E:
+    04:
+      26:
+        807F2400742926F6472A807422268B5706268B4704525083C0:
+          0. 0B AEAB 0070 0000:_buffer_setup__7filebufNv
+        8B:
+          4706260B4704750726807F2400740631C05DC20400FF7606:
+            0. 11 6161 0031 0000:_allocate__9streambufNv
+          57:
+            0E268B470C248F0C:
+              102689570E2689470C8CC289D85DC2:
+                0. 02 2768 0022 0000:_dec__NR3ios
+              202689570E2689470C8CC289D85DC2:
+                0. 02 2768 0022 0000:_oct__NR3ios
+              402689570E2689470C8CC289D85DC2:
+                0. 02 2768 0022 0000:_hex__NR3ios
+            1E268B471C268B4F1A268B5F183BD1750A3BC3750631C0:
+              0. 0B CC90 002B 0000:_sync__9streambufNv
+        C7470C050026C7470E00008CC289D85DC20400:
+          0. 00 0000 001A 0000:_defaults__NR3ios
+        FF770626FF770426FF770226FF37268B4706268B4F02268B17:
+          0. 05 07BC 0E5D 0000:_asinh__NRCd 0067:_acosh__NRCd 00CE:_atanh__NRCd 0133:_asin__NRC7complex 0609:_acos__NRC7complex 0ADF:_atan__NRC7complex
+      B8FFFF26394728750B8B4E0A26894F283BC8750640995DC20800:
+        0. 0C 439E 0087 0000:_attach__7filebufNii
+    08268B570E268B470C0B46040B56062689570E2689470C8CC289D8:
+      0. 04 A5D3 0024 0000:__iomanip_setiosflags__NR3iosl
+    0C26F6470A83740AFF760E53E8....83C404FF7606FF7604FF760A:
+      0. 0A 7047 002E 0000:_freopen
+  E461508B5E0424FCE6618B4E06E2FE0C02E6618B4E08E2FE4B75EB58E6:
+    0. 09 65CB 0049 0000:_sound_tone 0023:_sound_beep 0030:_sound_click
+  EB:
+    11C45E04FF4604268A079850E8....83C402C45E0426803F0075E65D:
+      0. 16 ACA2 0141 0000:_disp_puts 0021:_disp_fillbox 004B:_disp_box
+    16FF7606FF7604..........FF7606FF7604..........FF7606FF76:
+      0. 06 FE01 0033 0000:MESSAGELOOP
+    201EB8....50C45E04268A079850E8....83C40683F8FF7505B80100:
+      0. 10 FBAA 0048 0000:_puts
+    22FF760AFF7608C45E04268A079850E8....83C406B9FFFF3BC17504:
+      0. 16 FBB5 0036 0000:_fputs
+  F646043F740AB8080050E8....83C4028B460424C0F7D819C0405DC355:
+    0. 0A 02FB 0049 0000:_feraiseexcept 001F:_feprocexit
+    1. 0B 4792 004D 0000:_feraiseexcept 001F:_feprocexit
+  FF:
+    36....E8....83C402:
+      50FF7604B8....50B8....50E8....83C4085D:
+        0. 0B EA59 0089 0000:_perror 0021:_strerror
+      5250FF7606FF76041EB8....501EB8....50E8:
+        0. 00 0000 00AA 0000:_perror 0027:_strerror
+    76:
+      04:
+        E8....:
+          83C402:
+            50E8....83C4025DC3:
+              0. 00 0000 0015 0000:_ctime
+            5D:
+              C20200:
+                0. 00 0000 0010 0000:___dl__Npv
+              C3558BEC8D46:
+                0650FF760431C050B8....50E8:
+                  0. 00 0000 0027 000E:_disp_printf
+                0850FF7606FF760431C05050B8:
+                  0. 00 0000 002B 000E:_disp_printf
+          8B46045DC20200:
+            0. 00 0000 0010 0000:_flush__NR7ostream
+        FF76:
+          06E8....8B46065DC20400:
+            0. 00 0000 0013 0000:__iomanip_setw__NR3iosi
+          08FF7606E8....8B56088B46065DC20600:
+            0. 00 0000 0019 0000:__iomanip_setw__NR3iosi
+      06FF7604:
+        1EB8....50E8....83C40831C050..........31C050FF:
+          0. 07 AD6C 0037 0000:MESSAGEFATALERROR
+        B8....50E8....83C40631C050..........31C050FF76:
+          0. 06 D35E 0036 0000:MESSAGEFATALERROR
+        E8....:
+          83C404:
+            5250E8....83C4045DC3:
+              0. 00 0000 0019 0000:_ctime
+            5DC20400:
+              0. 00 0000 0013 0000:___dl__NPv
+          8B56068B46045DC20400:
+            0. 00 0000 0016 0000:_flush__NR7ostream
+      08FF7606FF7604E8....8BE50BC0741657C47E0403F88BD0268B4D:
+        0. 78 E2AA 0211 0000:_page_calloc 002E:_page_malloc 008C:_page_realloc 012E:_page_free 01AC:_page_maxfree 01E2:_page_initialize
+      0AFF7608FF7606:
+        FF7604E8....5DC20800:
+          0. 00 0000 0016 0000:_getline__7istreamNpUcic (REF 0010: _getline__7istreamNpcic)
+          1. 00 0000 0016 0000:_get__7istreamNpUcic (REF 0010: _get__7istreamNpcic)
+        ..........8BE50BC0741657C47E0603F88BD026:
+          0. 7A 0131 021B 0000:_page_calloc 0030:_page_malloc 008E:_page_realloc 0138:_page_free 01B6:_page_maxfree 01EC:_page_initialize
+      0EFF760CFF760AFF7608FF7606FF7604E8....5DC20C00:
+        0. 00 0000 001C 0000:_getline__7istreamNPUcic (REF 0016: _getline__7istreamNPcic)
+        1. 00 0000 001C 0000:_get__7istreamNPUcic (REF 0016: _get__7istreamNPcic)
+56:
+  31C05050E8....83C404BE....EB:
+    158B4406A883740BA840740756E8....83:
+      0. 07 6FD6 038A 0000:__flushterm 002D:_setbuf 004F:_setvbuf 010C:_FREEBUF 0154:__flushbu 02A1:__fillbuf
+    168B440AA883740CA84074081E56E8:
+      0. 08 2A15 0365 0000:__flushterm 002E:_setbuf 0059:_setvbuf 0104:_FREEBUF 0150:__flushbu 027D:__fillbuf
+  57:
+    31FFBE....EB:
+      11F6440683740856E8....83C4024783C60E81FE....72E9:
+        0. 05 621A 0025 0000:_fcloseall (REF 0011: _fclose)
+        1. 05 621A 0025 0000:_flushall (REF 0011: _fflush)
+      12F6440A8374091E56E8....83C4044783C61081FE....72:
+        0. 06 D181 0026 0000:_fcloseall (REF 0012: _fclose)
+        1. 06 D181 0026 0000:_flushall (REF 0012: _fflush)
+    833E....0075:
+      2DBEFF0F2B36....B90400D3E6741956E8....83C40289C7:
+        0. 0B 2A51 01EF 0039:_farmalloc 0081:_farcalloc 00DA:_farfree 00FD:_farrealloc 01E8:_farcoreleft
+      31BEFF0F2B36....B90400D3E6741D56..........83C402:
+        0. 0C 9092 0261 003D:_farmalloc 0096:_farcalloc 0102:_farfree 013B:_farrealloc 0245:_farcoreleft
+  8B:
+    36....B802005089C151E8....83C40409F6740E83FE027409B8020050FF:
+      0. 11 FD5B 0142 0029:_check_sig 0057:_signal 00D8:_raise 0137:_abort
+    DC368B5F:
+      044380E3FEF7DB742E8BF303DC732836391E0A00772187DC8BCD:
+        0. 22 6206 0042 0000:_alloca
+      064380E3FEF7DB742E8BF303DC732836391E0A00772187DC8BCD:
+        0. 22 72AB 0042 0000:_alloca
+    F2910BC07402F7E1960BC07404F7E303F08BC1F7E303D65E:
+      C3900BD27508:
+        0. 76 BFCB 00E7 0000:__LMUL@ 003A:__ULDIV@ 00A0:__LDIV@ 00D4:__LCMP@
+      CB900BD27508:
+        0. 75 6491 00ED 0000:__LMUL@ 003A:__ULDIV@ 00A2:__LDIV@ 00DA:__LCMP@
+  BE....EB:
+    10F6440683740756E8....83C40283C60E81FE....72EA5EC3B820:
+      0. 03 7D7E 0029 0000:___fcloseall 001E:__STI_io_ctor
+    11F6440A8374081E56E8....83C40483C61081FE....72E95EC3B8:
+      0. 04 3CCB 002A 0000:___fcloseall 001F:__STI_io_ctor
+803E....00:
+  7401:
+    C3558BECC606....0157BB00B0891E....803E....01750DB8:
+      0. 06 CEE6 043C 0000:_disp_open 0066:_disp_close 0081:_disp_setcursortype 0096:_disp_hidecursor 00A9:_disp_showcursor 00B8:_disp_putc 019E:_disp_scroll 01A4:_disp_pokew 01CE:_disp_peekw 0213:_disp_move 0225:_disp_flush 0242:_disp_eeol 0257:_disp_eeop 0281:_disp_startstand 0287:_disp_endstand 028D:_disp_setattr 0298:_disp_getattr 02D5:_disp_getmode 02DC:_disp_setmode 02E6:_disp_peekbox 038E:_disp_pokebox (0411: 5F)
+      1. 06 CEE6 0438 0000:_disp_open 0066:_disp_close 0081:_disp_setcursortype 0096:_disp_hidecursor 00A9:_disp_showcursor 00B8:_disp_putc 019E:_disp_scroll 01A4:_disp_pokew 01CE:_disp_peekw 0213:_disp_move 0225:_disp_flush 0242:_disp_eeol 0257:_disp_eeop 0281:_disp_startstand 0287:_disp_endstand 028D:_disp_setattr 0298:_disp_getattr 02D5:_disp_getmode 02DC:_disp_setmode 02E6:_disp_peekbox 038C:_disp_pokebox (0411: C3)
+    CB45558BECC606....0157BB00B0891E....803E....01750D:
+      0. 07 8A13 0450 0000:_disp_open 0068:_disp_close 0085:_disp_setcursortype 009C:_disp_hidecursor 00B1:_disp_showcursor 00C0:_disp_putc 01AE:_disp_scroll 01B6:_disp_pokew 01E0:_disp_peekw 0225:_disp_move 0237:_disp_flush 0256:_disp_eeol 026B:_disp_eeop 0295:_disp_startstand 029B:_disp_endstand 02A1:_disp_setattr 02AC:_disp_getattr 02E9:_disp_getmode 02F0:_disp_setmode 02FA:_disp_peekbox 03A2:_disp_pokebox (0424: 5F)
+      1. 07 8A13 044C 0000:_disp_open 0068:_disp_close 0085:_disp_setcursortype 009C:_disp_hidecursor 00B1:_disp_showcursor 00C0:_disp_putc 01AE:_disp_scroll 01B6:_disp_pokew 01E0:_disp_peekw 0225:_disp_move 0237:_disp_flush 0256:_disp_eeol 026B:_disp_eeop 0295:_disp_startstand 029B:_disp_endstand 02A1:_disp_setattr 02AC:_disp_getattr 02E9:_disp_getmode 02F0:_disp_setmode 02FA:_disp_peekbox 03A0:_disp_pokebox (0424: CB)
+  750CFE06....A1....D1E0A3....8B0E....D126....89C8C3:
+    0. 00 0000 001E 0000:_bitalloc__3iosNv
+833E....:
+  007506C706........813E........7204B80200C3B8420050B8:
+    0. 02 3368 00CA 0000:_exit_PUSHSTATE 005E:_exit_popstate
+  0A7C04B8FFFFC38B0E....FF06....89C8C3:
+    0. 00 0000 0016 0000:_xalloc__3iosNv
+8B:
+  16....A1....BB6D4EB9C641E8....05393083D2008916....A3....A1:
+    0. 0E 488B 0035 0000:_rand 0024:_srand
+  C4362B060A0076:
+    1BC35A2BE076153639260A00770E3639260C007605368926:
+      0. 05 4CBE 002A 0000:__chkstack 000A:__chkstk
+    1DCB5A592BE076163639260A00770F3639260C0076053689:
+      0. 07 EF4D 002E 0000:__chkstack 000A:__chkstk
+  DC:
+    368B:
+      47:
+        02:
+          9933C22BC2C38BDC368B4702368B57040BD27907F7DAF7D883DA:
+            0. 46 8F1B 0066 0000:_abs 000C:_labs 0022:_atoi
+            1. 47 D060 0067 0000:_abs 000C:_labs 0022:_atoi
+          A3....C3C706....0500C3A1....C3558BEC:
+            1EFF7604BB....33:
+              0. 0F 2A02 0193 0000:__exec_showset 000A:__exec_showreset 0011:__exec_showget 0015:__exec
+            FF7606FF7604BB:
+              0. 00 0000 019C 0000:__exec_showset 000A:__exec_showreset 0011:__exec_showget 0015:__exec
+        04:
+          9933C22BC2CB8BDC368B4704368B57060BD27907F7DAF7D883DA:
+            0. 46 6102 0066 0000:_abs 000C:_labs 0022:_atoi
+            1. 47 ECF2 0067 0000:_abs 000C:_labs 0022:_atoi
+          A3....CBC706....0500CBA1....CB45558BEC:
+            1EFF7606BB:
+              0. 10 5D60 0187 0000:__exec_showset 000A:__exec_showreset 0011:__exec_showget 0015:__exec
+            FF7608FF7606BB:
+              0. 00 0000 0191 0000:__exec_showset 000A:__exec_showreset 0011:__exec_showget 0015:__exec
+      57:
+        02EC32E4C38BDC368B5702EDC38BDC368B4704368B5702EEC38BDC:
+          0. 0A 04B5 002A 0000:_inp 000A:_inpw 0012:_outp 001E:_outpw
+        04EC32E4CB8BDC368B5704EDCB8BDC368B4706368B5704EECB8BDC:
+          0. 0A 2ED8 002A 0000:_inp 000A:_inpw 0012:_outp 001E:_outpw
+    56:
+      57:
+        36C47F:
+          0633C0B9FFFFF2AEF7D18CDA36C47F0236C57706:
+            8BC7F3A48E:
+              0. 06 4A5B 0026 0000:_strcpy
+            D1E9F3A5D1:
+              0. 0D D3CB 002D 0000:_stpcpy
+          0833C0B9FFFFF2AEF7D18CDA36C47F0436C57708:
+            8BC7F3A48E:
+              0. 06 02D7 0026 0000:_strcpy
+            D1E9F3A5D1:
+              0. 0D 9B47 002D 0000:_stpcpy
+        8CDA36C47F:
+          0636C5770233C0B9FFFFF2AEF7D12BF9F3A674061BC0F5:
+            0. 08 05F4 0028 0000:_strcmp
+          0836C5770433C0B9FFFFF2AEF7D12BF9F3A674061BC0F5:
+            0. 08 4D78 0028 0000:_strcmp
+      8BD78CD88EC0368B7F:
+        04:
+          368B770233C0B9FFFFF2AEF7D12BF9F3A67406:
+            0. 0A 0BB0 002A 0000:_strcmp
+          8BF733C0B9FFFFF2AEF7D1368B7F028BC7:
+            03C1:
+              0. 0F BEFC 002F 0000:_stpcpy
+            F3A4:
+              0. 04 9B53 0024 0000:_strcpy
+        06:
+          368B770433C0B9FFFFF2AEF7D12BF9F3A67406:
+            0. 0A 433C 002A 0000:_strcmp
+          8BF733C0B9FFFFF2AEF7D1368B7F048BC7:
+            03C1:
+              0. 0F F670 002F 0000:_stpcpy
+            F3A4:
+              0. 04 D3DF 0024 0000:_strcpy
+    8BD7:
+      36C47F:
+        0233C0B9FFFFF2AE8BC1F7D0488BFAC3:
+          0. 00 0000 0017 0000:_strlen
+        0433C0B9FFFFF2AE8BC1F7D0488BFACB:
+          0. 00 0000 0017 0000:_strlen
+      8CD88EC0368B7F:
+        0233C0B9FFFFF2AE8BC1F7D0488BFAC3:
+          0. 00 0000 001B 0000:_strlen
+        0433C0B9FFFFF2AE8BC1F7D0488BFACB:
+          0. 00 0000 001B 0000:_strlen
+  F88BF081E6F07F7505E8....EB0AD1EED1EED1EED1EE0C108AE08AC78AFB8A:
+    0. 4D 7ED9 0FD7 0000:dunnorm 0042:dleft_justify 0054:dround 0109:dnorm 019A:exception 01D6:dget_dtype_pair 025B:dget_dtype 02B6:__DTST@ 02C2:__DTST0EXC@ 02C6:__DTST0@ 0314:__DCMPEXC@ 0318:__DCMP@ 03AC:__DNEG@ 0565:__DSUB@ 058A:__DADD@ 0741:__DDIV@ 0904:__DMUL@ 0B3B:__FLTDBL@ 0BAE:__DBLFLT@ 0C18:__UNSDBL@ 0C1B:__INTDBL@ 0C51:__ULNGDBL@ 0C54:__LNGDBL@ 0C88:__DBLUNS@ 0CA2:__DBLINT@ 0CB7:__DBLULNG@ 0CD1:__DBLLNG@ 0D89:___dtype 0DA3:___fpclassify_d 0DFD:fget_dtype 0E34:funnorm 0E59:fnorm 0EC1:fleft_justify 0ECF:fright_justify 0F15:fround
+8CD89045558BEC1E8ED8:
+  81EC:
+    100256578B7E081E0730C0B9FFFFF2AEF7D14989:
+      0. FF C75D 013A 0000:_strstr
+    18025657C47E0A30C0B9FFFFF2AEF7D149898EE8:
+      0. FF E156 018A 0000:_strstr
+    2001565731C050FF7606..........09C07503E9:
+      0. 93 7893 0277 0000:_extract__7istreamFpvpCcpiPFpvpCcpv_vPFicpv_ipv
+    5001565731C050FF7608FF7606..........09C0:
+      0. BE C837 0361 0000:_extract__7istreamFPvPCcPiPFPvPCcPv_vPFicPv_iPv
+    8000565731C050FF760EFF760C..........09C0:
+      0. FF 9F3F 04F2 0000:_extract__6_2CompFR7istreamPvi (REF 035C: .)
+    840056578B46108B5E0E8B4E0C8B560A8946BE89:
+      0. 18 18BD 08BF 0000:___ls__7ostreamFd 0336:_fixed_point__7ostreamFdPc 05B2:_sci_notation__7ostreamFdPcRi
+    BE0056578B760C8BC69933C225010003D009D274:
+      0. 02 7DDA 02E5 0000:_qsort
+  83EC:
+    02:
+      1EB8....50..........83C404:
+        1EB8....50:
+          0. 00 0000 0030 0000:_flush_stdio__7ostreamFv
+        8D66FE1F5D4D:
+          0. 10 4E83 0113 0000:_getchar 0021:_putchar 0045:_putc 006A:_getc 008C:_ferror 00AA:_feof 00C8:_clearerr 00E4:_rewind
+      31:
+        C050:
+          1EB8....50FF760CFF760AFF7608FF76:
+            0. 10 4CEA 03FF 0000:_ecvt 003C:_fcvt 0079:__FLOATCVT 0345:__DOEXPONENT 03C9:__TRIM0
+          B08150:
+            1EB8....50..........31C050:
+              0. 03 6D73 0075 0000:__STIiosst1_cpp_ 0045:__STDiosst1_cpp_
+            B8....50..........31C050B8:
+              0. 00 0000 006A 0000:__STIiosst1_cpp_ 003C:__STDiosst1_cpp_
+          B8....50FF760CFF760AFF7608FF7606:
+            0. 09 AB5F 03A3 0000:_ecvt 0035:_fcvt 006B:__FLOATCVT 02F1:__DOEXPONENT 036F:__TRIM0
+          FF76:
+            06..........8B46068D66FE1F5D:
+              0. 04 B62B 0024 0000:_ends__FR7ostream (REF 0014: _put__7ostreamFc)
+              1. 04 B62B 0024 0000:_ws__FR7istream (REF 0014: _ipfx__7istreamFi)
+            08FF7606..........8B56088B46:
+              0. 0A F868 002A 0000:_ends__FR7ostream (REF 0017: _put__7ostreamFc)
+              1. 0A F868 002A 0000:_ws__FR7istream (REF 0017: _ipfx__7istreamFi)
+        C9:
+          837E060074128B5E06803F00740A837E08:
+            0. E7 3B8E 0107 0000:_mblen 0030:_mbtowc 006D:_wctomb 009B:_mbstowcs 00D1:_wcstombs
+          8B46080B46067413C45E0626803F00740A:
+            0. FB D0B8 011B 0000:_mblen 0033:_mbtowc 007A:_wctomb 00AB:_mbstowcs 00E3:_wcstombs
+      56:
+        31:
+          C05050..........83C404BE....EB:
+            178B:
+              0. 0B E497 041B 0000:__flushterm 0044:_setbuf 0077:_setvbuf 0144:_FREEBUF 019F:__flushbu 0310:__fillbuf
+            188B:
+              0. 0C 254B 03EB 0000:__flushterm 0045:_setbuf 0081:_setvbuf 013F:_FREEBUF 019C:__flushbu 02E3:__fillbuf
+          F6:
+            8B46080B4606750D..........09C078:
+              0. 32 966F 00A6 0000:_fflush
+            C45E08268B5708268B470689D109C175:
+              0. 10 A2AC 0358 0000:_ungetc 00AA:_fseek 024C:_ftell 02EC:_fgetpos 0329:_fsetpos
+        57:
+          31FFBE....EB:
+            13F6440683740A56:
+              0. 00 0000 003A 0000:_flushall (REF 001E: _fflush)
+              1. 00 0000 003A 0000:_fcloseall (REF 001E: _fclose)
+            14F6440A83740B1E56:
+              0. 00 0000 003B 0000:_flushall (REF 001F: _fflush)
+              1. 00 0000 003B 0000:_fcloseall (REF 001F: _fclose)
+          8B:
+            46:
+              0683C00C8B5E068B4F0EF647188074:
+                0. 43 10C7 008A 0000:_flushbuf__7filebufFv
+              080B4606:
+                746CC45E0626C7470A:
+                  0. 0B 9781 00A6 0000:___dt__8iostreamFv
+                75:
+                  03E9:
+                    8B00C45E0626C747:
+                      0. 01 B34D 0147 0000:___dt__8ifstreamFv (REF 004E: ___dt__7istreamFv)
+                      1. 01 B34D 0147 0000:___dt__8ofstreamFv (REF 004E: ___dt__7ostreamFv)
+                    9500C45E0626C747:
+                      0. 01 6E91 015D 0000:___dt__7fstreamFv
+                  08C74606....8C5E0880:
+                    0. 01 8528 025C 0000:_tmpnam 00A2:_tmpfile 00FF:_tempnam
+                  18B8:
+                    800050:
+                      0. 2A D996 00EE 0000:___ct__8ifstreamFiPcii (REF 0078: ___ct__7istreamFv)
+                      1. 2A D996 00EE 0000:___ct__8ofstreamFiPcii (REF 0078: ___ct__7ostreamFv)
+                    8A0050:
+                      0. 2A 66B4 0104 0000:___ct__7fstreamFiPcii
+            56088B4606..........50535152:
+              0. 00 0000 0324 0000:_sqrtf 0034:_sqrt 02C1:_hypot (0302: 4D)
+              1. 00 0000 0323 0000:_sqrtf 0034:_sqrt 02C0:_hypot (0302: CB)
+            5E:
+              06:
+                8B770831C989DF83C70AEB07803C:
+                  0. 18 0C41 0038 0000:_newlines__7filebufFv
+                F64718807405BE0510EB03BE0408:
+                  0. 01 CBC7 005D 0000:_doallocate__7filebufFv
+              088B7E061E0730C0B9FFFFF2AEF7D1:
+                0. 30 D109 0050 0000:_strrchr
+            7606:
+              09F675014656..........83C402:
+                0. 08 2582 0043 0000:___nw__FUi
+              31FF09F6750D..........09C078:
+                0. 2B F635 0085 0000:_fflush
+              837C16FF7413837C0800740856:
+                0. 00 0000 0056 0000:_sync__7filebufFv
+              8B:
+                4E0A8BFEEB088A56088BDE4688:
+                  0. 18 9F3A 0038 0000:_strnset
+                7E:
+                  08:
+                    09F6750FB95A0051:
+                      0. 00 0000 00C1 0000:___ct__14fstream_commonFv
+                    807C12007530837C020075:
+                      0. 0F 67D0 0058 0000:_setbuf__7filebufFpci
+                    8B460AD1E8EB118A148A4C:
+                      0. 1D 1AE2 003D 0000:_swab
+                    EB19578A049850:
+                      0. 00 0000 0042 0000:_fputs
+                  0C09F6750FB9600051:
+                    0. 00 0000 04F6 0000:___ct__10istrstreamFpci 007C:___dt__10istrstreamFv 00E0:___ct__10ostrstreamFv 0157:___ct__10ostrstreamFpcii 01EB:___dt__10ostrstreamFv 024F:_str__10ostrstreamFv 0293:_unfreeze__10ostrstreamFv 02CB:___ct__9strstreamFv 0352:___ct__9strstreamFpcii 0411:___dt__9strstreamFv 047A:_str__9strstreamFv 04BE:_unfreeze__9strstreamFv
+                FEEB:
+                  088A4E088BDE46880F803C:
+                    0. 0E 575A 002E 0000:_strset
+                  0F8A049850..........83:
+                    0. 15 64F5 0035 0000:_strupr (REF 001B: _toupper)
+                    1. 15 64F5 0035 0000:_strlwr (REF 001B: _tolower)
+            7E:
+              06:
+                578B1DFF5F1C89C683FEFF7403FF:
+                  0. 0F C326 002F 0000:_sbumpc_special__9streambufFv
+                8B76:
+                  08:
+                    09FF750FB9:
+                      3E0051:
+                        0. 00 0000 0065 0000:___ct__7ostreamFv (0040: EA)
+                        1. 00 0000 006A 0000:___ct__7istreamFv (0040: E3)
+                      440051:
+                        0. 00 0000 0081 0000:___ct__8iostreamFv
+                    8B:
+                      D6EB1C8A0C8A053AC875:
+                        0. 25 947B 0045 0000:_strpbrk
+                      DF8BD6EB:
+                        118A0C8A053A:
+                          0. 1E BB7E 003E 0000:_strcspn
+                        128A053AC874:
+                          0. 1F 94D5 003F 0000:_strspn
+                  0A:
+                    09FF750FB9:
+                      3E0051:
+                        0. 00 0000 0065 0000:___ct__7ostreamFp9streambuf (0040: EA)
+                        1. 00 0000 006A 0000:___ct__7istreamFp9streambuf (0040: E3)
+                      400051:
+                        0. 00 0000 00DF 0000:___ct__18istream_withassignFp9streambuf 006A:___dt__18istream_withassignFv (REF 0041: ___ct__7istreamFv)
+                        1. 00 0000 00DF 0000:___ct__18ostream_withassignFp9streambuf 006A:___dt__18ostream_withassignFv (REF 0041: ___ct__7ostreamFv)
+                      440051:
+                        0. 00 0000 0081 0000:___ct__8iostreamFp9streambuf
+                      460051:
+                        0. 00 0000 00F4 0000:___ct__19iostream_withassignFp9streambuf 007A:___dt__19iostream_withassignFv
+                    578B1DFF5F14807D130074:
+                      0. 0A A919 008C 0000:_setbuf__9streambufFpci
+                  0C09FF750FB9:
+                    600051:
+                      0. 00 0000 008C 0000:___ct__8ifstreamFii (REF 004B: ___ct__7istreamFv)
+                      1. 00 0000 008C 0000:___ct__8ofstreamFii (REF 004B: ___ct__7ostreamFv)
+                    660051:
+                      0. 00 0000 009C 0000:___ct__7fstreamFii
+                  0E09FF750FB9:
+                    600051:
+                      0. 00 0000 008F 0000:___ct__8ifstreamFpCcii (REF 004B: ___ct__7istreamFv)
+                      1. 00 0000 008F 0000:___ct__8ofstreamFpCcii (REF 004B: ___ct__7ostreamFv)
+                    660051:
+                      0. 00 0000 009F 0000:___ct__7fstreamFpCcii
+                  1009FF750FB9:
+                    600051:
+                      0. 00 0000 0098 0000:___ct__8ifstreamFipcii (REF 004B: ___ct__7istreamFv)
+                      1. 00 0000 0098 0000:___ct__8ofstreamFipcii (REF 004B: ___ct__7ostreamFv)
+                    660051:
+                      0. 00 0000 00A8 0000:___ct__7fstreamFipcii
+              0831F68B4D0409C97519837D0C0075:
+                0. 0C F353 0303 0000:_ungetc 00A4:_fseek 020E:_ftell 02A1:_fgetpos 02D9:_fsetpos
+              0A8B46100B460E751A8B:
+                460CF7E783:
+                  0. 03 63AD 00C7 0000:__vec_new__FPvUiUiPFv_Pv 0068:__vec_delete__FPvUiUiPFv_ii
+                C7F7660C83:
+                  0. 03 63AD 0175 0000:___vec_new__FPvUiiPFv_Pv 0072:___vec_delete__FPviUiPFv_i 00D9:___vec_ctor__FPvUiiPFv_Pv 0127:___vec_dtor__FPvUiiPFv_i
+              0E09FF75158B46:
+                0AF7660C83C00250:
+                  0. 00 0000 0136 0000:___vec_new__FpvUiiPFv_pv 005F:___vec_delete__FpviUiPFv_i 00B2:___vec_ctor__FpvUiiPFv_pv 00F2:___vec_dtor__FpvUiiPFv_i
+                0CF7660A83C00250:
+                  0. 00 0000 00A5 0000:__vec_new__FpvUiUiPFv_pv 0055:__vec_delete__FpvUiUiPFv_ii
+          FF76:
+            06..........83C40289C683FEFF75:
+              0. 08 CF97 00D1 0000:_fdopen
+            08FF7606:
+              C45E0626C43726FF5C1C89:
+                0. 1A 8E9D 003A 0000:_sbumpc_special__9streambufFv
+              ..........83C40483F803:
+                0. 08 9175 1616 0000:_log1pf 006E:_log1p 00D4:_logf 0117:_log 014E:_log10f 0192:_log10 05BF:_expm1f 0636:_expm1 06A2:_expf 06D6:_exp 092F:_powf 0A2A:_pow (15ED: CB)
+                1. 08 9175 1698 0000:_log1pf 006E:_log1p 00D4:_logf 011D:_log 015A:_log10f 01A4:_log10 0600:_expm1f 0677:_expm1 06E3:_expf 0717:_exp 0972:_powf 0A6D:_pow (15ED: 5F)
+        837E06007422B8FFFF50..........B82000:
+          0. 04 192E 0121 0000:_malloc 0042:_calloc 008B:_realloc 00EF:_free
+        8B:
+          46080B4606:
+            740C837E08107504837E0600:
+              0. 1C 1888 0218 0000:_farmalloc 0056:_farcalloc 00BF:_farfree 00F8:_farrealloc 01FF:_farcoreleft
+            75:
+              15B8:
+                480050..........89:
+                  0. 2C 7348 009C 0000:___ct__7istreamFP9streambuf
+                  1. 2A 818B 0094 0000:___ct__7ostreamFv
+                  2. 2C 8640 0096 0000:___ct__7ostreamFP9streambuf
+                  3. 2A A85D 009A 0000:___ct__7istreamFv
+                4A0050..........89:
+                  0. 26 0332 0161 0000:___ct__18istream_withassignFP9streambuf 009F:___dt__18istream_withassignFv (REF 005E: ___ct__7istreamFv)
+                  1. 26 0332 0161 0000:___ct__18ostream_withassignFP9streambuf 009F:___dt__18ostream_withassignFv (REF 005E: ___ct__7ostreamFv)
+                520050..........89:
+                  0. 24 484D 00C3 0000:___ct__8iostreamFv
+                  1. 26 A6AF 00C5 0000:___ct__8iostreamFP9streambuf
+                540050..........89:
+                  0. 26 329B 0181 0000:___ct__19iostream_withassignFP9streambuf 00B5:___dt__19iostream_withassignFv
+              18B8:
+                800050..........89:
+                  0. 29 2819 00D8 0000:___ct__8ifstreamFii (REF 0077: ___ct__7istreamFv)
+                  1. 29 2819 00D8 0000:___ct__8ofstreamFii (REF 0077: ___ct__7ostreamFv)
+                  2. 29 D911 00DE 0000:___ct__8ifstreamFPCcii (REF 0077: ___ct__7istreamFv)
+                  3. 29 D911 00DE 0000:___ct__8ofstreamFPCcii (REF 0077: ___ct__7ostreamFv)
+                8A0050..........89:
+                  0. 29 48FE 00EE 0000:___ct__7fstreamFii
+                  1. 29 A1E1 00F4 0000:___ct__7fstreamFPCcii
+          5E068B:
+            37D1E68B84....0906....8B1FD1:
+              0. 03 DAB8 0032 0000:_matherr
+            4F0489CE8B54088B4406:
+              24F10C:
+                02:
+                  0. 12 AA17 0032 0000:_leftjust__FR7ostream
+                04:
+                  0. 12 AA17 0032 0000:_rightjust__FR7ostream
+                08:
+                  0. 12 AA17 0032 0000:_internal__FR7ostream
+              80E4E780:
+                0. 14 A9A7 0034 0000:_fixed__FR7ostream
+                1. 14 AC61 0034 0000:_scientific__FR7ostream
+          76:
+            06:
+              09F6:
+                74:
+                  10C704....F6460801740656:
+                    0. 00 0000 002F 0000:___dt__3iosFv
+                  27C704....807C1300741183:
+                    0. 08 608D 0046 0000:___dt__9streambufFv
+                  2BC704....56..........80:
+                    0. 06 944B 004A 0000:___dt__7filebufFv
+                75:
+                  0B8B36....833E....007413:
+                    0. 04 7E96 0063 0000:_strtok
+                  0FB8:
+                    160050..........89C6:
+                      0. 0E D55C 0061 0000:___ct__9streambufFv
+                    1E0050..........89C6:
+                      0. 05 2B4B 0051 0000:___ct__7filebufFv
+                      1. 0B BE87 0080 0000:___ct__7filebufFipcii
+                      2. 05 C650 0074 0000:___ct__7filebufFii
+                    200050..........89C6:
+                      0. 0B 65ED 01BB 0000:___ct__8stdiobufFp6_iobuf 004E:___dt__8stdiobufFv 0086:_underflow__8stdiobufFv 011D:_overflow__8stdiobufFi 0160:_pbackfail__8stdiobufFi
+                    380050..........89C6:
+                      0. 2D 0A67 0070 0000:___ct__3iosFp9streambuf
+              807C1200741CF644188074168B4402:
+                0. 09 9A6B 0051 0000:_buffer_setup__7filebufFv
+              83:
+                7C02007506807C1200740C31C05E:
+                  0. 19 26F9 0039 0000:_allocate__9streambufFv
+                7E0A007504C70403008A46089883:
+                  0. A7 96B5 017E 00E4:___rs__7istreamFRf 013E:___rs__7istreamFRd
+              8B:
+                460C8944028B460A8944048A4608:
+                  0. 0D E1B1 002D 0000:_setb__9streambufFpcpci
+                54088B4406248F0C:
+                  108954088944:
+                    0. 0D FD8A 002D 0000:_dec__FR3ios
+                  208954088944:
+                    0. 0D FD8A 002D 0000:_oct__FR3ios
+                  408954088944:
+                    0. 0D FD8A 002D 0000:_hex__FR3ios
+              B00A5056..........56:
+                0. 0C 255C 002C 0000:_endl__FR7ostream
+              B8FFFF394416750A8B4E0A894C163B:
+                0. 17 5C6A 008E 0000:_attach__7filebufFii
+              EB:
+                0F8BDE468A079850..........83:
+                  0. 2D ABF5 0170 0000:_disp_puts 002F:_disp_fillbox 006A:_disp_box
+                21B8....508A049850:
+                  0. 1A F0E0 005A 0000:_puts
+              FF7406FF7404FF7402FF348B44068B:
+                0. 07 7797 0D1F 0000:_asinh__FRCd 0073:_acosh__FRCd 00E6:_atanh__FRCd 015C:_asin__FRC7complex 05A9:_acos__FRC7complex 09F6:_atan__FRC7complex
+            0A:
+              8B54088B44060B46060B5608895408:
+                0. 0F 0088 002F 0000:__iomanip_setiosflags__FR3iosl
+              C45E0626807F24007544268B470626:
+                0. 19 7D79 006C 0000:_setbuf__7filebufFPci
+              F6440683740956..........83C402:
+                0. 07 168E 0034 0000:_freopen
+            0ED1EEEB1DC45E06268A17268A4701C4:
+              0. 21 25EC 0041 0000:_swab
+        B8:
+          000250..........83C40289C609C0750D:
+            0. 1B 4E6F 004D 0000:_doallocate__9streambufFv
+          ....50..........83C40289C631C050FF:
+            0. 03 DEFD 043E 0000:_system 003E:_spawnl 0064:_spawnv 0087:_spawnlp 00AD:_spawnvp 0372:_execl 0395:_execv 03B7:_execlp 03DA:_execvp
+        C45E0626:
+          837F28FF741A268B4712260B4710:
+            0. 06 C358 0063 0000:_sync__7filebufFv
+          8B37D1E68B84....0906....268B:
+            0. 05 1E8B 0034 0000:_matherr
+        FF7608FF7606C45E0626C43726FF5C14C45E:
+          0. 1A 36A1 00DF 0000:_setbuf__9streambufFPci
+      57:
+        8B:
+          5E068B7F0480:
+            4D:
+              068089D85F8D66FE1F5D:
+                0. 04 B62B 0024 0000:_showbase__FR7ostream
+              070189D85F8D66FE1F5D:
+                0. 04 B62B 0024 0000:_showpoint__FR7ostream
+            6507E6806508FF89D85F8D:
+              0. 08 F4FD 0028 0000:_floating__FR7ostream
+          7E0609FF74:
+            49C74506....8B5D04C707:
+              0. 00 0000 007E 0000:___dt__8iostreamFv
+            57C74522....8B5D20C707:
+              0. 00 0000 00EE 0000:___dt__8ifstreamFv (REF 0030: ___dt__7istreamFv)
+              1. 00 0000 00EE 0000:___dt__8ofstreamFv (REF 0030: ___dt__7ostreamFv)
+            5CC74528....C74522....8B:
+              0. 04 6152 00FE 0000:___dt__7fstreamFv
+        FF76:
+          0AFF7608FF7606..........83C4068B:
+            0. 18 18A1 0038 0000:_strxfrm
+          0EFF760CFF760AFF7608FF7606:
+            0. 00 0000 003C 0000:_strxfrm
+      80:
+        3E....00750CFE06....A1....D1E0A3:
+          0. 02 5D8E 0031 0000:_bitalloc__3iosFv
+        660D7F8B461425008009460C8B460C8B5E0A:
+          0. E1 CA03 0101 0000:_copysign 002D:_copysignf 0054:_fabs 0078:_fabsf 0096:_nan 00B2:_nanf 00CB:_nans 00E8:_nansf
+      817E06800019C0F7D88D66FE1F5D4DCB:
+        0. 00 0000 001D 0000:_isascii
+      83:
+        3E....:
+          007506C706........813E:
+            0. 11 3D87 0122 0000:_exit_PUSHSTATE 0083:_exit_popstate
+            1. 14 58BF 0049 0000:_atexit
+          0A7C0AB8FFFF8D66FE1F5D4DCB8B0E:
+            0. 00 0000 002F 0000:_xalloc__3iosFv
+        7E0C007508C45E0626C70703008A460A9883:
+          0. C9 050A 01C5 010D:___rs__7istreamFRf 0176:___rs__7istreamFRd
+        EC06:
+          168D46105089E083C0041650:
+            0. 00 0000 00FC 0000:_seekpos__9streambufF9streamposi 00A5:_seekoff__9streambufF9streamoff11relative_toX3iosi
+          8D460C5089E083C00250..........31:
+            0. 37 5EFF 00C3 0000:_seekpos__9streambufF9streamposi 0081:_seekoff__9streambufF9streamoff11relative_toX3iosi
+      8A4606:
+        8B5E0888470B89D88D66FE1F5D4DCA04:
+          0. 01 78F0 0021 0000:__iomanip_setfill__FR3iosi
+        C45E08268847118CC289D88D66FE1F5D:
+          0. 04 D64C 0024 0000:__iomanip_setfill__FR3iosi
+      8B:
+        16....A1....BB6D4EB9C641..........05:
+          0. 07 27A4 0059 0000:_rand 0039:_srand
+        46:
+          06:
+            09C07802EB03B80600:
+              8B5E0889470C89:
+                0. 0A DCC8 002A 0000:__iomanip_setprecision__FR3iosi
+              C45E0826894712:
+                0. 0D BA2A 002D 0000:__iomanip_setprecision__FR3iosi
+            257F008D66FE1F5D4DCB:
+              0. 00 0000 001A 0000:_toascii
+          080B4606:
+            74:
+              1BC45E0626C707....268C5F:
+                0. 0B F083 0039 0000:___dt__3iosFv
+              3EC45E0626C707....268C5F:
+                0. 1A 458C 005C 0000:___dt__9streambufFv
+              47C45E0626C707....268C5F:
+                0. 05 F2E4 0065 0000:___dt__7filebufFv
+            75:
+              138B16....A1....89560889:
+                0. 14 A55B 008C 0000:_strtok
+              15B8:
+                280050..........89D1:
+                  0. 1A 4379 009F 0000:___ct__9streambufFv
+                300050..........89D1:
+                  0. 10 1913 006C 0000:___ct__7filebufFv
+                  1. 10 7069 0094 0000:___ct__7filebufFii
+                  2. 19 7516 00A9 0000:___ct__7filebufFiPcii
+                380050..........89D1:
+                  0. 15 7F5B 02AA 0000:___ct__8stdiobufFP6_iobuf 0076:___dt__8stdiobufFv 00BD:_underflow__8stdiobufFv 01CE:_overflow__8stdiobufFi 0216:_pbackfail__8stdiobufFi
+                3E0050..........89D1:
+                  0. 4C C0B9 0099 0000:___ct__3iosFP9streambuf
+                760050..........89D1:
+                  0. 2B 7935 0111 0000:___ct__14fstream_commonFv
+                7C0050..........89D1:
+                  0. 2A 64A0 06ED 0000:___ct__10istrstreamFPci 00B6:___dt__10istrstreamFv 013B:___ct__10ostrstreamFv 01E8:___ct__10ostrstreamFPcii 02BB:___dt__10ostrstreamFv 0340:_str__10ostrstreamFv 03A4:_unfreeze__10ostrstreamFv 03EE:___ct__9strstreamFv 04B6:___ct__9strstreamFPcii 05B0:___dt__9strstreamFv 063F:_str__9strstreamFv 06A3:_unfreeze__9strstreamFv
+        4E0683F9:
+          417C0C83F95A7F0789C883C020EB:
+            0. 0A 7B04 002A 0000:_tolower
+          617C0C83F97A7F0789C883C0E0EB:
+            0. 0A 7B04 002A 0000:_toupper
+        56:
+          088B4606:
+            2B460A1B560C..........8D66:
+              0. 1C 3025 003C 0000:_difftime 0025:_gmtime
+              1. 1B C4A3 003B 0000:_difftime 0025:_gmtime
+            F7D2F7D0:
+              8B5E0A214706215708:
+                0. 0B E0EC 002B 0000:__iomanip_resetiosflags__FR3iosl
+              C45E0A2621470C2621:
+                0. 0F 536B 002F 0000:__iomanip_resetiosflags__FR3iosl
+          128B4610C45E0626895706268947048B56:
+            0. 1C 73BA 003C 0000:_setb__9streambufFPcPci
+        5E06:
+          8A87....:
+            25:
+              01008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isupper (REF 0012: .)
+              02008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_islower (REF 0012: .)
+              03008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isalpha (REF 0012: .)
+              04008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isdigit (REF 0012: .)
+              07008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isalnum (REF 0012: .)
+              08008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isspace (REF 0012: .)
+              10008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_ispunct (REF 0012: .)
+              17008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isgraph (REF 0012: .)
+              20008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_iscntrl (REF 0012: .)
+              57008D66FE1F5D4DCB:
+                0. 00 0000 001E 0000:_isprint (REF 0012: .)
+            982580008D66FE1F5D4DCB:
+              0. 00 0000 001F 0000:_isxdigit (REF 0012: .)
+          8B470E8B4F0C3BC1750B31C08D66FE1F:
+            0. 11 5E16 0031 0000:_sync__9streambufFv
+          C747060500C74708000089D88D66FE1F:
+            0. 05 0911 0025 0000:_defaults__FR3ios
+      8CDAB8....8D66FE1F5D4DCB:
+        0. 00 0000 0019 0000:_localeconv
+      8D:
+        46:
+          0A50FF7608FF7606:
+            BA....B8....5250BA:
+              0. 00 0000 09A9 0000:_fscanf 0034:_scanf 00C0:_sscanf (REF 07EE: .)
+            ..........83C4068D:
+              0. 1D E14A 0A48 0000:_fprintf 0026:_vfprintf 0053:_printf 0076:_vprintf 00E4:_sprintf 010A:_vsprintf 0151:__pformat (REF 028F: .)
+          0E50FF760CFF760AFF7608FF7606:
+            BA:
+              0. 01 BBC9 0A6A 0000:_fscanf 003A:_scanf 00DB:_sscanf (REF 0877: .)
+            ..:
+              0. 00 0000 0B17 0000:_fprintf 002C:_vfprintf 005F:_printf 0085:_vprintf 00FF:_sprintf 012B:_vsprintf 017F:__pformat (REF 02D5: .)
+        66FE1F5D4DCB:
+          56BE....EB:
+            12F64406837409:
+              0. 01 CBC7 0054 0014:___fcloseall 0034:__STI_io_ctor
+            13F6440A83740A:
+              0. 02 7537 0055 0014:___fcloseall 0035:__STI_io_ctor
+          8CD89045558BEC1E8ED883EC:
+            0. 08 1EC2 0028 0000:___fp_lock 0014:___fp_unlock
+      A1....:
+        0B06....750AC706........8C1E:
+          0. 01 FB44 0155 0000:_exit_PUSHSTATE 0097:_exit_popstate
+        8D66FE1F5D4DCB:
+          0. 00 0000 0017 0000:_getpid
+      B00A50FF7608FF7606..........FF7608FF76:
+        0. 01 4E95 0035 0000:_endl__FR7ostream
+      B8:
+        010050B08250:
+          1EB8....50..........31C0:
+            0. 04 699C 0068 0000:__STIiosst2_cpp_ 0038:__STDiosst2_cpp_
+          B8....50..........31C050:
+            0. 01 BBC9 0062 0000:__STIiosst2_cpp_ 0034:__STDiosst2_cpp_
+        020050B08250:
+          1EB8....50..........31C0:
+            0. 04 699C 007F 0000:__STIiosst3_cpp_ 004F:__STDiosst3_cpp_
+          B8....50..........31C050:
+            0. 01 BBC9 0073 0000:__STIiosst3_cpp_ 0045:__STDiosst3_cpp_
+        03005031C050:
+          5050B082501EB8....50:
+            0. 00 0000 006D 0000:__STIiosst4_cpp_ 003D:__STDiosst4_cpp_
+          89C151B18251B9....51:
+            0. 00 0000 0068 0000:__STIiosst4_cpp_ 003A:__STDiosst4_cpp_
+        04005031C050:
+          5050B082501EB8....50:
+            0. 00 0000 006D 0000:__STIiosst5_cpp_ 003D:__STDiosst5_cpp_
+          89C151B18251B9....51:
+            0. 00 0000 0068 0000:__STIiosst5_cpp_ 003A:__STDiosst5_cpp_
+        20005031C050:
+          1EB8....50..........83C4:
+            0. 05 5EDC 0377 0000:_msm_init 002E:_msm_term 0048:_msm_getstatus 008F:_msm_signal 00D9:_msm_getpress 012C:_msm_getrelease 017F:_msm_hwndget 0196:_msm_reversebuttonon 01C1:_msm_reversebuttonoff 01EC:_msm_reversebuttonis 0203:_msm_reversebutton 0247:_msm_messagemonitor
+          B8....50..........83C406:
+            0. 04 D7B5 0368 0000:_msm_init 002D:_msm_term 0047:_msm_getstatus 008A:_msm_signal 00D4:_msm_getpress 0123:_msm_getrelease 0172:_msm_hwndget 0189:_msm_reversebuttonon 01B4:_msm_reversebuttonoff 01DF:_msm_reversebuttonis 01F6:_msm_reversebutton 023A:_msm_messagemonitor
+        FFFF8D66FE1F5D4DCA:
+          02008CD89045558BEC:
+            0. 12 5CDC 0032 0000:_underflow__9streambufFv 0019:_overflow__9streambufFi
+          0400:
+            8CD89045558BEC:
+              0. 12 ECEF 0032 0000:_underflow__9streambufFv 0019:_overflow__9streambufFi
+            ..:
+              0. 00 0000 0019 0000:_pbackfail__9streambufFi
+          0600:
+            0. 00 0000 0019 0000:_pbackfail__9streambufFi
+        ....:
+          50..........83C402:
+            8D66FE1F5D4DCB:
+              0. 0E D8C9 0104 0000:_getchar 0020:_putchar 0043:_putc 0065:_getc 0084:_ferror 00A1:_feof 00BE:_clearerr 00D9:_rewind
+            B8....50:
+              0. 00 0000 002E 0000:_flush_stdio__7ostreamFv
+          8D66FE1F5D4DCB:
+            0. 00 0000 0017 0000:_localeconv
+      C45E:
+        06:
+          26:
+            807F2400742B26F6472A807424268B:
+              0. 14 8CBF 0081 0000:_buffer_setup__7filebufFv
+            8B:
+              4706260B4704750726807F240074:
+                0. 25 DD77 0045 0000:_allocate__9streambufFv
+              57:
+                0E268B470C248F0C:
+                  102689570E:
+                    0. 11 73E2 0031 0000:_dec__FR3ios
+                  202689570E:
+                    0. 11 73E2 0031 0000:_oct__FR3ios
+                  402689570E:
+                    0. 11 73E2 0031 0000:_hex__FR3ios
+                1E268B471C268B4F1A268B5F18:
+                  0. 1F 820C 003F 0000:_sync__9streambufFv
+            C7470C050026C7470E00008CC289D8:
+              0. 09 B552 0029 0000:_defaults__FR3ios
+            FF770626FF770426FF770226FF3726:
+              0. 0E 948C 0F33 0000:_asinh__FRCd 0080:_acosh__FRCd 0100:_atanh__FRCd 017E:_asin__FRC7complex 0689:_acos__FRC7complex 0B94:_atan__FRC7complex
+          B8FFFF26394728750B8B4E0C26894F28:
+            0. 1A 4B06 00A1 0000:_attach__7filebufFii
+        0A268B570E268B470C0B46060B56082689:
+          0. 13 3263 0033 0000:__iomanip_setiosflags__FR3iosl
+        0E26F6470A83740CFF761053:
+          0. 15 AA3C 0041 0000:_freopen
+      EB:
+        13C45E06FF4606268A079850..........83:
+          0. 30 75E6 0182 0000:_disp_puts 0032:_disp_fillbox 006D:_disp_box
+        16FF7608FF7606..........FF7608FF7606:
+          0. 00 0000 0042 0000:MESSAGELOOP
+        24FF760CFF760AC45E06268A079850:
+          0. 00 0000 0047 0000:_fputs
+        271EB8....50C45E06268A079850:
+          0. 00 0000 0060 0000:_puts
+      F646063F740CB8080050..........83C4028B:
+        0. 22 86F8 006E 0000:_feraiseexcept 0030:_feprocexit
+        1. 21 CE59 006A 0000:_feraiseexcept 0030:_feprocexit
+      FF:
+        36..............83C402:
+          50FF7606B8:
+            0. 02 73E5 00AD 0000:_perror 0034:_strerror
+          5250FF7608FF76:
+            0. 03 5726 00CE 0000:_perror 003A:_strerror
+        76:
+          06:
+            FF76:
+              08..........8B46088D66FE1F5D:
+                0. 04 667F 0024 0000:__iomanip_setw__FR3iosi
+              0AFF7608..........8B560A8B46:
+                0. 0A B3DA 002A 0000:__iomanip_setw__FR3iosi
+            ..........:
+              83C402:
+                50..........83C4:
+                  0. 08 1EC2 0028 0000:_ctime
+                8D66FE1F5D4D:
+                  CA02:
+                    0. 01 78F0 0021 0000:___dl__Fpv
+                  CB8C:
+                    0. 1B 6F61 0051 001F:_disp_printf
+                    1. 17 A4F4 004D 001F:_disp_printf
+              8B46068D66FE1F5D4DCA02:
+                0. 01 78F0 0021 0000:_flush__FR7ostream
+          08FF7606:
+            1EB8....50..........83C408:
+              0. 03 9182 0048 0000:MESSAGEFATALERROR
+            B8....50..........83C40631:
+              0. 02 6897 0047 0000:MESSAGEFATALERROR
+            ..........:
+              83C404:
+                5250:
+                  0. 00 0000 002C 0000:_ctime
+                8D66FE1F5D:
+                  0. 04 667F 0024 0000:___dl__FPv
+              8B56088B46068D66:
+                0. 07 9768 0027 0000:_flush__FR7ostream
+          0CFF760AFF7608FF7606..........8D66:
+            0. 07 37C1 0027 0000:_getline__7istreamFpUcic (REF 001A: _getline__7istreamFpcic)
+            1. 07 37C1 0027 0000:_get__7istreamFpUcic (REF 001A: _get__7istreamFpcic)
+          10FF760EFF760CFF760AFF7608FF7606:
+            0. 00 0000 002D 0000:_get__7istreamFPUcic (REF 0020: _get__7istreamFPcic)
+            1. 00 0000 002D 0000:_getline__7istreamFPUcic (REF 0020: _getline__7istreamFPcic)
+    0456:
+      57:
+        31F631FFB9....5189F951..........09:
+          0. 07 CBBB 00B6 0000:_sync_with_stdio__3iosFv
+        8B:
+          46068946FC89C289C71E0730C0B9FFFF:
+            0. 39 1CE5 0059 0000:_strrev
+          4E068B5608BBFFFFBE....EB558B4402:
+            0. 27 CD12 0089 0000:_setmode
+          5E068B77048976FC837C0200740C8B7E:
+            0. 18 A068 0038 0000:_flush__7ostreamFv
+          7606:
+            837C16FF753031FF8B4E0A894C18:
+              0. 2A E08A 00EE 0000:_open__7filebufFpCcii
+            8B:
+              560A09D27E088B460C03C28946:
+                0. 33 FFD0 084A 0000:_buffer_setup__12strstreambufFpcipc 00E3:___ct__12strstreambufFpcipc 0131:___ct__12strstreambufFpUciT1 017F:___ct__12strstreambufFi 01DC:___ct__12strstreambufFPFUi_pvPFpv_vi 0239:___dt__12strstreambufFv 0283:_freeze__12strstreambufFi 02AE:_str__12strstreambufFv 02D6:_setbuf__12strstreambufFpci 02F7:_doallocate__12strstreambufFv 0348:_overflow__12strstreambufFi 0473:_underflow__12strstreambufFv 04CE:_seekoff__12strstreambufF9streamoff11relative_toX3iosi 0832:_sync__12strstreambufFv
+              7E0831C9884EFD884EFC8B4E0A:
+                0. 0E EB64 008D 0000:_strnicmp
+              FEB9....51..........83C402:
+                0. 13 97CC 0065 0000:_gets
+          7E06:
+            09FF7503BF....803E....00750C:
+              0. 02 698C 020B 0000:_tmpnam 008F:_tmpfile 00DE:_tempnam
+            1E0730C0B9FFFFF2AEF7D1494151:
+              0. 00 0000 0052 0000:_strdup
+            FF760AFF76088B75048B4C0251:
+              0. 00 0000 0047 0000:_write__7ostreamFpCvUi
+      8B760E31C08846FD8846FC8BC64E09C07459:
+        0. 0B 9E7E 008D 0000:_strnicmp
+      BE....EB:
+        24F60483751C89F083C0FA8946FC:
+          0. 07 20EB 004D 0000:_fopen
+        2BF60483752389F083C0F68946FC:
+          0. 0E 1FE8 0055 0000:_fopen
+      C45E0626837F28FF753531F68B460C268947:
+        0. 2F FD0C 0113 0000:_open__7filebufFPCcii
+    06:
+      1EB8....50..........83C4048956FC8946FA:
+        0. 0C B73A 0519 0000:_system 0048:_spawnl 0072:_spawnv 009B:_spawnlp 00C5:_spawnvp 0438:_execl 045F:_execv 0487:_execlp 04AE:_execvp
+      56:
+        57:
+          31C98B7606EB0F803C5875058BC140EB02:
+            0. 16 AF1F 00A8 0000:_mktemp
+          8B:
+            46100B460E74468B46080B4606743EC4:
+              0. 8C 6AC9 0182 0000:__FOPEN
+            5E:
+              068B57028B078956FC8946FABB3C00:
+                0. 02 F0FB 0149 0000:_localtime
+              08807F1C0074358B7606837E060075:
+                0. 05 93A5 014E 0000:_seekoff__7filebufF9streamoff11relative_toX3iosi
+            7606:
+              56..........8946FA83F8FF7510:
+                0. 25 826E 0045 (?)0000:_get__7istreamFRc
+              8B7E:
+                088976FCEB1EFF760A:
+                  0. 00 0000 0064 0000:_fgets
+                0A09F6750FB9160051:
+                  0. 00 0000 009A 0000:___ct__9streambufFpci
+            7E:
+              06:
+                09FF744C8B5D04C707....C705:
+                  0. 00 0000 0078 (?)0000:___dt__7istreamFv (0053: EA)
+                8B:
+                  460A0B46087503E9BB00C45E08:
+                    0. 0E 0077 00FB 0000:_setlocale
+                  760809FF750FB9:
+                    400051:
+                      0. 00 0000 007D 0000:___ct__18istream_withassignFv (REF 0041: ___ct__7istreamFv)
+                      1. 00 0000 007D 0000:___ct__18ostream_withassignFv (REF 0041: ___ct__7ostreamFv)
+                    460051:
+                      0. 00 0000 008D 0000:___ct__19iostream_withassignFv
+                    600051:
+                      0. 00 0000 0093 0000:___ct__8ifstreamFv (REF 004B: ___ct__7istreamFv)
+                      1. 00 0000 0093 0000:___ct__8ofstreamFv (REF 004B: ___ct__7ostreamFv)
+                    660051:
+                      0. 00 0000 00A3 0000:___ct__7fstreamFv
+                B801005057..........09C07436:
+                  0. 0D CEBC 0068 0000:_read__7istreamFpvi
+              08:
+                09FF7503E9AB00803D007507C746:
+                  0. 06 4622 00E6 0000:_setlocale
+                837E0A00743F837E060074398B5E:
+                  0. 7C 171F 015A 0000:__FOPEN
+          C4:
+            5E06268B57:
+              02268B078956FC8946FABB:
+                0. 04 AFD3 014D 0000:_localtime
+              08268B47068956FC8946FA:
+                0. 2C 149C 004C 0000:_leftjust__FR7ostream
+                1. 2C 4354 004C 0000:_internal__FR7ostream
+                2. 2C A69E 004C 0000:_fixed__FR7ostream
+                3. 2C CEFA 004C 0000:_scientific__FR7ostream
+                4. 2C D623 004C 0000:_rightjust__FR7ostream
+            7E0630C0B9FFFFF2AEF7D149:
+              4151:
+                0. 00 0000 005A 0000:_strdup
+              89CE8BC6:
+                0. 40 0563 0060 0000:_strrchr
+          FF7606..........:
+            09C074768B7E081E07:
+              0. 14 34AD 009F 0000:___ls__7ostreamFpCc
+            89C609C0751B8B5E06:
+              0. 23 BA23 0043 0000:_close__14fstream_commonFv
+        8B:
+          5E068B4F048B16....A1....8956FC8946:
+            0. 1B 235A 003B 0000:_stickywidth__FR7ostream (REF 0016: _stickywidth__3ios)
+            1. 1B 235A 003B 0000:_spacing__FR7ostream (REF 0016: _spacing__3ios)
+            2. 1F 5593 003F 0000:_nospacing__FR7ostream
+          7606:
+            09F675014656..........83C40289:
+              0. 0C ADB5 004A 0000:___nw__FUi
+            8B460831C93BC17902EB0289C1894C:
+              0. 03 04CB 004B 0000:_width__3iosFi
+        C45E0626:
+          8B5708268B47068956FC8946FA8E:
+            0. 1C 9B6F 003C 0000:_floating__FR7ostream
+            1. 17 F1D0 0037 0000:_showbase__FR7ostream
+            2. 17 FB6A 0037 0000:_showpoint__FR7ostream
+          F6472A807405BE0510EB03BE0408:
+            0. 01 CBC7 006E 0000:_doallocate__7filebufFv
+        FF76:
+          06..........83C40289C683FEFF7503:
+            0. 0B 5BF4 00EB 0000:_fdopen
+          08FF7606C45E0626C43726FF5C148946:
+            0. 12 7FD9 006F 0000:_close__7filebufFv
+      578B7E06578B1DFF5F148946FA8B4D16BAFFFF:
+        0. 07 B78F 005B 0000:_close__7filebufFv
+      8B:
+        16....A1....8956FC8946FA:
+          31C951B10251:
+            0. 01 74B3 0205 0051:_check_sig 0093:_signal 0153:_raise 01E5:_abort
+          8B4E088B5E06:
+            0. 02 EDBD 0031 0000:_set_new_handler__FPFv_v
+        46:
+          080B46067507..........EB:
+            3531C050:
+              0. 00 0000 013C 0000:_sleep 0058:_msleep 00CA:_usleep
+            3731C05050:
+              0. 00 0000 013E 0000:_sleep 005A:_msleep 00CC:_usleep
+          0A31C93BC17902EB0289C1C45E0626894F:
+            0. 03 EB3D 004D 0000:_width__3iosFi
+        4E0C8B56088B46068956FC8946FAEB0C8A46:
+          0. 27 2321 0047 0000:_strnset
+        56:
+          088B46068956FC8946FAEB:
+            0C8A460AC45E:
+              0. 1D E344 003D 0000:_strset
+            19C45E06268A:
+              0. 03 D1CF 004A 0000:_strlwr (REF 0024: _tolower)
+              1. 03 D1CF 004A 0000:_strupr (REF 0024: _toupper)
+          0C8B460A8956FC8946FAEB36C45E0A268A:
+            0. 44 0548 0064 0000:_strpbrk
+        5E068B4F04894EFC89CB807F0A0075288B4E:
+          0. 15 3FD2 0051 0000:_opfx__7ostreamFv
+      B8000250..........83C40289D109C18956FC:
+        0. 2C 1472 005D 0000:_doallocate__9streambufFv
+    08:
+      56:
+        57:
+          31C98B56088B46068956FA8946F8EB15C4:
+            0. 2E 0C2D 00CF 0000:_mktemp
+          8B:
+            7606FF76:
+              0AFF760856..........89C7:
+                0. 39 6D70 0059 0000:_attach__14fstream_commonFii
+              0CFF760AFF760856:
+                0. 00 0000 005C 0000:_open__14fstream_commonFpCcii
+            7E:
+              06837E08FF7503E9D300807D120074:
+                0. 0D F29F 012D 0000:_pbackfail__7filebufFi
+              08897EF88B460683C0108946FA8B46:
+                0. 4A 2581 0092 0000:_sputn__9streambufFpCci
+          C746F80000C746FA0000C746FC01008D5E:
+            0. 30 1AC0 0050 0000:_tellg__7istreamFv
+        8B:
+          46080B460675:
+            15B8:
+              4A0050..........89:
+                0. 24 6C23 00BB 0000:___ct__18istream_withassignFv (REF 005C: ___ct__7istreamFv)
+                1. 24 6C23 00BB 0000:___ct__18ostream_withassignFv (REF 005C: ___ct__7ostreamFv)
+              540050..........89:
+                0. 24 D41D 00D1 0000:___ct__19iostream_withassignFv
+            18B8:
+              800050..........89:
+                0. 29 5731 00E7 0000:___ct__8ifstreamFv (REF 0077: ___ct__7istreamFv)
+                1. 29 5731 00E7 0000:___ct__8ofstreamFv (REF 0077: ___ct__7ostreamFv)
+              8A0050..........89:
+                0. 29 C02A 00FD 0000:___ct__7fstreamFv
+          760A8B56088B46068956FC8946FAEB28FF:
+            0. 05 D5E7 008C 0000:_fgets
+      8B56088B46068956FC8946FA1EB8....50:
+        0. 00 0000 007E 0000:_gets
+    0A:
+      56:
+        57:
+          31C050:
+            8B56088B4606..........505351:
+              0. 06 E8F6 0C71 0000:_asinf 0043:_asin 007A:_acosf 00BE:_acos 05AD:_atanf 05EA:_atan 061B:_atan2f 065E:_atan2 (0C4A: CB)
+              1. 06 E8F6 0CAC 0000:_asinf 0049:_asin 0086:_acosf 00D0:_acos 05E5:_atanf 0622:_atan 0653:_atan2f 0696:_atan2 (0C4A: B8)
+            FF7606..........09C074548B5E:
+              0. 28 B11B 0080 0000:___rs__7istreamFRc
+          8B:
+            46080B46067506BEFFFFE99F0031F6C4:
+              0. 14 5EB8 00C7 0000:_fclose
+            56088B4606:
+              8956FC8946FA508EC289C7:
+                0. 56 0597 0076 0000:_strrev
+              ..........5053515231C0:
+                0. 06 BEFE 08AB 0000:_sinf 0043:_sin 007A:_cosf 00BE:_cos 0503:_tanf 0537:_tan (0884: CB)
+                1. 06 BEFE 08E4 0000:_sinf 0049:_sin 0086:_cosf 00D0:_cos 053A:_tanf 056E:_tan (0884: E4)
+            5E06F64718807405B80100EB0231C089:
+              0. 16 1256 01AB 0000:_fillbuf__7filebufFv
+            7606F64418017503E98200837C020075:
+              0. 02 A563 00AB 0000:_underflow__7filebufFv
+            7E068B4608F7660A8946F68B5E0CF647:
+              0. 13 CE31 0168 0000:_fwrite
+          B8010050:
+            8B56088B4606..........5053:
+              0. 07 0D60 07AD 0000:_sinhf 0044:_sinh 007C:_coshf 00BF:_cosh 04B1:_tanhf 04E5:_tanh (0785: CB)
+              1. 07 0D60 07D8 0000:_sinhf 004A:_sinh 0088:_coshf 00D1:_cosh 04DA:_tanhf 050E:_tanh (0785: 20)
+            FF7606..........09C0745F8B:
+              0. 29 5A9E 0094 0000:_get__7istreamFv
+          C45E06268B5708268B47068956F88946F6:
+            0. 02 5D8E 0050 0000:_spacing__FR7ostream (002D: 00) (REF 0022: _spacing__3ios)
+            1. 02 5D8E 0050 0000:_stickywidth__FR7ostream (002D: 00) (REF 0022: _stickywidth__3ios)
+            2. 02 5D8E 0054 0000:_nospacing__FR7ostream (002D: 5D)
+          FF7606..........09C074578B5E068B47:
+            0. 60 C98C 0080 0000:_put__7ostreamFc
+        8B:
+          46080B46067518B8280050..........89:
+            0. 1E 9505 010A 0000:___ct__9streambufFPci
+          5E068B47048946F889C68B44028946F650:
+            0. 43 49AE 0063 0000:_sync__7istreamFv
+        C45E06268B:
+          472AA8027466A8087450B80100:
+            0. 08 AF83 0103 0000:_syncout__7filebufFv
+          5712268B47108956F88946F631:
+            0. 36 0974 0056 0000:_newlines__7filebufFv
+      578B:
+        3E....31C050:
+          50FF7608FF7606:
+            0. 00 0000 003C 0000:_atof
+          FF7606..........83C404:
+            0. 0E 4FE4 0038 0000:_atof
+        7E068B4518A8027459A8087448B8010050:
+          0. 06 4A49 00CA 0000:_syncout__7filebufFv
+      833E....00741FEB0E8956F88946F6FF5EF683:
+        0. 01 4E95 006A 0000:_exit
+      8B56088B46068956F88946F68B560C8B460A89:
+        0. 48 2939 0068 0000:_strcspn
+        1. 45 FB2F 0065 0000:_strspn
+      FF7608FF7606..........8946F683F8FF7523:
+        0. 3B 8CB1 005B (?)0000:_get__7istreamFRc
+    0C:
+      168D46F450..........83C4048B46F4234606:
+        0. 19 79D6 0277 0000:_fetestexcept 0027:_feclearexcept 006A:_fegetexcept 008E:_fesetexcept 00B9:_fegetround 00E0:_fesetround 0134:_fegetprec 015B:_fesetprec 01AF:_fegetenv 0203:_fesetenv 0248:_feprocentry
+      56:
+        57:
+          8B:
+            56068B7608BFFFFFB8....89C3C746F8:
+              0. 00 0000 00AA 0000:_setmode
+            5E068B:
+              470A83C0BC8946F883F8597603:
+                0. 21 B930 00F5 0000:_mktime
+              7F04897EFA807D0A0075588B46:
+                0. 64 8E7A 0084 0000:_putback__7istreamFc
+            760609F67506BFFFFFE9860031FF8B4C:
+              0. 0C 1616 00AD 0000:_fclose
+            7E:
+              06:
+                57..........09C07503E98400B8:
+                  0. 07 0586 00B0 0000:___ls__7ostreamFc
+                8B450A8B4D0889F883C00A807D1C:
+                  0. 5E B392 00BB 0000:_syncin__7filebufFv
+              0A897EF48B56088B460683C0208956:
+                0. 66 5B1B 00AF 0000:_sputn__9streambufFPCci
+          B8010050FF7606..........09C0747DEB:
+            0. 8A 40A8 00AA 0000:_ignore__7istreamFii
+          C45E06268B470A83C0BC8946F883F85976:
+            0. 23 6B3D 0100 0000:_mktime
+        FF760EFF760CFF760AC45E06268B5708268B:
+          0. 16 48BA 0075 0000:_write__7ostreamFPCvUi
+      833E....00741BFF760CFF760AFF7608FF7606:
+        0. 00 0000 109D 0000:_ceil 0081:_ceilf 00CD:_floor 014E:_floorf 019A:__largestNaN 020C:__AsQNaN 0230:_round 028D:_roundf 02D8:_nearbyint 0351:_nearbyintf 03B9:_trunc 0417:_truncf 0463:_rndtol 0490:_rndtonl 0504:_remainderf 0531:_remainder 056A:_remquof 0883:_remquo 0BA7:_fmodf 0C55:_fmod 0D2C:_modff 0E0C:_modf 0EFC:_frexpf 0F36:_ldexpf 0F6D:_scalb 0FF6:_scalbf (1056: 80)
+        1. 00 0000 1077 0000:_ceil 0081:_ceilf 00CD:_floor 014E:_floorf 019A:__largestNaN 020C:__AsQNaN 0230:_round 028D:_roundf 02D8:_nearbyint 034E:_nearbyintf 03B3:_trunc 0411:_truncf 045D:_rndtol 048A:_rndtonl 04FE:_remainderf 052A:_remainder 0562:_remquof 0879:_remquo 0B9C:_fmodf 0C4A:_fmod 0D21:_modff 0DFB:_modf 0ED9:_frexpf 0F10:_ldexpf 0F47:_scalb 0FD0:_scalbf (1056: CB)
+      8D46F450..........83C4028B46F42346068D:
+        0. 17 2ED3 0263 0000:_fetestexcept 0026:_feclearexcept 0067:_fegetexcept 008A:_fesetexcept 00B4:_fegetround 00DA:_fesetround 012C:_fegetprec 0152:_fesetprec 01A4:_fegetenv 01FA:_fesetenv 0238:_feprocentry
+    0E56:
+      31C0998956F88946F68956FC8946FA1EBB:
+        0. 00 0000 0116 0000:_sync_with_stdio__3iosFv
+      57:
+        8B:
+          56088B46068956F48946F28B460AF766:
+            0. 2B 858B 016D 0000:_fwrite
+          5E068B7F04897EF8807D0A007403E9A0:
+            0. 11 84FC 00DC 0000:_ipfx__7istreamFi (REF 0053: .)
+          7E:
+            06:
+              C746F40000C746F60000C746F801:
+                0. 4A E253 009D 0000:_tellp__7ostreamFv
+              F64518027503E96001837D020075:
+                0. 02 4458 0196 0000:_overflow__7filebufFi
+            08897EF28B460683C0128946F68B46:
+              0. 63 8AFB 00AB 0000:_sgetn__9streambufFpci
+        B8010050FF7606..........09C0745E8B:
+          0. 6B D00E 008B 0000:_peek__7istreamFv
+        C45E0626F6472A807405B80100EB0231C0:
+          0. 25 497F 01FB 0000:_fillbuf__7filebufFv
+      8B56088B460683C018C45E0626F6472A8074:
+        0. 89 DE99 00CE 0000:_flushbuf__7filebufFv
+    10:
+      5657:
+        83EC068D46:
+          085089E083C00250:
+            0. 00 0000 00D4 0000:_seekp__7ostreamF9streampos
+          0A5089E083C00250:
+            0. 00 0000 00D7 0000:_seekp__7ostreamF9streamoff11relative_toX3ios
+        8B:
+          5E068B7F04897EFA8B55088B45062306:
+            0. 00 0000 00E4 0000:_osfx__7ostreamFv
+          7E:
+            068B4D0489CB8B470209C08946F074:
+              0. 02 34A5 00A0 0000:___as__19iostream_withassignFp9streambuf
+              1. 02 AD7D 0095 0000:___as__18istream_withassignFp9streambuf (REF 0023: _sync__7istreamFv)
+              2. 02 AD7D 0095 0000:___as__18ostream_withassignFp9streambuf (REF 0023: _flush__7ostreamFv)
+            0C8B46068946F08B4608F7660A09C0:
+              0. 17 F44B 016D 0000:_fread
+        A1....8946F0C706....0000FF76:
+          08FF76:
+            0. 01 4E95 00C7 0000:_strtof
+          0CFF76:
+            0. 07 6F54 00CD 0000:_strtof
+        FF7608FF7606..........09C07503E9AB:
+          0. 1C F2FC 00DD 0000:___ls__7ostreamFPCc
+      C746F40000C746F60000C746F801008CD08EC0:
+        0. 55 F271 0075 0000:_tellg__7istreamFv
+    12:
+      56:
+        57:
+          31C050FF7608FF7606..........09C075:
+            0. 4C E0CD 00B8 0000:___rs__7istreamFRc
+          8B:
+            460883C0088946FA8B460883C00A8946:
+              0. 21 F1A5 00B5 0000:___ls__7ostreamFp9streambuf
+            5E06C747020000C746EE0000B8010050:
+              0. 01 6690 0102 0000:_get__7istreamFpcic
+            7E068B75048B54088B4406250E0031C9:
+              0. B2 1E90 00D2 0000:_pad__7ostreamFii
+          B8010050FF76:
+            06..........09C07503E9:
+              0. C7 830E 00E7 0000:___rs__7istreamFp9streambuf
+            08FF7606..........09C0:
+              0. 4D 2E4D 00CA 0000:_get__7istreamFv
+          C45E06268B4714268B4F108CC289D883C0:
+            0. 93 2E4E 00F5 0000:_syncin__7filebufFv
+          FF7608FF7606..........09C07503E9:
+            85:
+              0. 97 8F62 00B7 0000:_put__7ostreamFc
+            BC:
+              0. 0E 212F 00EE 0000:___ls__7ostreamFc
+        8B46080B46067503E99500C45E0626C47706:
+          0. 03 A8D2 00C4 (?)0000:___dt__7istreamFv (009C: EA)
+      C45E06268B5708268B47068956:
+        F08946EE8946:
+          0. 43 B9FB 007F 0000:_opfx__7ostreamFv
+        F48946F28946:
+          0. 4C 20E3 006C 0000:_flush__7ostreamFv
+    1456:
+      57:
+        8B:
+          56088B46068956EE8946EC8B460AF766:
+            0. 2A 98B6 017C 0000:_fread
+          5E06C747020000B801005053:
+            0. 00 0000 0100 0000:_getline__7istreamFpcic
+        C45E0626F6472A017503E9F400268B4706:
+          0. 0A 452B 011E 0000:_underflow__7filebufFv
+        C746EC0000C746EE0000C746F600008B46:
+          0. 13 A56D 02DB 0000:_strtol 01D9:_div 0207:_ldiv 025E:_bsearch (REF 00FC: .)
+      B8010050FF7608FF7606..........09C074:
+        0. 29 9D62 00AD 0000:_read__7istreamFPvi
+      FF7608FF7606..........89D109C18956EE:
+        0. 4A DF9C 006A 0000:_close__14fstream_commonFv
+    1656:
+      57:
+        31C9894EEA8B5E068B77048976F68B540E:
+          0. 1D 6F0A 012C 0000:___rs__7istreamFpc (REF 00D1: .)
+        8B7E0A897EEA8B56088B460683C0248956:
+          0. 8A C8E1 00D3 0000:_sgetn__9streambufFPci
+        C45E0A26807F2E00744C8B56088B460689:
+          0. 0F 0E07 01B1 0000:_seekoff__7filebufF9streamoff11relative_toX3iosi
+        C746EA0000C746EC0000C746F400008B56:
+          0. 1A 097E 0312 0000:_strtol 01F7:_div 0225:_ldiv 0284:_bsearch (REF 010A: .)
+      C746EE0000C746F00000C746F201008CD08E:
+        0. 6D 6982 00D3 0000:_tellp__7ostreamFv
+    1856:
+      57:
+        83:
+          7E060074088B5E068B4704EB0231C03B:
+            0. 19 402D 00E4 0000:___as__19iostream_withassignFR3ios
+          EC068D46:
+            085089E083C00250:
+              0. 00 0000 00E0 0000:_seekg__7istreamF9streampos
+            0A5089E083C00250:
+              0. 00 0000 00DD 0000:_seekg__7istreamF9streamoff11relative_toX3ios
+        8B:
+          5E06C747020000B801005053:
+            0. 00 0000 011C 0000:_get__7istreamFR9streambufc
+          7606C746E800448976EA168D46E85016:
+            0. 01 FDA2 03E9 0000:_fstat 012E:_stat
+        C45E0626F6472A027503E9E601268B4706:
+          0. 0A 452B 021D 0000:_overflow__7filebufFi
+      C45E06268B5708268B47068956EE8946EC8E:
+        0. 79 B902 0099 0000:_sync__7istreamFv
+    1A56:
+      57:
+        83EC06168D46:
+          0A5089E083C0041650:
+            0. 00 0000 0119 0000:_seekp__7ostreamF9streampos
+          0C5089E083C0041650:
+            0. 00 0000 011C 0000:_seekp__7ostreamF9streamoff11relative_toX3ios
+        8B7E068B7608C746E60044897EE88D4EE6:
+          0. 02 6486 0375 0000:_fstat 0110:_stat
+        B8010050FF7608FF7606..........09C0:
+          0. AD 28E1 00CD 0000:_peek__7istreamFv
+      8B5E068B47068B4F028B178B5F0480E47F89:
+        0. 8B 23E6 0A5D 0000:_abs__FRC7complex 01A1:_sqrt__FRC7complex 03DD:_pow__FRC7complexT1 0693:_pow__FRC7complexi 08C0:_pow__FRC7complexd 0A0A:_pow__FdRC7complex
+      C45E06268B4706268B4F02268B17268B5F04:
+        0. 93 98B3 0C3B 0000:_abs__FRC7complex 01A9:_sqrt__FRC7complex 0473:_pow__FRC7complexT1 07A5:_pow__FRC7complexi 0A6F:_pow__FRC7complexd 0BE1:_pow__FdRC7complex
+      FF76:
+        0CFF760AFF7608FF7606..........89:
+          0. 73 1645 0093 0000:_attach__14fstream_commonFii
+        10FF760EFF760CFF760AFF7608FF7606:
+          0. 00 0000 0099 0000:_open__14fstream_commonFPCcii
+    1C5657837E:
+      06007503E9A9018B46068946E4EB0E:
+        0. 46 A40C 01C8 0000:_putenv
+      0AFF7503E94A01C45E0626807F2400:
+        0. 0F 06F6 01DE 0000:_pbackfail__7filebufFi
+    1E:
+      5657:
+        8B:
+          560C8B460A83C0108956F88946F68B56:
+            0. 39 E32E 0106 0000:___ls__7ostreamFP9streambuf
+          760E09F67E0E8B56128B461003C68956:
+            0. 53 C4E8 0CEE 0000:_buffer_setup__12strstreambufFPciPc 01DA:___ct__12strstreambufFPciPc 0248:___ct__12strstreambufFPUciT1 02B6:___ct__12strstreambufFi 032F:___ct__12strstreambufFPFUi_PvPFPv_vi 03A8:___dt__12strstreambufFv 040E:_freeze__12strstreambufFi 043C:_str__12strstreambufFv 046C:_setbuf__12strstreambufFPci 0490:_doallocate__12strstreambufFv 04F0:_overflow__12strstreambufFi 06EA:_underflow__12strstreambufFv 078B:_seekoff__12strstreambufF9streamoff11relative_toX3iosi 0CD6:_sync__12strstreambufFv
+        FF7608..........09C07503E9FC008B5E:
+          0. 22 8DBB 0292 0000:___ls__FR7ostreamRC7complex 0130:___rs__FR7istreamR7complex
+      8B460E8B5E0C8B4E0A8B56088946:
+        EC895EEA89:
+          0. 0C 6929 012E 0000:__arcerr 006E:_poly
+        FC895EFA89:
+          0. 2A 4025 010B 0000:___trigerr 006E:___matherr
+    20:
+      5657C45E06268B5708268B47068956E28946E0:
+        0. B7 FA9A 00D7 0000:_putback__7istreamFc
+      8B460E8B5E0C8B4E0A8B56088946:
+        EC895EEA89:
+          0. 0C 6929 014C 0000:__arcerr 0074:_poly
+        FC895EFA89:
+          0. 2A 84CB 0118 0000:___trigerr 0074:___matherr
+    225657FF:
+      06....BA....B8....8916....A3:
+        0. 08 C494 3403 0000:WINMAIN 019A:WINC_COMMANDLINE 225E:BUFFEROUTPUT 253D:TIMERPROC 25A6:MAINWNDPROC 2B7D:INSETWNDPROC 2DC3:EDITPROC 2E75:ABOUTDLGPROC 2EE0:___ct__8ListPtrCFv 2F3A:___dt__8ListPtrCFv 2F7B:_Add__8ListPtrCFUsPv 301A:_Reset__8ListPtrCFv 309E:_View__8ListPtrCFv 30D5:_View__8ListPtrCFUsUs 317F:_View__8ListPtrCFUs 31CB:_TopLineSet__8ListPtrCFUl 3238:_FileRedirectBeg__8ListPtrCFv 3290:_FileRedirectEnd__8ListPtrCFv 32C1:_TextLengthGet__8ListPtrCFv 3333:_TextLengthGet__8ListPtrCFUsUsUsUs 33C3:__STIwinc_cpp_ 33E1:__STDwinc_cpp_ (REF 0BA4: .)
+      7608FF7606..........09C07503E9BE:
+        0. 0D 7BCF 00F0 0000:___ls__7ostreamFPv
+    245657:
+      8B46063B46087503E9D00089C3C7470601:
+        0. 0B 93F3 00F8 0000:___as__18istream_withassignFR7istream (REF 002C: _sync__7istreamFv)
+        1. 0B 93F3 00F8 0000:___as__18ostream_withassignFR7ostream (REF 002C: _flush__7ostreamFv)
+      B8010050FF7608FF7606..........09C0:
+        0. FF FCCE 0121 0000:_ignore__7istreamFii
+      C45E06268B5708268B47068956E28946E0:
+        0. 1C 9041 0118 0000:___as__18ostream_withassignFP9streambuf (REF 003D: _flush__7ostreamFv)
+        1. 1C 9041 0118 0000:___as__18istream_withassignFP9streambuf (REF 003D: _sync__7istreamFv)
+        2. 1C D0F5 0128 0000:___as__19iostream_withassignFP9streambuf
+      FF7606..........09C07503E9B400B810:
+        0. 09 2198 00E0 0000:___ls__7ostreamFpv
+    2656578B46068946F4EB03FF46068B5E068A0798:
+      0. 04 4215 0565 0000:_strtod (REF 0386: .)
+    28565783EC06168D46:
+      0A5089E083C0041650:
+        0. 00 0000 0141 0000:_seekg__7istreamF9streampos
+      0C5089E083C0041650:
+        0. 00 0000 0131 0000:_seekg__7istreamF9streamoff11relative_toX3ios
+    2A5657:
+      8B46080B4606740DC45E06268B5708268B:
+        0. 3D EC76 0187 0000:___as__19iostream_withassignFR3ios
+      C746EE00008B460C83C00A8946F08B460C:
+        0. 48 97CD 02C3 0000:_strftime
+      FF06....BA....B8....8916....A3:
+        0. 01 A9EA 2FD5 0000:WINMAIN 0209:WINC_COMMANDLINE 1F65:BUFFEROUTPUT 221E:TIMERPROC 2285:MAINWNDPROC 281F:INSETWNDPROC 2A5F:EDITPROC 2B0F:ABOUTDLGPROC 2B78:___ct__8ListPtrCFv 2BBA:___dt__8ListPtrCFv 2BEF:_Add__8ListPtrCFUspv 2C5A:_Reset__8ListPtrCFv 2CC2:_View__8ListPtrCFv 2CF6:_View__8ListPtrCFUsUs 2D8E:_View__8ListPtrCFUs 2DCD:_TopLineSet__8ListPtrCFUl 2E31:_FileRedirectBeg__8ListPtrCFv 2E78:_FileRedirectEnd__8ListPtrCFv 2EA1:_TextLengthGet__8ListPtrCFv 2F0A:_TextLengthGet__8ListPtrCFUsUsUsUs 2F97:__STIwinc_cpp_ 2FB4:__STDwinc_cpp_ (REF 0AE8: .)
+    2C5657:
+      8B56088B46068956F08946EEEB03FF4606:
+        0. 0B 21FD 05AD 0000:_strtod (REF 03AA: .)
+      FF760CFF760A..........09C07503E965:
+        0. 3D 1749 0385 0000:___ls__FR7ostreamRC7complex 01A2:___rs__FR7istreamR7complex
+    2E5657:
+      8B46080B46067503E99A028B56088B4606:
+        0. 53 C121 02B9 0000:_putenv
+      B8010050FF7608FF7606..........09C0:
+        0. FF 745D 0174 0000:___rs__7istreamFP9streambuf
+      C45E06268B5708268B47068956:
+        D48946D2:
+          0. 14 0610 0170 0000:_osfx__7ostreamFv
+        DA8946D8:
+          0. FF 02CA 0147 0000:_pad__7ostreamFii
+    3256578B460A8946F68B56088B46068956D08946:
+      0. 52 26EA 00CB 0000:_ltoa
+    345657:
+      8B560C8B460A8956F68946F48B56088B46:
+        0. 59 C305 00DA 0000:_ltoa
+      C45E0626C747040000B8010050FF760853:
+        0. 00 0000 01AB 0000:_get__7istreamFR9streambufc
+    3656578B5E0A8B76088B44068B4C028B148B5C04:
+      0. 16 C096 05A5 0000:___dv__FRC7complexT1 0302:___dv__FdRC7complex
+    385657:
+      8B7E0CC45E0626C747040000C746C80000:
+        0. 08 1F5F 01A0 0000:_get__7istreamFPcic
+      C45E06268B5708268B47068956CA8946C8:
+        0. 48 03BF 0195 0000:_ipfx__7istreamFi (REF 009E: .)
+    3A5657:
+      31C050FF760A..........09C07503E945:
+        0. FF E671 0374 0000:_extract__6_2CompFR7istreampvi (REF 0263: .)
+      8B7E0CC45E0626C747040000B8010050FF:
+        0. 03 133E 019F 0000:_getline__7istreamFPcic
+      C45E0EC4760A268B4406268B4C02268B14:
+        0. 1E 1290 0677 0000:___dv__FRC7complexT1 0378:___dv__FdRC7complex
+      C746E000008B56128B461083C00A8956E4:
+        0. 73 2857 0347 0000:_strftime
+    42565731C08946BEC45E06268B5708268B5F0689:
+      0. 3D 3DFA 01E5 0000:___rs__7istreamFPc (REF 0143: .)
+    4456578B:
+      56088B46063B560C75033B460A7503E9:
+        0. 2A 3EC6 01D9 0000:___as__18istream_withassignFR7istream (REF 004B: _sync__7istreamFv)
+        1. 2A 3EC6 01D9 0000:___as__18ostream_withassignFR7ostream (REF 004B: _flush__7ostreamFv)
+      7E0C57..........09C07503E97C02FF:
+        0. 09 C765 0342 0000:_insert__6_2CompFR7ostreampCvii 02A8:_format__6_2CompFpUcpciiii
+    5656578B460E8B5E0C8B4E0A8B56088946EC895E:
+      0. 14 12A0 0608 0000:___ls__7ostreamFd 0238:_fixed_point__7ostreamFdpc 03D6:_sci_notation__7ostreamFdpcRi
+    5A56578B760609F674108BFE1E0730C0B9FFFFF2:
+      0. 28 85F9 00B8 0000:__assert
+    5C56578B46080B4606740FC47E0630C0B9FFFFF2:
+      0. 2A D914 00D0 0000:__assert
+    6056578B7E0A8BC79933C225010003D009D2740B:
+      0. 01 BBC9 0203 0000:_qsort
+    6A565731C089469889469C89469E8946F4E99B01:
+      0. 17 6992 01E9 0000:__STI_wildcard
+    76565731C089468E8946928946948946968946F2:
+      0. 1F 9F28 027E 0000:__STI_wildcard
+    7A56578B7E06FF7610FF760E..........09C075:
+      0. 12 D46E 04A2 0000:_insert__6_2CompFR7ostreamPCvii 03E6:_format__6_2CompFPUcPciiii
+8F06....:
+  8F06....FC803E....0372338E06....268E062C0033FF32C0B9FFFF:
+    0. 28 4EA3 0122 0000:__setargv 00FA:__setenvp 00FB:__aFNalmul (00D9: 00)
+    1. 28 4EA3 012F 0000:__setargv 0107:__setenvp 0108:__aFNalmul (00D9: 27)
+  FC803E....0372338E06....268E062C0033FF32C0B9FFFFF2AEAE75:
+    0. 24 13B6 011E 0000:__setargv 00F6:__setenvp 00F7:__aNNalmul (00D9: 00)
+    1. 24 13B6 012B 0000:__setargv 0103:__setenvp 0104:__aNNalmul (00D9: 27)
+9C:
+  33C0509D9C5880E4F080FCF0750A33C0545B3BDC7557EB54B800F0509D9C58:
+    0. 0A A742 0070 0000:_cputype
+  50521EB8....8ED8:
+    E8....1F5A589D2EFF2E....803E....007543803E:
+      0. 06 1D1D 050F 0000:ctrl_break_handler 0015:_handle_init 012F:_handle_usingemm 0136:_handle_term 0201:_handle_remap 0231:_handle_addpage 029B:_handle_malloc 0330:_handle_calloc 0372:_handle_free 03BC:_handle_realloc 0496:_handle_strdup 04E9:__HCTOFPTR@ 04EA:__HTOFPTR@ (04E6: E9)
+      1. 06 1D1D 051B 0000:ctrl_break_handler 0015:_handle_init 012F:_handle_usingemm 0136:_handle_term 0201:_handle_remap 0231:_handle_addpage 029B:_handle_malloc 033E:_handle_calloc 0380:_handle_free 03C9:_handle_realloc 04A2:_handle_strdup 04F5:__HCTOFPTR@ 04F6:__HTOFPTR@ (04E6: 53)
+    ..........1F5A589D2EFF2E....45558BEC803E....00:
+      0. 04 EF75 056F 0000:ctrl_break_handler 0017:_handle_init 013F:_handle_usingemm 0146:_handle_term 0219:_handle_remap 024F:_handle_addpage 02BD:_handle_malloc 035F:_handle_calloc 03A8:_handle_free 03FB:_handle_realloc 04E9:_handle_strdup 0544:__HTOFPTR@ (0548: E9)
+      1. 04 EF75 057B 0000:ctrl_break_handler 0017:_handle_init 013F:_handle_usingemm 0146:_handle_term 0219:_handle_remap 024F:_handle_addpage 02BD:_handle_malloc 036D:_handle_calloc 03B6:_handle_free 0408:_handle_realloc 04F5:_handle_strdup 0550:__HTOFPTR@ (0548: DA)
+A1....:
+  0B06....:
+    7405B80100:
+      C390688010E8....83C402A3....8916....8BC2:
+        0. 02 D98E 019A 0000:_InitGlobalBuffers 0096:_FreeGlobalBuffers 00F4:_GetIOHandle
+      CB90688010..........83C402A3....8916:
+        0. 04 192F 01B6 0000:_InitGlobalBuffers 00A2:_FreeGlobalBuffers 0106:_GetIOHandle
+    750AC706........8C1E....A1....BB....3BC37204B80200:
+      0. 07 24E4 00FD 0000:_exit_PUSHSTATE 0072:_exit_popstate
+  8B16....:
+    8E06....26A3....268916....A1....8B16....8E06....26:
+      0. 01 E967 0216 0000:LZSTART 00C6:LZDONE 0182:COPYLZFILE 0192:LZCOPY (01F4: 00)
+      1. 01 E967 0220 0000:LZSTART 00C8:LZDONE 0186:COPYLZFILE 0198:LZCOPY (01F4: FC)
+    A3....8916....A1....8B16....A3....8916....A1....8B:
+      0. 01 CF85 0194 0000:LZSTART 008E:LZDONE 010C:COPYLZFILE 011C:LZCOPY (0172: 00)
+      1. 01 CF85 019E 0000:LZSTART 0090:LZDONE 0110:COPYLZFILE 0122:LZCOPY (0172: FC)
+  C3:
+    0. 00 0000 0004 0000:_getpid (REF 0001: __psp)
+B4:
+  0B..........98F7D8C3E8....B408EB0690E8....B401..........32E4C3:
+    0. 0A 41B0 0118 0000:_kbhit 000B:_getch 0013:_getche 0020:_dos_set_verify 0031:_dos_get_verify 003A:_dos_set_ctrl_break 004B:_dos_get_ctrl_break 0057:_dos_getdiskfreespace 0075:_dos_abs_disk_read 00CD:_dos_abs_disk_write 00D1:_chdir 00E7:_mkdir 00EB:_rmdir 00EF:__chdrive 010E:__getdrive (00ED: C3)
+    1. 0A 41B0 011A 0000:_kbhit 000B:_getch 0013:_getche 0020:_dos_set_verify 0031:_dos_get_verify 003A:_dos_set_ctrl_break 004B:_dos_get_ctrl_break 0057:_dos_getdiskfreespace 0075:_dos_abs_disk_read 00CD:_dos_abs_disk_write 00D1:_chdir 00E9:_mkdir 00ED:_rmdir 00F1:__chdrive 0110:__getdrive (00ED: 98)
+  19CD2132E4:
+    C3558BEC56571EE8....8BF0C47E04061FFC8BC6FEC08AD00440:
+      0. 4A 4A86 00C9 0000:_GetCurDrive 0007:_GetCurDir 003C:_SetDrive 004C:_SetDir 0094:_IsDir
+    CB558BEC56571E..........8BF0C47E06061FFC8BC6FEC08AD0:
+      0. 4B 5FDE 00D5 0000:_GetCurDrive 0007:_GetCurDir 003E:_SetDrive 004E:_SetDir 009A:_IsDir
+  2C..........8AC698BB6400F7EB32F603C2C38B7E:
+    088B760AB45C:
+      0. 00 0000 009C 0022:_locking
+    0A8B760CB45C:
+      0. 00 0000 009E 0022:_locking
+  40EB02B43F:
+    45558BEC8B5E068B0E....0B0E....E304FF2E....:
+      1EC556088B:
+        0. 02 5D19 026D 0000:_write 0004:_read 0032:_getDS 0035:_getES 0038:_getSS 003B:_dos_open 005B:_open 010C:_sopen 0139:_creat 0149:_dos_creat 0166:_close 0177:_rename 0183:_remove 019F:__dos_sethandlecount 01C5:_lseek 01E7:_filesize 0222:_isatty 0245:_access
+      8B56088B4E:
+        0. 01 225F 028E 0000:_write 0004:_read 0030:__readx 0059:__writex 005D:_getDS 0060:_getES 0063:_getSS 0066:_dos_open 0082:_open 0134:_sopen 0161:_creat 0171:_dos_creat 018C:_close 019D:_rename 01AD:_remove 01C7:__dos_sethandlecount 01ED:_lseek 020F:_filesize 0245:_isatty 0268:_access
+    558BEC8B5E048B0E....E304FF26....:
+      1EC556068B4E0A:
+        0. 00 0000 0252 0000:_write 0004:_read 002C:_getDS 002F:_getES 0032:_getSS 0035:_dos_open 0054:_open 0103:_sopen 012E:_creat 013D:_dos_creat 0158:_close 0168:_rename 0173:_remove 018D:__dos_sethandlecount 01B2:_lseek 01D2:_filesize 020B:_isatty 022C:_access
+      8B56068B4E08:
+        0. 00 0000 026E 0000:_write 0004:_read 002A:__readx 004E:__writex 0052:_getDS 0055:_getES 0058:_getSS 005B:_dos_open 0076:_open 0126:_sopen 0151:_creat 0160:_dos_creat 0179:_close 0189:_rename 0198:_remove 01B0:__dos_sethandlecount 01D5:_lseek 01F5:_filesize 0229:_isatty 024A:_access
+B8:
+  010050B08250:
+    1EB8....50E8....31C050501EB8....501EB8....50E8:
+      0. 07 9D17 003A 0000:__STIiosst2_cpp_ 0021:__STDiosst2_cpp_
+    B8....50E8....31C050B8....50B8....50E8....C3B80200:
+      0. 02 FAF4 0034 0000:__STIiosst2_cpp_ 001D:__STDiosst2_cpp_
+  020050B08250:
+    1EB8....50E8....31C050501EB8....501EB8....50E8:
+      0. 02 725B 0051 0000:__STIiosst3_cpp_ 0038:__STDiosst3_cpp_
+    B8....50E8....31C050B8....50B8....50E8....8B1E:
+      0. 03 190D 0045 0000:__STIiosst3_cpp_ 002E:__STDiosst3_cpp_
+  03005031C050:
+    5050B082501EB8....50E8....31C050501EB8....501EB8:
+      0. 00 0000 003F 0000:__STIiosst4_cpp_ 0026:__STDiosst4_cpp_
+    89C151B18251B9....51E8....31C050B8....50B8....50E8:
+      0. 00 0000 003A 0000:__STIiosst4_cpp_ 0023:__STDiosst4_cpp_
+  04005031C050:
+    5050B082501EB8....50E8....31C050501EB8....501EB8:
+      0. 00 0000 003F 0000:__STIiosst5_cpp_ 0026:__STDiosst5_cpp_
+    89C151B18251B9....51E8....31C050B8....50B8....50E8:
+      0. 00 0000 003A 0000:__STIiosst5_cpp_ 0023:__STDiosst5_cpp_
+  1E005031C050:
+    1EB8....50E8....83C408B80100A3....C3C706....0000C3:
+      0. 05 61A3 028B 0000:_msm_init 0019:_msm_term 0020:_msm_getstatus 0053:_msm_signal 0084:_msm_getpress 00C3:_msm_getrelease 0102:_msm_hwndget 0106:_msm_reversebuttonon 011E:_msm_reversebuttonoff 0136:_msm_reversebuttonis 013A:_msm_reversebutton 016A:_msm_messagemonitor
+    B8....50E8....83C406B80100A3....C3C706....0000C355:
+      0. 04 FEC3 027C 0000:_msm_init 0018:_msm_term 001F:_msm_getstatus 004E:_msm_signal 007F:_msm_getpress 00BA:_msm_getrelease 00F5:_msm_hwndget 00F9:_msm_reversebuttonon 0111:_msm_reversebuttonoff 0129:_msm_reversebuttonis 012D:_msm_reversebutton 015D:_msm_messagemonitor
+  FFFFC2:
+    0200B8FFFFC20400:
+      0. 00 0000 000C 0000:_underflow__9streambufNv 0006:_overflow__9streambufNi
+    0400:
+      B8FFFFC20600:
+        0. 00 0000 000C 0000:_underflow__9streambufNv 0006:_overflow__9streambufNi
+      ..:
+        0. 00 0000 0006 0000:_pbackfail__9streambufNi
+    0600:
+      0. 00 0000 0006 0000:_pbackfail__9streambufNi
+  ....:
+    50E8....83C402:
+      B8....50E8....83C402C20200:
+        0. 00 0000 0017 0000:_flush_stdio__7ostreamNv
+      C3558BECB8....50FF7604E8....83C4045DC3558BEC:
+        0. 07 437B 007E 0000:_getchar 000B:_putchar 001D:_putc 002E:_getc 003C:_ferror 004A:_feof 0058:_clearerr 0064:_rewind
+    8CDA:
+      C3A3....C38CDAB8....C3558BEC8B46040906....5DC20200A1:
+        0. 00 0000 0022 0000:__getthreaddata 0006:__errno_set 000A:__errno 0010:__FEEXCEPT 001E:__FEROUND
+      CBA3....CB8CDAB8....CB45558BEC8B46060906....5D4DCA0200:
+        0. 01 FB44 0024 0000:__getthreaddata 0006:__errno_set 000A:__errno 0010:__FEEXCEPT 0020:__FEROUND
+    C3A3....C3B8....C3558BEC8B46040906....5DC20200A1....C3:
+      0. 00 0000 001E 0000:__getthreaddata 0004:__errno_set 0008:__errno 000C:__FEEXCEPT 001A:__FEROUND
+    CBA3....CBB8....CB45558BEC8B46060906....5D4DCA0200A1....CB:
+      0. 00 0000 0020 0000:__getthreaddata 0004:__errno_set 0008:__errno 000C:__FEEXCEPT 001C:__FEROUND
+BB....4343C747FE001081FB....76F3BB....4343C747FE001081FB....72F3:
+  0. 12 1196 02E2 0000:_LZInitTree 0022:_LZInsertNode 01EC:_LZDeleteNode
+  1. 12 3162 02E2 0000:_LZInitTree 0022:_LZInsertNode 01EC:_LZDeleteNode
+  2. 11 718C 02A2 0000:_LZInitTree 0022:_LZInsertNode 01AC:_LZDeleteNode
+  3. 11 B23B 02A2 0000:_LZInitTree 0022:_LZInsertNode 01AC:_LZDeleteNode
+C8:
+  040000:
+    56C576:
+      048BCE8C5EFE803C00741F803C2F740A803C5C7405803C3A75:
+        0. 12 49D1 0352 0000:_ExtractFileName 003E:_ExtractExtension 008A:_MakePathName 013C:_MakeCompressedName 01E4:_MakeExpandedName 02CC:_CopyDateTimeStamp 030A:_MyDOSFarAlloc 0346:_MyDOSFarFree (REF 0258: .)
+      068BCE8C5EFE803C00741F803C2F740A803C5C7405803C3A75:
+        0. 12 49D1 035E 0000:_ExtractFileName 003E:_ExtractExtension 008C:_MakePathName 013E:_MakeCompressedName 01E8:_MakeExpandedName 02D0:_CopyDateTimeStamp 0312:_MyDOSFarAlloc 0350:_MyDOSFarFree (REF 025D: .)
+    8B5E:
+      048B4E06895EFC894EFE83C311:
+        891E....890E....8B46FC8BD1:
+          0. 04 F491 0160 0000:_SetGlobalBuffers 0042:_SaveDecodingState 00B0:_RestoreDecodingState
+        8E06....26891E....26890E:
+          0. 00 0000 0230 0000:_SetGlobalBuffers 005E:_SaveDecodingState 012E:_RestoreDecodingState
+      068B4E08895EFC894EFE83C311:
+        891E....890E....8B46FC8BD1:
+          0. 04 F491 0162 0000:_SetGlobalBuffers 0042:_SaveDecodingState 00B0:_RestoreDecodingState
+        8E06....26891E....26890E:
+          0. 00 0000 0232 0000:_SetGlobalBuffers 005E:_SaveDecodingState 012E:_RestoreDecodingState
+  0800005756C706....1000837E:
+    0C017403E9B6006A006A006A0EFF7604E8:
+      0. 00 0000 031E 0000:_LZDecode
+    0E017403E9BA006A006A006A0EFF7606:
+      0. 00 0000 0334 0000:_LZDecode
+  0C0000BB....8E06....895EFC8C46FE268B4702260B077406B80100C9:
+    C390:
+      0. 04 D972 0268 0000:_InitGlobalBuffers 00EA:_FreeGlobalBuffers 017A:_GetIOHandle
+    CB90:
+      0. 03 0E99 0282 0000:_InitGlobalBuffers 00F4:_FreeGlobalBuffers 018A:_GetIOHandle
+  10000057566A006A006A00FF76:
+    04E8....83C4080BD07407B8FFFF5E5FC9C3:
+      0. 10 FEE9 039E 0000:_CopyFile 018C:_ExpandOrCopyFile 026C:_Expand
+    06..........83C4080BD07407B8FFFF5E5F:
+      0. 11 100C 03C4 0000:_CopyFile 0194:_ExpandOrCopyFile 027E:_Expand
+  12000057562BF68B7E:
+    04:
+      8BDE03DF8A078842EE4683FE087CF18A45088842EE:
+        0. 3C 80C6 020A 0000:_WriteHdr 00A0:_GetHdr 0182:_IsCompressed 01CA:_MakeHeader
+      8E5E068BDF03DE8A078842EE4683FE087CF18A4508:
+        0. 3F 0344 0278 0000:_WriteHdr 00BE:_GetHdr 01D2:_IsCompressed 0220:_MakeHeader
+    06:
+      8BDE03DF8A078842EE4683FE087CF18A45088842EE:
+        0. 3C 019B 0212 0000:_WriteHdr 00A2:_GetHdr 018A:_IsCompressed 01D2:_MakeHeader
+      8E5E088BDF03DE8A078842EE4683FE087CF18A4508:
+        0. 3F 8219 0280 0000:_WriteHdr 00C0:_GetHdr 01DA:_IsCompressed 0228:_MakeHeader
+  2200005756C706....1000A1....8B16....0306....40A3....8916....A3:
+    0. 00 0000 034C 0000:_LZEncode (0328: 5F)
+    1. 00 0000 0366 0000:_LZEncode (0328: 46)
+  2400005756BB....8E06....895EF48C46F626C7071000837E:
+    0C017403E90B:
+      0. 0B CC33 0456 0000:_LZDecode
+    0E017403E90F:
+      0. 0A 6FB3 0466 0000:_LZDecode
+  260000568E06....26C706....10008E06....26A1....268B16....8E06:
+    0. 00 0000 0458 0000:_LZEncode (0437: C3)
+    1. 00 0000 0470 0000:_LZEncode (0437: 6A)
+  98000057568D46FC:
+    16506A01FF76:
+      08FF7606E8....83C40A8BF083FE017403:
+        0. 0D 0B23 015E 0000:_Compress
+      0CFF760A..........83C40A8BF083FE01:
+        0. 0E 87C5 0176 0000:_Compress
+    506A01FF76:
+      06E8....83C4068BF083FE017403E912016A:
+        0. 09 B7C7 0138 0000:_Compress
+      0A..........83C4068BF083FE017403E928:
+        0. 0A F845 0150 0000:_Compress
+CD11C3CD12C3558BEC8A6604:
+  1EC55E0680FC0175098B178B4F02CD1AEB07CD1A:
+    0. 41 BC0F 0061 0000:__bios_equiplist 0003:__bios_memsize 0006:__bios_timeofday 0028:__bios_disk
+  8B5E0680FC0175098B178B4F02CD1AEB07CD1A89:
+    0. 3E 5849 005E 0000:__bios_equiplist 0003:__bios_memsize 0006:__bios_timeofday 0026:__bios_disk
+DBE3B91400E2FED93E....B90A00E2FE33DBA1....80E40F80FC0375529BD93E:
+  0. 00 0000 0074 0000:__8087_init
+E8....CB57B430..........A3....E8....5FC38BEC8A4602B44C:
+  0. 01 04BD 0084 0000:__cinit_f 0004:__cinit 0014:__exit 004B:__dodtors 0076:___faterr
+FC:
+  33ED55..........0BC074:
+    658C06....26A12C00A3....81C100017254498B:
+      0. 0A 8689 0093 0000:?
+    6B8C06....26A12C00A3....81C10001725A498B:
+      0. 0A 8689 009F 0000:?
+    6E8C06....26A12C00A3....81C10001725D498B:
+      0. 09 B4A7 009C 0000:?
+    748C06....26A12C00A3....81C100017263498B:
+      0. 09 B4A7 00A8 0000:?
+  571E510656E30E1E33C05051..........0BC0740F893E:
+    0. 00 0000 0029 0000:LibEntry

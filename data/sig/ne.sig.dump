@@ -1,0 +1,197 @@
+0BC07503E9:
+  B1008C06....891E....8936....893E....8916....33C01E07BF:
+    0. 00 0000 0144 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+96^[] 0098:__exitclean 00B1:__exit
+  B5008C06....891E....8936....893E....8916....33C01E07BF:
+    0. 00 0000 014A 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+96^[] 009C:__exitclean 00B5:__exit
+  BF008C06....891E....8936....893E....8916....33C01E07BF:
+    0. 00 0000 0158 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+A7^[]~/~+17^/ 00A9:__cleanup 00BB:__checknull 00BC:__restorezero 00BD:__terminate 00D0:__GetDGROUP
+  C3008C06....891E....8936....893E....8916....33C01E07BF:
+    0. 00 0000 015E 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+A7^[]~/~+18^/ 00AD:__cleanup 00BF:__checknull 00C0:__restorezero 00C1:__terminate 00D6:__GetDGROUP
+  C4008C06....891E....8936....893E....8916....B8FFFF50:
+    0. 00 0000 0157 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+A0^[] 00A2:__exitclean 00BB:__exit
+  C8008C06....891E....8936....893E....8916....B8FFFF50:
+    0. 00 0000 015D 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+A0^[] 00A6:__exitclean 00BF:__exit
+  D1008C06....891E....8936....893E....8916....B8FFFF50:
+    0. 00 0000 016A 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+B0^[]~/~+0F^/ 00B2:__cleanup 00C4:__checknull 00C5:__restorezero 00C6:__terminate 00E2:__GetDGROUP
+  D5008C06....891E....8936....893E....8916....B8FFFF50:
+    0. 00 0000 0170 0000:o=2:a=84:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+B0^[]~/~+10^/ 00B6:__cleanup 00C8:__checknull 00C9:__restorezero 00CA:__terminate 00E8:__GetDGROUP
+1E066068....1FBB....8C1FBE....83E6FE561E..........0BC0740761071F:
+  0. 0A D662 0062 0000:o=4:a=88:c=v:ms16os2
+33ED55..........0BC074:
+  EC8C06....81C1000172E2890E....8936....893E:
+    0. 00 0000 00BD 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+A9^[_main]~/__stubmain~+1E^/WINMAIN 00B7:__nomain (0044: 75)
+    1. 00 0000 00B6 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+A2^[_main]~/__stubmain~+1E^/WINMAIN 00B0:__nomain (0044: 33)
+    2. 00 0000 00A9 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+95^[_main]~/__stubmain~+1E^/WINMAIN 00A3:__nomain (0044: 50)
+    3. 00 0000 00A2 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+8E^[_main]~/__stubmain~+1E^/WINMAIN 009C:__nomain (0044: 36)
+  ED81C1000172E7890E....8936....893E....891E:
+    0. 00 0000 005D 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+53^/WINMAIN (0039: 0E)
+    1. 00 0000 0066 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+5C^/WINMAIN (0039: 36)
+  EE:
+    81C1000172E8890E....8936....893E....891E:
+      0. 00 0000 005A 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+53^/WINMAIN (0039: FF)
+      1. 00 0000 0063 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+5C^/WINMAIN (0039: 36)
+    8C06....81C1000172E4890E....8936....893E:
+      0. 00 0000 00B3 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+A3^[_main]~/__stubmain~+17^/WINMAIN 00AD:__nomain (0044: 75)
+      1. 00 0000 00A9 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+99^[_main]~/__stubmain~+17^/WINMAIN 00A3:__nomain (0044: 33)
+      2. 00 0000 009F 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+8F^[_main]~/__stubmain~+17^/WINMAIN 0099:__nomain (0044: 50)
+      3. 00 0000 0098 0000:o=2:a=84:c=v:mv16rwin:l=mv16mfc:m=+88^[_main]~/__stubmain~+17^/WINMAIN 0092:__nomain (0044: 36)
+53510633C050:
+  E8....5807595B..........0BC07503E9:
+    BA0036C7061400FFFF:
+      0. 02 1D4F 0165 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=84:m=+AF^[]~/~+16^/ 0054:__INITAPPCALLED 00AF:__WINMAINCALL 00B6:__cleanup 00C8:__checknull 00C9:__restorezero 00CA:__terminate 00DD:__GetDGROUP
+    C50036C7061400FFFF:
+      0. 02 1D4F 0170 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+B0^[]~/~+16^/ 0054:__INITAPPCALLED 00B0:__WINMAINCALL 00C1:__cleanup 00D3:__checknull 00D4:__restorezero 00D5:__terminate 00E8:__GetDGROUP
+    CD0036C7061400FFFF:
+      0. 02 1D4F 0178 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=84:m=+B9^[]~/~+E^/ 005D:__INITAPPCALLED 00B9:__WINMAINCALL 00C0:__cleanup 00D2:__checknull 00D3:__restorezero 00D4:__terminate 00F0:__GetDGROUP
+    D70036C7061400FFFF:
+      0. 02 1D4F 0182 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+B9^[]~/~+E^/ 005D:__INITAPPCALLED 00B9:__WINMAINCALL 00CA:__cleanup 00DC:__checknull 00DD:__restorezero 00DE:__terminate 00FA:__GetDGROUP
+  ..........5807595B..........0BC07503E9:
+    BE0036C7061400:
+      0. 04 A5BF 016D 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=84:m=+B1^[]~/~+16^/ 0056:__INITAPPCALLED 00B1:__WINMAINCALL 00BC:__cleanup 00CE:__checknull 00CF:__restorezero 00D0:__terminate 00E5:__GetDGROUP
+    CB0036C7061400:
+      0. 04 A5BF 017A 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+B2^[]~/~+16^/ 0056:__INITAPPCALLED 00B2:__WINMAINCALL 00C9:__cleanup 00DB:__checknull 00DC:__restorezero 00DD:__terminate 00F2:__GetDGROUP
+    D10036C7061400:
+      0. 04 A5BF 0180 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=84:m=+BB^[]~/~+E^/ 005F:__INITAPPCALLED 00BB:__WINMAINCALL 00C6:__cleanup 00D8:__checknull 00D9:__restorezero 00DA:__terminate 00F8:__GetDGROUP
+    DD0036C7061400:
+      0. 04 A5BF 018C 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+BB^[]~/~+E^/ 005F:__INITAPPCALLED 00BB:__WINMAINCALL 00D2:__cleanup 00E4:__checknull 00E5:__restorezero 00E6:__terminate 0104:__GetDGROUP
+558BEC:
+  061E60B8....8ED81E68....1E68..............8E06....26A11500:
+    0. 01 E967 00DF 0000:o=4:a=88:c=v:ms16os2 007F:__amsg_exit
+  1E68....:
+    1E68..............8E06....26A11500A3....BB....8C1F:
+      0. 01 8DAC 00D1 0000:o=4:a=88:c=v:ms16os2 0071:__amsg_exit
+    1F8B4612A3....8B4610A3....BB....8C1FBE....83E6FE56:
+      0. 01 8709 012F 0000:o=4:a=88:c=v:ms16os2 00C0:__cintDIV 00CE:__amsg_exit
+668C2D........881D........8925........890D........8D0D........:
+  29:
+    0. 12 BBD3 01F6 0000:o=2:a=100:wa32rtw:wa32rt_ 0191:__exit_ 01DC:__GETDS 01E5:__Int21 (01A9: CB)
+    1. 12 BBD3 01DC 0000:o=2:a=100:wa32rtw:wa32rt_ 0177:__exit_ (l)01A1:__null_FPE_rtn (l)01A2:__WEP 01C2:__GETDS 01CB:__Int21 (01A9: C3)
+  8D:
+    0. 01 1E1A 018F 0000:o=2:a=100:wa32rtw:wa32rt_ 012A:__exit_ 0175:__GETDS 017E:__Int21
+68....1FBB....8C1FBE....83E6FE561E..........0BC0740433C0EB3A8977:
+  0. 04 3E97 0059 0000:o=4:a=88:c=v:ms16os2
+6A28..........BB0200528BD480A7....B7508BC45316501652..........0B:
+  0. 12 B902 01B0 0000:o=4:a=88:c=v:ms16os2 0063:__initfp 0098:_exit 009F:__exit 00A7:__cexit 00B1:__c_exit 0122:__lockexit 016C:__unlockexit 018F:__termfp
+893E....56571E510656E3:
+  0D1E33C05051..........91E3:
+    5633C01E07BF:
+      0. 01 32D8 0153 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+64^/LIBMAIN 0079:__exit 007F:__exitclean 0087:WEP
+    5FB8FFFF50:
+      0. 00 0000 0165 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+6D^/LIBMAIN 0082:__exit 0088:__exitclean 0090:WEP
+  111E33C05051..........91E302EB02EB:
+    6133C01E:
+      0. 02 330F 0163 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=88:m=+73^/LIBMAIN 0088:__cleanup 009A:__checknull 009B:__restorezero 009C:__terminate 00A6:WEP 00DA:__GetDGROUP (0140: C3)
+      1. 02 330F 0165 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=88:m=+73^/LIBMAIN 0088:__cleanup 009A:__checknull 009B:__restorezero 009C:__terminate 00A6:WEP 00DC:__GetDGROUP (0140: EB)
+    6333C01E:
+      0. 02 330F 0165 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=88:m=+73^/LIBMAIN 008A:__cleanup 009C:__checknull 009D:__restorezero 009E:__terminate 00A8:WEP 00DC:__GetDGROUP
+    6AB8FFFF:
+      0. 01 FDA2 0175 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=88:m=+7C^/LIBMAIN 0091:__cleanup 00A3:__checknull 00A4:__restorezero 00A5:__terminate 00AF:WEP 00EC:__GetDGROUP (0153: C3)
+      1. 01 FDA2 0177 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe:a=88:m=+7C^/LIBMAIN 0091:__cleanup 00A3:__checknull 00A4:__restorezero 00A5:__terminate 00AF:WEP 00EE:__GetDGROUP (0153: EB)
+    6CB8FFFF:
+      0. 01 FDA2 0177 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=88:m=+7C^/LIBMAIN 0093:__cleanup 00A5:__checknull 00A6:__restorezero 00A7:__terminate 00B1:WEP 00EE:__GetDGROUP (0155: C3)
+      1. 01 FDA2 0179 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=88:m=+7C^/LIBMAIN 0093:__cleanup 00A5:__checknull 00A6:__restorezero 00A7:__terminate 00B1:WEP 00F0:__GetDGROUP (0155: EB)
+    6F33C01E:
+      0. 02 330F 0180 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=88:m=+73^/LIBMAIN 0096:__cleanup 00A8:__checknull 00A9:__restorezero 00AA:__terminate 00B4:WEP 00F7:__GetDGROUP
+    7733C01E:
+      0. 02 330F 0179 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+89^/LIBMAIN 009E:__cleanup 00B0:__checknull 00B1:__restorezero 00B2:__terminate 00BC:WEP 00F0:__GetDGROUP (0156: C3)
+      1. 02 330F 017B 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+89^/LIBMAIN 009E:__cleanup 00B0:__checknull 00B1:__restorezero 00B2:__terminate 00BC:WEP 00F2:__GetDGROUP (0156: EB)
+  121E33C05051..........91E302EB03E9:
+    8000B8FF:
+      0. 02 02A2 018C 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+93^/LIBMAIN 00A8:__cleanup 00BA:__checknull 00BB:__restorezero 00BC:__terminate 00C6:WEP 0103:__GetDGROUP (0169: C3)
+      1. 02 02A2 018E 0000:o=2:a=88:c=b:l=bc31cls/bc31owlw:bc31rtw:m=+93^/LIBMAIN 00A8:__cleanup 00BA:__checknull 00BB:__restorezero 00BC:__terminate 00C6:WEP 0105:__GetDGROUP (0169: EB)
+    8B0033C0:
+      0. 03 3653 019C 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=88:m=+74^/LIBMAIN 00B3:__cleanup 00C5:__checknull 00C6:__restorezero 00C7:__terminate 00D1:WEP 0113:__GetDGROUP
+8C:
+  2D........8C2D200000008925........C705........000100008D0D:
+    0. 00 0000 010B 0000:o=2:a=100:wa32rtw:wa32rt_ 00EE:__exit_ 0103:__GETDS (00E5: 1D)
+    1. 00 0000 011C 0000:o=2:a=100:wa32rtw:wa32rt_ 00FF:__exit_ 0114:__GETDS (00E5: 58)
+  D8904555:
+    89E51E8ED8571E510656E30E31C01E5051..........09C0743481:
+      0. 01 0619 0074 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+4C/LIBMAIN 005A:__exit_ 0073:__GETDS
+    8BEC1E8ED857:
+      1E510656E30E33C01E5051..........0BC074:
+        07:
+          0. 00 0000 0032 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+1F^/LibMain
+        25B8:
+          0. 00 0000 005F 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+3D/LIBMAIN 004B:__exit_ 005E:__GETDS
+      56893E....8C1E....890E....891E....8936:
+        0. 07 8219 009C 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+84^[_main]~/__stubmain~+17^/LMAIN 0084:__nomain (0074: 00)
+        1. 07 8219 00A2 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+77^[_main]~/__stubmain~+1E^/LMAIN 008A:__nomain (0074: E5)
+        2. 07 8219 00A3 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+7A^[_main]~/__stubmain~+17^/LMAIN 008B:__nomain (0074: 8B)
+        3. 07 8219 00A9 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+7E^[_main]~/__stubmain~+1E^/LMAIN 0091:__nomain (0074: B8)
+        4. 07 8219 00AD 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+73^[_main]~/__stubmain~+17^/LMAIN 0095:__nomain (0074: EC)
+        5. 07 8219 00B3 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+88^[_main]~/__stubmain~+1E^/LMAIN 009B:__nomain (0074: 8C)
+        6. 07 8219 00B4 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+8B^[_main]~/__stubmain~+17^/LMAIN 009C:__nomain (0074: CB)
+        7. 07 8219 00BA 0000:o=2:a=88:c=v:mv16rwin:l=mv16mfc:m=+8F^[_main]~/__stubmain~+1E^/LMAIN 00A2:__nomain (0074: 02)
+9A........:
+  9A:
+    0. 00 0000 000A 0000:o=6:a=8f:s=5/tpsig2n
+  ..:
+    0. 00 0000 0005 0000:o=6:a=8f:s=0/tpsig2n
+B8....8ED853510633C050..........5807595B..........0BC07503E9D400:
+  0. 09 E266 0188 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+C0^/ 005B:__INITAPPCALLED 00D7:__cleanup 00E9:__checknull 00EA:__restorezero 00EB:__terminate 0100:__GetDGROUP
+BB0200528BD480A7....B7508BC45316501652..........0BC0587510B1403C:
+  0. 0B CF63 01A0 0000:o=4:a=88:c=v:ms16os2 004F:__initfp 0080:C_TERM 00A3:_exit 00AA:__exit 00B2:__cexit 00BC:__c_exit 0112:__lockexit 015C:__unlockexit 017F:__termfp
+C706....0220:
+  C606....02C606....01FC571E510656E31C1E33C05051:
+    0. 00 0000 004F 0000:o=2:a=88:sm16rwin:m=+45^/LIBMAIN
+  FC571E510656E30E1E33C05051..........0BC0740F893E:
+    0. 00 0000 002F 0000:o=2:a=88:sm16rwin:m=+25^/LIBMAIN
+E9....574154434F4D20432052756E2D54696D652073797374656D20636F6465:
+  0. 6C 243D 00B2 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=A5/wa16std
+  1. 73 7874 0126 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+10F^[]~/~+13^~/DEFAULTWINMAIN~+2A^/main_;~/+0040DEFAULTWINMAIN~+2C^/main_ 0119:__exit_ 0124:__GETDS (0066: 50)
+  2. 73 7874 0126 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+111^[]~/~+12^~/DEFAULTWINMAIN~+27^/main_;~/+0040DEFAULTWINMAIN~+29^/main_ 0119:__exit_ 0124:__GETDS (0066: 90)
+  3. 81 8313 00B2 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=A3/wa16std
+EB:
+  0A4347494E49544342....53510633C050..........5807595B:
+    0. 10 BAF9 01A3 0000:o=2:c=b:bh16rwin:l=bh16cls/bh16owl/bh16ocf/bh16dbe/b516cgw:a=84:m=+DB^[]~/~+16^/ 0062:__INITAPPCALLED 00DB:__WINMAINCALL 00F2:__cleanup 0104:__checknull 0105:__restorezero 0106:__terminate 011B:__GetDGROUP
+  6B574154434F4D20432F432B2B31362052756E2D54696D652073797374656D:
+    0. 4D 2DB0 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F1^[]~/~+19^~/+008DDEFAULTWINMAIN~+32^/main_ 00FB:__exit_ 010C:__GETDS (0093: FF)
+    1. 4D 2DB0 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+106^[]~/~+19^~/DEFAULTWINMAIN~+30^/main_ 0110:__exit_ 0121:__GETDS (0093: 00)
+    2. 62 5EBB 0093 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=84/wa16std
+    3. 63 DC9C 0094 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=85/wa16std
+    4. 4D E439 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F1^[]~/~+1D&/main_ 00FB:__exit_ 010C:__GETDS (0093: 0F)
+    5. 4D E439 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F1^[]~/~+19^~/+008DDEFAULTWINMAIN~+32^/main_ 00FB:__exit_ 010C:__GETDS (0093: FF)
+    6. 4D E439 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+106^[]~/~+1D&/main_ 0110:__exit_ 0121:__GETDS (0093: 00) (REF 00A8: 0F)
+    7. 4D E439 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+106^[]~/~+19^~/DEFAULTWINMAIN~+2E^/main_ 0110:__exit_ 0121:__GETDS (0093: 00) (REF 00A8: FF)
+    8. 63 E7AA 0094 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=85/wa16std
+  6D574154434F4D20432F432B2B31362052756E2D54696D652073797374656D:
+    0. 4D 2DB0 0094 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=87/wa16std (0021: 5F)
+    1. 4D 2DB0 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F3^[]~/~+12^~/+008DDEFAULTWINMAIN~+29^/main_ 00FB:__exit_ 010C:__GETDS (0021: 50)
+    2. 4D 2DB0 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+108^[]~/~+12^~/DEFAULTWINMAIN~+27^/main_ 0110:__exit_ 0121:__GETDS (0021: 1E)
+    3. 4D E439 0094 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=87/wa16std (0021: 5F)
+    4. 4D E439 0093 0000:o=4:a=80:c=w:wa16rto:wa16rt_:s=86/wa16std (0021: 5E)
+    5. 4D E439 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F3^[]~/~+12!*1c&/main_ 00FB:__exit_ 010C:__GETDS (0021: 50) (REF 0093: 0F)
+    6. 4D E439 010E 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+0F3^[]~/~+12^~/+008DDEFAULTWINMAIN~+29^/main_ 00FB:__exit_ 010C:__GETDS (0021: 50) (REF 0093: FF)
+    7. 4D E439 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+108^[]~/~+12!*1c&/main_ 0110:__exit_ 0121:__GETDS (0021: 1E) (REF 00A8: 0F)
+    8. 4D E439 0123 0000:o=2:a=80:c=w:wa16rtw:wa16rt_:m=+108^[]~/~+12^~/DEFAULTWINMAIN~+25^/main_ 0110:__exit_ 0121:__GETDS (0021: 1E) (REF 00A8: FF)
+  FE90909090:
+    0. 00 0000 0006 0000:o=2:a=100:wa32rtw:wa32rt_ 0002:___begtext
+FC:
+  33ED55..........0BC074:
+    618C06....26A12C00A3....81C100017250498B:
+      0. 0A 8689 0098 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+91^[]~/~?55(+15?89+E3A^/)+E03^/;(+41?9+EB6^/)+EB8^/ (0067: E8)
+      1. 0A 8689 0095 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+8E^[WINMAIN]~/~+91^/ (0067: 50)
+      2. 0A 8689 009F 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+94^[WINMAIN]~/~+A6^/ (0067: 36)
+      3. 0A 8689 00A4 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+99^[]~/~?55(+15?89+E3A^/)+E03^/;(+41?9+EB6^/)+EB8^/ (0067: FF)
+    658C06....26A12C00A3....81C100017254498B:
+      0. 0A 8689 0093 0000:o=2:a=84:z316rwin:l=z316matw:m=+8C^[]~/~+11B7^/
+    6A8C06....26A12C00A3....81C100017259498B:
+      0. 09 B4A7 00A1 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+9A^[]~/~?55(+15?89+C82^/)+C5E^/;(+48?9+CFF^/)+D21^/ (0071: E8)
+      1. 09 B4A7 009E 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+97^[WINMAIN]~/~+8C^/ (0071: 50)
+      2. 09 B4A7 00A8 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+9D^[WINMAIN]~/~+A1^/ (0071: 36)
+      3. 09 B4A7 00AD 0000:o=2:a=84:sm16rwin:sm16strm:l=mv16mfc:m=+A2^[]~/~?55(+15?89+C82^/)+C5E^/;(+48?9+CFF^/)+D21^/ (0071: FF)
+    6B8C06....26A12C00A3....81C10001725A498B:
+      0. 0A 8689 009F 0000:o=2:a=84:z316rwin:l=z316matw:m=+94^[]~/~+128B^/
+    6E8C06....26A12C00A3....81C10001725D498B:
+      0. 09 B4A7 009C 0000:o=2:a=84:z316rwin:l=z316matw:m=+95^[]~/~+F46^/
+    748C06....26A12C00A3....81C100017263498B:
+      0. 09 B4A7 00A8 0000:o=2:a=84:z316rwin:l=z316matw:m=+9D^[]~/~+1026^/
+  571E510656E30E1E33C05051..........0BC0740F893E:
+    0. 00 0000 0029 0000:o=2:a=88:z316rwin:l=z316matw:m=+1F^/LIBMAIN
+  A3....891E....49890E....BB....8C1F83E4FE896704B8FEFF5089670AF7:
+    0. 0A 008B 00DA 0000:o=4:a=84:c=v:ms16os2:m=+6A^/ 0074:__cintDIV 007C:__amsg_exit (00A0: E0)
+    1. 0A 008B 00CE 0000:o=4:a=84:c=v:ms16os2:m=+5E^/ 0065:__cintDIV 006F:__amsg_exit 00CC:__dataseg (00A0: 1F)
+    2. 0A 008B 00D6 0000:o=4:a=84:c=v:ms16os2:m=+66^/ 006D:__cintDIV 0077:__amsg_exit 00D4:__dataseg (00A0: 72)
+    3. 0A 008B 00E2 0000:o=4:a=84:c=v:ms16os2:m=+6C^/ 0076:__cintDIV 0080:__amsg_exit 00E0:__dataseg (00A0: 04)
+    4. 0A 008B 00DA 0000:o=4:a=84:c=v:ms16os2:m=+64^/ 006E:__cintDIV 0078:__amsg_exit 00D8:__dataseg (00A0: 92)

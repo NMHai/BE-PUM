@@ -1,0 +1,357 @@
+01:
+  00040028194001C80000B8030F100004000300:
+    0. 00 0000 0231 00DA:B$Mode5 00DF:B$Mode4 011E:B$Screen2
+  0203040506071011121314151617000102030405140738393A3B3C3D3E3FE9:
+    0. 00 0000 0134 000F:b$EnhPalette 0025:B$EgaPalReset 002C:B$EgaPalResetB 005C:B$EgaPalPut 0063:B$EgaPalPutB 0091:B$EgaPalTrans 00EC:B$EgaPalSet (0113: C3)
+    1. 00 0000 019E 000F:b$EnhPalette 0025:B$EgaPalReset 002C:B$EgaPalResetB 005C:B$EgaPalPut 0063:B$EgaPalPutB 0091:B$EgaPalTrans 00EC:B$VgaPalSet 014F:B$EgaPalSet 0156:B$EgaPalSetB (0113: 83)
+    2. 00 0000 0197 000F:b$EnhPalette 0025:B$EgaPalReset 002C:B$EgaPalResetB 005C:B$EgaPalPut 0063:B$EgaPalPutB 0091:B$EgaPalTrans 00EC:B$VgaPalSet 0148:B$EgaPalSet 014F:B$EgaPalSetB (0113: BE)
+  040028194001C80000B8030F100004000300:
+    0. 00 0000 0231 00D8:B$Mode5 00DD:B$Mode4 0117:B$Screen2
+03:
+  0008005019D0025C0100B001FF2000080101000000000000000000:
+    0. 00 0000 00F7 0065:B$Screen3
+  08005019D0025C0100B001FF2000080101000000000000000000:
+    0. 00 0000 00F6 0064:B$Screen3
+  1E....891E....891E....0316....8916....8916....8BCB3B0E....7C14:
+    0. 02 33B4 0036 0000:$_coords 001A:B$INVIEW
+04:
+  00400050198002900100B8010F200008000100:
+    0. 00 0000 0114 0065:B$Screen4 00AA:B$ChkOlivetti
+  400050198002900100B8010F200008000100:
+    0. 00 0000 0113 0064:B$Screen4 00A9:B$ChkOlivetti
+061EB8....8ED8803E....0075:
+  3CE84E008AE3F606....027429F606....0174:
+    0. 52 0E42 0089 0000:B$FastOutStr
+  3DE84F008AE3F606....02742AF606....0174:
+    0. 53 0743 008A 0000:B$FastOutStr
+07:
+  000D0028194001C80000A00F0F200002000F02:
+    0. 00 0000 0732 0280:B$Screen7 0285:B$Screen8 0291:B$Screen9 02C0:B$Screen10
+  0D0028194001C80000A00F0F200002000F02:
+    0. 00 0000 0722 027A:B$Screen7 027F:B$Screen8 028B:B$Screen9 02BA:B$Screen10
+0B:
+  001100501E8002E00100A001FF400000000100:
+    0. 00 0000 092B 0151:b$VgaPalette 0451:B$Screen11 0476:B$Screen12 048F:B$Screen13 04A2:B$Screen102 04CF:$_VgaChkRows 051F:B$VgaSetPages 0529:B$Vga256PalReset 0531:B$VgaPalReset 0576:B$VgaPalPut 059B:B$VgaPalTrans11 05A7:B$VgaPalTrans12 05AC:B$VgaPalTrans13 05CE:B$SetAttr256 05F8:B$VgaLineX256 0675:B$VgaLineY256 06FE:B$VgaLineV256 0792:B$VgaPutAction_13 07A0:B$VgaWriteAction256 07A9:B$VgaNReadL_13 07CD:B$VgaNWriteL_13 0804:B$VgaNSetC_13 0843:B$VgaScanL256 0917:B$INIT_BKG_MASK13
+  1100501E8002E00100A001FF400000000100:
+    0. 00 0000 0816 013D:b$VgaPalette 043D:B$Screen11 0462:B$Screen12 047B:B$Screen13 04C4:B$VgaPalReset 0507:B$VgaPalPut 052C:B$VgaPalTrans11 (07F5: C3)
+    1. 00 0000 0831 014E:b$VgaPalette 044E:B$Screen11 0473:B$Screen12 048C:B$Screen13 04D5:B$VgaPalReset 0522:B$VgaPalPut 0547:B$VgaPalTrans11 (07F5: 8B)
+28194001C80000B80F3F028000070700:
+  0. 00 0000 01D6 00D4:B$Mode0 00E4:B$Mode1 00E9:B$Mode2 00F1:B$Mode3 00F6:B$Mode7 0106:B$FixTextPage (00F1: C0)
+  1. 00 0000 01CE 00CD:B$Mode0 00DD:B$Mode1 00E2:B$Mode2 00EA:B$Mode3 00EF:B$Mode7 00FE:B$FixTextPage (00F1: E8)
+  2. 00 0000 01CE 00CD:B$Mode0 00DD:B$Mode1 00E2:B$Mode2 00EA:B$Mode3 00EF:B$Mode7 00FE:$_FixTextPage (00F1: A3)
+2E8F06....2E8F06....803E....0075052EFF17EB032EFF1F2EFF2E....CB:
+  0. 00 0000 001F 0000:$_UnivCall
+33DB8EC326A010048AE0A3....B40FE8....8AD78AF7A2....8ACCA2....8916:
+  0. 00 0000 0262 0000:B$ScreenInit 0209:B$ChkVGA 0227:B$ChkMonitor (021A: 30)
+  1. 00 0000 023B 0000:B$ScreenInit 01F0:B$ChkVGA 0200:B$ChkMonitor (021A: C3)
+36803E....00753D06E8....8AE336803E....02752936F606....01742152BA:
+  0. 4C 4EAD 0085 0000:B$FastOutStr
+3F0000003F3F3F50F6D81AC0A2....F858C3A3....A1....A3....C333C0D1EA:
+  0. 24 2AFA 0573 0001:b$Mode2VgaPal 0007:B$CgaSetAttr 0012:B$CgaSetPages 001C:B$MapXYC2 0032:B$MapXYC2_4 0052:B$CgaReadC 006D:B$CgaSetC 007E:B$CgaSetPixC 0094:B$CgaSetPixFirstC 0098:B$CgaSetPixLastC 00AD:B$CgaPutAction 00E2:B$CgaNReadL 0108:B$CgaNWriteL 016A:B$CgaNSetC 0228:B$CgaSetTile 0285:B$CgaScanL 0319:B$CgaScanR 0433:B$CgaLineX 04C8:B$CgaLineY 051C:B$CgaLineV
+5051:
+  33C9A1....803E....0075078B0E....A1....2BC1A3....40D1E803C889:
+    0. 01 0619 00CC 0047:B$VWINI 0063:B$VEWINI 0090:B$VWMAPC 00B9:B$GRPRST
+  528B16....E8:
+    4000A1....03C12B06....F7D87821A1....2BC12B06:
+      0. 03 14F5 01FB 0000:B$ClipCheck 0068:B$DrawCircle
+    ....A1....03C12B06....F7D87821A1....2BC12B06:
+      0. 03 14F5 01FB 0000:B$ClipCheck 0068:B$DrawCircle
+  8B0E....A1....2BC1A3....40D1E803C8890E....8B0E....A1....2BC1:
+    0. 01 E967 00B3 002F:B$VWINI 004B:B$VEWINI 0077:B$VWMAPC 00A0:B$GRPRST
+53:
+  83C308:
+    9BDD1F909B5B9BDD1FC3568BF383C310B90400AD87078944FE4343E2:
+      0. 04 0DB8 004D 0000:B$XYSAVE 000E:B$XCHGF 0023:B$QCMAPLPY 003B:B$QCMAPLPX (0025: E8)
+      1. 04 0DB8 004F 0000:B$XYSAVE 000E:B$XCHGF 0023:B$QCMAPLPY 003B:B$QCMAPLPX
+    E8....5B53E8....5BC3568BF383C310B90400AD87078944FE4343E2:
+      0. 04 0DB8 004D 0000:B$XYSAVE 000E:B$XCHGF 0023:B$QCMAPLPY 003B:B$QCMAPLPX
+    ..........5B53..........5BC3568BF383C310B90400AD87078944:
+      0. 08 9CE8 0057 0000:B$XYSAVE 0012:B$XCHGF 0027:B$QCMAPLPY 003F:B$QCMAPLPX
+  8BDC:
+    E8....5BC3E8:
+      1100720EE80C00720952E8....5BE8....F8C35253E8:
+        0. 00 0000 014A 0000:B$fmldw 0043:__getviewcoord_wxy 004B:__getviewcoord_w 0079:__getwindowcoord_xy 009B:__getcurrentposition_w 00BC:__setwindow
+      ....720EE8....720952E8....5BE8....F8C35253E8:
+        0. 00 0000 014C 0000:B$fmldw 0045:__getviewcoord_wxy 004D:__getviewcoord_w 007B:__getwindowcoord_xy 009D:__getcurrentposition_w 00BE:__setwindow
+    ..........5BC3E8:
+      15007212E81000720D52..........5B:
+        0. 04 8A0B 016C 0000:B$fmldw 0055:__getviewcoord_wxy 005D:__getviewcoord_w 008F:__getwindowcoord_xy 00B1:__getcurrentposition_w 00D2:__setwindow
+      ....7212E8....720D52..........5B:
+        0. 04 8A0B 016E 0000:B$fmldw 0057:__getviewcoord_wxy 005F:__getviewcoord_w 0091:__getwindowcoord_xy 00B3:__getcurrentposition_w 00D4:__setwindow
+  BBFFFFFF16....5BCB:
+    0. 00 0000 000A 0000:? (REF 0006: ___aDBswpchk)
+55:
+  5657CD105F5E5DC38B0E....498B16....4AC3803E....00C3:
+    36A0....EB04:
+      0. 02 3F48 00D2 0000:B$SCNIO 0009:B$GrScreenSize 0014:B$GRMODE 001A:B$SELVPG 0020:B$SELAPG 0044:B$GETCSRDATA 0089:B$OVWCSR 008E:B$OFFCSR 0091:B$CSRDSP 00D0:B$ErrorReturn
+    A0....EB03A0:
+      0. 00 0000 00CF 0000:B$SCNIO 0009:B$GrScreenSize 0014:B$GRMODE 001A:B$SELVPG 001F:B$SELAPG 0041:B$GETCSRDATA 0086:B$OVWCSR 008B:B$OFFCSR 008E:B$CSRDSP 00CD:B$ErrorReturn
+  8BEC:
+    1EC55604B80000B43DCD217303B8FFFF1F5DC3558BEC8B5E04B43ECD21:
+      0. 6F 983C 008F 0000:_fl_open 0016:_fl_close 002B:_fl_read 0044:_fl_lseek 005F:_fl_findfirstn 007F:_fl_findnext
+    33C0:
+      3806....740BA2....8B4606E8....5DCB48C606....FDEBF633C0:
+        0. 02 1312 017F 0000:__setcolor 001E:__getcolor 0035:__setlinestyle 0052:__getlinestyle 0063:__remappalette 0136:__remapallpalette 015F:__selectpalette (015C: C3)
+        1. 02 1312 01B3 0000:__setcolor 001E:__getcolor 0035:__setlinestyle 0052:__getlinestyle 0063:__remappalette 0151:__remapallpalette 0193:__selectpalette (015C: 8B)
+      99C606....FD3806....7414A2....A2....8B46068706....8B56:
+        0. 03 7DB4 0109 0000:__setvieworg 0027:__setcliprgn 004D:__setviewport 008E:__getphyscoord 00B0:__getviewcoord (00E1: 01)
+        1. 03 7DB4 0113 0000:__setvieworg 0027:__setcliprgn 0052:__setviewport 0098:__getphyscoord 00BA:__getviewcoord (00E1: E8)
+      E8....742A8B4E0A0AED752A3A0E....77248B46068B5E08E8:
+        A600:
+          0. 06 3D91 0275 0000:__floodfill 0042:__setfillmask 0086:__getfillmask 00C6:$_flood_fill
+        ..:
+          0. 06 3D91 027E 0000:__floodfill_xy 0042:__setfillmask 0086:__getfillmask 00C6:$_flood_fill (0257: C3)
+          1. 06 3D91 0281 0000:__floodfill_xy 0042:__setfillmask 0086:__getfillmask 00C6:$_flood_fill (0257: 00)
+    5657:
+      33C0E8....7461A2....A0....FF16....A1....8B4E0803C80346:
+        0. 07 DA1F 009F 0000:__rectangle_xy
+      E8....8A1E....E8....:
+        1E:
+          C47E06C57606B00DAE72FD740C268A45:
+            0. 0F 860B 018D 0000:__outtext 0046:__outmem 00F5:$_scroll_window 0129:$_fix_text_position
+          C576068BFE8CD88EC0B00DAE72FD740C:
+            0. 2F 8891 01A5 0000:__outtext 0049:__outmem 0084:__inchar 0114:$_scroll_window 0141:$_fix_text_position
+        C47E06C57606B00DAE72FD740C268A45FF:
+          0. 0E 2E74 018E 0000:__outtext 0045:__outmem 00F6:$_scroll_window 012A:$_fix_text_position
+      FC8CD88EC08D7606BF....36A536A536A536A5BE....55E8....5D:
+        0. 01 04BD 004B 0000:__f_fltout
+    57:
+      56:
+        C45E0426803F41720E26803F5A7708268A070C20EB0490268A072A:
+          0. DC EBEE 1188 (l)0000:fl_stricmp (l)005A:fl_strcpy (l)008C:fl_abs (l)009A:fl_atoi (l)00D4:fl_strlen (l)00F4:_PointFont (l)0144:_EnumFont (l)0190:_ReadFont (l)0304:_LoadFont (l)048E:_UnLoadFont (l)04F0:_unpload (l)0534:_RegisterFont 06EC:__registerfonts 0800:__unregisterfonts 085A:__setfont 0BCA:__getfontinfo (l)0C82:_DrawChar 0F6C:__outgtext 10E0:__getgtextextent (107F: 3F)
+          1. DC EBEE 117C (l)0000:fl_stricmp (l)005A:fl_strcpy (l)008C:fl_abs (l)009A:fl_atoi (l)00D4:fl_strlen (l)00F4:_PointFont (l)0144:_EnumFont (l)0190:_ReadFont (l)0304:_LoadFont (l)048E:_UnLoadFont (l)04F0:_unpload (l)0534:_RegisterFont 06EC:__registerfonts 0800:__unregisterfonts 085A:__setfont 0BCA:__getfontinfo (l)0C82:_DrawChar 0F5E:__outgtext 10D2:__getgtextextent (107F: CB)
+        FF76:
+          08FF7606..........83C404:
+            1E8BF08EDAC47E0AB90800F3A5:
+              0. 23 E01D 0074 0000:__f_getwindowcoord 0028:__f_getviewcoord_w 0056:__f_getcurrentposition_wxy
+            8BF01E8EDAC47E0AB90800F3A5:
+              0. 23 E01D 0074 0000:__f_getwindowcoord 0028:__f_getviewcoord_w 0056:__f_getcurrentposition_wxy
+          14FF7612FF7610FF760EFF760CFF760AFF7608FF7606:
+            0. 00 0000 003A 0000:__f_moveto_w
+      C47E06FC33C08BD88BD0B92000A2....:
+        3806....7414A0....F626:
+          0. 00 0000 005C 0000:__getvideoconfig (003B: CB)
+          1. 00 0000 005E 0000:__getvideoconfig (003B: 5F)
+        E8....7414A0....F626:
+          0. 02 2991 005B 0000:__getvideoconfig
+    83EC:
+      02:
+        509BDC1F9BDD7EFE909B8B46FE9EF5588BE55DC3538BDC9BDF07:
+          0. 0C 886F 012F 001A:B$fmldw 0035:__getviewcoord_wxy 003D:__getviewcoord_w 006B:__getwindowcoord_xy 008D:__getcurrentposition_w 00AE:__setwindow
+          1. 0D DAE3 0130 001A:B$fmldw 0036:__getviewcoord_wxy 003E:__getviewcoord_w 006C:__getwindowcoord_xy 008E:__getcurrentposition_w 00AF:__setwindow
+        5633C0C746FE01008B4E0483F9037C7B81F9FC3F7F75C4760626:
+          0. 16 F25C 0920 01E0:__polygon (08E9: D8)
+          1. 16 F25C 0927 01E0:__polygon (08E9: D9)
+          2. 16 F25C 097F 01E0:__polygon (08E9: 8B)
+        5756:
+          8B76048B7E088E460626803C41720F26803C5A7709268A0C:
+            0. F7 A0C0 130E (l)0000:_fl_stricmp (l)0060:_fl_strcpy (l)0098:_fl_abs (l)00A6:_fl_atoi (l)00EC:_fl_strlen (l)010C:_PointFont (l)014C:_EnumFont (l)018C:_ReadFont (l)0322:_LoadFont (l)054E:_UnLoadFont (l)05B0:_unpload (l)05F8:_RegisterFont 07AC:__registerfonts 08B8:__unregisterfonts 0912:__setfont 0C80:__getfontinfo (l)0D3A:_DrawChar 102A:__outgtext 11FE:__getgtextextent (11F6: CB)
+            1. F7 A0C0 133A (l)0000:_fl_stricmp (l)0060:_fl_strcpy (l)0098:_fl_abs (l)00A6:_fl_atoi (l)00EC:_fl_strlen (l)010C:_PointFont (l)014C:_EnumFont (l)018C:_ReadFont (l)0322:_LoadFont (l)054E:_UnLoadFont (l)05B0:_unpload (l)05F8:_RegisterFont 07AC:__registerfonts 08B8:__unregisterfonts 0912:__setfont 0C80:__getfontinfo (l)0D3A:_DrawChar 102A:__outgtext 1218:__getgtextextent (11F6: D8)
+          8E06....26833E....00740AB867005E5F8BE55DCB90C746:
+            0. 19 BB06 0254 0000:__pg_getpalette 0064:__pg_getstyleset 0092:__pg_resetpalette 00C6:__pg_resetstyleset 00F0:__pg_setpalette 0150:__pg_setstyleset 017E:__buildpalette
+            1. 18 BCF0 0282 0000:__pg_getpalette 005E:__pg_getstyleset 0090:__pg_resetpalette 00C2:__pg_resetstyleset 00F4:__pg_setpalette 0156:__pg_setstyleset 0184:_buildpalette
+        8B46:
+          0639460A74088B460839460C7508B864008BE55DCB908B46:
+            0. 02 06CC 01F4 0000:__screenport 0082:__worldport 0144:__screenx 019C:__screeny
+          0A39460674088B460C3946087508B864008BE55DCB908E06:
+            0. 00 0000 02A8 0000:_screenport 009E:_worldport 0168:_worldx 01A0:_worldy 01D8:_screenx 0240:_screeny
+        C746FE0000EB0490FF46FEC45E06FF460626803F0075F18B46FE:
+          0. 62 AA1C 0082 0000:_pg_strlen 0024:_pg_strcpy 004E:_pg_strncpy
+      04:
+        56:
+          579BDD46069BD9C09BD97EFE909B8B46FE80CC0C8946FC9BD9:
+            0. 14 3177 0045 0000:__modf
+          8A460A50E8....83C4028846FE836E080733F6E9CF0090B103:
+            0. 0B 9923 04D4 (l)0000:outchar 0104:__outgchar (l)015C:getgcharextent 0174:__pg_setchardef 01D0:__pg_getchardef 022C:__hprint 02C2:__vprint 03C6:__initchartfont (l)0462:setchartfont 0492:__strlenpix
+        5756C45E06268A07988BD8F687....01740C8B5E06268A079805:
+          0. 1B 68F9 065C 0000:__f_forcdecpt 0076:__f_cropzeros 013A:__f_positive 0168:__f_cftoe (l)0300:_cftoe_g 0330:__f_cftof (l)04A8:_cftof_g 04D6:__f_cftog 05C6:__fltcvt (l)0628:_shift
+      06568A460A2AE450E8....83C4028846FA836E08072BF6E9D60090:
+        0. 0D 4423 052C 0000:_outchar 010C:_outgchar 0166:_getgcharextent 017E:__pg_setchardef 01E6:__pg_getchardef 024E:_hprint 02EC:_vprint 03EC:_initchartfont 04AA:_setchartfont 04E8:_strlenpix
+      08C45E0C268B4706268B57088946F88956FAC45E0626C607308D47:
+        0. 7F 5E83 00A8 0000:__f_fptostr
+      0A:
+        57568B46068B56088946F88956FAC45E0C268B4706268B570889:
+          0. A3 62AA 00D2 0000:__f_fptostr
+        C45E06268A07988BD8F687....01740C8B5E06268A0798052000:
+          0. 1C 731A 05C6 0000:__f_forcdecpt 0074:__f_cropzeros 0100:__f_positive 012E:__f_cftoe (l)02BC:_cftoe_g 02E6:__f_cftof (l)0438:_cftof_g 0460:__f_cftog 0534:__fltcvt (l)0594:_shift
+      0C9BD97EFE90:
+        909B8B46FE80CC0C8946FC9BD96EFC9BDD46069BDF:
+          0. 10 F801 0030 0000:__dtol
+        9B8B46FE80CC0C8946FC9BD96EFC9BDD46069BDF7E:
+          0. 0F C082 002F 0000:__dtol
+      0E56C45E0626837F52027571A1....8B16....2689476226895764:
+        0. 01 BBC9 47BA 0000:_adjustscale 023C:_allocarray 025E:_analyzechart 0408:__pg_analyzechart 0458:__pg_analyzechartms 04A8:__pg_analyzepie 058E:_analyzescatter 074A:__pg_analyzescatter 079A:__pg_analyzescatterms 07EC:__pg_chart 088E:__pg_chartms 0942:__pg_chartpie 09B0:__pg_chartscatter 0A32:__pg_chartscatterms 0AC6:_checkforerrors 0CB4:_checkscreen 0CE8:_checkwindow 0D4C:_clipwindow 0D66:__pg_defaultchart 0E1E:_drawaxes 1336:_drawbardata 1738:_drawcolumndata 1B38:_drawchartwindow 1B6E:_drawdatawindow 1B8E:_drawlegend 1EB8:_drawlinedata 2148:_drawpiedata 2436:_drawscatterdata 266E:_drawtitles 26DA:_explodeslice 2798:_filter 28D2:_freearrays 2932:_formattics 2A3C:__pg_initchart 2A4E:__pg_hlabelchart 2AF4:__pg_vlabelchart 2B9A:_labelxtics 2CC8:_labelytics 2E0E:_maxstrlen 2E50:_printtitle 2EDA:_renderbar 2F8E:_renderwindow 307C:_restore_user_env 30AA:_roundlimits 32D2:_save_user_env 32F6:_scaleaxis 3558:_selectwindow 3602:_selectrelwindow 3636:_setaxismodes 367E:_setchartcolor 36B0:_setchartfill 36E0:_setchartstyle 3738:_setglobalparams 384E:_setticinterval 3A22:_sizedatawindow 3DA0:_sizelegend 40F2:_sizetitlespace 4196:_slice 44A6:_spacetics 4512:_titlexaxis 45B2:_titleyaxis 4682:_val2str (4798: 90)
+        1. 01 BBC9 48A6 (l)0000:adjustscale (l)023E:allocarray (l)0262:analyzechart 03DA:__pg_analyzechart 042C:__pg_analyzechartms 047E:__pg_analyzepie (l)0534:analyzescatter 06BA:__pg_analyzescatter 070C:__pg_analyzescatterms 0760:__pg_chart 080C:__pg_chartms 08CA:__pg_chartpie 0940:__pg_chartscatter 09CC:__pg_chartscatterms (l)0A6A:checkforerrors (l)0C3C:checkscreen (l)0C70:checkwindow (l)0CD4:clipwindow 0CEE:__pg_defaultchart (l)0DA6:drawaxes (l)1292:drawbardata (l)16AA:drawcolumndata (l)1ABE:drawchartwindow (l)1AEA:drawdatawindow (l)1B06:drawlegend (l)1E2C:drawlinedata (l)208E:drawpiedata (l)23D8:drawscatterdata (l)260C:drawtitles (l)2674:explodeslice (l)2742:filter (l)28B8:freearrays (l)28FC:formattics 2A16:__pg_initchart 2A28:__pg_hlabelchart 2ACE:__pg_vlabelchart (l)2B74:labelxtics (l)2C92:labelytics (l)2DD4:maxstrlen (l)2E16:printtitle (l)2EA0:renderbar (l)2F50:renderwindow (l)3042:restore_user_env (l)306A:roundlimits (l)32D4:save_user_env (l)32EC:scaleaxis (l)3568:selectwindow (l)3612:selectrelwindow (l)3640:setaxismodes (l)368A:setchartcolor (l)36BC:setchartfill (l)36EC:setchartstyle (l)3744:setglobalparams (l)383E:setticinterval (l)3A28:sizedatawindow (l)3DAA:sizelegend (l)4112:sizetitlespace (l)41B4:slice (l)4524:spacetics (l)457E:titlexaxis (l)460C:titleyaxis (l)46CA:val2str (l)4806:fint (4798: 50)
+      12E8....C606....01EB:
+        4E9BD9C99BDD16....9BD9C99BDD16:
+          0. 09 00CB 013C 0000:__f_cintrindisp2 0022:__f_cintrindisp1 0039:__f_ctrandisp2 004C:__f_ctrandisp1
+        529BD9C99BDD16....9BD9C99BDD16:
+          0. 09 615C 0140 0000:__f_cintrindisp2 0022:__f_cintrindisp1 003D:__f_ctrandisp2 0050:__f_ctrandisp1
+      1857569BDD46069BDC16....9BDDD89BDD7EEC909B8A66ED9E7306:
+        0. 1D F0C3 00A8 0000:_fint
+      5457568E06....268B1E....8B4F0283F9507E05B8FFFFEB3233F6:
+        0. 28 D1EB 025C 0000:__f_registerfonts 0056:__f_setfont 00AE:__f_getfontinfo 00FC:__f_outgtext 0198:__f_getgtextextent 023E:__f_getgtextvector
+      58568E06....268B1E....8B47028946A83D50007E05B8FFFFEB39:
+        0. 31 C880 02D0 0000:__f_registerfonts 005E:__f_setfont 00C2:__f_getfontinfo 011A:__f_outgtext 01E0:__f_getgtextextent 02B2:__f_getgtextvector
+    8B:
+      46:
+        040AC079:
+          07BB....2ED732E45DC3:
+            0. 00 0000 0013 0000:__ChrToAnsi
+          0883E07FBB....2ED75DC3:
+            0. 00 0000 0014 0000:__ChrToAnsi
+        08A2....EB03558BECE8....C606....FF7509A1....A0....A3:
+          0. 00 0000 0184 0000:__setvideomoderows 000B:__setvideomode 00E5:__settextrows 0136:$_init_max (0163: C3)
+          1. 00 0000 01AA 0000:__setvideomoderows 000B:__setvideomode 00FB:__settextrows 014B:$_init_max (0163: 3E)
+        0C80FC0F7740:
+          2D01007E3BB104D3E0C45E0803D88B4E0C06535106:
+            0. 01 6690 0052 0000:__polygon_w
+          83E8017E3BB104D3E0C45E0803D872308B4E0C0653:
+            0. 03 3D2B 0052 0000:__polygon_wxy
+      5E06:
+        83C30FB104D3EBB448CD2173062BC08BD0EB048BD02BC05DCB55:
+          0. 0D CA35 002D 0000:_g_malloc 001F:_g_free
+        8B560883C30F83D200B90400D1EAD1DBE2FA0BD2750CB448CD21:
+          0. 1A 6A42 003A 0000:__g_malloc 002C:__g_free
+    8D46:
+      061650..........83C404:
+        5250:
+          0EE8....83C4045DCB558BEC8D46:
+            0. 03 D183 0036 0000:__getpixel_w 001B:__setpixel_w
+          ..........83C4045250:
+            0. 00 0000 0042 0000:__moveto_w 0026:__lineto_w
+        FF76165250..........83C4065DCB:
+          0. 00 0000 001F 0000:__floodfill_w
+      181650..........83C40452508D46081650EB19558BECFF760EFF:
+        0. 02 3F61 0047 0000:__rectangle_w 0019:__rectangle_wxy
+      361650..........83C40452508D46261650..........83C40452:
+        0. 06 6ADC 014E 0000:__arc_w 0037:__arc_wxy 0082:__ellipse_w 009B:__ellipse_wxy 00C9:__pie_w 0100:__pie_wxy
+    C606....008B46068B5608E8....5DCBC606....00A1....8B16....CB:
+      0. 00 0000 0020 0000:__setbkcolor 0013:__getbkcolor
+    E8....:
+      74:
+        1C8B4606:
+          3D0400770D8606....3DB0FF98E8....5DCBC606:
+            0. 00 0000 00E6 0000:__setwritemode 002B:__getwritemode 0043:__moveto_xy 0068:__getcurrentposition 007F:__lineto_xy
+          83F804770D8606....3DB0FF98E8....5DCBC606:
+            0. 00 0000 00E6 0000:__setwritemode 002B:__getwritemode 0043:__moveto 0068:__getcurrentposition 007F:__lineto_xy
+        2F8B4E06030E....8B56080316....E8....7322FF16....FF:
+          0. 01 CF85 0072 0000:__setpixel_xy 0048:__getpixel_xy
+      8B4606:
+        0A:
+          C47402B0018606....B400507413803E....00740CC6:
+            0. 01 4E95 0032 0000:__wrapon
+          E4753F3A06....77398A1E....8A26....53FF16:
+            0. 04 1B33 0063 0000:__setactivepage 0028:__setvisualpage 0055:__getactivepage 005E:__getvisualpage
+        3D0200774C3C01742E0AC0B80006751C32FF383E....75:
+          0. 03 EC0C 0061 0000:__clearscreen
+        488B4E0A493BC17E0691C606....0333DB8A1E....E8:
+          0. 00 0000 00B5 0000:__settextwindow 005E:__gettextwindow 008A:__scrolltextwindow
+        83F802776F3C0174510AC0B80006753F32FF383E....74:
+          0. 03 7A67 0084 0000:__clearscreen
+        E8....E8....5DCB33C0A2....A0....CB:
+          0. 00 0000 001A 0000:__settextcolor 0011:__gettextcolor
+      9C33C0A0....8B5E060ADF7402B3FF881E....9D750650E8:
+        0. 07 FD6E 006C 0000:__displaycursor 002B:__gettextcursor 0041:__settextcursor
+      A1....408B16....4250528B4606488B5E084BE8:
+        1A005A58E8:
+          0. 00 0000 005F 0000:__settextposition 0023:__gettextposition 0036:$_set_text_position
+        ....5A58E8:
+          0. 00 0000 005F 0000:__settextposition 0023:__gettextposition 0036:$_set_text_position
+      C606....0074678B4606:
+        3D020074053D0300755D33C0A2....A2:
+          0. 00 0000 0439 0000:__ellipse_xy 007E:__arc_xy 00EF:__pie_xy 0182:__getarcinfo
+        83F802740583F803755D33C0A2....A2:
+          0. 00 0000 0438 0000:__ellipse 007E:__arc 00EF:__pie_xy 0182:__getarcinfo
+    FF:
+      36....FF36....B3008B460699F7D8D1D28BCA8B46080BD0741A99F7:
+        0. 05 BE06 011B 0000:__setgtextvector 0040:__getgtextvector 004D:__BltChar (00F5: C3)
+        1. 05 BE06 014C 0000:__setgtextvector 0040:__getgtextvector 004D:__BltChar (00F5: 0C)
+      76:
+        08FF7606..........C45E0A268907268957028BE55DCB558BEC:
+          FF:
+            0. 05 1503 0054 0000:__f_getphyscoord 001C:__f_getviewcoord 0038:__f_setvieworg
+          ..:
+            0. 00 0000 0050 0000:__f_settextposition 001C:__f_gettextposition 0032:__f_outtext
+        28FF76268D46161650..........83C40452508D46061650EB1F55:
+          0. 0E 2578 00B7 0000:__getimage_w 001F:__getimage_wxy 0050:__imagesize_w 0069:__imagesize_wxy 0094:__putimage_w
+    ..........C45E06268907268957028BE55DCB558BECFF7608FF7606:
+      0. 00 0000 0032 0000:__f_getcurrentposition 0016:__f_moveto
+5657061E1E07:
+  81F92800750D51BF....B91700B8....F3AB59BF....0E1F8BF3:
+    0. 06 E931 0120 0000:B$InitModeData 0048:B$MapVWC 00B6:B$BumpDS 00C0:B$BumpES 00CA:B$DecDS 00D4:B$OutWord 00DB:B$ResetEGA
+  83F927750D51BF....B91700B8....F3AB59BF....0E1F8BF3FC:
+    0. 05 46F8 010E 0000:B$InitModeData 0035:B$MapVWC 00A4:B$BumpDS 00AE:B$BumpES 00B8:B$DecDS 00C2:B$OutWord 00C9:B$ResetEGA
+6400000150198002900100A0FFFFFF0000000F02:
+  0. 00 0000 07E7 012E:B$ChkVESA 0187:B$Screen10X 0333:$_VesaInitMaxColor 03D4:B$SetVesaWinChk 03DE:B$ResetVESA 040B:B$SetVesaWin 043B:B$DecPageC 0447:B$IncPageC 051B:B$DecVesaWin 0523:B$IncVesaWin 0789:B$VesaEgaScanLHelper 07B7:B$VesaEgaScanRHelper (07C5: FC)
+  1. 00 0000 0801 012E:B$ChkVESA 0187:B$Screen10X 0333:$_VesaInitMaxColor 03D4:B$SetVesaWinChk 03DE:B$ResetVESA 040B:B$SetVesaWin 0441:B$DecPageC 044D:B$IncPageC 0521:B$DecVesaWin 0529:B$IncVesaWin 07A3:B$VesaEgaScanLHelper 07D1:B$VesaEgaScanRHelper (07C5: E8)
+803E....0075:
+  2E5733C0B908001E07BF....F3AB5F8B1E....2B1E....E8:
+    0. 03 AF70 00B6 0000:B$FPGRINI 0035:B$WNDINX 0072:B$MAPPX2 007E:B$MAPPY2 00A6:B$ISWNDW
+  305733C0B908001E07BF....F3AB5F8B1E....2B1E....E8:
+    0. 01 20FB 00CC 0000:B$FPGRINI 0037:B$WNDINX 0088:B$MAPPX2 0094:B$MAPPY2 00BC:B$ISWNDW
+  345733C0B908001E07BF....F3AB5F8B1E....2B1E....E8:
+    0. 01 20FB 00EE 0000:B$FPGRINI 003B:B$WNDINX 00A4:B$MAPPX2 00B0:B$MAPPY2 00DE:B$ISWNDW
+  445733C0B908001E07BF....F3AB5F8B1E....803E....007508:
+    0. 02 DC9E 00CC 0000:B$FPGRINI 004B:B$WNDINX 0088:B$MAPPX2 0094:B$MAPPY2 00BC:B$ISWNDW
+  465733C0B908001E07BF....F3AB5F8B1E....803E....007508:
+    0. 02 DC9E 00E2 0000:B$FPGRINI 004D:B$WNDINX 009E:B$MAPPX2 00AA:B$MAPPY2 00D2:B$ISWNDW
+  4A5733C0B908001E07BF....F3AB5F8B1E....803E....007508:
+    0. 02 DC9E 0104 0000:B$FPGRINI 0051:B$WNDINX 00BA:B$MAPPX2 00C6:B$MAPPY2 00F4:B$ISWNDW
+813E........7505..........C3:
+  0. 00 0000 000E 0000:$_EnsScrSwap (REF 0002: ___aDBswpflg)
+8B:
+  1E....535287D3E8:
+    20005B891E....87D3E816005B891E....8B1E....518B:
+      0. 07 1020 0271 0000:B$BOXNOF 002B:B$LINDRW 01A7:B$CLINE2
+    ....5B891E....87D3E8....5B891E....8B1E....518B:
+      0. 02 034A 026B 0000:B$BOXNOF 002B:B$LINDRW 01A7:B$CLINE2
+  26....C606....F833C0EB:
+    278926....FF16....BE0100E8....741453E8:
+      0. 00 0000 02BF 000D:B$PAINTBEG 0170:B$ClrBgStr 0184:B$SetTileIndex 0206:B$TILAT1 (029C: 5E)
+      1. 00 0000 02C2 000D:B$PAINTBEG 0170:B$ClrBgStr 0187:B$SetTileIndex 0209:B$TILAT1 (029C: 36)
+    5AA1....A3....A3....A3....A3....A3....A1:
+      0. 00 0000 0570 000D:B$PAINTBEG 01E7:B$ClrBgStr 01FE:B$SetTileIndex 022C:B$TILAT1
+    5DA1....A3....A3....A3....A3....A3....A1:
+      0. 00 0000 0573 000D:B$PAINTBEG 01EA:B$ClrBgStr 0201:B$SetTileIndex 022F:B$TILAT1
+  DAD1E2D1E203D3:
+    8BDAD1E2D1E203D3EB168BDAD1E2D1E203D3EB0A8BDAD1E2:
+      0. 18 B8C8 0966 0000:B$EgaMapXYC_102 0012:B$EgaMapXYC_D 001C:B$EgaMapXYC 0046:B$EgaLeftC 004D:B$EgaLeftC_13 0052:B$EgaChkUpC 005D:B$EgaUpC 0066:B$EgaChkDownC 0071:B$EgaDownC 007A:B$EgaSetAttr 008A:B$EgaReadC 00BE:B$EgaReadC_F 00C9:B$EgaReadC_64K 00DA:B$EgaSetC 0106:B$EgaSetPixC 011A:B$EgaSetPixFirstC 012E:B$EgaLineX 0191:B$EgaLineY 01E1:B$EgaLineV 0220:B$EgaPutAction_64K 0223:B$EgaPutAction_F 0226:B$EgaPutAction 024C:B$EgaNReadL_F 024E:B$EgaNReadL 028E:B$EgaNWriteL_F 0293:B$EgaNWriteL 0329:B$EgaNSetC 03F0:B$EgaPaintBound 03F3:B$EgaSetColorBits 0437:B$EgaPaintBoundCom 0457:B$EgaSetTile 0479:B$EgaScanInit 049E:B$EgaPAINPX 057A:B$EgaPIXCNT 0585:B$EgaSETCMP 059D:B$EgaCHKBTR 05B7:B$EgaCHKBTL 060C:B$EgaTILRGT 06C0:B$EgaTILLFT 07AC:B$EgaScanL 0888:B$EgaScanR (092C: 07)
+      1. 18 B8C8 0974 0000:B$EgaMapXYC_102 0012:B$EgaMapXYC_D 001C:B$EgaMapXYC 0046:B$EgaLeftC 004D:B$EgaLeftC_13 0052:B$EgaChkUpC 005D:B$EgaUpC 0066:B$EgaChkDownC 0071:B$EgaDownC 007A:B$EgaSetAttr 008A:B$EgaReadC 00BE:B$EgaReadC_F 00C9:B$EgaReadC_64K 00DA:B$EgaSetC 0106:B$EgaSetPixC 011A:B$EgaSetPixFirstC 012E:B$EgaLineX 0191:B$EgaLineY 01E1:B$EgaLineV 0220:B$EgaPutAction_64K 0223:B$EgaPutAction_F 0226:B$EgaPutAction 024C:B$EgaNReadL_F 024E:B$EgaNReadL 028E:B$EgaNWriteL_F 0293:B$EgaNWriteL 032C:B$EgaNSetC 03F7:B$EgaPaintBound 03FA:B$EgaSetColorBits 043E:B$EgaPaintBoundCom 045E:B$EgaSetTile 0480:B$EgaScanInit 04A5:B$EgaPAINPX 0581:B$EgaPIXCNT 058C:B$EgaSETCMP 05A4:B$EgaCHKBTR 05BE:B$EgaCHKBTL 0613:B$EgaTILRGT 06C7:B$EgaTILLFT 07B3:B$EgaScanL 0896:B$EgaScanR (092C: E8)
+    EB0A8BDAD1E2D1E203D3D1E2D1E2D1E2D1E28BC1D1E8D1E8:
+      0. 06 0043 08BB 0000:B$EgaMapXYC_D 000A:B$EgaMapXYC 0034:B$EgaLeftC 003B:B$EgaLeftC_13 0040:B$EgaChkUpC 004B:B$EgaUpC 0054:B$EgaChkDownC 005F:B$EgaDownC 0068:B$EgaSetAttr 0078:B$EgaReadC 00AC:B$EgaReadC_F 00B7:B$EgaReadC_64K 00C8:B$EgaSetC 00F4:B$EgaSetPixC 0108:B$EgaSetPixFirstC 011C:B$EgaLineX 015B:B$EgaLineY 0184:B$EgaLineV 01A6:B$EgaPutAction_64K 01A9:B$EgaPutAction_F 01AC:B$EgaPutAction 01D2:B$EgaNReadL_F 01D4:B$EgaNReadL 0204:B$EgaNWriteL_F 0209:B$EgaNWriteL 029F:B$EgaNSetC 0338:B$EgaPaintBound_11 0346:B$EgaPaintBound_D 0355:B$EgaPaintBound 03C8:B$EgaSetTile 03EA:B$EgaScanInit 040C:B$EgaPAINPX 0516:B$EgaPIXCNT 0521:B$EgaSETCMP 0539:B$EgaCHKBTR 0553:B$EgaCHKBTL 05A1:B$EgaTILRGT 063D:B$EgaTILLFT 0756:B$EgaScanL 080C:B$EgaScanR
+9C891E....8C06....890E....8A1E....33D232FF8AE98A0E....D2E372080A:
+  0. 0E B1B3 0117 0000:B$PutGetInit 005B:B$NReadC 0094:B$NWriteC 00D3:B$PaintInit 00F6:B$TileMod 00FF:B$StoreC 010B:B$FetchC (00E0: 8B)
+  1. 0E B1B3 010F 0000:B$PutGetInit 005B:B$NReadC 0094:B$NWriteC 00D3:B$PaintInit 00F6:B$TileMod 00FF:B$StoreC 0107:B$FetchC (00E0: C3)
+A0....98CB33D28616....0AD274128816....E8:
+  220080FAFF75028AD03AD074:
+    0. 0C C104 01C3 0000:__grstatus 0005:$_SetRows 0038:$_ChkRows 0092:$_FixMaxPage 00C2:$_init_mode 0123:B$NearRet 0124:__QCGINIT 01A1:B$FarRet
+  ....80FAFF75028AD03AD074:
+    0. 0C C104 01AE 0000:__grstatus 0005:$_SetRows 0038:$_ChkRows 0096:$_FixMaxPage 00C6:$_init_mode 0127:B$NearRet 0128:__QCGINIT
+BA....EA........BA....EBF6BA....EBF1BA....EBECBA....EA:
+  0. 00 0000 001F 0000:__sin 0008:__cos 000D:__log10 0012:__log 0017:__pow
+C3E8....CB:
+  0. 00 0000 0005 0000:B$NearRetText (REF 0002: B$FPGRINI)
+C606....FD:
+  E9....558BECE8....74F08B5E068B5608E8....A1....736E508B:
+    0. 01 8709 0182 0008:__getimage_xy 00A1:__putimage_xy 0137:__imagesize_xy
+  EB7F558BECE8....74F18B5E068B5608E8....A1....736E508B1E:
+    0. 00 0000 0181 0007:__getimage 00A0:__putimage_xy 0136:__imagesize_xy
+C7FCE9E2E4E0E5E7EAEBE8EFEEECC4C5C9E6C6F4F6F2FBF9FFD6DCF8A3D87866:
+  0. 60 2B52 0080 0000:_OemToAnsiTable
+  1. 60 E868 0080 0000:_OemToAnsiTable
+D006....D006....7201C3FF0E....C3C3A1....3306....80E460750BA1:
+  0. 02 7B38 0085 0000:B$CgaLeftC2 0004:B$CgaLeftC1 0011:B$CgaChkUpC 0028:B$CgaUpC 003A:B$CgaChkDownC 0051:B$CgaDownC 0063:B$CgaPaintBound (005E: C2)
+  1. 02 7B38 008C 0000:B$CgaLeftC2 0004:B$CgaLeftC1 0011:B$CgaChkUpC 0028:B$CgaUpC 003A:B$CgaChkDownC 0051:B$CgaDownC 0063:B$CgaPaintBound (005E: A3)
+E8....CBE8....CB:
+  0. 00 0000 0008 0000:$_qcg_enter_far 0004:$_qcg_exit_far (REF 0001: $_qcg_enter)
+FF:
+  16....A1....A3....A1....A3....8B0E....8B16....E8:
+    0300E9....E853:
+      0. 08 FEEC 0131 0000:B$VWFILL 001E:B$DOBOXF 0031:B$SCNFILL 00C4:B$CLIPCK 011E:B$XDELT 0129:B$YDELT
+    ....E9....E8:
+      0. 00 0000 0131 0000:B$VWFILL 001E:B$DOBOXF 00C4:B$CLIPCK 011E:B$XDELT 0129:B$YDELT
+  FFFFFF002A00002A0000002A150000FFFFFFFF002A2A002A002A002A2A2A00:
+    0. 21 563D 03D1 0040:$_qcg_enter 0061:$_qcg_exit 0118:$_home_cursor 0121:$_text_set_cursor 0140:$_set_color 0164:$_set_bk_color 01F7:$_set_text_color 025A:$_select_palette 0305:$_limit 031D:$_update_text_cursor 033D:$_unmap_cursor 0362:$_map_cursor 03BF:$_scroll (038E: 00)
+    1. 21 563D 03D0 0040:$_qcg_enter 0061:$_qcg_exit 0118:$_home_cursor 0121:$_text_set_cursor 0140:$_set_color 0164:$_set_bk_color 01F7:$_set_text_color 025A:$_select_palette 0305:$_limit 031D:$_update_text_cursor 033D:$_unmap_cursor 0362:$_map_cursor 03BF:$_scroll (038E: C3)
+    2. 21 563D 03F7 0040:$_qcg_enter 0067:$_qcg_exit 0128:$_home_cursor 0131:$_text_set_cursor 0150:$_set_color 0174:$_set_bk_color 020E:$_set_text_color 0271:$_select_palette 031C:$_limit 0334:$_update_text_cursor 0354:$_unmap_cursor 0379:$_map_cursor 03D6:$_scroll (038E: 0A)

@@ -1,0 +1,1516 @@
+0100000001001000FFFFFFFF00000000:
+  4261645F:
+    6361737400000000:
+      0. 00 0000 001C 0000:@$xt$8Bad_cast
+    7479706569640000:
+      0. 00 0000 001C 0000:@$xt$10Bad_typeid
+  545374616E64617264416C6C6F636174:
+    0. 04 A3E2 0024 0000:@$xt$18TStandardAllocator
+04:
+  000000:
+    0300:
+      2000000000005100000030003400000000000000000000000000:
+        0. 18 23A9 0038 0000:@$xt$13TEventHandler
+      3000:
+        000000007300000040004400000000000000000000000000:
+          0. 08 771E 004C 0000:@$xt$15TStreamableBase
+        FFFFFFFF03000000:
+          38003C00000000000000000000000000:
+            0. 08 771E 0044 0000:@$xt$6TMutex (000D: 78)
+            1. 08 771E 0044 0000:@$xt$6string (000D: 67)
+            2. 08 771E 0044 0000:@$xt$4xmsg (000D: 00)
+          3C004000000000000000000000000000:
+            0. 08 771E 0048 0000:@$xt$9TMsgQueue (0010: 65)
+            1. 08 771E 0048 0000:@$xt$8TProfile (0010: 00)
+          40004400000000000000000000000000:
+            0. 08 771E 004C 0000:@$xt$14TDocument@List (0016: 74)
+            1. 08 771E 004C 0000:@$xt$11TMutex@Lock (0016: 00)
+          48004C00000000000000000000000000:
+            0. 08 771E 0054 0000:@$xt$21TApplication@TAppLock (001E: 00)
+            1. 08 771E 0054 0000:@$xt$22TApplication@TAppMutex (001E: 78)
+    10000C00........:
+      4841425F4E6F6465202A00:
+        0. 00 0000 0017 0000:@$xt$p8HAB_Node
+      54:
+        43:
+          656C4172726179202A00:
+            0. 00 0000 0018 0000:@$xt$p9TCelArray
+          68696C644D657472696373202A00:
+            0. 00 0000 001C 0000:@$xt$p13TChildMetrics
+          6F6E73747261696E74202A00:
+            0. 00 0000 001A 0000:@$xt$p11TConstraint
+        44433A3A545374617465202A00:
+          0. 00 0000 001A 0000:@$xt$p10TDC@TState
+        476164676574202A00:
+          0. 00 0000 0016 0000:@$xt$p7TGadget
+        4D:
+          656E754465736372202A00:
+            0. 00 0000 0019 0000:@$xt$p10TMenuDescr
+          73675175657565202A00:
+            0. 00 0000 0018 0000:@$xt$p9TMsgQueue
+          75746578:
+            202A00:
+              0. 00 0000 0015 0000:@$xt$p6TMutex
+            3A3A4C6F636B202A00:
+              0. 00 0000 001B 0000:@$xt$p11TMutex@Lock
+        5072696E744469616C6F673A3A544461746120:
+          0. 02 04D1 0022 0000:@$xt$p18TPrintDialog@TData
+        53:
+          6F72746564537472696E674172726179202A:
+            0. 01 78F0 0021 0000:@$xt$p18TSortedStringArray
+          747265616D61626C6542617365202A00:
+            0. 00 0000 001E 0000:@$xt$p15TStreamableBase
+        5468756E6B202A00:
+          0. 00 0000 0015 0000:@$xt$p6TThunk
+      737472696E6720:
+        28202A295B5D00:
+          0. 00 0000 001A 0000:@$xt$pa0$6string
+        2A00:
+          0. 00 0000 0015 0000:@$xt$p6string
+    20000C00........:
+      4261645F:
+        63617374202600:
+          0. 00 0000 0017 0000:@$xt$r8Bad_cast
+        747970656964202600:
+          0. 00 0000 0019 0000:@$xt$r10Bad_typeid
+      786D7367202600:
+        0. 00 0000 0013 0000:@$xt$r4xmsg
+    90000C00........:
+      54:
+        41:
+          70706C69636174696F6E:
+            202A00:
+              0. 00 0000 001B 0000:@$xt$p12TApplication
+            3A3A:
+              53747265616D:
+                0. 05 DBF6 0025 0000:@$xt$p21TApplication@Streamer
+              5458496E7661:
+                0. 10 8FEF 0030 0000:@$xt$p32TApplication@TXInvalidMainWindow
+          72656142756E646C65202A00:
+            0. 00 0000 001A 0000:@$xt$p11TAreaBundle
+        42:
+          69746D6170202A00:
+            0. 00 0000 0016 0000:@$xt$p7TBitmap
+          72757368202A00:
+            0. 00 0000 0015 0000:@$xt$p6TBrush
+          7574746F6E:
+            202A00:
+              0. 00 0000 0016 0000:@$xt$p7TButton
+            3A3A53747265616D6572202A00:
+              0. 00 0000 0020 0000:@$xt$p16TButton@Streamer
+        43:
+          6865636B426F78:
+            202A00:
+              0. 00 0000 0018 0000:@$xt$p9TCheckBox
+            3A3A53747265616D657220:
+              0. 02 04D1 0022 0000:@$xt$p18TCheckBox@Streamer
+          6F:
+            6D626F426F78:
+              202A00:
+                0. 00 0000 0018 0000:@$xt$p9TComboBox
+              3A3A53747265616D657220:
+                0. 02 04D1 0022 0000:@$xt$p18TComboBox@Streamer
+            6E74726F6C:
+              202A00:
+                0. 00 0000 0017 0000:@$xt$p8TControl
+              3A3A53747265616D6572202A:
+                0. 01 78F0 0021 0000:@$xt$p17TControl@Streamer
+        44:
+          65636F7261746564:
+            4672616D65:
+              202A00:
+                0. 00 0000 001E 0000:@$xt$p15TDecoratedFrame
+              3A3A537472:
+                0. 08 8177 0028 0000:@$xt$p24TDecoratedFrame@Streamer
+            4D44494672616D65:
+              202A:
+                0. 01 78F0 0021 0000:@$xt$p18TDecoratedMDIFrame
+              3A3A:
+                0. 0B E153 002B 0000:@$xt$p27TDecoratedMDIFrame@Streamer
+          69:
+            61:
+              6753747265616D202A00:
+                0. 00 0000 001A 0000:@$xt$p11TDiagStream
+              6C6F67:
+                202A00:
+                  0. 00 0000 0016 0000:@$xt$p7TDialog
+                3A3A53747265616D6572202A00:
+                  0. 00 0000 0020 0000:@$xt$p16TDialog@Streamer
+            62202A00:
+              0. 00 0000 0013 0000:@$xt$p4TDib
+            746865724272757368202A00:
+              0. 00 0000 001B 0000:@$xt$p12TDitherBrush
+          6F63:
+            4D616E61676572:
+              202A00:
+                0. 00 0000 001A 0000:@$xt$p11TDocManager
+              3A3A53747265616D65:
+                0. 04 9542 0024 0000:@$xt$p20TDocManager@Streamer
+            54656D706C617465202A00:
+              0. 00 0000 001B 0000:@$xt$p12TDocTemplate
+            756D656E74202A00:
+              0. 00 0000 0018 0000:@$xt$p9TDocument
+        45646974:
+          202A00:
+            0. 00 0000 0014 0000:@$xt$p5TEdit
+          3A3A53747265616D6572202A00:
+            0. 00 0000 001E 0000:@$xt$p14TEdit@Streamer
+          46696C65:
+            202A00:
+              0. 00 0000 0018 0000:@$xt$p9TEditFile
+            3A3A53747265616D657220:
+              0. 02 04D1 0022 0000:@$xt$p18TEditFile@Streamer
+          536561726368:
+            202A00:
+              0. 00 0000 001A 0000:@$xt$p11TEditSearch
+            3A3A53747265616D65:
+              0. 04 9542 0024 0000:@$xt$p20TEditSearch@Streamer
+          56696577:
+            202A00:
+              0. 00 0000 0018 0000:@$xt$p9TEditView
+            3A3A53747265616D657220:
+              0. 02 04D1 0022 0000:@$xt$p18TEditView@Streamer
+        46:
+          69:
+            6C:
+              65:
+                446F63756D656E74:
+                  202A00:
+                    0. 00 0000 001C 0000:@$xt$p13TFileDocument
+                  3A3A5374726561:
+                    0. 06 4D7C 0026 0000:@$xt$p22TFileDocument@Streamer
+                496E53747265616D202A00:
+                  0. 00 0000 001C 0000:@$xt$p13TFileInStream
+                4F:
+                  70656E4469616C6F67202A00:
+                    0. 00 0000 001E 0000:@$xt$p15TFileOpenDialog
+                  757453747265616D202A00:
+                    0. 00 0000 001D 0000:@$xt$p14TFileOutStream
+                536176654469616C6F67202A00:
+                  0. 00 0000 001E 0000:@$xt$p15TFileSaveDialog
+              74657256616C696461746F72:
+                202A00:
+                  0. 00 0000 001F 0000:@$xt$p16TFilterValidator
+                3A3A5374:
+                  0. 09 2130 0029 0000:@$xt$p25TFilterValidator@Streamer
+            6E64:
+              4469616C6F67202A00:
+                0. 00 0000 001A 0000:@$xt$p11TFindDialog
+              5265706C6163654469616C6F67202A:
+                0. 01 78F0 0021 0000:@$xt$p18TFindReplaceDialog
+          6C6F6174696E674672616D65:
+            202A00:
+              0. 00 0000 001D 0000:@$xt$p14TFloatingFrame
+            3A3A53747265:
+              0. 07 E23C 0027 0000:@$xt$p23TFloatingFrame@Streamer
+          6F:
+            6E74202A00:
+              0. 00 0000 0014 0000:@$xt$p5TFont
+            726D6174746564537461746963202A00:
+              0. 00 0000 001F 0000:@$xt$p16TFormattedStatic
+          72616D6557696E646F77:
+            202A00:
+              0. 00 0000 001B 0000:@$xt$p12TFrameWindow
+            3A3A53747265616D:
+              0. 05 DBF6 0025 0000:@$xt$p21TFrameWindow@Streamer
+        47:
+          616467657457696E646F77466F6E74202A00:
+            0. 00 0000 0020 0000:@$xt$p17TGadgetWindowFont
+          6469426173653A3A5458476469202A00:
+            0. 00 0000 001E 0000:@$xt$p14TGdiBase@TXGdi
+          726F7570426F78:
+            202A00:
+              0. 00 0000 0018 0000:@$xt$p9TGroupBox
+            3A3A53747265616D657220:
+              0. 02 04D1 0022 0000:@$xt$p18TGroupBox@Streamer
+        48536C69646572:
+          202A00:
+            0. 00 0000 0017 0000:@$xt$p8THSlider
+          3A3A53747265616D6572202A:
+            0. 01 78F0 0021 0000:@$xt$p17THSlider@Streamer
+        496E7075744469616C6F67:
+          202A00:
+            0. 00 0000 001B 0000:@$xt$p12TInputDialog
+          3A3A53747265616D:
+            0. 05 DBF6 0025 0000:@$xt$p21TInputDialog@Streamer
+        4C:
+          69:
+            6E6542756E646C65202A00:
+              0. 00 0000 001A 0000:@$xt$p11TLineBundle
+            7374:
+              426F78:
+                202A00:
+                  0. 00 0000 0017 0000:@$xt$p8TListBox
+                3A3A53747265616D6572202A:
+                  0. 01 78F0 0021 0000:@$xt$p17TListBox@Streamer
+              56696577:
+                202A00:
+                  0. 00 0000 0018 0000:@$xt$p9TListView
+                3A3A53747265616D657220:
+                  0. 02 04D1 0022 0000:@$xt$p18TListView@Streamer
+          6F6F6B757056616C696461746F72:
+            202A00:
+              0. 00 0000 001F 0000:@$xt$p16TLookupValidator
+            3A3A5374:
+              0. 09 2130 0029 0000:@$xt$p25TLookupValidator@Streamer
+        4D:
+          4449:
+            43:
+              68696C64:
+                202A00:
+                  0. 00 0000 0018 0000:@$xt$p9TMDIChild
+                3A3A53747265616D657220:
+                  0. 02 04D1 0022 0000:@$xt$p18TMDIChild@Streamer
+              6C69656E74:
+                202A00:
+                  0. 00 0000 0019 0000:@$xt$p10TMDIClient
+                3A3A53747265616D6572:
+                  0. 03 B41B 0023 0000:@$xt$p19TMDIClient@Streamer
+            4672616D65:
+              202A00:
+                0. 00 0000 0018 0000:@$xt$p9TMDIFrame
+              3A3A53747265616D657220:
+                0. 02 04D1 0022 0000:@$xt$p18TMDIFrame@Streamer
+          65:
+            6D6F72794443202A00:
+              0. 00 0000 0018 0000:@$xt$p9TMemoryDC
+            6E753A3A54584D656E75202A00:
+              0. 00 0000 001C 0000:@$xt$p12TMenu@TXMenu
+          6F64756C65:
+            202A00:
+              0. 00 0000 0016 0000:@$xt$p7TModule
+            3A3A:
+              53747265616D6572202A00:
+                0. 00 0000 0020 0000:@$xt$p16TModule@Streamer
+              5458496E76616C69644D6F:
+                0. 07 4D6A 0027 0000:@$xt$p23TModule@TXInvalidModule
+        4E756D65726963537461746963202A00:
+          0. 00 0000 001D 0000:@$xt$p14TNumericStatic
+        50:
+          585069637475726556616C696461746F72:
+            20:
+              0. 02 04D1 0022 0000:@$xt$p19TPXPictureValidator
+            3A:
+              0. 0C D40A 002C 0000:@$xt$p28TPXPictureValidator@Streamer
+          69636B4C697374202A00:
+            0. 00 0000 0018 0000:@$xt$p9TPickList
+          72696E74:
+            4443202A00:
+              0. 00 0000 0017 0000:@$xt$p8TPrintDC
+            6572:
+              202A00:
+                0. 00 0000 0017 0000:@$xt$p8TPrinter
+              3A3A53747265616D6572202A:
+                0. 01 78F0 0021 0000:@$xt$p17TPrinter@Streamer
+              41626F7274446C67202A00:
+                0. 00 0000 001F 0000:@$xt$p16TPrinterAbortDlg
+            6F7574:
+              202A00:
+                0. 00 0000 0018 0000:@$xt$p9TPrintout
+              3A3A53747265616D657220:
+                0. 02 04D1 0022 0000:@$xt$p18TPrintout@Streamer
+        52:
+          61:
+            64696F427574746F6E:
+              202A00:
+                0. 00 0000 001B 0000:@$xt$p12TRadioButton
+              3A3A53747265616D:
+                0. 05 DBF6 0025 0000:@$xt$p21TRadioButton@Streamer
+            6E676556616C696461746F72:
+              202A00:
+                0. 00 0000 001E 0000:@$xt$p15TRangeValidator
+              3A3A537472:
+                0. 08 8177 0028 0000:@$xt$p24TRangeValidator@Streamer
+          65706C6163654469616C6F67202A00:
+            0. 00 0000 001D 0000:@$xt$p14TReplaceDialog
+        53:
+          63726F6C6C:
+            426172:
+              202A00:
+                0. 00 0000 0019 0000:@$xt$p10TScrollBar
+              3A3A53747265616D6572:
+                0. 03 B41B 0023 0000:@$xt$p19TScrollBar@Streamer
+            6572:
+              202A00:
+                0. 00 0000 0018 0000:@$xt$p9TScroller
+              3A3A53747265616D657220:
+                0. 02 04D1 0022 0000:@$xt$p18TScroller@Streamer
+          74:
+            61746963:
+              202A00:
+                0. 00 0000 0016 0000:@$xt$p7TStatic
+              3A3A53747265616D6572202A00:
+                0. 00 0000 0020 0000:@$xt$p16TStatic@Streamer
+            72696E674C6F6F6B757056616C69646174:
+              0. 05 73BA 0025 0000:@$xt$p22TStringLookupValidator
+              1. 0F C825 002F 0000:@$xt$p31TStringLookupValidator@Streamer
+        54:
+          657874476164676574202A00:
+            0. 00 0000 001A 0000:@$xt$p11TTextGadget
+          696E7943617074696F6E:
+            202A00:
+              0. 00 0000 001B 0000:@$xt$p12TTinyCaption
+            3A3A53747265616D:
+              0. 05 DBF6 0025 0000:@$xt$p21TTinyCaption@Streamer
+        56:
+          536C69646572:
+            202A00:
+              0. 00 0000 0017 0000:@$xt$p8TVSlider
+            3A3A53747265616D6572202A:
+              0. 01 78F0 0021 0000:@$xt$p17TVSlider@Streamer
+          616C696461746F72:
+            202A00:
+              0. 00 0000 0019 0000:@$xt$p10TValidator
+            3A3A53747265616D6572:
+              0. 03 B41B 0023 0000:@$xt$p19TValidator@Streamer
+          696577202A00:
+            0. 00 0000 0014 0000:@$xt$p5TView
+        57696E646F77:
+          202A00:
+            0. 00 0000 0016 0000:@$xt$p7TWindow
+          3A3A:
+            53747265616D6572202A00:
+              0. 00 0000 0020 0000:@$xt$p16TWindow@Streamer
+            545857696E646F77202A00:
+              0. 00 0000 0020 0000:@$xt$p16TWindow@TXWindow
+          56696577:
+            202A00:
+              0. 00 0000 001A 0000:@$xt$p11TWindowView
+            3A3A53747265616D65:
+              0. 04 9542 0024 0000:@$xt$p20TWindowView@Streamer
+        584F:
+          75744F664D656D6F7279202A00:
+            0. 00 0000 001C 0000:@$xt$p13TXOutOfMemory
+          776C202A00:
+            0. 00 0000 0014 0000:@$xt$p5TXOwl
+      6973747265616D202A00:
+        0. 00 0000 0016 0000:@$xt$p7istream
+      6F73747265616D202A00:
+        0. 00 0000 0016 0000:@$xt$p7ostream
+    A0000C00........54584F776C202600:
+      0. 00 0000 0014 0000:@$xt$r5TXOwl
+  1000........00000000737472696E675B5D00:
+    0. 00 0000 0014 -0005:@$xt$a0$6string
+06000000030030000000000077000000:
+  3C004C00000000000000000000000000:
+    0. 08 6AB1 0054 0000:@$xt$10TValidator
+  44005400000000000000000000000000:
+    0. 08 6E2C 005C 0000:@$xt$16TLookupValidator
+080000000300:
+  2000:
+    00000000:
+      510000002C003000000000000000000000000000:
+        0. 14 74BA 0034 0000:@$xt$9TStreamer
+      5500000030004000000000000000000000000000:
+        0. 10 EDA4 0044 0000:@$xt$12TNewStreamer
+    FFFFFFFF01000000:
+      2C003000000000000000000000000000:
+        0. 14 5470 0034 0000:@$xt$8TGdiBase
+      30003400000000000000000000000000:
+        0. 18 F027 0038 0000:@$xt$13ObjectBuilder
+  3000:
+    00000000730000003C004000000000000000000000000000:
+      0. 08 771E 0048 0000:@$xt$9Type_info
+    FFFFFFFF:
+      03000000:
+        38003C00000000000000000000000000:
+          0. 08 771E 0044 0000:@$xt$5TFile
+        3C004000000000000000000000000000:
+          0. 08 771E 0048 0000:@$xt$10TClipboard
+      07000000:
+        38004800000000000000000000000000:
+          0. 08 6AB1 0050 0000:@$xt$6TBrush (000D: 68)
+          1. 08 6AB1 0050 0000:@$xt$4TPen (000D: 00)
+          2. 08 6AB1 0050 0000:@$xt$6xalloc (000D: 63)
+        3C004C00000000000000000000000000:
+          0. 08 6AB1 0054 0000:@$xt$8TPalette
+          1. 08 771E 0054 0000:@$xt$10TGdiObject
+0A:
+  000000030030000000000077000000:
+    44005400000000000000000000000000:
+      0. 08 41E7 0064 0000:@$xt$19TPXPictureValidator
+    48005800000000000000000000000000:
+      0. 08 41E7 0060 0000:@$xt$22TStringLookupValidator
+  010000030030000C0000007F00000040005000000000000000000000000000:
+    0. 08 DF31 007C 0000:@$xt$12TPrintDialog
+0C0000000300:
+  2000:
+    0000000055000000:
+      30004000000000000000000000000000:
+        0. 10 0AA4 0044 0000:@$xt$14TEdit@Streamer
+        1. 10 9200 0044 0000:@$xt$14TView@Streamer
+      34004400000000000000000000000000:
+        0. 14 0BCD 0048 0000:@$xt$16TStatic@Streamer
+        1. 14 0C4D 0048 0000:@$xt$18TEditFile@Streamer
+        2. 14 147A 0048 0000:@$xt$18TMDIChild@Streamer
+        3. 14 2D32 0048 0000:@$xt$17TControl@Streamer
+        4. 14 3AAC 0048 0000:@$xt$17TPrinter@Streamer
+        5. 14 3FD0 0048 0000:@$xt$18TMDIFrame@Streamer
+        6. 14 4337 0048 0000:@$xt$17THSlider@Streamer
+        7. 14 4ED0 0048 0000:@$xt$18TEditView@Streamer
+        8. 14 547D 0048 0000:@$xt$18TPrintout@Streamer
+        9. 14 5EE1 0048 0000:@$xt$16TDialog@Streamer
+        10. 14 6E11 0048 0000:@$xt$17TListBox@Streamer
+        11. 14 8BAD 0048 0000:@$xt$18TListView@Streamer
+        12. 14 9076 0048 0000:@$xt$18TGroupBox@Streamer
+        13. 14 9A11 0048 0000:@$xt$18TComboBox@Streamer
+        14. 14 9C4D 0048 0000:@$xt$18TDocument@Streamer
+        15. 14 A358 0048 0000:@$xt$16TButton@Streamer
+        16. 14 AEC0 0048 0000:@$xt$16TModule@Streamer
+        17. 14 C382 0048 0000:@$xt$17TVSlider@Streamer
+        18. 14 CD34 0048 0000:@$xt$16TSlider@Streamer
+        19. 14 DB56 0048 0000:@$xt$16TWindow@Streamer
+        20. 14 DBD5 0048 0000:@$xt$18TScroller@Streamer
+        21. 14 DCCD 0048 0000:@$xt$18TCheckBox@Streamer
+      38004800000000000000000000000000:
+        0. 18 08B2 004C 0000:@$xt$20TEditSearch@Streamer
+        1. 18 14E9 004C 0000:@$xt$22TFileDocument@Streamer
+        2. 18 2576 004C 0000:@$xt$19TMDIClient@Streamer
+        3. 18 3AD1 004C 0000:@$xt$19TScrollBar@Streamer
+        4. 18 44A7 004C 0000:@$xt$21TDocTemplate@Streamer
+        5. 18 56E6 004C 0000:@$xt$21TInputDialog@Streamer
+        6. 18 5B90 004C 0000:@$xt$21TApplication@Streamer
+        7. 18 608D 004C 0000:@$xt$20TWindowView@Streamer
+        8. 18 A1C0 004C 0000:@$xt$21TFrameWindow@Streamer
+        9. 18 D038 004C 0000:@$xt$21TTinyCaption@Streamer
+        10. 18 E50E 004C 0000:@$xt$21TRadioButton@Streamer
+        11. 18 EDE3 004C 0000:@$xt$20TDocManager@Streamer
+        12. 18 FFDB 004C 0000:@$xt$19TValidator@Streamer
+      3C004C00000000000000000000000000:
+        0. 1C 2890 0050 0000:@$xt$25TLookupValidator@Streamer
+        1. 1C 7177 0050 0000:@$xt$23TFloatingFrame@Streamer
+        2. 1C E32F 0050 0000:@$xt$24TDecoratedFrame@Streamer
+        3. 1C F09F 0050 0000:@$xt$24TRangeValidator@Streamer
+        4. 1C FC5D 0050 0000:@$xt$25TFilterValidator@Streamer
+      40005000000000000000000000000000:
+        0. 20 0DCE 0054 0000:@$xt$28TPXPictureValidator@Streamer
+        1. 20 EAED 0054 0000:@$xt$27TDecoratedMDIFrame@Streamer
+      44005400000000000000000000000000:
+        0. 24 CF2D 0058 0000:@$xt$31TStringLookupValidator@Streamer
+    FFFFFFFF010000002C003000000000000000000000000000:
+      0. 14 C698 0034 0000:@$xt$8HAB_Node
+  3000:
+    00000000:
+      7300000038003C00000000000000000000000000:
+        0. 08 771E 0044 0000:@$xt$5TMenu
+      770000003C004C00000000000000000000000000:
+        0. 08 6AB1 0054 0000:@$xt$10TPopupMenu (0012: 00)
+        1. 08 6AB1 0054 0000:@$xt$11TSystemMenu (0012: 75)
+    0400000077000000:
+      38004800000000000000000000000000:
+        0. 08 6AB1 0050 0000:@$xt$5TXOwl
+      40005000000000000000000000000000:
+        0. 08 6E2C 0058 0000:@$xt$14TGdiBase@TXGdi (0014: 47)
+        1. 08 6E2C 0058 0000:@$xt$12TMenu@TXMenu (0014: 75)
+        2. 08 6E2C 0058 0000:@$xt$13TXOutOfMemory (0014: 79)
+      44005400000000000000000000000000:
+        0. 08 6E2C 005C 0000:@$xt$18TPrinter@TXPrinter
+      48005800000000000000000000000000:
+        0. 08 6E2C 0060 0000:@$xt$22TValidator@TXValidator
+      4C005C00000000000000000000000000:
+        0. 08 6E2C 0064 0000:@$xt$23TModule@TXInvalidModule
+      54006400000000000000000000000000:
+        0. 08 6E2C 006C 0000:@$xt$32TApplication@TXInvalidMainWindow
+    FFFFFFFF:
+      0300000040004400000000000000000000000000:
+        0. 08 771E 004C 0000:@$xt$12TModeStrings
+      0700000038004800000000000000000000000000:
+        0. 08 6AB1 0050 0000:@$xt$7TBitmap
+        1. 08 771E 0050 0000:@$xt$7TCursor (0018: 03)
+        2. 08 771E 0050 0000:@$xt$7TRegion (0018: 01)
+0D000000030030000100000057000000:
+  58006800........05000500:
+    0. 08 6AB1 0070 0000:@$xt$42%TMVectorImp$t4TInt$t18TStandardAllocator% (002D: 00)
+    1. 08 6AB1 0070 0000:@$xt$44%TMVectorImp$t6string$t18TStandardAllocator% (002D: 3E)
+    2. 08 771E 0070 0000:@$xt$45%TVectorImpBase$t4TInt$t18TStandardAllocator%
+  5C006C00........05000500:
+    0. 08 771E 0074 0000:@$xt$47%TVectorImpBase$t6string$t18TStandardAllocator%
+  60007000........05000500:
+    0. 08 6AB1 0078 0000:@$xt$39%TMVectorImp$tul$t18TStandardAllocator%
+  64007400........05000500:
+    0. 08 771E 007C 0000:@$xt$42%TVectorImpBase$tul$t18TStandardAllocator%
+0F00000003002000FFFFFFFF0100000028002C00........0500000000000000:
+  0. 10 422B 0030 0000:@$xt$6TThunk
+100000000300:
+  2000000000005100000030003400000000000000000000000000:
+    0. 18 7D25 0038 0000:@$xt$15TCommandEnabler
+  3000:
+    040000007700000044005400000000000000000000000000:
+      0. 08 6E2C 005C 0000:@$xt$16TWindow@TXWindow
+    080000007700000034004400000000000000000000000000:
+      0. 08 771E 004C 0000:@$xt$3TDC
+    FFFFFFFF:
+      0300000038003C00000000000000000000000000:
+        0. 08 771E 0044 0000:@$xt$7TStream
+      0700000044005400000000000000000000000000:
+        0. 08 771E 005C 0000:@$xt$16TStreamableClass
+140000000300:
+  2000:
+    0000000055000000:
+      34004400000000000000000000000000:
+        0. 14 8715 0048 0000:@$xt$16TMenuItemEnabler
+      38004800000000000000000000000000:
+        0. 18 F898 004C 0000:@$xt$20TButtonGadgetEnabler
+    FFFFFFFF0100000028002C00000000000000000000000000:
+      0. 10 2735 0030 0000:@$xt$7TBundle
+  3000:
+    0800000077000000:
+      34004400000000000000000000000000:
+        0. 08 6E2C 004C 0000:@$xt$3TIC
+      3C004C00000000000000000000000000:
+        0. 08 6AB1 0054 0000:@$xt$10TCreatedDC (0011: 43)
+        1. 08 6AB1 0054 0000:@$xt$9TWindowDC (0011: 00)
+        2. 08 6E2C 0054 0000:@$xt$9TClientDC (000E: 74)
+        3. 08 6E2C 0054 0000:@$xt$10TDesktopDC (000E: 6F)
+        4. 08 6E2C 0054 0000:@$xt$9TScreenDC (000E: 6E)
+    FFFFFFFF030000004C005000000000000000000000000000:
+      0. 08 771E 0058 0000:@$xt$24TFindReplaceDialog@TData
+150000000300300001000000:
+  57000000:
+    58006800........05000500:
+      0. 08 6E2C 0070 0000:@$xt$43%TMCVectorImp$t4TInt$t18TStandardAllocator% (002E: 00)
+      1. 08 6E2C 0070 0000:@$xt$45%TMCVectorImp$t6string$t18TStandardAllocator% (002E: 3E)
+    60007000........05000500:
+      0. 08 6E2C 0078 0000:@$xt$40%TMCVectorImp$tul$t18TStandardAllocator%
+  7700000058006800........05000500:
+    0. 08 41E7 0070 0000:@$xt$45%TMSVectorImp$t6string$t18TStandardAllocator%
+18000000030030000800000077000000:
+  38004800000000000000000000000000:
+    0. 08 6E2C 0050 0000:@$xt$6TDibDC
+  3C004C00000000000000000000000000:
+    0. 08 6E2C 0054 0000:@$xt$11TMetaFileDC
+1900000003003000FFFFFFFF:
+  03000000:
+    44004800000000000000000000000000:
+      0. 08 13D6 0058 0000:@$xt$18TSortedStringArray
+    74007800000000000000000000000000:
+      0. 08 457A 0088 0000:@$xt$77%TArrayAsVectorImp$t45%TMSVectorImp$t6string$t18TStandardAllocator%$t6string%
+  07000000:
+    48005800000000000000000000000000:
+      0. 08 174B 0060 0000:@$xt$26%TSArrayAsVector$t6string%
+    5C006C00000000000000000000000000:
+      0. 08 5C48 0074 0000:@$xt$49%TMSArrayAsVector$t6string$t18TStandardAllocator%
+    74008400000000000000000000000000:
+      0. 08 58D5 008C 0000:@$xt$78%TDArrayAsVectorImp$t45%TMSVectorImp$t6string$t18TStandardAllocator%$t6string%
+1C00000003003000:
+  0000000077000000:
+    38005400000000000000000000000000:
+      0. 08 6AB1 005C 0000:@$xt$7TModule
+    3C004C00000000000000000000000000:
+      0. 08 6AB1 0054 0000:@$xt$9TPrintout
+  08000000770000003C004C00000000000000000000000000:
+    0. 08 6E2C 0054 0000:@$xt$9TMemoryDC
+1E01000003003000:
+  0C0000007F00000040005C00000000000000000000000000:
+    0. 08 DF31 0088 0000:@$xt$14TFloatingFrame
+  380000007F00000040005000000000000000000000000000:
+    0. 08 642D 0088 0000:@$xt$15TDecoratedFrame
+200000000300:
+  2000FFFFFFFF010000002C003000000000000000000000000000:
+    0. 14 C388 0034 0000:@$xt$10TMenuDescr
+  3000:
+    00000000730000003C004000000000000000000000000000:
+      0. 08 771E 0048 0000:@$xt$9TCelArray
+    08000000770000003C004C00000000000000000000000000:
+      0. 08 6E2C 0054 0000:@$xt$8TPrintDC
+    FFFFFFFF0300000048004C00000000000000000000000000:
+      0. 08 771E 0054 0000:@$xt$21TOpenSaveDialog@TData
+240000000300:
+  2000FFFFFFFF010000002C003000000000000000000000000000:
+    0. 14 8367 0034 0000:@$xt$11TConstraint
+  3000FFFFFFFF070000003C004C00000000000000000000000000:
+    0. 08 771E 0054 0000:@$xt$11TAreaBundle
+2600000003003000:
+  000000007700000044005400000000000000000000000000:
+    0. 08 6E2C 005C 0000:@$xt$16TFilterValidator
+  FFFFFFFF0700000038004800000000000000000000000000:
+    0. 08 771E 0050 0000:@$xt$4TDib
+2800000003003000:
+  00000000730000003C004000000000000000000000000000:
+    0. 08 771E 0048 0000:@$xt$9streambuf
+  080000007F00000038003C00000000000000000000000000:
+    0. 08 A794 005C 0000:@$xt$5TView
+  FFFFFFFF:
+    0300000044004800000000000000000000000000:
+      0. 08 771E 0050 0000:@$xt$18TPrintDialog@TData
+    070000003C004C00000000000000000000000000:
+      0. 08 771E 0054 0000:@$xt$11TLineBundle
+2A00000003003000FFFFFFFF0700000040005000000000000000000000000000:
+  0. 08 6AB1 0058 0000:@$xt$12TDitherBrush
+2C:
+  00000003003000:
+    000000007700000040005000000000000000000000000000:
+      0. 08 6AB1 0058 0000:@$xt$12TDocTemplate
+    0800000077000000:
+      3C004C00000000000000000000000000:
+        0. 08 6AB1 0054 0000:@$xt$8TPaintDC
+      40005000000000000000000000000000:
+        0. 08 41E7 0058 0000:@$xt$15TPrintPreviewDC
+  0100000300300000000000770000003C005800000000000000000000000000:
+    0. 08 6E2C 0068 0000:@$xt$11TDocManager
+2E00000003003000000000007700000040005000000000000000000000000000:
+  0. 08 41E7 0058 0000:@$xt$15TRangeValidator
+300000000300300000000000770000003C004C00000000000000000000000000:
+  0. 08 6AB1 0054 0000:@$xt$8TPrinter
+3201000003003000100000007F00000044006000000000000000000000000000:
+  0. 08 916D 0098 0000:@$xt$18TDecoratedMDIFrame
+340000000300300000000000770000003C004C00000000000000000000000000:
+  0. 08 6AB1 0054 0000:@$xt$11TDiagStream
+  1. 08 6E2C 005C 0000:@$xt$9TDocument
+360000000300300000000000770000003C004C00000000000000000000000000:
+  0. 08 6AB1 0054 0000:@$xt$8TFileBuf
+4000000003003000000000007300000034003800000000000000000000000000:
+  0. 08 771E 0040 0000:@$xt$3ios
+44000000030030000000000077000000:
+  3C004C00000000000000000000000000:
+    0. 08 6AB1 0054 0000:@$xt$9TScroller
+  40005000000000000000000000000000:
+    0. 08 41E7 0058 0000:@$xt$13TFileDocument
+460000000300300000000000:
+  7300000038003C00000000000000000000000000:
+    0. 08 771E 0044 0000:@$xt$7TGadget
+  7700000044005400000000000000000000000000:
+    0. 08 6AB1 005C 0000:@$xt$16TSeparatorGadget
+4800000003003000040000007F00000038003C00000000000000000000000000:
+  0. 08 A794 0050 0000:@$xt$7ostream
+4A00000003003000000000007700000040005000000000000000000000000000:
+  0. 08 6AB1 0058 0000:@$xt$14TControlGadget
+4C00000003003000040000007F00000038003C00000000000000000000000000:
+  0. 08 A794 0050 0000:@$xt$7istream
+5200000003003000FFFFFFFF07000000:
+  38004800000000000000000000000000:
+    0. 08 6AB1 0050 0000:@$xt$5TFont
+  44005400000000000000000000000000:
+    0. 08 6E2C 005C 0000:@$xt$17TGadgetWindowFont
+558BEC:
+  31C05DC2:
+    0400:
+      0. 00 0000 0009 (!)0000:?
+    0C00:
+      C804000053578B7D0C8B470C8B40088B57088B5F0C83C3:
+        0. 82 26F8 00B6 0000:@TEventHandler@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0009:@TEventHandler@Dispatch$qr24TEventHandler@TEventInfouil 003E:@TEventHandler@SearchEntries$qp31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENEzzNs 009E:@TEventHandler@RegisterWindowMessage$qpxc
+      ..:
+        0. 00 0000 0009 (!)0000:?
+  5357:
+    568B:
+      750831FFEB258B450C8B56058BDFC1E30201DA5052E8:
+        0. 00 0000 0041 0000:@%TMCVectorImp$t6string$t18TStandardAllocator%@Find$xqrx6string
+      7D08:
+        668B750C:
+          85FF:
+            0F84:
+              7B000000A1........FF0866F7C602:
+                0. 21 8C7E 0097 0000:@TMDIFrame@$bdtr$qv
+              83000000A1........FF088B570483:
+                0. 1C 54F5 009F (!)0000:?
+                1. 1C 7C2D 009F 0000:@TChooseColorDialog@$bdtr$qv
+              85000000A1........FF08FF088B57:
+                0. 1E B449 00A1 (!)0000:?
+              86000000A1........FF088B570483:
+                0. 1C F934 00A2 0000:@TPrintDialog@$bdtr$qv
+              92000000A1........FF088B570483:
+                0. 10 2C40 00AE 0000:@TFloatingFrame@$bdtr$qv
+              B2000000A1........FF088B178B52:
+                0. 14 7127 00CE 0000:@TDecoratedFrame@$bdtr$qv
+              DD000000A1........FF08FF088B57:
+                0. 18 2CF3 00F9 0000:@TDecoratedMDIFrame@$bdtr$qv
+            74:
+              4DA1........FF088B17836AFC04FF08:
+                0. 0C 6B40 0065 (!)0000:?
+                1. 0C F1F1 0065 0000:@TCheckBox@$bdtr$qv
+              4FA1........FF08FF088B17836AFC04:
+                0. 0E 103C 0067 0000:@TRadioButton@$bdtr$qv
+              61A1........FF088D978A0000006A00:
+                0. 02 4684 0079 0000:@TListView@$bdtr$qv
+              67A1........FF088B5704836AFC088B:
+                0. 09 EA50 007F 0000:@TCommonDialog@$bdtr$qv
+          A1........FF0885FF0F84A5000000B8:
+            0. 00 0000 00C8 0000:@TMDIChild@$bdtr$qv
+        8B:
+          47:
+            058B550C3B420574:
+              46FF7705E8........8B450C8B:
+                0. 07 B597 0063 0000:@%TVectorImpBase$tul$t18TStandardAllocator%@$basg$qrx42%TVectorImpBase$tul$t18TStandardAllocator%
+              5EFF7705E8........8B450C8B:
+                0. 07 B597 007B 0000:@%TVectorImpBase$t4TInt$t18TStandardAllocator%@$basg$qrx45%TVectorImpBase$t4TInt$t18TStandardAllocator%
+            0D8BD04089470D8BF28B470D3B470976178B470D6A:
+              0. 04 848A 009F 0000:@%TMSVectorImp$t6string$t18TStandardAllocator%@Add$qrx6string
+          75:
+            0C8B45108BD68BD8535257E8........A1:
+              0. 26 DCAC 0AC9 0000:@TFont@$bctr$qp4FONT11TAutoDelete 0055:@TFont@$bctr$qi 00C7:@TFont@$bctr$qpxciiiiiucucucucucucucuc 0178:@TFont@$bctr$qiiiiiucucucucucucucucpxc 0229:@TFont@$bctr$qpx10tagLOGFONT 0268:@TFont@$bctr$qrx5TFont 02CD:@TFont@$bdtr$qv 0303:@Convert$qrx10tagLOGFONTr7_FATTRS 0440:@Convert$qrx7_FATTRSr10tagLOGFONT 04FD:@TFont@Init$qrx10tagLOGFONT 05AB:@TFont@Select$qr3TDC 09C6:@TFont@GetObject$xqr10tagLOGFONT
+            1C8B451050FF750C57E8........B8........8907:
+              0. 66 0656 0343 0000:@TTextGadget@$bctr$qi20TGadget@TBorderStyle18TTextGadget@TAlignuipxc 0095:@TTextGadget@$bdtr$qv 00D1:@TTextGadget@Invalidate$qv 00F4:@TTextGadget@SetText$qpxc 0140:@TTextGadget@GetMaxCharWidth$qv 01CA:@TTextGadget@GetDesiredSize$qr5TSize 0221:@TTextGadget@Paint$qr3TDC
+        B8........8947018B450C8B4009C1E00250E8:
+          0. 07 4FBC 0077 0000:@%TVectorImpBase$t4TInt$t18TStandardAllocator%@$bctr$qrx45%TVectorImpBase$t4TInt$t18TStandardAllocator%
+          1. 30 7DD3 005F 0000:@%TVectorImpBase$tul$t18TStandardAllocator%@$bctr$qrx42%TVectorImpBase$tul$t18TStandardAllocator%
+    8B7D08:
+      66837D0C0075388D87:
+        8E00000089078D8792000000894704:
+          0. 0B 0B8F 0441 0000:@TGroupBox@$bctr$qp7TWindowipxciiiip7TModule 00CA:@TGroupBox@GetClassName$qv 00D6:@TGroupBox@$bctr$qp7TWindowip7TModule 017F:@TGroupBox@SelectionChanged$qi 01BA:@TGroupBox@Streamer@$bctr$qp15TStreamableBase 0214:@TGroupBox@$bctr$q14StreamableInit 029C:@TGroupBox@readPtr$qr8ipstreamrp9TGroupBox 02F1:@TGroupBox@readRef$qr8ipstreamr9TGroupBox 0326:@TGroupBox@writeRef$qr8opstreamrx9TGroupBox 0356:@TGroupBox@writePtr$qr8opstreampx9TGroupBox 0384:@TGroupBox@Streamer@Read$xqr8ipstreamul 03B5:@TGroupBox@Streamer@Write$xqr8opstream
+        AE00000089078D87B2000000894704:
+          0. 0B 3278 01E5 0000:@TControlBar@$bctr$qp7TWindow28TGadgetWindow@TTileDirectionp5TFontp7TModule 0192:@TControlBar@PreProcessMsg$qr7_tagMSG 019B:@TControlBar@PositionGadget$qp7TGadgett1r6TPoint
+      8B:
+        4510:
+          89078B45148947048B078B57048D5F08535250FF75:
+            0. 02 A1CD 0579 0000:@TBundle@$bctr$qul14TBundle@Bundle17TBundle@Attribute 0031:@TBundle@Select$xqul 0057:@TBundle@Restore$xqul 007F:@TAreaBundle@$bctr$qrx11tagLOGBRUSH 00EC:@TAreaBundle@$bctr$qrx7TBitmap 0112:@TAreaBundle@SetPattern$qul 0237:@TAreaBundle@$bdtr$qv 0278:@TAreaBundle@GetObject$xqr11tagLOGBRUSH 02D4:@TAreaBundle@Select$xqul 0305:@TAreaBundle@GetStockBrush$qi 0350:@TLineBundle@$bdtr$qv 038E:@TLineBundle@Select$xqul 03B7:@TLineBundle@GetObject$xqr9tagLOGPEN 03E2:@TLineBundle@GetStockPen$qi 0410:@Thab@GetHAB$qv 04BC:@Thab@ReleaseHAB$qv 051F:@TMsgQueue@$bctr$qull 0544:@TMsgQueue@$bdtr$qv
+          8B550C8BD8535257E8........A1........FF00A1:
+            0. 00 0000 0B42 0000:@TBitmap@$bctr$qul11TAutoDelete 002E:@TBitmap@$bctr$qv 0057:@TBitmap@$bctr$qrx10TClipboard 008D:@TBitmap@Init$qr19tagBITMAPINFOHEADERpvp9TMemoryDC 0224:@TBitmap@$bctr$qiiucucpv 027B:@TBitmap@$bctr$qpx9tagBITMAP 02D8:@TBitmap@$bctr$qrx3TDCiiul 0375:@TBitmap@$bctr$qrx3TDCrx4TDibul 0412:@TBitmap@$bctr$qp8INSTANCE6TResId 04AF:@TBitmap@$bctr$qrx7TBitmap 04E7:@TBitmap@$bctr$qrx13TMetaFilePictr8TPaletterx5TSize 06B5:@TBitmap@$bctr$qrx4TDibpx8TPalette 072F:@TBitmap@$bdtr$qv 07D4:@TBitmap@GetObject$xqr9tagBITMAP 0844:@TBitmap@Width$xqv 085B:@TBitmap@Height$xqv 0872:@TBitmap@Planes$xqv 0889:@TBitmap@BitsPixel$xqv 08A0:@TBitmap@ToClipboard$qr10TClipboard 08BF:@TBitmap@Create$qrx4TDibrx8TPalette 096F:@TBitmap@Create$qrx7TBitmap 0B13:@TBitmap@UpdateInfo$qr9TMemoryDC (0545: 75)
+            1. 00 0000 0566 0000:@TBrush@$bctr$qpx11TAreaBundle11TAutoDelete 002E:@TBrush@$bctr$q6TColor 00EE:@TBrush@$bctr$q6TColori 01B0:@TBrush@$bctr$qrx7TBitmap 023F:@TBrush@$bctr$qrx4TDib 02E8:@TBrush@$bctr$qpx11tagLOGBRUSH 0377:@TBrush@$bctr$qrx6TBrush 045D:@TBrush@$bctr$qi 04B0:@TBrush@GetObject$xqr11tagLOGBRUSH 04D6:@TBrush@UnrealizeObject$qv 051C:@TBrush@$bdtr$qv (0545: 00)
+            2. 00 0000 064D 0000:@TPen@$bctr$qpx11TLineBundle11TAutoDelete 002E:@TPen@$bctr$q6TColorii 0106:@TPen@$bctr$qpx9tagLOGPEN 01E9:@TPen@$bctr$qrx4TPen 02D9:@TPen@$bctr$qululrx6TBrush 045A:@TPen@$bctr$qululrx11tagLOGBRUSH 0589:@TPen@$bctr$qi 05DD:@TPen@GetObject$xqr9tagLOGPEN 0603:@TPen@$bdtr$qv (0545: E3)
+            3. 00 0000 0779 0000:@TPalette@$bctr$qp7PALETTE11TAutoDelete 002E:@TPalette@$bctr$qv 00F8:@TPalette@$bctr$qrx10TClipboard 0127:@TPalette@$bctr$qpx13tagLOGPALETTE 0181:@TPalette@$bctr$qrx8TPalette 021C:@TPalette@$bctr$qpx13tagBITMAPINFOui 0251:@TPalette@$bctr$qpx17tagBITMAPCOREINFOui 0286:@TPalette@$bctr$qrx4TDibui 02BF:@TPalette@$bctr$qpx15tagPALETTEENTRYi 0310:@TPalette@$bdtr$qv 03A6:@TPalette@Create$qpx13tagBITMAPINFOui 041B:@TPalette@Create$qpx17tagBITMAPCOREINFOui 04EB:@TPalette@ToClipboard$qr10TClipboard 0510:@TPalette@ResizePalette$qui 064C:@TPalette@AnimatePalette$quiuipx15tagPALETTEENTRY 066C:@TPalette@SetPaletteEntries$quiuipx15tagPALETTEENTRY 068C:@TPalette@GetPaletteEntries$xquiuip15tagPALETTEENTRY 06AE:@TPalette@GetNearestPaletteIndex$xq6TColor 070D:@TPalette@GetNumEntries$xqv 072C:@TPalette@GetObject$xqrus 076D:@TPalette@UnrealizeObject$qv (0545: 76)
+        470D3B470972158B470D406A005057E8........85C075:
+          0. 22 5B87 0051 0000:@%TMCVectorImp$t6string$t18TStandardAllocator%@Add$qrx6string
+          1. 2A 90BA 004A 0000:@%TMCVectorImp$t4TInt$t18TStandardAllocator%@Add$qrx4TInt
+          2. 29 9F07 0049 0000:@%TMCVectorImp$tul$t18TStandardAllocator%@Add$qrxul
+  57:
+    56:
+      837D08007F0431C0EB2ABF0100000031F6EB178BC601F88BD601FA:
+        0. 3B DBA6 0704 0000:@Sqrt$ql 003F:@MulDiv$qiii 004F:@strnewdup$qpxc 0078:@TRect@Normalize$qv 00BC:@TRect@Offset$qii 00DD:@TRect@Inflate$qii 00FE:@TRect@$brand$qrx5TRect 022F:@TRect@$bror$qrx5TRect 035D:@TDropInfo@DragQueryFile$quipcui 03B5:@TDropInfo@DragQueryFileCount$qv 03E1:@TDropInfo@DragQueryFileNameLen$qui 041A:@TDropInfo@DragQueryPoint$qr6TPoint 0441:@TDropInfo@DragFinish$qv 0461:@TResource@$bctr$qp8INSTANCE6TResIdt2 04E2:@TResource@$bdtr$qv 0575:@$blsh$qr7ostreamrx5TRect 05E9:@$blsh$qr7ostreamrx6TResId 0603:@$brsh$qr8ipstreamr5TRect 065A:@$blsh$qr8opstreamrx5TRect 06AB:@$brsh$qr8ipstreamr6TResId 06DD:@$blsh$qr8opstreamrx6TResId
+      8B:
+        7508:
+          31FFEB:
+            05C6043E004783FF207CF68BC65E5F5DC20400558B:
+              0. 40 F36A 0301 0000:@TBitSet@$bctr$qv 001E:@TBitSet@$bctr$qrx7TBitSet 0041:@TBitSet@Has$qi 0074:@TBitSet@$bcmp$xqv 00B0:@TBitSet@DisableItem$qi 00E6:@TBitSet@EnableItem$qrx7TBitSet 0107:@TBitSet@DisableItem$qrx7TBitSet 012A:@TBitSet@EnableItem$qi 015E:@TBitSet@$brand$qrx7TBitSet 0181:@$band$qrx7TBitSett1 01B2:@$bor$qrx7TBitSett1 01E4:@TBitSet@IsEmpty$qv 020C:@$beql$qrx7TBitSett1 0238:@$blsh$qr8opstreamrx7TBitSet 0251:@$brsh$qr8ipstreamr7TBitSet 026A:@TCharSet@$bctr$qv 027E:@TCharSet@$bctr$qrx8TCharSet 0295:@TCharSet@$bctr$qpxc
+            178B46058BD7C1E2028B04108B550C3B0275048BC7:
+              0. 11 77DD 0031 (!)0000:?
+          8B7D14EB248B46058BD7C1E20201D0FF7510508B450CFFD0:
+            0. 1E BA76 003E (!)0000:?
+        7D08:
+          57E8........B8........89078D470650E8........8D47:
+            0. 14 C6AA 029A 0000:@TFilterValidator@$bctr$qrx8TCharSet 0042:@TFilterValidator@IsValidInput$qpcul 0074:@TFilterValidator@IsValid$qpxc 00A6:@TFilterValidator@Error$qv 00C2:@TFilterValidator@Streamer@$bctr$qp15TStreamableBase 011C:@TFilterValidator@$bctr$q14StreamableInit 0149:@TFilterValidator@readPtr$qr8ipstreamrp16TFilterValidator 019E:@TFilterValidator@readRef$qr8ipstreamr16TFilterValidator 01BF:@TFilterValidator@writeRef$qr8opstreamrx16TFilterValidator 01DA:@TFilterValidator@writePtr$qr8opstreampx16TFilterValidator 01F3:@TFilterValidator@Streamer@Read$xqr8ipstreamul 021E:@TFilterValidator@Streamer@Write$xqr8opstream
+          668B750C:
+            85FF74:
+              31A1........FF086A0057E8........66:
+                0. 10 6CFD 0047 0000:@TControl@$bdtr$qv
+                1. 10 862B 0047 0000:@TControlBar@$bdtr$qv
+              3DA1........FF088B17836AFC:
+                086A0057:
+                  0. 01 3E9B 0053 0000:@TToolBox@$bdtr$qv
+                146A0057:
+                  0. 01 3E9B 0053 0000:@TPreviewPage@$bdtr$qv
+                186A0057:
+                  0. 01 3E9B 0053 0000:@TStatusBar@$bdtr$qv
+              3FA1........FF088B17836AFC:
+                04FF086A:
+                  0. 03 7533 0055 (!)0000:?
+                08FF086A:
+                  0. 03 7533 0055 (!)0000:?
+                1CFF086A:
+                  0. 03 7533 0055 0000:@TSlider@$bdtr$qv
+                20FF086A:
+                  0. 03 7533 0055 0000:@TGauge@$bdtr$qv
+              41A1........FF08FF088B17836AFC1CFF:
+                0. 05 A425 0057 (!)0000:?
+              45A1........FF0866F7C60200742A8B47:
+                0. 0F 4AFE 005B 0000:@TClipboardViewer@$bdtr$qv
+              4DA1........FF086A0057E8........66:
+                0. 17 24FA 0063 0000:@TPrinterAbortDlg@$bdtr$qv
+                1. 17 A72C 0063 (!)0000:?
+            A1........FF0885FF74:
+              42B8........894704B8:
+                0. 00 0000 005F 0000:@TFileStreamBase@$bdtr$qv
+              6AB8........894708B8:
+                0. 00 0000 0087 0000:@TWindowView@$bdtr$qv
+          8B750C:
+            5657E8........8B46:
+              04894704A1........FF008B:
+                0. 07 5543 0027 0000:@xalloc@$bctr$qrx6xalloc
+              08894708B8........894704:
+                0. 01 FB44 002F 0000:@TXOwl@$bctr$qrx5TXOwl (000D: 00)
+                1. 01 FB44 0039 (!)0000:? (000D: 04)
+            897E088B:
+              07BA........FF7510565250E8:
+                0. 29 80A6 4E4F 0000:@TWindow@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0026:@_ConvertY$qp7TWindowll 005E:@GetSizeParms$qp7GENERIC 0105:@TWindow@$bdtr$qv 0298:@TWindow@InitWndProc$quluiuil 0349:@TWindow@Dispatch$qr24TEventHandler@TEventInfouil 03EE:@TWindow@EvSysColorChange$qv 0448:@TWindow@DefaultProcessing$qv 06E2:@TWindow@EvCommand$quiului 0794:@TWindow@EvCommandEnable$qr15TCommandEnabler 07EE:@TWindow@DefWindowProc$quiuil 0840:@TWindow@WindowProc$quiuil 0B78:@TWindow@ReceiveThunk$quiuil 0B9F:@TWindow@ReceiveMessage$quiuil 0BC7:@TWindow@EvCreate$qr13_CREATESTRUCT 0BE9:@TWindow@EvKillFocus$qul 0C24:@TWindow@SetupWindow$qv 0CB6:@TWindow@CleanupWindow$qv 0CBD:@MoveChildren$quli 0D7F:@TWindow@EvWindowPosChange$quil 0E4A:@TWindow@EvChar$quiuiui 0E75:@TWindow@EvDeadChar$quiuiui 0EA0:@TWindow@EvKeyUp$quiuiui 0EA7:@TWindow@EvKeyDown$quiuiui 0EAE:@TWindow@EvPMSetFocus$quil 0EF9:@TWindow@EvPMMenuEnd$quil 0F54:@TWindow@EvSize$quir5TSize 1027:@TWindow@EvMove$qr6TPoint 1091:@TWindow@EvDrawItem$quir10_OWNERITEM 10D8:@TWindow@EvMeasureItem$quiui 1142:@TWindow@SetColor$qp6TBrush 116E:@TWindow@SetBkgndColor$qul 11B4:@TWindow@DispatchScroll$quiuiul 1237:@TWindow@EvHScroll$quiuiul 1297:@TWindow@EvVScroll$quiuiul 12F7:@TWindow@EvIconEraseBkgnd$qul 1309:@TWindow@EvEraseBkgnd$qul 136B:@TWindow@EvPaint$qv 150D:@TWindow@EvSetCursor$quluiui 1546:@TWindow@EvPMMouseMove$quil 15C1:@TWindow@EvControlPointer$quil 15F7:@TWindow@EvMouseActivate$quluiui 1641:@TWindow@EvButtonDown$quil 16C7:@TWindow@EvXlatePos$quil 171D:@TWindow@EvPMScroll$quil 1761:@TWindow@EvLButtonDown$quir6TPoint 182E:@TWindow@GetWindowClass$qr11tagWNDCLASS 189B:@TWindow@Register$qv 1904:@TWindow@EvClose$qv 195B:@TWindow@EvDestroy$qv 19DD:@TWindow@EvQueryEndSession$qv 1A5C:@TWindow@CmExit$qv 1AA2:@TWindow@EvChildInvalid$qul 1ABE:@TWindow@TXWindow@Msg$qp7TWindowui 1BC0:@TWindow@TXWindow@$bctr$qp7TWindowui 1C38:@TWindow@TXWindow@$bctr$qrx16TWindow@TXWindow 1C85:@TWindow@TXWindow@Unhandled$qp7TModuleui 1CEE:@TWindow@TXWindow@Clone$qv 1D4D:@TCommandEnabler@$bctr$quiul 1D75:@TCommandEnabler@Enable$qul 1D86:@TWindow@$bctr$qp7TWindowpxcp7TModule 1E27:@TWindow@$bctr$qv 1EB9:@TWindow@$bctr$qulp7TModule 1FDB:@TWindow@Init$qp7TWindowpxcp7TModule 208F:@TWindow@Init$qp7TWindowp7TModule 2177:@TWindow@FirstThat$qpqp7TWindowpv$ulpv 21BE:@TWindow@ForEach$qpqp7TWindowpv$vpv 21FA:@TWindow@FirstThat$qM7TWindowqp7TWindowpv$ulpv 225E:@TWindow@ForEach$qM7TWindowqp7TWindowpv$vpv 22B7:@TWindow@Previous$qv 22E4:@TWindow@NumChildren$qv 238B:@TWindow@Create$qv 25B8:@TWindow@PerformCreate$qi 26B0:@TWindow@CreateChildren$qv 272E:@DoEnableAutoCreate$qp7TWindowpv 2745:@TWindow@Destroy$qi 2787:@TWindow@CloseWindow$qi 27F4:@TWindow@ShutDownWindow$qp7TWindowi 285A:@TWindow@HandleMessage$quiuil 28DB:@TWindow@Paint$qr3TDCulr5TRect 28E2:@TWindow@ForwardMessage$qulul 2954:@TWindow@ForwardMessage$qul 298F:@TWindow@ChildBroadcastMessage$quiuil 29FC:@TWindow@ChildWithId$xqi 2A15:@TWindow@SetParent$qp7TWindow 2A95:@TWindow@SetDocTitle$qpxci 2AD3:@TWindow@PreProcessMsg$qr7_tagMSG 2ADC:@TWindow@IdleAction$ql 2AE5:@TWindow@HoldFocusHWnd$qulul 2B37:@TWindow@Transfer$qpv18TTransferDirection 2B87:@TWindow@TransferData$q18TTransferDirection 2BB1:@TWindow@SendMessage$quiuil 2BE6:@TWindow@Show$qi 2C0A:@TWindow@SetCaption$qpxc 2C7D:@TWindow@GetWindowTextTitle$qv 2CE8:@TWindow@GetHWndState$qv 2D91:@TWindow@SetCursor$qp7TModule6TResId 2F28:@TWindow@CanClose$qv 2F47:@TWindow@GetUpdateRgn$xqr7TRegionul 2FB7:@TWindow@MessageBox$qpxct1ui 2FDA:@TWindow@MessageBox$qui6TResIde 302E:@TWindow@GetClassName$qv 306B:@TWindow@PMWindowClass$qul 30B3:@TWindow@LoadAcceleratorTable$qv 310D:@TWindow@RemoveChild$qp7TWindow 3172:@TWindow@OrderIsI$qp7TWindowpv 318B:@TWindow@AssignZOrder$qv 31F5:@TWindow@AddChild$qp7TWindow 3244:@TWindow@IndexOf$qp7TWindow 327F:@TWindow@At$qi 32B9:@CacheFlush$qul 32EF:@TWindow@SetUniqueId$qv 3327:@TWindow@EnableUpdate$qul 3340:@TWindow@IsWindow$xqv 3363:@TWindow@SendDlgItemMessage$qiuiuil 338F:@TWindow@PostMessage$quiuil 33AE:@TWindow@GetCapture$qv 33B9:@TWindow@SetCapture$qv 33D5:@TWindow@ReleaseCapture$qv 33E2:@TWindow@GetFocus$qv 33ED:@TWindow@SetFocus$qv 3410:@TWindow@IsWindowEnabled$xqv 3425:@TWindow@EnableWindow$qul 343E:@TWindow@SetRedraw$qul 347C:@TWindow@ScreenToClient$xqr6TPoint 351C:@TWindow@MapWindowPoints$xqulp6TPointi 3591:@TWindow@GetClientRect$xqr5TRect 35B8:@TWindow@GetClientRect$xqv 3651:@TWindow@WindowFromPoint$qrx6TPoint 368C:@TWindow@ChildWindowFromPoint$xqrx6TPoint 36A7:@TWindow@ClientToScreen$xqr6TPoint 3711:@TWindow@GetWindowRect$xqr5TRect 37A4:@TWindow@GetWindowRect$xqv 3839:@TWindow@AdjustWindowRect$qr5TRectulul 38A6:@TWindow@AdjustWindowRectEx$qr5TRectululul 38BC:@TWindow@GetClassName$xqpci 38D8:@TWindow@GetClassLong$xqi 38F1:@TWindow@SetClassLong$qil 3927:@TWindow@GetClassWord$xqi 3940:@TWindow@SetClassWord$qius 397B:@TWindow@GetWindowLong$xqi 3994:@TWindow@GetSystemMetrics$qi 39A8:@TWindow@SetWindowLong$qil 39DE:@TWindow@GetWindowWord$xqi 39F7:@TWindow@SetWindowWord$qius 3A32:@TWindow@GetProp$xqul 3A66:@TWindow@RemoveProp$xqul 3AAE:@TWindow@SetProp$xqulul 3AF4:@TWindow@GetProp$xqpxc 3B32:@TWindow@RemoveProp$xqpxc 3B70:@TWindow@SetProp$xqpxcul 3BB1:@TWindow@MoveWindow$qiiiiul 3C1F:@TWindow@MoveWindow$qrx5TRectul 3C4C:@TWindow@ShowWindow$qi 3C70:@TWindow@IsWindowVisible$xqv 3C85:@TWindow@IsZoomed$xqv 3CB8:@TWindow@IsIconic$xqv 3CEB:@TWindow@GetWindowTextLength$xqv 3D00:@TWindow@GetWindowText$xqpci 3D1C:@TWindow@SetWindowText$qpxc 3D35:@TWindow@GetWindowPlacement$xqp18tagWINDOWPLACEMENT 3E2D:@TWindow@SetWindowPlacement$qpx18tagWINDOWPLACEMENT 3F29:@TWindow@BringWindowToTop$qv 3F4B:@TWindow@GetActiveWindow$qv 3F56:@TWindow@SetActiveWindow$qv 3F7E:@TWindow@GetDesktopWindow$qv 3F84:@TWindow@GetSysModalWindow$qv 3F8F:@TWindow@SetSysModalWindow$qv 3FB7:@TWindow@GetNextWindow$xqui 3FD1:@TWindow@GetWindow$xqui 3FEB:@TWindow@GetTopWindow$xqv 4003:@TWindow@SetWindowPos$qulrx5TRectui 4033:@TWindow@SetWindowPos$quliiiiui 408D:@TWindow@Invalidate$qul 40A7:@TWindow@InvalidateRect$qrx5TRectul 411F:@TWindow@InvalidateRgn$qulul 413A:@TWindow@Validate$qv 4154:@TWindow@ValidateRect$qrx5TRect 416F:@TWindow@ValidateRgn$qul 418A:@TWindow@UpdateWindow$qv 419F:@TWindow@FlashWindow$qul 41B8:@TWindow@GetUpdateRect$xqr5TRectul 420A:@TWindow@LockWindowUpdate$qv 4221:@TWindow@RedrawWindow$qp5TRectului 42F8:@TWindow@GetScrollPos$xqi 4368:@TWindow@SetScrollPos$qiiul 43E9:@TWindow@GetScrollRange$xqirit2 4462:@TWindow@SetScrollRange$qiiiul 44EB:@TWindow@EnableScrollBar$quiui 44F7:@TWindow@ShowScrollBar$qiul 458B:@TWindow@ScrollWindow$qiipx5TRectt3 45BF:@TWindow@ScrollWindowEx$qiipx5TRectt3ulp5TRectui 45F6:@TWindow@GetDlgCtrlId$xqv 4611:@TWindow@GetDlgItem$xqi 462B:@TWindow@GetDlgItemInt$xqipulul 4664:@TWindow@SetDlgItemInt$xqiuiul 4688:@TWindow@GetDlgItemText$xqipci 46A8:@TWindow@SetDlgItemText$xqipxc 46C5:@TWindow@IsDlgButtonChecked$xqi 46F1:@TWindow@GetParent$xqv 4709:@TWindow@IsChild$xqul 4721:@TWindow@GetNextDlgGroupItem$xqulul 475A:@TWindow@GetNextDlgTabItem$xqulul 4793:@TWindow@CheckDlgButton$qiui 47C5:@TWindow@CheckRadioButton$qiii 4828:@TWindow@GetMenu$xqv 4843:@TWindow@GetSystemMenu$xqul 485E:@TWindow@SetMenu$qp4MENU 48D1:@TWindow@HiliteMenuItem$qp4MENUuiui 491C:@TWindow@DrawMenuBar$qv 4940:@TWindow@KillTimer$qui 4967:@TWindow@SetTimer$quiui 4996:@TWindow@CreateCaret$qulii 4A0C:@TWindow@DestroyCaret$qv 4A21:@TWindow@GetCaretBlinkTime$qv 4A2E:@TWindow@GetCaretPos$qr6TPoint 4A65:@TWindow@HideCaret$qv 4A7D:@TWindow@SetCaretBlinkTime$qus 4A95:@TWindow@SetCaretPos$qii 4AD1:@TWindow@ShowCaret$qv 4AE9:@TWindow@SetCursorPos$q6TPoint 4B11:@TWindow@GetCursorPos$qr6TPoint 4B3C:@TWindow@SetWindowFont$qp4FONTul 4D38:@TWindow@GetWindowFont$qv 4D74:@TWindow@GetWindowTask$xqv 4D91:@TWindow@DragAcceptFiles$qul 4DA1:@TWindow@EvDragOver$quil
+              4704BA........FF7510565250E8:
+                0. 00 0000 01EA 0000:@TClipboardViewer@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0027:@TClipboardViewer@$bctr$qv 00D3:@TClipboardViewer@$bctr$qulp7TModule 017C:@TClipboardViewer@DoChangeCBChain$qulul 0188:@TClipboardViewer@DoDrawClipboard$qv 0191:@TClipboardViewer@DoDestroy$qv 019A:@TClipboardViewer@SetupWindow$qv 01C1:@TClipboardViewer@EvChangeCBChain$qulul 01C8:@TClipboardViewer@EvDrawClipboard$qv 01D9:@TClipboardViewer@EvDestroy$qv (01C9: 00)
+                1. 00 0000 1694 0000:@TTinyCaption@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0027:@TTinyCaption@$bctr$qv 00DA:@TTinyCaption@$bdtr$qv 019B:@TTinyCaption@EnableTinyCaption$qiul 0300:@TTinyCaption@SetupWindow$qv 03C3:@SubclassTitleBarProc$qululpvt3 047D:@SubclassMinMaxProc$qululpvt3 0561:@SubclassSysMenuProc$qululpvt3 0699:@TTinyCaption@PaintButton$qr3TDCr5TRectul 088B:@TTinyCaption@PaintCloseBox$qr3TDCr5TRectul 09A3:@TTinyCaption@PaintSysBox$qr3TDCr5TRectul 0B19:@TTinyCaption@PaintMinBox$qr3TDCr5TRectul 0BE0:@TTinyCaption@PaintMaxBox$qr3TDCr5TRectul 0D80:@TTinyCaption@PaintControl$quiul 0F11:@TTinyCaption@PaintCaption$qul 11A5:@TTinyCaption@GetCaptionRect$qv 127D:@TTinyCaption@GetSysBoxRect$qv 12A9:@TTinyCaption@GetMinMaxRect$qv 1314:@TTinyCaption@GetMinBoxRect$qv 1340:@TTinyCaption@GetMaxBoxRect$qv 138A:@TTinyCaption@Streamer@$bctr$qp15TStreamableBase 13E4:@TTinyCaption@$bctr$q14StreamableInit 1489:@TTinyCaption@readPtr$qr8ipstreamrp12TTinyCaption 14DE:@TTinyCaption@readRef$qr8ipstreamr12TTinyCaption 1513:@TTinyCaption@writeRef$qr8opstreamrx12TTinyCaption 1543:@TTinyCaption@writePtr$qr8opstreampx12TTinyCaption 1571:@TTinyCaption@Streamer@Read$xqr8ipstreamul 15D1:@TTinyCaption@Streamer@Write$xqr8opstream (01C9: 01)
+            8B46388B5510525057E8........B8........8907:
+              0. 04 3B82 025F 0000:@TControlGadget@$bctr$qr7TWindow20TGadget@TBorderStyle 0032:@TControlGadget@$bdtr$qv 00C6:@TControlGadget@SetBounds$qr5TRect 011E:@TControlGadget@GetDesiredSize$qr5TSize 0155:@TControlGadget@Inserted$qv 01BC:@TControlGadget@Removed$qv 01E0:@TControlGadget@InvalidateRect$qrx5TRectul 0205:@TControlGadget@Invalidate$qul 0241:@TControlGadget@Update$qv
+    668B7D086683FF01740C6683FF0474066683FF0875100FB7C78BC8B8:
+      0. 63 3D2F 0614 0000:@NColors$qus 003C:@NBits$ql 0074:@TColor@GetSysColor$qi 0095:@TColor@SetSysColors$quixpxixpx6TColor
+    8B7D:
+      08:
+        57E8........B8........8907:
+          A1........FF008BC75F5DC2:
+            0. 37 CBC2 0B57 0000:@TLookupValidator@$bctr$qv 0022:@TLookupValidator@IsValid$qpxc 0040:@TLookupValidator@Lookup$qpxc 004C:@TSortedStringArray@$bctr$qiii 0129:@TSortedStringArray@LowerBound$xqv 0135:@TSortedStringArray@UpperBound$xqv 0161:@TSortedStringArray@ArraySize$xqv 016E:@TSortedStringArray@IsFull$xqv 01BD:@TSortedStringArray@IsEmpty$xqv 01E4:@TSortedStringArray@GetItemsInContainer$xqv 0203:@TSortedStringArray@Add$qrx6string 021A:@TSortedStringArray@Detach$qrx6string 024E:@TSortedStringArray@Detach$qi 0269:@TSortedStringArray@Destroy$qrx6string 027B:@TSortedStringArray@Destroy$qi 028D:@TSortedStringArray@HasMember$xqrx6string 02BB:@TSortedStringArray@Find$xqrx6string 02FC:@TSortedStringArray@$bsubs$qi 036E:@TSortedStringArray@$bsubs$xqi 0389:@TSortedStringArray@ForEach$qpqr6stringpv$vpv 03E3:@TSortedStringArray@FirstThat$xqpqrx6stringpv$ipv 0454:@TSortedStringArray@LastThat$xqpqrx6stringpv$ipv 04C5:@TSortedStringArray@Flush$qv 04D6:@TStringLookupValidator@$bctr$qp18TSortedStringArray 056B:@TStringLookupValidator@$bdtr$qv 061D:@TStringLookupValidator@Error$qv 0639:@TStringLookupValidator@Lookup$qpxc 06A3:@TStringLookupValidator@NewStringList$qp18TSortedStringArray 0728:@TLookupValidator@Streamer@$bctr$qp15TStreamableBase 0782:@TLookupValidator@$bctr$q14StreamableInit 07A6:@TLookupValidator@readPtr$qr8ipstreamrp16TLookupValidator 07FB:@TLookupValidator@readRef$qr8ipstreamr16TLookupValidator 081C:@TLookupValidator@writeRef$qr8opstreamrx16TLookupValidator 0837:@TLookupValidator@writePtr$qr8opstreampx16TLookupValidator 0850:@TLookupValidator@Streamer@Read$xqr8ipstreamul 086B:@TLookupValidator@Streamer@Write$xqr8opstream 0881:@TStringLookupValidator@Streamer@$bctr$qp15TStreamableBase 08DB:@TStringLookupValidator@$bctr$q14StreamableInit 08FF:@TStringLookupValidator@readPtr$qr8ipstreamrp22TStringLookupValidator 0954:@TStringLookupValidator@readRef$qr8ipstreamr22TStringLookupValidator 0975:@TStringLookupValidator@writeRef$qr8opstreamrx22TStringLookupValidator 0990:@TStringLookupValidator@writePtr$qr8opstreampx22TStringLookupValidator 09A9:@TStringLookupValidator@Streamer@Read$xqr8ipstreamul 0A76:@TStringLookupValidator@Streamer@Write$xqr8opstream
+          FF750CE8........89472C57:
+            0. 01 3E9B 0322 0000:@TDiagStream@$bctr$qpc 0036:@TDiagStream@$bdtr$qv 0084:@TDiagStream@do_sputn$qpxci 010C:@GetDiagEnabled$qpct1uc 0292:@GetDiagLevel$qpct1uc
+        6A:
+          006A026A086A0857E8........C7472600000000B8:
+            0. 00 0000 1B87 0000:@TDitherBrush@$bctr$qv 0040:@TDitherBrush@$bdtr$qv 00A6:@TDitherBrush@Reconstruct$qv 0162:@TButtonGadgetEnabler@Enable$qul 0190:@TButtonGadgetEnabler@SetText$qpxc 0197:@TButtonGadgetEnabler@SetCheck$qi 01AD:@TButtonGadget@$bctr$q6TResIdi19TButtonGadget@TTypeul20TButtonGadget@TStateul 028A:@TButtonGadget@$bdtr$qv 0306:@TButtonGadget@SetShadowStyle$q26TButtonGadget@TShadowStyle 03F6:@TButtonGadget@CommandEnable$qv 0447:@TButtonGadget@SysColorChange$qv 046D:@TButtonGadget@CheckExclusively$qv 054C:@TButtonGadget@SetButtonState$q20TButtonGadget@TState 05A5:@TButtonGadget@SetBounds$qr5TRect 061B:@TButtonGadget@GetDesiredSize$qr5TSize 066A:@Subtract$qr5TRectt1p5TRect 09F2:@TButtonGadget@GetGlyphDib$qv 0A78:@TButtonGadget@ReleaseGlyphDib$qp4TDib 0A90:@TButtonGadget@BuildCelArray$qv 112C:@TButtonGadget@Paint$qr3TDC 18AE:@TButtonGadget@Invalidate$qv 191D:@TButtonGadget@BeginPressed$qr6TPoint 1962:@TButtonGadget@CancelPressed$qr6TPoint 19A1:@TButtonGadget@Activate$qr6TPoint 1A54:@TButtonGadget@LButtonDown$quir6TPoint 1A7F:@TButtonGadget@MouseMove$quir6TPoint 1AE6:@TButtonGadget@MouseEnter$quir6TPoint 1B1B:@TButtonGadget@MouseLeave$quir6TPoint 1B4F:@TButtonGadget@LButtonUp$quir6TPoint
+          0A6A006A0A57E8:
+            090300008D47196A0A6A006A0A50E8B50B:
+              0. 12 C460 21C6 0000:@TListBoxData@$bctr$qv 003F:@TListBoxData@$bdtr$qv 0105:@TListBoxData@AddString$qpxcul 0160:@TListBoxData@AddStringItem$qpxculul 0185:@TListBoxData@Select$qi 01B1:@TListBoxData@SelectString$qpxc 01F5:@TListBoxData@GetSelStringLength$xqi 0235:@TListBoxData@GetSelString$xqpcii 0296:@TListBoxData@GetSelString$xqr6stringi 031C:@TStringArray@$bctr$qiii 03EC:@TStringArray@LowerBound$xqv 03F8:@TStringArray@UpperBound$xqv 0424:@TStringArray@ArraySize$xqv 0431:@TStringArray@IsFull$xqv 0480:@TStringArray@IsEmpty$xqv 04A7:@TStringArray@GetItemsInContainer$xqv 04C6:@TStringArray@Add$qrx6string 04DD:@TStringArray@Detach$qrx6string 0511:@TStringArray@Detach$qi 052C:@TStringArray@Destroy$qrx6string 053E:@TStringArray@Destroy$qi 0550:@TStringArray@HasMember$xqrx6string 057E:@TStringArray@Find$xqrx6string 05BF:@TStringArray@$bsubs$qi 0631:@TStringArray@$bsubs$xqi 064C:@TStringArray@ForEach$qpqr6stringpv$vpv 06A6:@TStringArray@FirstThat$xqpqrx6stringpv$ipv 0717:@TStringArray@LastThat$xqpqrx6stringpv$ipv 0788:@TStringArray@Flush$qv 0799:@TIntArray@$bctr$qiii 082A:@TIntArray@LowerBound$xqv 0836:@TIntArray@UpperBound$xqv 0862:@TIntArray@ArraySize$xqv 086F:@TIntArray@IsFull$xqv 08BE:@TIntArray@IsEmpty$xqv 08E5:@TIntArray@GetItemsInContainer$xqv 0904:@TIntArray@Add$qrx4TInt 091B:@TIntArray@Detach$qrx4TInt 094F:@TIntArray@Detach$qi 096A:@TIntArray@Destroy$qrx4TInt 097C:@TIntArray@Destroy$qi 098E:@TIntArray@HasMember$xqrx4TInt 09BC:@TIntArray@Find$xqrx4TInt 09FD:@TIntArray@$bsubs$qi 0A6F:@TIntArray@$bsubs$xqi 0A8A:@TIntArray@ForEach$qpqr4TIntpv$vpv 0AE4:@TIntArray@FirstThat$xqpqrx4TIntpv$ipv 0B55:@TIntArray@LastThat$xqpqrx4TIntpv$ipv 0BC6:@TIntArray@Flush$qv 0BD7:@TDwordArray@$bctr$qiii 0C5C:@TDwordArray@LowerBound$xqv 0C68:@TDwordArray@UpperBound$xqv 0C94:@TDwordArray@ArraySize$xqv 0CA1:@TDwordArray@IsFull$xqv 0CF0:@TDwordArray@IsEmpty$xqv 0D17:@TDwordArray@GetItemsInContainer$xqv 0D36:@TDwordArray@Add$qrxul 0D4D:@TDwordArray@Detach$qrxul 0D81:@TDwordArray@Detach$qi 0D9C:@TDwordArray@Destroy$qrxul 0DAE:@TDwordArray@Destroy$qi 0DC0:@TDwordArray@HasMember$xqrxul 0DEE:@TDwordArray@Find$xqrxul 0E2F:@TDwordArray@$bsubs$qi 0EA1:@TDwordArray@$bsubs$xqi 0EBC:@TDwordArray@ForEach$qpqrulpv$vpv 0F16:@TDwordArray@FirstThat$xqpqrxulpv$ipv 0F87:@TDwordArray@LastThat$xqpqrxulpv$ipv 0FF8:@TDwordArray@Flush$qv 1009:@TListBox@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 1057:@TListBox@$bctr$qp7TWindowiiiiip7TModule 1115:@TListBox@$bctr$qp7TWindowip7TModule 11B7:@TListBox@EvHScroll$quiuiul 11C6:@TListBox@EvVScroll$quiuiul 11D5:@TListBox@GetClassName$qv 11E1:@TListBox@Transfer$qpv18TTransferDirection 148B:@TListBox@GetCount$xqv 14B1:@TListBox@FindString$xqpxci 14E4:@TListBox@FindExactString$xqpxci 1517:@TListBox@GetTopIndex$xqv 153D:@TListBox@SetTopIndex$qi 1564:@TListBox@SetTabStops$qipi 1570:@TListBox@GetHorizontalExtent$xqv 1579:@TListBox@SetHorizontalExtent$qi 1580:@TListBox@SetColumnWidth$qi 1587:@TListBox@GetCaretIndex$xqv 1593:@TListBox@SetCaretIndex$qiul 159C:@TListBox@GetItemRect$xqir5TRect 15A5:@TListBox@GetStringLen$xqi 15CD:@TListBox@GetString$xqpci 1630:@TListBox@GetItemData$xqi 1657:@TListBox@SetItemData$qiul 1682:@TListBox@GetItemHeight$xqi 1692:@TListBox@SetItemHeight$qii 16C3:@TListBox@ClearList$qv 16E8:@TListBox@DirectoryList$quipxc 18D6:@TListBox@AddString$qpxc 1914:@TListBox@InsertString$qpxci 193D:@TListBox@DeleteString$qi 1965:@TListBox@GetSelString$xqpci 1A08:@TListBox@GetSelCount$xqv 1A8E:@TListBox@GetSelStrings$xqppcii 1BBA:@TListBox@SetSelString$qpxci 1C0C:@TListBox@SetSelStrings$qppxciul 1C9C:@TListBox@GetSelIndex$xqv 1CDC:@TListBox@GetSelIndexes$xqpii 1D39:@TListBox@GetSel$xqi 1D72:@TListBox@SetSelIndex$qi 1DB3:@TListBox@SetSelIndexes$qpiiul 1EA7:@TListBox@SetSel$qiul 1F52:@TListBox@SetSelItemRange$qulii 1F77:@TListBox@Streamer@$bctr$qp15TStreamableBase 1FD1:@TListBox@$bctr$q14StreamableInit 2059:@TListBox@readPtr$qr8ipstreamrp8TListBox 20AE:@TListBox@readRef$qr8ipstreamr8TListBox 20E3:@TListBox@writeRef$qr8opstreamrx8TListBox 2113:@TListBox@writePtr$qr8opstreampx8TListBox 2141:@TListBox@Streamer@Read$xqr8ipstreamul 215C:@TListBox@Streamer@Write$xqr8opstream
+            ........8D47196A0A6A006A0A50E8:
+              0. 00 0000 0C00 0000:@TComboBoxData@$bctr$qv 0040:@TComboBoxData@$bdtr$qv 00E8:@TComboBoxData@AddString$qpxcul 0143:@TComboBoxData@AddStringItem$qpxculul 0168:@TComboBoxData@Select$qi 01A5:@TComboBoxData@SelectString$qpxc 027C:@TComboBoxData@GetSelStringLength$xqv 028C:@TComboBoxData@GetSelString$xqpci 02BA:@TComboBox@$bctr$qp7TWindowiiiiiuluip7TModule 036F:@TComboBox@$bctr$qp7TWindowiuip7TModule 040D:@TComboBox@GetTextLen$xqv 041C:@TComboBox@ShowList$qv 042D:@TComboBox@HideList$qv 043E:@TComboBox@SetText$qpxc 0488:@TComboBox@GetEditSel$qrit1 04C5:@TComboBox@ShowList$qul 0501:@TComboBox@Clear$qv 0512:@TComboBox@GetText$xqpci 0527:@TComboBox@SetEditSel$qii 0560:@TComboBox@GetDroppedControlRect$xqr5TRect 0587:@TComboBox@GetDroppedState$xqv 05AC:@TComboBox@GetExtendedUI$xqv 05B5:@TComboBox@SetExtendedUI$qul 05BF:@TComboBox@GetSelIndex$xqv 05E5:@TComboBox@SetSelIndex$qi 0623:@TComboBox@SetSelString$qpxci 0692:@TComboBox@Transfer$qpv18TTransferDirection 0937:@TComboBox@GetClassName$qv 0943:@TComboBox@SetupWindow$qv 097E:@TComboBox@Streamer@$bctr$qp15TStreamableBase 09D8:@TComboBox@$bctr$q14StreamableInit 0A60:@TComboBox@readPtr$qr8ipstreamrp9TComboBox 0AB5:@TComboBox@readRef$qr8ipstreamr9TComboBox 0AEA:@TComboBox@writeRef$qr8opstreamrx9TComboBox 0B1A:@TComboBox@writePtr$qr8opstreampx9TComboBox 0B48:@TComboBox@Streamer@Read$xqr8ipstreamul 0B7F:@TComboBox@Streamer@Write$xqr8opstream
+        85FF74:
+          1DA1........FF086A0057E8........66F7450C0100:
+            0. 04 17F7 002D 0000:@TScreenDC@$bdtr$qv (REF 0016: @TWindowDC@$bdtr$qv)
+            1. 04 17F7 002D 0000:@xalloc@$bdtr$qv (REF 0016: @xmsg@$bdtr$qv)
+            2. 04 17F7 002D 0000:@TPrintDC@$bdtr$qv (REF 0016: @TCreatedDC@$bdtr$qv)
+            3. 04 17F7 002D 0000:@TGadgetWindowFont@$bdtr$qv (REF 0016: @TFont@$bdtr$qv)
+          1FA1........FF08FF086A0057E8........66F7450C:
+            0. 06 6DF8 002F (!)0000:? (REF 0018: @xmsg@$bdtr$qv)
+            1. 06 6DF8 002F 0000:@TRangeValidator@$bdtr$qv (REF 0018: @TValidator@$bdtr$qv)
+          28A1........FF088D57066A0252E8........6A0057:
+            0. 01 3E9B 0038 0000:@TPXPictureValidator@$bdtr$qv
+          29A1........FF08FF08BA........895701FF7705E8:
+            0. 00 0000 0039 (!)0000:?
+          2BA1........FF08FF08FF08BA........895701FF77:
+            0. 02 B91A 003B (!)0000:?
+        8B45:
+          0C8907:
+            837D10010F94C00FB6C08947048BC75F5DC20C00:
+              0. 06 29C5 02A4 0000:@TGdiBase@$bctr$qul11TAutoDelete 0020:@TGdiBase@CheckValid$qului 007D:@TGdiBase@TXGdi@Msg$quiul 0146:@TGdiBase@TXGdi@$bctr$quiul 01B8:@TGdiBase@TXGdi@Clone$qv 0236:@TGdiBase@TXGdi@Throw$qv
+            C7470400000000:
+              8B45108947108B471050E8:
+                0. 00 0000 093E 0000:@TFindReplaceDialog@TData@$bctr$quli 004B:@TFindReplaceDialog@TData@$bdtr$qv 0080:@TFindReplaceDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 00CF:@TFindReplaceDialog@$bctr$qp7TWindowr24TFindReplaceDialog@TData6TResIdpxcp7TModule 01CA:@TFindReplaceDialog@UpdateData$ql 01D1:@TFindReplaceDialog@EvInitDialog$qul 055C:@TFindReplaceDialog@EvCommand$quiului 06D3:@TFindDialog@$bctr$qp7TWindowr24TFindReplaceDialog@TData6TResIdpxcp7TModule 079E:@TFindDialog@DoCreate$qv 07AD:@TReplaceDialog@$bctr$qp7TWindowr24TFindReplaceDialog@TData6TResIdpxcp7TModule 0878:@TReplaceDialog@DoCreate$qv 0887:@TFindReplaceDialog@TData@Read$qr8ipstream 08ED:@TFindReplaceDialog@TData@Write$qr8opstream
+              C7470800000000C7470C000000:
+                0. 20 DDF7 0EBA 0000:@TOpenSaveDialog@TData@$bctr$qulpxcpct3t3 0064:@TOpenSaveDialog@TData@$bdtr$qv 0099:@TOpenSaveDialog@TData@SetFilter$qpxc 0107:@TOpenSaveDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0156:@TOpenSaveDialog@$bctr$qp7TWindowr21TOpenSaveDialog@TData6TResIdpxcp7TModule 023F:@TOpenSaveDialog@GetFileTitleLen$qpxc 0252:@TOpenSaveDialog@GetFileTitle$qpxcpci 03AD:@TOpenSaveDialog@GetExt$qv 0420:@TOpenSaveDialog@compareExt$qpc 047A:@TOpenSaveDialog@LoadFilters$qv 04F2:@TOpenSaveDialog@EvInitDialog$qul 0643:@TOpenSaveDialog@$bdtr$qv 0753:@TOpenSaveDialog@DefWindowProc$quiuil 0A99:@TOpenSaveDialog@DoExecute$qv 0C57:@TFileOpenDialog@$bctr$qp7TWindowr21TOpenSaveDialog@TData6TResIdpxcp7TModule 0D20:@TFileSaveDialog@$bctr$qp7TWindowr21TOpenSaveDialog@TData6TResIdpxcp7TModule 0DE9:@TOpenSaveDialog@TData@Read$qr8ipstream 0E58:@TOpenSaveDialog@TData@Write$qr8opstream
+          1050FF750C57E8........:
+            A1........FF008BC75F5DC2:
+              0. 0C D13F 02CC 0000:@TIcon@$bctr$qp4ICON11TAutoDelete 0022:@TIcon@$bctr$qp8INSTANCErx5TIcon 00C7:@TIcon@$bctr$qp8INSTANCE6TResId 012A:@TIcon@$bctr$qp8INSTANCEpxci 016F:@TIcon@$bctr$qp8INSTANCErx5TSizeucucpxvt5 023D:@TIcon@$bdtr$qv
+            C74708:
+              00000000A1:
+                0. 13 5FCE 0362 0000:@TCursor@$bctr$qp6CURSOR11TAutoDelete 0029:@TCursor@$bctr$qp8INSTANCErx7TCursor 00D5:@TCursor@$bctr$qp8INSTANCE6TResId 0140:@TCursor@$bctr$qp8INSTANCErx6TPointrx5TSizepvt4 0214:@TCursor@Select$qv 0293:@TCursor@Restore$qv 02B3:@TCursor@$bdtr$qv 0348:@TCursor@Show$qv 0355:@TCursor@Hide$qv
+              04000000C7470C0000:
+                0. 0A 48A7 0436 0000:@TMetaFilePict@$bctr$qp8METAFILE11TAutoDelete 0037:@TMetaFilePict@$bctr$qpxc 008E:@TMetaFilePict@$bctr$qrx10TClipboard 00EE:@TMetaFilePict@$bctr$quipv 0175:@TMetaFilePict@$bctr$qrx13TMetaFilePictpxc 0256:@TMetaFilePict@$bdtr$qv 0292:@TMetaFilePict@GetMetaFileBitsEx$quipv 02B0:@TMetaFilePict@CalcPlaySize$xqr3TDCrx5TSize 03D6:@TMetaFilePict@PlayOnto$xqr3TDCrx5TSize 0417:@TMetaFilePict@ToClipboard$qr10TClipboarduirx5TSize
+          1450FF751057E8........B8........89078B450C8947:
+            0. 23 874B 0361 0000:@TBitmapGadget@$bctr$q6TResIdi20TGadget@TBorderStyleii 0050:@TBitmapGadget@$bdtr$qv 00CC:@TBitmapGadget@SysColorChange$qv 01B0:@TBitmapGadget@SetBounds$qr5TRect 0226:@TBitmapGadget@GetDesiredSize$qr5TSize 0275:@TBitmapGadget@SelectImage$qiul 02AC:@TBitmapGadget@Paint$qr3TDC
+        A1........FF0885FF74:
+          0E66F7450C0100740657E8:
+            0. 05 92FF 0025 0000:@TGdiObject@$bdtr$qv
+          1457E8........66F7450C01007406:
+            0. 02 FEFA 002B 0000:@TDocument@List@$bdtr$qv (0008: 00)
+          18FF37E8........83C40466F7450C:
+            0. 06 6DF8 002F 0000:@TMutex@$bdtr$qv
+          1A8B07FF30E8........83C40466F7:
+            0. 08 9BCF 0031 0000:@TMutex@Lock@$bdtr$qv
+          1DB8........89076A0057E8:
+            0. 00 0000 0034 0000:@TFileDocument@$bdtr$qv (REF 001D: @TDocument@$bdtr$qv)
+            1. 00 0000 0034 0000:@TFileBuf@$bdtr$qv (REF 001D: @streambuf@$bdtr$qv)
+          1E:
+            B8........8947046A0057E8:
+              0. 00 0000 0035 0000:@TXOwl@$bdtr$qv
+            FF7704E8........FF7708E8:
+              0. 00 0000 0035 0000:@TModeStrings@$bdtr$qv
+          20B8........894701FF7705E8:
+            0. 00 0000 0037 (!)0000:?
+          2385FF7411A1........FF08FF37E8:
+            0. 00 0000 003A 0000:@TApplication@TAppMutex@$bdtr$qv
+          2585FF7413A1........FF088B17FF:
+            0. 02 13E1 003C 0000:@TApplication@TAppLock@$bdtr$qv
+          29833FFF0F9FC00FB6C085C0740E8B:
+            0. 09 A8E0 0040 0000:@TFile@$bdtr$qv
+        B8........8907:
+          68........6A02E8........83C408894704:
+            0. 12 5F7A 0C53 0000:@TMenu@$bctr$q11TAutoDelete 003F:@TMenu@$bctr$qul11TAutoDelete 007F:@TMenu@$bctr$qp4MENU11TAutoDelete 00B2:@TMenu@$bctr$qp8INSTANCE6TResId 00F3:@TMenu@$bdtr$qv 0139:@TMenu@CheckValid$qui 0195:@TMenu@MeasureItem$qr20tagMEASUREITEMSTRUCT 019C:@TMenu@DrawItem$qr17tagDRAWITEMSTRUCT 01A3:@TSystemMenu@$bctr$qulul 01D8:@TPopupMenu@$bctr$q11TAutoDelete 01FE:@TPopupMenu@$bctr$qp4MENU11TAutoDelete 0227:@TMenu@TXMenu@$bctr$qui 0253:@TMenu@TXMenu@Clone$qv 02D1:@TMenu@TXMenu@Throw$qv 033F:@TMenu@AppendMenu$quiuipxc 035F:@TMenu@AppendMenu$quiuirx7TBitmap 037F:@TMenu@InsertMenu$quiuiuipxc 0450:@TMenu@InsertMenu$quiuiuirx7TBitmap 0521:@TMenu@ModifyMenu$quiuiuipxc 0622:@TMenu@ModifyMenu$quiuiuirx7TBitmap 06F1:@TMenu@RemoveMenu$quiui 075D:@TMenu@SetMenuItemBitmaps$quiuipx7TBitmapt3 07E1:@TMenu@GetMenuCheckMarkDimensions$qr5TSize 0817:@TPopupMenu@TrackPopupMenu$quiiiulp5TRect 0858:@TMenu@GetSubMenu$xqi 08AF:@TMenu@CheckMenuItem$quiui 099C:@TMenu@DeleteMenu$quiui 0A08:@TMenu@EnableMenuItem$quiui 0AF5:@TMenu@GetMenuItemCount$xqv 0B14:@TMenu@GetMenuItemID$xqi 0B34:@TMenu@GetMenuState$xquiui 0BE4:@TMenu@GetMenuString$xquipciui
+          A1........FF00BA........8917:
+            66C74704:
+              0. 03 4F72 030A 0000:@TValidator@$bctr$qv 0030:@TValidator@$bdtr$qv 0064:@TValidator@MessageBox$q6TResIde 00F6:@TValidator@Error$qv 00FD:@TValidator@IsValidInput$qpcul 0109:@TValidator@IsValid$qpxc 0115:@TValidator@Transfer$qpcpv18TTransferDirection 011E:@TValidator@TXValidator@$bctr$qui 014A:@TValidator@Streamer@$bctr$qp15TStreamableBase 01A4:@TValidator@$bctr$q14StreamableInit 01C9:@TValidator@readPtr$qr8ipstreamrp10TValidator 021E:@TValidator@readRef$qr8ipstreamr10TValidator 023F:@TValidator@writeRef$qr8opstreamrx10TValidator 025A:@TValidator@writePtr$qr8opstreampx10TValidator 0273:@TValidator@Streamer@Read$xqr8ipstreamul 029B:@TValidator@Streamer@Write$xqr8opstream
+            FF750CE8:
+              0. 00 0000 0311 0000:@TPrintout@$bctr$qpxc 0043:@TPrintout@$bdtr$qv 007F:@TPrintout@SetPrintParams$qp8TPrintDC5TSize 00A5:@TPrintout@GetDialogInfo$qrit1t1t1 00D0:@TPrintout@BeginPrinting$qv 00D7:@TPrintout@BeginDocument$qiiui 00DE:@TPrintout@HasPage$qi 00EF:@TPrintout@PrintPage$qir5TRectui 00F6:@TPrintout@EndDocument$qv 00FD:@TPrintout@EndPrinting$qv 0104:@TPrintout@Streamer@$bctr$qp15TStreamableBase 015E:@TPrintout@$bctr$q14StreamableInit 0183:@TPrintout@readPtr$qr8ipstreamrp9TPrintout 01D8:@TPrintout@readRef$qr8ipstreamr9TPrintout 01F9:@TPrintout@writeRef$qr8opstreamrx9TPrintout 0214:@TPrintout@writePtr$qr8opstreampx9TPrintout 022D:@TPrintout@Streamer@Read$xqr8ipstreamul 026F:@TPrintout@Streamer@Write$xqr8opstream
+        C70700000000C74704:
+          000000008BC75F5DC20400:
+            0. 00 0000 001B 0000:@TVariable@$bctr$qv
+          01000000:
+            8B450C8B008947088B47086A:
+              0. 05 8C32 0510 0000:@TRegion@$bctr$qrx3TDC 0049:@TRegion@$bctr$qrx7TRegion 00AD:@TRegion@$bctr$qrx3TDCrx5TRect 00F7:@TRegion@$bctr$qr3TDCrx5TRect16TRegion@TEllipse 014D:@TRegion@$bctr$qr3TDCrx5TRectrx5TSize 01B6:@TRegion@$bctr$qr3TDCpx6TPointii 021A:@TRegion@$bctr$qr3TDCpx6TPointxpxiii 0281:@TRegion@$bdtr$qv 0314:@TRegion@SetRectRgn$qrx5TRect 0334:@TRegion@$beql$xqrx7TRegion 0357:@TRegion@$bneq$xqrx7TRegion 037F:@TRegion@Contains$xqrx6TPoint 039E:@TRegion@Touches$xqrx5TRect 03BD:@TRegion@GetRgnBox$xqr5TRect 03DB:@TRegion@GetRgnBox$xqv 041C:@TRegion@$basg$qrx7TRegion 0445:@TRegion@$brplu$qrx5TSize 0465:@TRegion@$brmin$qrx5TSize 049D:@TRegion@Combine$qrx7TRegioni 04C8:@TRegion@Combine$qrx5TRecti
+            B8........894708A1:
+              0. 00 0000 01F1 0000:@TMemoryDC@$bctr$qv 0067:@TMemoryDC@$bctr$qrx3TDC 00D7:@TMemoryDC@SelectObject$qrx7TBitmap 0170:@TMemoryDC@RestoreBitmap$qv 01AF:@TMemoryDC@$bdtr$qv
+        E8........894704FF750C57E8B9000000A1........FF008B:
+          0. 31 AC1D 0398 0000:@TClipboard@$bctr$qul 0026:@TranslateLongFmtToName$quipci 00D1:@TClipboard@OpenClipboard$qul 00F1:@TClipboard@CloseClipboard$qv 0114:@TClipboard@GetClipboardData$xqui 012D:@TClipboard@GetClipboardData$xqv 016D:@TClipboard@GetClipboardOwner$xqv 0182:@TClipboard@GetClipboardViewer$xqv 0197:@TClipboard@GetClipboardFormatName$xquipci 01AC:@TClipboard@GetPriorityClipboardFormat$xqpuii 01F9:@TClipboard@CountClipboardFormats$xqv 023A:@TClipboard@IsClipboardFormatAvailable$xqui 0258:@TClipboard@EmptyClipboard$qv 026D:@TClipboard@RegisterClipboardFormat$xqpxc 0276:@TClipboard@SetClipboardData$quiul 02D6:@TClipboard@SetClipboardData$qpxc 0328:@TClipboard@SetClipboardViewer$xqul
+      0C:
+        8B07C705........00000000C705........00000000C705:
+          0. 00 0000 003A 0000:_main
+        F745100000010074156A00576890010000FF7508E8:
+          0. 18 1120 2D96 002C:@GetCurrentChild$qul 00EF:@TPickList@EvCommand$quiului 0110:@TPickList@$bctr$qpxcp7TWindow 024A:@TPickList@$bctr$quip7TWindow 03D6:@TPickList@$bdtr$qv 045C:@TPickList@AddString$qpxc 04D5:@TPickList@Execute$qv 0546:@TDocTemplate@$bctr$qpxct1t1t1lrp7TModulerp12TDocTemplate 0643:@TDocTemplate@SetFileFilter$qpxc 0679:@TDocTemplate@SetDescription$qpxc 06AF:@TDocTemplate@SetDirectory$qpxc 06E5:@TDocTemplate@SetDirectory$qpxci 0730:@TDocTemplate@SetDefaultExt$qpxc 0766:@TDocTemplate@$bdtr$qv 07BA:@TDocManager@SelectDocType$qpp12TDocTemplatei 08A8:@TDocManager@SelectViewType$qpp12TDocTemplatei 09A4:@TDocManager@SelectDocPath$qpp12TDocTemplateipcilul 0D94:@TDocManager@AttachTemplate$qr12TDocTemplate 0DC4:@TDocManager@DeleteTemplate$qr12TDocTemplate 0E93:@TDocTemplate@InitDoc$qp9TDocumentpxcl 11A3:@TDocTemplate@SelectSave$qr9TDocument 1264:@TDocTemplate@InitView$qp5TView 1282:@TDocManager@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 12A6:@TDocManager@$bctr$qirp12TDocTemplate 134F:@TDocManager@$bdtr$qv 14A1:@TDocManager@FindDocument$qpxc 14EA:@TDocManager@PostEvent$qir9TDocument 1539:@TDocManager@PostEvent$qir5TView 1588:@TDocManager@EvCanClose$qv 15C4:@TDocManager@EvPreProcessMenu$qp4MENU 16BA:@TDocManager@FlushDoc$qr9TDocument 1781:@TDocManager@GetCurrentDoc$qv 17C4:@TDocManager@CmEnableNew$qr15TCommandEnabler 17EC:@TDocManager@CmFileNew$qv 180E:@TDocManager@CmEnableOpen$qr15TCommandEnabler 1836:@TDocManager@CmFileOpen$qv 1855:@TDocManager@CmEnableClose$qr15TCommandEnabler 188B:@TDocManager@CmFileClose$qv 195D:@TDocManager@CmEnableSaveAs$qr15TCommandEnabler 1995:@TDocManager@CmFileSaveAs$qv 19F1:@TDocManager@CmEnableSave$qr15TCommandEnabler 1A62:@TDocManager@CmFileSave$qv 1ADF:@TDocManager@CmEnableRevert$qr15TCommandEnabler 1B4F:@TDocManager@CmFileRevert$qv 1BB5:@TDocManager@CmEnableCreate$qr15TCommandEnabler 1BED:@TDocManager@CmViewCreate$qv 1C21:@TDocManager@CreateDocOrView$qi 1C62:@TDocManager@CreateThisDoc$qi 1EB5:@TDocManager@CreateThisView$qi 1F10:@TDocManager@CheckSDIDoc$qv 2001:@TDocManager@PostDocError$qr9TDocumentuiui 2066:@TDocManager@CreateAnyDoc$qpxcl 238C:@TDocManager@SelectAnySave$qr9TDocumentul 24D2:@TDocManager@CreateTplList$qr9TDocumentpp12TDocTemplate 25B8:@TDocManager@CreateAnyView$qr9TDocumentl 260E:@TDocManager@MatchTemplate$qpxc 2773:@TDocManager@Streamer@$bctr$qp15TStreamableBase 27CD:@TDocManager@$bctr$q14StreamableInit 280E:@TDocManager@readPtr$qr8ipstreamrp11TDocManager 2863:@TDocManager@readRef$qr8ipstreamr11TDocManager 2898:@TDocManager@writeRef$qr8opstreamrx11TDocManager 28C8:@TDocManager@writePtr$qr8opstreampx11TDocManager 28F6:@TDocManager@Streamer@Read$xqr8ipstreamul 29E8:@TDocManager@Streamer@Write$xqr8opstream 2AE8:@TDocTemplate@Streamer@$bctr$qp15TStreamableBase 2B42:@TDocTemplate@$bctr$q14StreamableInit 2B67:@TDocTemplate@readPtr$qr8ipstreamrp12TDocTemplate 2BBC:@TDocTemplate@readRef$qr8ipstreamr12TDocTemplate 2BDD:@TDocTemplate@writeRef$qr8opstreamrx12TDocTemplate 2BF8:@TDocTemplate@writePtr$qr8opstreampx12TDocTemplate 2C11:@TDocTemplate@Streamer@Read$xqr8ipstreamul 2CE5:@TDocTemplate@Streamer@Write$xqr8opstream
+      14EB178B45088B40058BD7C1E20201D0FF7510508B450CFFD047:
+        0. 0A 9B2D 002A (!)0000:?
+  5DC2:
+    0400:
+      0. 00 0000 0007 (!)0000:?
+    0C00:
+      0. 00 0000 0007 (!)0000:?
+  8B4508:
+    5DC20400:
+      0. 00 0000 000A (!)0000:?
+    83:
+      781C000F95C00FB6C05DC20400:
+        0. 00 0000 0014 0000:@TDocument@IsOpen$qv
+      C004FF7510FF750C50E8........5DC20C00:
+        0. 00 0000 0019 0000:@TDecoratedFrame@EvSize$quir5TSize
+    8B:
+      40:
+        095DC20400:
+          0. 00 0000 000D (!)0000:?
+        0D5DC20400:
+          0. 00 0000 000D (!)0000:?
+        115DC20400:
+          0. 00 0000 000D (!)0000:?
+      550C3950100F94C00FB6C05DC20800:
+        0. 00 0000 0016 (!)0000:?
+      80AA0000005DC20400:
+        0. 00 0000 0010 0000:@TListView@VnIsDirty$qv
+    FF30E8........5DC20400:
+      0. 00 0000 0011 (!)0000:?
+  B8:
+    010000005DC2:
+      0400:
+        0. 00 0000 000C (!)0000:?
+      0C00:
+        0. 00 0000 000C 0000:@TDocument@Open$qipxc
+    020000005DC20400:
+      0. 00 0000 000C (!)0000:?
+    040000005DC20400:
+      0. 00 0000 000C 0000:@TWindow@Streamer@ClassVersion$xqv
+    050000005DC20400:
+      0. 00 0000 000C 0000:@TDocument@PropertyCount$qv
+    0A0000005DC20400:
+      0. 00 0000 000C 0000:@TFileDocument@PropertyCount$qv
+    ........5DC20400:
+      0. 00 0000 000C (!)0000:?
+  FF75:
+    08E8........5DC2:
+      0400:
+        0. 00 0000 000F 0000:@TStandardAllocator@$bdele$qpv (REF 0007: @$bdele$qpv)
+        1. 00 0000 000F 0000:@TStandardAllocator@$bdla$qpv (REF 0007: @$bdla$qpv)
+        2. 00 0000 000F 0000:@TEditView@VnIsDirty$qv (REF 0007: @TEdit@IsModified$xqv)
+      0800:
+        0. 00 0000 000F 0000:@TCheckBox@EvGetDlgCode$qp7_tagMSG
+    0CFF7508E8........5DC20800:
+      0. 00 0000 0012 (!)0000:?
+    10FF750CFF7508E8........5DC20C00:
+      0. 00 0000 0015 0000:@TMemoryDC@SelectObject$qrx8TPaletteul (REF 000D: @TDC@SelectObject$qrx8TPaletteul)
+      1. 00 0000 0015 (!)0000:? (REF 000D: @TWindow@SetDocTitle$qpxci)
+560000000300300000000000770000003C004C00000000000000000000000000:
+  0. 08 6AB1 0054 0000:@$xt$11TTextGadget
+5800000003003000000000007700000040005000000000000000000000000000:
+  0. 08 6AB1 0058 0000:@$xt$13TButtonGadget
+5C0000000300:
+  2000FFFFFFFF010000002C003000000000000000000000000000:
+    0. 14 3E08 0034 0000:@$xt$10TDC@TState
+  3000180000007F0000003C005800000000000000000000000000:
+    0. 08 60B0 006C 0000:@$xt$10TOutStream
+5E00000003003000000000007700000040005000000000000000000000000000:
+  0. 08 6AB1 0058 0000:@$xt$13TBitmapGadget
+60000000030030001C0000007F0000003C005800000000000000000000000000:
+  0. 08 60B0 006C 0000:@$xt$9TInStream
+6400000003002000FFFFFFFF0100000030003400000000000000000000000000:
+  0. 18 01C0 0038 0000:@$xt$13TChildMetrics
+66B80202C3558BEC578B7D0885FF750431C0EB15A1........8BD76A006A0050:
+  0. 02 4684 0147 0000:@OWLGetVersion$qv 0005:@GetWindowPtr$qul 002E:@TThunk@$bnew$qui 0081:@TThunk@$bdele$qpvui 009C:@TThunk@$bctr$qpx7TWindow 0114:@TThunk@SetThunked$qv
+6800000003003000000000007700000040005000000000000000000000000000:
+  0. 08 457A 0068 0000:@$xt$12TApplication
+7E00000003003000040000007F00000040004400000000000000000000000000:
+  0. 08 60B0 0060 0000:@$xt$15TFileStreamBase
+81442404:
+  26FFFFFFE9........C38B4C24040349FC81C12AFFFFFF894C2404E9:
+    0. 00 0000 0074 0000:@TEditView@3$vsn (001C: 81)
+    1. 00 0000 003C 0000:@TEditFile@3$vsn
+  2EFFFFFFE9........C38B4C24040349FC81C132FFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TStatusBar@3$vsn
+  42FFFFFFE9........C38B4C24040349FC81C146FFFFFF894C2404E9:
+    0. 00 0000 0074 0000:@TListView@3$vsn
+  46FFFFFFE9........C38B4C24040349FC81C14AFFFFFF894C2404E9:
+    0. 00 0000 003C (!)0000:?
+  4AFFFFFFE9........C38B4C24040349FC81C14EFFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TEditSearch@3$vsn
+  4EFFFFFFE9........C38B4C24040349FC81C152FFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TControlBar@3$vsn (001B: C3)
+  52FFFFFFE9........C38B4C24040349FC81C156FFFFFF894C2404E9:
+    0. 00 0000 0074 0000:@TWindowView@3$vsn (001C: 81)
+    1. 00 0000 003C 0000:@TGauge@3$vsn
+  56FFFFFFE9........C38B4C24040349FC81C15AFFFFFF894C2404E9:
+    0. 00 0000 003C (!)0000:?
+  5EFFFFFFE9........C38B4C24040349FC81C162FFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TPreviewPage@3$vsn
+  66FFFFFFE9........C38B4C24040349FC81C16AFFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TPickList@3$vsn (REF 0037: @TWindow@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul)
+    1. 00 0000 003C 0000:@TFormattedStatic@3$vsn (REF 0037: @TStatic@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul)
+  6AFFFFFFE9........C38B4C24040349FC81C16EFFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TComboBox@3$vsn (001B: C3)
+  6EFFFFFFE9........C38B4C24040349FC81C172FFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TGroupBox@3$vsn (001B: C3)
+  72FFFFFFE9........C38B4C24040349FC81C176FFFFFF894C2404E9:
+    0. 00 0000 003C 0000:@TWindow@3$vsn (001B: C3)
+83442404:
+  A2E9........C383442404B2E9........C383442404C2E9:
+    0. 01 EF04 0021 0000:@TFileInStream@3$vsn
+  A6E9........C383442404B2E9........C383442404C2E9:
+    0. 01 EF04 0021 0000:@TFileOutStream@3$vsn
+  C2E9........C3:
+    0. 00 0000 000B 0000:@TFileStreamBase@3$vsn
+  DCE9........C3:
+    0. 00 0000 000B 0000:@TView@3$vsn
+  E0E9........C383442404F0E9........C3:
+    0. 00 0000 0016 0000:@TInStream@3$vsn
+  E4E9........C383442404F0E9........C3:
+    0. 00 0000 0016 0000:@TOutStream@3$vsn
+  FCE9........C3:
+    0. 00 0000 000B (!)0000:?
+8B4C2404:
+  0349FC:
+    81C1:
+      0EFFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 C57B 0259 0000:@TDecoratedMDIFrame@3$vsn
+      22FFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 C57B 01D2 0000:@TDecoratedFrame@3$vsn
+      4AFFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 5515 0169 0000:@TMDIChild@3$vsn
+      52FFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 0B95 019E 0000:@TMDIFrame@3$vsn
+      68FFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 9679 0140 0000:@TFloatingFrame@3$vsn
+      7CFFFFFF894C2404E9........C38B4C24040349FC81C1:
+        0. 09 E7B9 00EB 0000:@TPrintDialog@3$vsn
+    83C1:
+      B0894C2404E9........C38B4C24040349FC83C1B0894C:
+        0. 03 39BB 00FB 0000:@TFrameWindow@3$vsn
+      BC894C2404E9........C38B4C24040349FC83C1BC894C:
+        0. 03 39BB 006F (!)0000:?
+      C0894C2404E9........C38B4C24040349FC83C1C0894C:
+        0. 03 39BB 00D3 (!)0000:?
+      C4894C2404E9........C38B4C24040349FC83C1C4894C:
+        0. 03 39BB 00D3 0000:@TChooseColorDialog@3$vsn
+      C8894C2404E9........C38B4C24040349FC83C1C8894C:
+        0. 03 39BB 00D3 0000:@TChooseFontDialog@3$vsn (00A5: D4)
+        1. 03 39BB 00E7 0000:@TInputDialog@3$vsn (00A5: 0C) (REF 000F: @TDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul)
+        2. 03 39BB 00E7 (!)0000:? (00A5: 0C) (REF 0023: @TCommonDialog@SetupWindow$qv)
+      CC894C2404E9........C38B4C24040349FC83C1CC894C:
+        0. 03 39BB 00D3 0000:@TCommonDialog@3$vsn
+      D4894C2404E9........C38B4C24040349FC83C1D4894C:
+        0. 03 39BB 00D3 0000:@TPrinterAbortDlg@3$vsn (00AF: C3)
+      DC894C2404E9........C38B4C24040349FC83C1DC894C:
+        0. 03 39BB 006F 0000:@TClipboardViewer@3$vsn (0041: E8)
+        1. 03 39BB 0083 0000:@TMDIClient@3$vsn (0041: 0C)
+  8B:
+    09FF61:
+      24C3:
+        0. 00 0000 000A 0000:@$vc1$F0$25$0$
+      28C3:
+        0. 00 0000 000A 0000:@$vc1$F0$29$0$
+      2CC3:
+        0. 00 0000 000A 0000:@$vc1$F0$2D$0$
+      30C3:
+        0. 00 0000 000A 0000:@$vc1$F0$31$0$
+      34C3:
+        0. 00 0000 000A 0000:@$vc1$F0$35$0$
+      38C3:
+        0. 00 0000 000A 0000:@$vc1$F0$39$0$
+      3CC3:
+        0. 00 0000 000A 0000:@$vc1$F0$3D$0$
+      58C3:
+        0. 00 0000 000A 0000:@$vc1$F0$59$0$
+      5CC3:
+        0. 00 0000 000A 0000:@$vc1$F0$5D$0$
+      60C3:
+        0. 00 0000 000A 0000:@$vc1$F0$61$0$
+      64C3:
+        0. 00 0000 000A 0000:@$vc1$F0$65$0$
+      68C3:
+        0. 00 0000 000A 0000:@$vc1$F0$69$0$
+      6CC3:
+        0. 00 0000 000A 0000:@$vc1$F0$6D$0$
+      70C3:
+        0. 00 0000 000A 0000:@$vc1$F0$71$0$
+    490CFF610CC3:
+      0. 00 0000 000B 0000:@$vc1$FC$D$0$
+9200000003003000080000007F000000:
+  38003C00000000000000000000000000:
+    0. 08 A794 005C 0000:@$xt$7TWindow
+  3C004C00000000000000000000000000:
+    0. 08 D530 006C 0000:@$xt$8TControl
+9600000003003000080000007F000000:
+  38004800000000000000000000000000:
+    0. 08 60B0 0068 0000:@$xt$7TStatic
+  3C004C00000000000000000000000000:
+    0. 08 60B0 006C 0000:@$xt$9TGroupBox (0010: 78)
+    1. 08 60B0 006C 0000:@$xt$8TListBox (0010: 00)
+9A00000003003000:
+  040000007F00000040005C00000000000000000000000000:
+    0. 08 EEF9 0070 0000:@$xt$14TFileOutStream
+  080000007F000000:
+    38004800000000000000000000000000:
+      0. 08 60B0 0068 0000:@$xt$7TButton
+    3C004C00000000000000000000000000:
+      0. 08 60B0 006C 0000:@$xt$10TScrollBar
+      1. 08 FE66 006C 0000:@$xt$9TComboBox
+    40005000000000000000000000000000:
+      0. 08 FE66 0070 0000:@$xt$14TNumericStatic
+9E00000003003000:
+  040000007F00000040005C00000000000000000000000000:
+    0. 08 EEF9 0070 0000:@$xt$13TFileInStream
+  080000007F000000:
+    38004800000000000000000000000000:
+      0. 08 FE66 0068 0000:@$xt$5TEdit
+    3C004C00000000000000000000000000:
+      0. 08 D530 006C 0000:@$xt$9TPickList
+      1. 08 FE66 006C 0000:@$xt$9TCheckBox
+    40005000000000000000000000000000:
+      0. 08 95F0 0070 0000:@$xt$12TRadioButton
+    44005400000000000000000000000000:
+      0. 08 FE66 0074 0000:@$xt$16TFormattedStatic
+A600000003003000080000007F00000040005000000000000000000000000000:
+  0. 08 D530 0070 0000:@$xt$12TPreviewPage
+AA000000030030000C0000007F000000:
+  3C004000000000000000000000000000:
+    0. 08 1815 006C 0000:@$xt$10TMDIClient
+  44004800000000000000000000000000:
+    0. 08 1815 0074 0000:@$xt$16TClipboardViewer
+AE00000003003000080000007F000000:
+  38004800000000000000000000000000:
+    0. 08 60B0 0068 0000:@$xt$7TSlider
+  3C004C00000000000000000000000000:
+    0. 08 FE66 006C 0000:@$xt$8THSlider (0009: 48)
+    1. 08 FE66 006C 0000:@$xt$8TVSlider (0009: 56)
+B200000003003000:
+  080000007F000000:
+    38004800000000000000000000000000:
+      0. 08 60B0 0068 0000:@$xt$6TGauge
+    3C005800000000000000000000000000:
+      0. 08 60B0 0078 0000:@$xt$11TWindowView
+  0C0000007F000000:
+    38003C00000000000000000000000000:
+      0. 08 1815 0068 0000:@$xt$7TDialog
+    44005400000000000000000000000000:
+      0. 08 DBAC 0080 0000:@$xt$16TPrinterAbortDlg
+B600000003003000080000007F000000:
+  3C004C00000000000000000000000000:
+    0. 08 60B0 006C 0000:@$xt$11TControlBar
+  40005000000000000000000000000000:
+    0. 08 D530 0070 0000:@$xt$13TGadgetWindow
+BA00000003003000:
+  080000007F0000003C004C00000000000000000000000000:
+    0. 08 E754 0074 0000:@$xt$11TEditSearch
+  0C0000007F00000040005000000000000000000000000000:
+    0. 08 DBAC 007C 0000:@$xt$13TCommonDialog
+BE00000003003000:
+  080000007F0000003C004C00000000000000000000000000:
+    0. 08 60B0 006C 0000:@$xt$11TMessageBar (0012: 72)
+    1. 08 60B0 006C 0000:@$xt$8TToolBox (0012: 00)
+  0C0000007F000000:
+    3C004C00000000000000000000000000:
+      0. 08 2EEC 0078 0000:@$xt$11TFindDialog
+    40005000000000000000000000000000:
+      0. 08 2EEC 007C 0000:@$xt$14TReplaceDialog
+      1. 08 DBAC 007C 0000:@$xt$12TInputDialog
+    44005400000000000000000000000000:
+      0. 08 DF31 0080 0000:@$xt$17TChooseFontDialog (0019: 00)
+      1. 08 DF31 0080 0000:@$xt$18TFindReplaceDialog (0019: 67)
+C200000003003000:
+  080000007F0000003C005800000000000000000000000000:
+    0. 08 95F0 0078 0000:@$xt$9TListView
+  0C0000007F00000044005400000000000000000000000000:
+    0. 08 DF31 0080 0000:@$xt$18TChooseColorDialog
+C6000000030030000C0000007F00000040005000000000000000000000000000:
+  0. 08 2EEC 007C 0000:@$xt$15TFileOpenDialog (0010: 6E)
+  1. 08 2EEC 007C 0000:@$xt$15TFileSaveDialog (0010: 65)
+  2. 08 DF31 007C 0000:@$xt$15TOpenSaveDialog
+C8:
+  040000:
+    5357568B7D08:
+      668B750C85FF744BA1........FF088D57106A0052E8:
+        0. 00 0000 0064 0000:@TOutStream@$bdtr$qv (0027: 1C)
+        1. 00 0000 0064 0000:@TInStream@$bdtr$qv (0027: 20)
+      8B:
+        470939450C720431C0EB:
+          508B470D39450C721E8B47:
+            0. 4D FD84 006D 0000:@%TMCVectorImp$tul$t18TStandardAllocator%@Detach$qui
+          528B470D39450C721E8B47:
+            0. 4F 6DAE 006F 0000:@%TMCVectorImp$t4TInt$t18TStandardAllocator%@Detach$qui
+          598B470D39450C721E8B47:
+            0. 40 18B0 0076 0000:@%TMCVectorImp$t6string$t18TStandardAllocator%@Detach$qui
+        75:
+          103B770972148D46016A005057E8........85C0:
+            0. 17 4DCC 0095 0000:@%TMCVectorImp$tul$t18TStandardAllocator%@AddAt$qrxului
+            1. 17 75CD 0098 0000:@%TMCVectorImp$t4TInt$t18TStandardAllocator%@AddAt$qrx4TIntui
+            2. 17 FDC7 00A3 0000:@%TMCVectorImp$t6string$t18TStandardAllocator%@AddAt$qrx6stringui
+          1C66837D0C0075388D879600000089078D879A00:
+            0. 10 1BC6 14E7 0000:@TFormattedStatic@$bctr$qp7TWindowipxct3 00C2:@TFormattedStatic@$bdtr$qv 015E:@TFormattedStatic@SetupWindow$qv 019A:@TNumericStatic@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 01E8:@TNumericStatic@$bctr$qp7TWindowii 0280:@TNumericStatic@SetupWindow$qv 02A1:@TNumericStatic@EvSetNumber$quil 030F:@TPrinterAbortDlg@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 035E:@TPrinterAbortDlg@$bctr$qp7TWindow6TResIdpxct3t3 04EF:@TPrinterAbortDlg@SetupWindow$qv 052B:@TPrinterAbortDlg@CmCancel$qv 055C:@TPrinter@$bctr$qv 061C:@TPrinter@$bdtr$qv 0662:@TPrinter@ClearDevice$qv 067E:@TPrinter@GetDefaultPrinter$qv 078C:@TPrinter@SetPrinter$qpxct1t1 07A8:@TPrinterAbortProc$quls 07F0:@TPrinter@ExecPrintDialog$qp7TWindow 0911:@TPrinter@CreateAbortWindow$qp7TWindowr9TPrintout 09CE:@TPrinter@CalcBandingFlags$qr8TPrintDC 09DF:@TPrinter@Print$qp7TWindowr9TPrintoutul 11F4:@TPrinter@Setup$qp7TWindow 1224:@TPrinter@ReportError$qp7TWindowr9TPrintout 1304:@TPrinter@TXPrinter@$bctr$qui 1330:@TPrinter@Streamer@$bctr$qp15TStreamableBase 138A:@TPrinter@$bctr$q14StreamableInit 13AF:@TPrinter@readPtr$qr8ipstreamrp8TPrinter 1404:@TPrinter@readRef$qr8ipstreamr8TPrinter 1425:@TPrinter@writeRef$qr8opstreamrx8TPrinter 1440:@TPrinter@writePtr$qr8opstreampx8TPrinter 1459:@TPrinter@Streamer@Read$xqr8ipstreamul 147A:@TPrinter@Streamer@Write$xqr8opstream
+    57:
+      568B:
+        7508C745FC000000008B7D14EB258B46058BD7C1E20201D0FF:
+          0. 28 E25A 0048 (!)0000:?
+        7D08:
+          8B750C:
+            6A006A0057E869000000B8........8907C74732:
+              0. 20 E279 0A8A 0000:@TSeparatorGadget@$bctr$qi 006E:@TSeparatorGadget@Inserted$qv 007F:@TGadget@$bctr$qi20TGadget@TBorderStyle 01D5:@TGadget@$bdtr$qv 021F:@TGadget@CommandEnable$qv 0226:@TGadget@SysColorChange$qv 022D:@TGadget@SetShrinkWrap$qulul 0245:@TGadget@SetSize$qr5TSize 0278:@TGadget@SetEnabled$qul 029B:@TGadget@SetBounds$qr5TRect 02B8:@TGadget@SetBorders$qr16TGadget@TBorders 02E1:@TGadget@SetMargins$qr8TMargins 0310:@TGadget@SetBorderStyle$q20TGadget@TBorderStyle 03B9:@TGadget@PtIn$qr6TPoint 041E:@TGadget@Inserted$qv 0425:@TGadget@Removed$qv 042C:@TGadget@InvalidateRect$qrx5TRectul 0487:@TGadget@Invalidate$qul 04C3:@TGadget@Update$qv 04E8:@TGadget@PaintBorder$qr3TDC 089B:@TGadget@Paint$qr3TDC 08B9:@TGadget@GetDesiredSize$qr5TSize 0924:@TGadget@GetOuterSizes$qrit1t1t1 09EE:@TGadget@GetInnerRect$qr5TRect 0A3B:@TGadget@MouseMove$quir6TPoint 0A42:@TGadget@MouseEnter$quir6TPoint 0A49:@TGadget@MouseLeave$quir6TPoint 0A50:@TGadget@LButtonDown$quir6TPoint 0A6D:@TGadget@LButtonUp$quir6TPoint
+            897E088B:
+              07:
+                8B4004BA........FF7510565250E8:
+                  0. 00 0000 170A 0000:@TDecoratedFrame@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0071:@TDecoratedFrame@$bctr$qp7TWindowpxct1ulp7TModule 048A:@TDecoratedFrame@SetupWindow$qv 04DF:@TDecoratedFrame@SetClientWindow$qp7TWindow 0604:@TDecoratedFrame@PreProcessMsg$qr7_tagMSG 0690:@TDecoratedFrame@EvMenuSelect$quiuip4MENU 071D:@TDecoratedFrame@EvEnterIdle$quiul 07D4:@GetLocation$qr7TWindow 07EA:@SetLocation$qr7TWindow25TDecoratedFrame@TLocation 083E:@TDecoratedFrame@EvCommand$quiului 0963:@TDecoratedFrame@EvCommandEnable$qr15TCommandEnabler 09D1:@TDecoratedFrame@InsertAtTop$qr7TWindowp7TWindow 0B96:@TDecoratedFrame@InsertAtBottom$qr7TWindowp7TWindow 0DAD:@TDecoratedFrame@InsertAtLeft$qr7TWindowp7TWindow 1000:@TDecoratedFrame@InsertAtRight$qr7TWindowp7TWindow 12A2:@TDecoratedFrame@Insert$qr7TWindow25TDecoratedFrame@TLocation 135E:@TDecoratedFrame@Streamer@$bctr$qp15TStreamableBase 13B8:@TDecoratedFrame@$bctr$q14StreamableInit 151F:@TDecoratedFrame@readPtr$qr8ipstreamrp15TDecoratedFrame 1574:@TDecoratedFrame@readRef$qr8ipstreamr15TDecoratedFrame 15AB:@TDecoratedFrame@writeRef$qr8opstreamrx15TDecoratedFrame 15DD:@TDecoratedFrame@writePtr$qr8opstreampx15TDecoratedFrame 160D:@TDecoratedFrame@Streamer@Read$xqr8ipstreamul 1663:@TDecoratedFrame@Streamer@Write$xqr8opstream
+                BA........FF7510565250E8:
+                  0. 00 0000 1107 0000:@TPreviewPage@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TPreviewPage@$bctr$qp7TWindowr9TPrintoutr8TPrintDCr5TSizei 0124:@TPreviewPage@Paint$qr3TDCulr5TRect 02C9:@TPreviewPage@EvSize$quir5TSize 02E9:@TPrintPreviewDC@$bctr$qr3TDCr8TPrintDCrx5TRectt3 03CE:@TPrintPreviewDC@$bdtr$qv 0450:@TPrintPreviewDC@SyncFont$qv 05F3:@TPrintPreviewDC@ReScale$qv 0687:@TPrintPreviewDC@ReOrg$qv 0719:@TPrintPreviewDC@GetDeviceCaps$xqi 076D:@TPrintPreviewDC@SelectObject$qrx5TFont 07A4:@TPrintPreviewDC@SelectStockObject$qi 07F1:@TPrintPreviewDC@RestoreFont$qv 082A:@TPrintPreviewDC@GetNearestColor$xq6TColor 085F:@TPrintPreviewDC@GetBkColor$xqv 0888:@TPrintPreviewDC@SetBkColor$q6TColor 08EE:@TPrintPreviewDC@GetBkMode$xqv 090F:@TPrintPreviewDC@SetBkMode$qi 093E:@TPrintPreviewDC@GetPolyFillMode$xqv 095F:@TPrintPreviewDC@SetPolyFillMode$qi 098E:@TPrintPreviewDC@GetROP2$xqv 09AF:@TPrintPreviewDC@SetROP2$qi 09DE:@TPrintPreviewDC@GetStretchBltMode$xqv 09FF:@TPrintPreviewDC@SetStretchBltMode$qi 0A2E:@TPrintPreviewDC@GetTextColor$xqv 0A57:@TPrintPreviewDC@SetTextColor$q6TColor 0ABD:@TPrintPreviewDC@GetMapMode$xqv 0ADE:@TPrintPreviewDC@SetMapMode$qi 0B1B:@TPrintPreviewDC@SetWorldTransform$qr8tagXFORM 0B4A:@TPrintPreviewDC@ModifyWorldTransform$qr8tagXFORMul 0B7F:@TPrintPreviewDC@GetViewportOrg$xqr6TPoint 0BA4:@TPrintPreviewDC@SetViewportOrg$qrx6TPointp6TPoint 0BE4:@TPrintPreviewDC@OffsetViewportOrg$qrx6TPointp6TPoint 0C24:@TPrintPreviewDC@GetViewportExt$xqr5TSize 0C49:@TPrintPreviewDC@SetViewportExt$qrx5TSizep5TSize 0C89:@TPrintPreviewDC@ScaleViewportExt$qiiiip5TSize 0CD2:@TPrintPreviewDC@GetWindowOrg$xqr6TPoint 0CF7:@TPrintPreviewDC@SetWindowOrg$qrx6TPointp6TPoint 0D2B:@TPrintPreviewDC@OffsetWindowOrg$qrx6TPointp6TPoint 0D62:@TPrintPreviewDC@GetWindowExt$xqr5TSize 0D8A:@TPrintPreviewDC@SetWindowExt$qrx5TSizep5TSize 0DCD:@TPrintPreviewDC@ScaleWindowExt$qiiiip5TSize 0E19:@TPrintPreviewDC@DPtoLP$xqp6TPointi 0E44:@TPrintPreviewDC@GetClipBox$xqr5TRect 0E6C:@TPrintPreviewDC@GetTextExtent$xqpxcir5TSize 0E9A:@TPrintPreviewDC@GetTabbedTextExtent$xqpxciipxir5TSize 0ECE:@TPrintPreviewDC@GetTextAlign$xqv 0EF2:@TPrintPreviewDC@SetTextAlign$qui 0F24:@TPrintPreviewDC@GetTextCharacterExtra$xqv 0F48:@TPrintPreviewDC@SetTextCharacterExtra$qi 0F7A:@TPrintPreviewDC@SetTextJustification$qii 0FA5:@TPrintPreviewDC@GetTextFace$xqipc 0FD0:@TPrintPreviewDC@GetTextMetrics$xqr13tagTEXTMETRIC 0FF8:@TPrintPreviewDC@GetKerningPairs$qip14tagKERNINGPAIR 1023:@TPrintPreviewDC@GetCharWidth$quiuipi 1051:@TPrintPreviewDC@SetMapperFlags$qul 1083:@TPrintPreviewDC@GetAspectRatioFilter$xqr5TSize 10AB:@TPrintPreviewDC@EnumFonts$xqpxcpqpx10tagLOGFONTpx13tagTEXTMETRICil$ipv 10D9:@TPrintPreviewDC@EnumFontFamilies$xqpxcpqpx14tagENUMLOGFONTpx16tagNEWTEXTMETRICil$ipv (02B1: 01)
+                  1. 00 0000 1B04 0000:@TEdit@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TEdit@$bctr$qp7TWindowipxciiiiuiulp7TModule 0114:@TEdit@$bctr$qp7TWindowiuip7TModule 01CF:@TEdit@Create$qv 0200:@TEdit@$bdtr$qv 02D1:@TEdit@GetNumLines$xqv 030B:@TEdit@IsModified$xqv 0349:@TEdit@ClearModify$qv 0380:@TEdit@SetSelection$quiui 0464:@TEdit@GetSelection$xqruit1 04B7:@TEdit@GetLineFromPos$xqui 04EF:@TEdit@GetLineIndex$xqi 0528:@TEdit@Scroll$qii 061D:@TEdit@Insert$qpxc 065F:@TEdit@GetRect$xqr5TRect 06AE:@TEdit@SetRect$qrx5TRect 06F5:@TEdit@SetRectNP$qrx5TRect 0707:@TEdit@FormatLines$qul 074E:@TEdit@SetTabStops$qipxi 077D:@TEdit@SetPasswordChar$qui 0784:@TEdit@GetFirstVisibleLine$xqv 07D9:@TEdit@SetReadOnly$qul 0818:@TEdit@GetPasswordChar$xqv 0824:@TEdit@GetWordBreakProc$xqv 082D:@TEdit@SetWordBreakProc$qpqpciii$i 0834:@TEdit@CanUndo$xqv 0872:@TEdit@EmptyUndoBuffer$qv 08A1:@TEdit@Undo$qv 08D0:@TEdit@Paste$qv 090E:@TEdit@Copy$qv 094C:@TEdit@Cut$qv 098A:@TEdit@ENErrSpace$qv 0999:@TEdit@CntlCmdXlate$qrui 0A07:@TEdit@EvHScroll$quiuiul 0A16:@TEdit@EvVScroll$quiuiul 0A25:@TEdit@EvGetDlgCode$qp7_tagMSG 0A4D:@TEdit@EvChar$quiuiui 0C09:@TEdit@EvKeyDown$quiuiui 0CED:@TEdit@EvKillFocus$qul 0D82:@TEdit@EvSetFocus$qul 0DA6:@TEdit@EvChildInvalid$qul 0DB5:@TEdit@ValidatorError$qv 0DEB:@TEdit@Clear$qv 0DFE:@TEdit@CanClose$qv 0E40:@TEdit@CmSelectEnable$qr15TCommandEnabler 0E77:@TEdit@CmPasteEnable$qr15TCommandEnabler 0ED5:@TEdit@CmCharsEnable$qr15TCommandEnabler 0F26:@TEdit@CmModEnable$qr15TCommandEnabler 0F49:@TEdit@GetLineLength$xqi 101C:@TEdit@GetLine$xqpcii 1139:@TEdit@LockBuffer$qui 116E:@TEdit@UnlockBuffer$qpxcul 12AD:@TEdit@Search$quipxcululul 13D9:@TEdit@DeleteSelection$qv 1436:@TEdit@DeleteSubText$quiui 1460:@TEdit@DeleteLine$qi 1534:@TEdit@GetSubText$xqpcuiui 1641:@TEdit@GetClassName$qv 1669:@TEdit@SetupWindow$qv 16B3:@TEdit@IsValid$qul 1770:@TEdit@SetValidator$qp10TValidator 17D0:@TEdit@Transfer$qpv18TTransferDirection 188A:@TEdit@Streamer@$bctr$qp15TStreamableBase 18E4:@TEdit@$bctr$q14StreamableInit 196C:@TEdit@readPtr$qr8ipstreamrp5TEdit 19C1:@TEdit@readRef$qr8ipstreamr5TEdit 19F6:@TEdit@writeRef$qr8opstreamrx5TEdit 1A26:@TEdit@writePtr$qr8opstreampx5TEdit 1A54:@TEdit@Streamer@Read$xqr8ipstreamul 1A83:@TEdit@Streamer@Write$xqr8opstream (02B1: C8)
+                  2. 00 0000 053F 0000:@TStatic@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TStatic@$bctr$qp7TWindowipxciiiiuip7TModule 0105:@TStatic@$bctr$qp7TWindowiuip7TModule 01AD:@TStatic@Create$qv 01D3:@TStatic@EvSize$quir5TSize 01F3:@TStatic@GetClassName$qv 01FF:@TStatic@Transfer$qpv18TTransferDirection 0239:@TStatic@Clear$qv 024D:@TStatic@GetTextLen$qv 0262:@TStatic@GetText$qpci 02A4:@TStatic@SetText$qpxc 02BD:@TStatic@Streamer@$bctr$qp15TStreamableBase 0317:@TStatic@$bctr$q14StreamableInit 039F:@TStatic@readPtr$qr8ipstreamrp7TStatic 03F4:@TStatic@readRef$qr8ipstreamr7TStatic 0429:@TStatic@writeRef$qr8opstreamrx7TStatic 0459:@TStatic@writePtr$qr8opstreampx7TStatic 0487:@TStatic@Streamer@Read$xqr8ipstreamul 04BE:@TStatic@Streamer@Write$xqr8opstream (02B1: 17)
+                  3. 00 0000 0889 0000:@TScrollBar@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TScrollBar@$bctr$qp7TWindowiiiiiulp7TModule 013D:@TScrollBar@$bctr$qp7TWindowip7TModule 01E9:@TScrollBar@GetRange$xqrit1 0200:@TScrollBar@GetPosition$xqv 0211:@TScrollBar@SetRange$qii 022A:@TScrollBar@SetPosition$qi 028B:@TScrollBar@DeltaPos$qi 02DA:@TScrollBar@Transfer$qpv18TTransferDirection 0358:@TScrollBar@GetClassName$qv 0364:@TScrollBar@SetupWindow$qv 038D:@TScrollBar@SBLineUp$qv 03B5:@TScrollBar@SBLineDown$qv 03DA:@TScrollBar@SBPageUp$qv 0402:@TScrollBar@SBPageDown$qv 0427:@TScrollBar@SBThumbPosition$qi 0449:@TScrollBar@SBThumbTrack$qi 046B:@TScrollBar@SBTop$qv 04A9:@TScrollBar@SBBottom$qv 04E7:@TScrollBar@SBEndScroll$qv 04EE:@TScrollBar@EvHScroll$quiuiul 05B1:@TScrollBar@EvVScroll$quiuiul 05C9:@TScrollBar@Streamer@$bctr$qp15TStreamableBase 0623:@TScrollBar@$bctr$q14StreamableInit 06AB:@TScrollBar@readPtr$qr8ipstreamrp10TScrollBar 0700:@TScrollBar@readRef$qr8ipstreamr10TScrollBar 0735:@TScrollBar@writeRef$qr8opstreamrx10TScrollBar 0765:@TScrollBar@writePtr$qr8opstreampx10TScrollBar 0793:@TScrollBar@Streamer@Read$xqr8ipstreamul 07E8:@TScrollBar@Streamer@Write$xqr8opstream (02B1: F4)
+                  4. 00 0000 063F 0000:@TButton@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TButton@$bctr$qp7TWindowipxciiiiulp7TModule 0116:@TButton@$bctr$qp7TWindowip7TModule 01C9:@TButton@GetClassName$qv 01D5:@TButton@SetupWindow$qv 01DC:@TButton@CntlCmdXlate$qulruil 032C:@TButton@EvGetDlgCode$qp7_tagMSG 0365:@TButton@BMSetStyle$quil 0397:@TButton@SetState$qui 03B8:@TButton@Streamer@$bctr$qp15TStreamableBase 0412:@TButton@$bctr$q14StreamableInit 049A:@TButton@readPtr$qr8ipstreamrp7TButton 04EF:@TButton@readRef$qr8ipstreamr7TButton 0524:@TButton@writeRef$qr8opstreamrx7TButton 0554:@TButton@writePtr$qr8opstreampx7TButton 0582:@TButton@Streamer@Read$xqr8ipstreamul 05B3:@TButton@Streamer@Write$xqr8opstream (02B1: 8B)
+                  5. 00 0000 05FA 0000:@TCheckBox@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TCheckBox@$bctr$qp7TWindowipxciiiip9TGroupBoxp7TModule 00FD:@TCheckBox@$bctr$qp7TWindowip9TGroupBoxp7TModule 019B:@TCheckBox@Check$qv 01AC:@TCheckBox@Uncheck$qv 01BD:@TCheckBox@GetClassName$qv 01C9:@TCheckBox@Transfer$qpv18TTransferDirection 01FD:@TCheckBox@Toggle$qv 024B:@TCheckBox@GetCheck$xqv 0270:@TCheckBox@SetCheck$qui 02C4:@TCheckBox@SetStyle$quiul 02F4:@TCheckBox@GetState$xqv 0319:@TCheckBox@SetState$qui 033F:@TCheckBox@BNClicked$qv 0380:@TCheckBox@Streamer@$bctr$qp15TStreamableBase 03DA:@TCheckBox@$bctr$q14StreamableInit 0462:@TCheckBox@readPtr$qr8ipstreamrp9TCheckBox 04B7:@TCheckBox@readRef$qr8ipstreamr9TCheckBox 04EC:@TCheckBox@writeRef$qr8opstreamrx9TCheckBox 051C:@TCheckBox@writePtr$qr8opstreampx9TCheckBox 054A:@TCheckBox@Streamer@Read$xqr8ipstreamul 0579:@TCheckBox@Streamer@Write$xqr8opstream (02B1: 10)
+                  6. 00 0000 0DAC 0000:@TSlider@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TSlider@$bctr$qp7TWindow6TResIdiiiit2p7TModule 00FA:@TSlider@$bctr$qp7TWindow6TResIdp7TModule 0194:@TSlider@Init$qv 01CC:@TSlider@GetPosition$xqv 0201:@TSlider@SetRange$qii 022C:@TSlider@SetPosition$qi 0281:@TSlider@SetRuler$qiul 02D6:@TSlider@Sync$qv 03CE:@TSlider@SetupWindow$qv 03E6:@TSlider@GetClassName$qv 03F2:@TSlider@CntlCmdXlate$qulruil 0519:@THSlider@$bctr$qp7TWindowiiiii6TResIdp7TModule 05C5:@TVSlider@$bctr$qp7TWindowiiiii6TResIdp7TModule 066E:@TSlider@Streamer@$bctr$qp15TStreamableBase 06C8:@TSlider@$bctr$q14StreamableInit 0750:@TSlider@readPtr$qr8ipstreamrp7TSlider 07A5:@TSlider@readRef$qr8ipstreamr7TSlider 07DA:@TSlider@writeRef$qr8opstreamrx7TSlider 080A:@TSlider@writePtr$qr8opstreampx7TSlider 0838:@TSlider@Streamer@Read$xqr8ipstreamul 08D1:@TSlider@Streamer@Write$xqr8opstream 094C:@THSlider@Streamer@$bctr$qp15TStreamableBase 09A6:@THSlider@$bctr$q14StreamableInit 0A1F:@THSlider@readPtr$qr8ipstreamrp8THSlider 0A74:@THSlider@readRef$qr8ipstreamr8THSlider 0AA9:@THSlider@writeRef$qr8opstreamrx8THSlider 0AD9:@THSlider@writePtr$qr8opstreampx8THSlider 0B07:@THSlider@Streamer@Read$xqr8ipstreamul 0B22:@THSlider@Streamer@Write$xqr8opstream 0B38:@TVSlider@Streamer@$bctr$qp15TStreamableBase 0B92:@TVSlider@$bctr$q14StreamableInit 0C0B:@TVSlider@readPtr$qr8ipstreamrp8TVSlider 0C60:@TVSlider@readRef$qr8ipstreamr8TVSlider 0C95:@TVSlider@writeRef$qr8opstreamrx8TVSlider 0CC5:@TVSlider@writePtr$qr8opstreampx8TVSlider 0CF3:@TVSlider@Streamer@Read$xqr8ipstreamul 0D0E:@TVSlider@Streamer@Write$xqr8opstream (02B1: 5B)
+                  7. 00 0000 087B 0000:@TEditSearch@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TEditSearch@$bctr$qp7TWindowipxciiiip7TModule 0113:@TEditSearch@$bdtr$qv 01DB:@TEditSearch@SetupWindow$qv 0208:@TEditSearch@DoSearch$qv 02E4:@TEditSearch@CmEditFind$qv 03D0:@TEditSearch@CmEditReplace$qv 04BC:@TEditSearch@CeEditFindReplace$qr15TCommandEnabler 04E5:@TEditSearch@CeEditFindNext$qr15TCommandEnabler 0544:@TEditSearch@CmEditFindNext$qv 0575:@TEditSearch@EvFindMsg$quil 05B0:@TEditSearch@Streamer@$bctr$qp15TStreamableBase 060A:@TEditSearch@$bctr$q14StreamableInit 06A1:@TEditSearch@readPtr$qr8ipstreamrp11TEditSearch 06F6:@TEditSearch@readRef$qr8ipstreamr11TEditSearch 072B:@TEditSearch@writeRef$qr8opstreamrx11TEditSearch 075B:@TEditSearch@writePtr$qr8opstreampx11TEditSearch 0789:@TEditSearch@Streamer@Read$xqr8ipstreamul 07DC:@TEditSearch@Streamer@Write$xqr8opstream (02B1: 00)
+                  8. 00 0000 05D5 0000:@TControl@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TControl@$bctr$qp7TWindow6TResIdpxciiiip7TModule 00F3:@TControl@$bctr$qp7TWindow6TResIdp7TModule 01A8:@TControl@EvPaint$qv 01F5:@TControl@EvDrawItem$quir10_OWNERITEM 02AD:@TControl@EvMeasureItem$quiui 031D:@TControl@DrawItem$qr17tagDRAWITEMSTRUCT 0379:@TControl@MeasureItem$qr20tagMEASUREITEMSTRUCT 0380:@TControl@ODADrawEntire$qr17tagDRAWITEMSTRUCT 0387:@TControl@ODAFocus$qr17tagDRAWITEMSTRUCT 038E:@TControl@ODASelect$qr17tagDRAWITEMSTRUCT 0395:@TControl@Streamer@$bctr$qp15TStreamableBase 03EF:@TControl@$bctr$q14StreamableInit 0468:@TControl@readPtr$qr8ipstreamrp8TControl 04BD:@TControl@readRef$qr8ipstreamr8TControl 04F2:@TControl@writeRef$qr8opstreamrx8TControl 0522:@TControl@writePtr$qr8opstreampx8TControl 0550:@TControl@Streamer@Read$xqr8ipstreamul 056B:@TControl@Streamer@Write$xqr8opstream (02B1: 52)
+                  9. 00 0000 03DA 0000:@TRadioButton@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TRadioButton@$bctr$qp7TWindowipxciiiip9TGroupBoxp7TModule 00E7:@TRadioButton@$bctr$qp7TWindowip9TGroupBoxp7TModule 016A:@TRadioButton@GetClassName$qv 0176:@TRadioButton@BNClicked$qv 019A:@TRadioButton@Streamer@$bctr$qp15TStreamableBase 01F4:@TRadioButton@$bctr$q14StreamableInit 026D:@TRadioButton@readPtr$qr8ipstreamrp12TRadioButton 02C2:@TRadioButton@readRef$qr8ipstreamr12TRadioButton 02F7:@TRadioButton@writeRef$qr8opstreamrx12TRadioButton 0327:@TRadioButton@writePtr$qr8opstreampx12TRadioButton 0355:@TRadioButton@Streamer@Read$xqr8ipstreamul 0370:@TRadioButton@Streamer@Write$xqr8opstream (02B1: 08)
+                  10. 00 0000 0BF6 0000:@TEditFile@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TEditFile@$bctr$qp7TWindowipxciiiit3p7TModule 0126:@TEditFile@$bdtr$qv 01AD:@TEditFile@SetupWindow$qv 025C:@TEditFile@SetFileName$qpxc 0326:@TEditFile@NewFile$qv 0371:@TEditFile@ReplaceWith$qpxc 03B4:@TEditFile@Open$qv 0475:@TEditFile@Read$qpxc 05E1:@TEditFile@Save$qv 0639:@TEditFile@SaveAs$qv 073B:@TEditFile@CmSaveEnable$qr15TCommandEnabler 075E:@TEditFile@Write$qpxc 0867:@TEditFile@CanClear$qv 0918:@TEditFile@CanClose$qv 0937:@TEditFile@Streamer@$bctr$qp15TStreamableBase 0991:@TEditFile@$bctr$q14StreamableInit 0A2E:@TEditFile@readPtr$qr8ipstreamrp9TEditFile 0A83:@TEditFile@readRef$qr8ipstreamr9TEditFile 0AB8:@TEditFile@writeRef$qr8opstreamrx9TEditFile 0AE8:@TEditFile@writePtr$qr8opstreampx9TEditFile 0B16:@TEditFile@Streamer@Read$xqr8ipstreamul 0B61:@TEditFile@Streamer@Write$xqr8opstream (02B1: 7F)
+                  11. 00 0000 0A40 0000:@TGauge@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TGauge@$bctr$qp7TWindowpxciiiiiulip7TModule 015D:@TGauge@SetRange$qii 0196:@TGauge@SetValue$qi 01E2:@TGauge@SetLed$qii 0200:@TGauge@PaintBorder$qr3TDC 0395:@TGauge@Paint$qr3TDCulr5TRect 0A34:@TGauge@EvEraseBkgnd$qul (02B1: 0C)
+                  12. 00 0000 0E62 0000:@TListView@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TListView@$bctr$qr9TDocumentp7TWindow 01C1:@TListView@SetExtent$qpc 023F:@TListView@VnDocClosed$qi 028E:@TListView@LoadData$qii 0430:@TListView@Create$qv 04E2:@TListView@VnCommit$qul 06A6:@TListView@VnRevert$qul 06E6:@TListView@EvGetDlgCode$qp7_tagMSG 06FB:@TListView@CmEditUndo$qv 0718:@TListView@CmEditCut$qv 0730:@TListView@CmEditCopy$qv 07D2:@TListView@CmEditPaste$qv 0864:@TListView@CmEditDelete$qv 08DB:@TListView@CmEditClear$qv 0A46:@TListView@CmEditAdd$qv 0AC6:@TListView@CmEditItem$qv 0B64:@TListView@Streamer@$bctr$qp15TStreamableBase 0BBE:@TListView@$bctr$q14StreamableInit 0C76:@TListView@readPtr$qr8ipstreamrp9TListView 0CCB:@TListView@readRef$qr8ipstreamr9TListView 0D00:@TListView@writeRef$qr8opstreamrx9TListView 0D30:@TListView@writePtr$qr8opstreampx9TListView 0D5E:@TListView@Streamer@Read$xqr8ipstreamul 0DB3:@TListView@Streamer@Write$xqr8opstream (02B1: F8)
+                  13. 00 0000 09DF 0000:@TEditView@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TEditView@$bctr$qr9TDocumentp7TWindow 01A8:@TEditView@EvNCDestroy$qv 01AF:@TEditView@$bdtr$qv 0236:@TEditView@VnDocClosed$qi 029B:@TEditView@LoadData$qv 047A:@TEditView@Create$qv 0535:@TEditView@VnCommit$qul 06AD:@TEditView@VnRevert$qul 06E1:@TEditView@Streamer@$bctr$qp15TStreamableBase 073B:@TEditView@$bctr$q14StreamableInit 07F3:@TEditView@readPtr$qr8ipstreamrp9TEditView 0848:@TEditView@readRef$qr8ipstreamr9TEditView 087D:@TEditView@writeRef$qr8opstreamrx9TEditView 08AD:@TEditView@writePtr$qr8opstreampx9TEditView 08DB:@TEditView@Streamer@Read$xqr8ipstreamul 0930:@TEditView@Streamer@Write$xqr8opstream (02B1: C0)
+                  14. 00 0000 1923 0000:@TGadgetWindow@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004E:@TGadgetWindowFont@$bctr$qiulul 011F:@TGadgetWindow@$bctr$qp7TWindow28TGadgetWindow@TTileDirectionp5TFontp7TModule 0448:@TGadgetWindow@$bdtr$qv 056C:@TGadgetWindow@EvSysColorChange$qv 063E:@TGadgetWindow@IdleAction$ql 06B2:@TGadgetWindow@GadgetWithId$xqi 06DB:@TGadgetWindow@SetShrinkWrap$qulul 0726:@TGadgetWindow@GadgetSetCapture$qr7TGadget 075F:@TGadgetWindow@GadgetReleaseCapture$qr7TGadget 078C:@TGadgetWindow@SetHintCommand$qi 07CC:@TGadgetWindow@SetMargins$qr8TMargins 0800:@TGadgetWindow@LayoutUnitsToPixels$qi 0824:@TGadgetWindow@GetMargins$qr8TMarginsrit2t2t2 0932:@TGadgetWindow@LayoutSession$qv 0968:@TGadgetWindow@GetDesiredSize$qr5TSize 0B63:@TGadgetWindow@Create$qv 0BBC:@TGadgetWindow@SetDirection$q28TGadgetWindow@TTileDirection 0D5E:@TGadgetWindow@GetInnerRect$qr5TRect 0DD2:@TGadgetWindow@PositionGadget$qp7TGadgett1r6TPoint 0DD9:@TGadgetWindow@TileHorizontally$qv 10AD:@TGadgetWindow@TileVertically$qv 12A6:@TGadgetWindow@TileGadgets$qv 1304:@TGadgetWindow@GadgetChangedSize$qr7TGadget 1323:@TGadgetWindow@Insert$qr7TGadget24TGadgetWindow@TPlacementp7TGadget 13DC:@TGadgetWindow@Remove$qr7TGadget 1527:@TGadgetWindow@EvSize$quir5TSize 1590:@TGadgetWindow@PaintGadgets$qr3TDCulr5TRect 1660:@TGadgetWindow@Paint$qr3TDCulr5TRect 16A0:@TGadgetWindow@GadgetFromPoint$xqr6TPoint 16F1:@TGadgetWindow@EvLButtonDown$quir6TPoint 1775:@TGadgetWindow@EvLButtonUp$quir6TPoint 17EE:@TGadgetWindow@EvLButtonDblClk$quir6TPoint 1813:@TGadgetWindow@EvMouseMove$quir6TPoint (02B1: 87)
+              47:
+                04BA........FF7510565250E8:
+                  0. 00 0000 09DD 0000:@TFloatingFrame@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004F:@TFloatingFrame@$bctr$qp7TWindowpct1uliulp7TModule 020E:@TFloatingFrame@EvCommand$quiului 0258:@TFloatingFrame@GetClassName$qv 0264:@TFloatingFrame@SetupWindow$qv 02E5:@FindFCSwp$qp4_SWPuiul 0314:@TFloatingFrame@FormatFrame$quil 0546:@TFloatingFrame@EvPaint$qv 0685:@TFloatingFrame@Streamer@$bctr$qp15TStreamableBase 06DF:@TFloatingFrame@$bctr$q14StreamableInit 081B:@TFloatingFrame@readPtr$qr8ipstreamrp14TFloatingFrame 0870:@TFloatingFrame@readRef$qr8ipstreamr14TFloatingFrame 08A5:@TFloatingFrame@writeRef$qr8opstreamrx14TFloatingFrame 08D5:@TFloatingFrame@writePtr$qr8opstreampx14TFloatingFrame 0903:@TFloatingFrame@Streamer@Read$xqr8ipstreamul 0945:@TFloatingFrame@Streamer@Write$xqr8opstream (016F: 80)
+                  1. 00 0000 0191 0000:@TCommonDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004F:@TCommonDialog@$bctr$qp7TWindowpxcp7TModule6TResId 013B:@TCommonDialog@SetupWindow$qv 015F:@TCommonDialog@CmOkCancel$qv (016F: 04)
+                  2. 00 0000 04B3 0000:@TChooseFontDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004F:@TChooseFontDialog@$bctr$qp7TWindowr23TChooseFontDialog@TData6TResIdpxcp7TModule 0138:@TChooseFontDialog@DoExecute$qv 03A7:@TChooseFontDialog@EvInitDialog$qul (016F: 85)
+                  3. 00 0000 042D 0000:@TChooseColorDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004F:@TChooseColorDialog@$bctr$qp7TWindowr24TChooseColorDialog@TData6TResIdpxcp7TModule 014A:@TChooseColorDialog@DoExecute$qv 0186:@TChooseColorDialog@EvInitDialog$qul 03D3:@TChooseColorDialog@EvChildNotify$qui (016F: 08)
+                  4. 00 0000 172D 0000:@TPrintDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 004F:@TPrintDialog@$bctr$qp7TWindowr18TPrintDialog@TData6TResIdt3pxcp7TModule 0219:@TPrintDialog@DialogFunction$quiuil 0231:@TPrintDialog@DoExecute$qv 07F9:@TPrintDialog@GetDefaultPrinter$qv 0835:@TPrintDialog@CreateDC$qv 08FD:@TPrintDialog@EvInitDialog$qul 0B07:@TPrintDialog@EvPageSelectNotify$qv 0BAF:@TPrintDialog@EvDialogExit$qv 0BFC:@TPrintDialog@EvDialogCancel$qv 0C1A:@TPrintDialog@EvCheckFields$qv 0C6E:@TPrintDialog@CheckIntField$quiruiuiui 0D6E:@TPrintDialog@EvPrinterChanged$qv 0E23:@TPrintDialog@InitPRINTDLG$qpxc 10BF:@TPrintDialog@EvPostJobProperties$qv 112E:@TPrintDialog@TData@$bctr$qv 1188:@TPrintDialog@TData@$bdtr$qv 1220:@TPrintDialog@TData@Lock$qv 1227:@TPrintDialog@TData@Unlock$qv 1288:@TPrintDialog@TData@ClearDevMode$qv 12A3:@TPrintDialog@TData@SetDevMode$qpx10tagDEVMODE 12E4:@TPrintDialog@TData@ClearDevNames$qv 12FF:@TPrintDialog@TData@GetDriverName$xqv 132C:@TPrintDialog@TData@GetDeviceName$xqv 135A:@TPrintDialog@TData@GetOutputName$xqv 1388:@TPrintDialog@TData@SetDevNames$qpxct1t1 148B:@TPrintDialog@TData@TransferDC$qv 1512:@TPrintDialog@TData@Read$qr8ipstreamul 1634:@TPrintDialog@TData@Write$qr8opstream (016F: 0F)
+                  5. 00 0000 11AA 0000:@TMDIClient@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TMDIClient@$bctr$qp7TModule 013A:@TMDIClient@$bctr$qulp7TModule 01F0:@TMDIClient@$bdtr$qv 0279:@TMDIClient@GetClassName$qv 0285:@TMDIClient@GetActiveMDIChild$qv 0506:@TMDIClient@ArrangeIcons$qv 0571:@TMDIClient@CascadeChildren$qv 0580:@TMDIClient@TileChildren$qi 0592:@TMDIClient@Create$qv 05F7:@TMDIClient@CreateChild$qv 0645:@TMDIClient@InitChild$qv 0737:@TMDIClient@CloseChildren$qv 0770:@TMDIClient@EvMDICreate$qr18tagMDICREATESTRUCT 0779:@TMDIClient@EvMDIDestroy$qul 0822:@TMDIClient@EvSize$quir5TSize 084C:@TMDIClient@CmChildActionEnable$qr15TCommandEnabler 0893:@TMDIClient@Streamer@$bctr$qp15TStreamableBase 08ED:@TMDIClient@$bctr$q14StreamableInit 0994:@TMDIClient@readPtr$qr8ipstreamrp10TMDIClient 09E9:@TMDIClient@readRef$qr8ipstreamr10TMDIClient 0A1E:@TMDIClient@writeRef$qr8opstreamrx10TMDIClient 0A4E:@TMDIClient@writePtr$qr8opstreampx10TMDIClient 0A7C:@TMDIClient@Streamer@Read$xqr8ipstreamul 0ADB:@TMDIClient@Streamer@Write$xqr8opstream 0C21:@TMDIClient@DefaultLocation$qr6TPointr5TSize 0CBE:@TMDIClient@Cascade$qv 0FC8:@TMDIClient@Tile$qi (016F: FC)
+                  6. 00 0000 0CBF 0000:@TDialog@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TDialog@$bctr$qp7TWindow6TResIdp7TModule 0179:@TDialog@$bdtr$qv 01FA:@TDialog@GetClassName$qv 0206:@TDialog@EvPaint$qv 0217:@TDialog@DefWindowProc$quiuil 0267:@TDialog@DialogFunction$quiuil 0270:@TDialog@EvPMSysCommand$quil 02F3:@TDialog@Create$qv 0442:@TDialog@DoCreate$qv 055D:@TDialog@Execute$qv 0681:@TDialog@DoExecute$qv 077B:@TDialog@PerformDlgInit$qv 07B6:@TDialog@EvInitDialog$qul 07FB:@TDialog@SetupWindow$qv 081B:@TDialog@CloseWindow$qi 087A:@TDialog@Destroy$qi 08C7:@TDialog@GetDlgCtrlId$xqul 08DF:@TDialog@CmOk$qv 08FD:@TDialog@CmCancel$qv 091B:@TDialog@EvClose$qv 092A:@TDialog@GetDefaultId$xqv 0993:@TDialog@SetDefaultId$qui 09C8:@TDialog@Streamer@$bctr$qp15TStreamableBase 0A22:@TDialog@$bctr$q14StreamableInit 0AD0:@TDialog@readPtr$qr8ipstreamrp7TDialog 0B25:@TDialog@readRef$qr8ipstreamr7TDialog 0B5A:@TDialog@writeRef$qr8opstreamrx7TDialog 0B8A:@TDialog@writePtr$qr8opstreampx7TDialog 0BB8:@TDialog@Streamer@Read$xqr8ipstreamul 0C0B:@TDialog@Streamer@Write$xqr8opstream (016F: 64)
+                  7. 00 0000 1AD0 0000:@TLayoutWindow@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TChildMetrics@$bctr$qr7TWindowr14TLayoutMetrics 00E0:@TConstraint@$bctr$qv 013D:@TConstraint@IsResolved$qv 01BA:@TConstraint@Evaluate$qv 023A:@TConstraint@NumActualInputs$qv 0262:@TLayoutMetrics@$bctr$qv 03A1:@TLayoutMetrics@SetMeasurementUnits$q17TMeasurementUnits 0407:@TLayoutWindow@$bctr$qp7TWindowpxcp7TModule 0533:@TLayoutWindow@$bdtr$qv 05F8:@TLayoutWindow@EvSize$quir5TSize 06BC:@TLayoutWindow@SetChildLayoutMetrics$qr7TWindowr14TLayoutMetrics 0780:@TLayoutWindow@RemoveChildLayoutMetrics$qr7TWindow 09A6:@TLayoutWindow@GetChildMetrics$qr7TWindow 09CC:@TLayoutWindow@GetChildLayoutMetrics$qr7TWindowr14TLayoutMetrics 0A0D:@TLayoutWindow@RemoveChild$qp7TWindow 0A2E:@TLayoutWindow@LayoutUnitsToPixels$qi 0A4E:@TLayoutWindow@ExecutePlan$qv 0A71:@TLayoutWindow@ClearPlan$qv 0AB1:@TLayoutWindow@BuildPlan$qv 0F2F:@TLayoutWindow@AddConstraint$qr13TChildMetricsp17TLayoutConstraint30TLayoutWindow@TWhichConstraint 155B:@TLayoutWindow@RemoveConstraints$qr13TChildMetrics 15FE:@TLayoutWindow@BuildConstraints$qr13TChildMetrics 189F:@TLayoutWindow@GetFontHeight$qv 18E1:@TLayoutWindow@Layout$qv (016F: 74)
+                  8. 00 0000 2194 0000:@TFrameWindow@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TMenuItemEnabler@Enable$qul 00B2:@TMenuItemEnabler@SetText$qpxc 00D6:@TMenuItemEnabler@SetCheck$qi 012D:@TFrameWindow@$bctr$qp7TWindowpxct1ulp7TModule 020C:@TFrameWindow@$bctr$qulp7TModule 02C4:@TFrameWindow@$bctr$qv 037E:@TFrameWindow@Init$qp7TWindowul 03C8:@TFrameWindow@Init$qp7TWindow 0477:@TFrameWindow@$bdtr$qv 0500:@TFrameWindow@EvInitMenuPopup$qp4MENUuiul 05E4:@TFrameWindow@IdleAction$ql 0646:@TFrameWindow@EvCommand$quiului 06F4:@TFrameWindow@EvCommandEnable$qr15TCommandEnabler 09CC:@TFrameWindow@SetMenu$qp4MENU 09E1:@TFrameWindow@AssignMenu$q6TResId 0A0D:@TFrameWindow@SetInitMenu$qv 0AC2:@TFrameWindow@SetIcon$qp7TModule6TResId 0B3F:@TFrameWindow@GetClientWindow$xqv 0B4C:@TFrameWindow@SetClientWindow$qp7TWindow 0C27:@TFrameWindow@SetDocTitle$qpxci 0D71:@TFrameWindow@PerformCreate$qi 0F47:@TFrameWindow@GetClassName$qv 0F53:@TFrameWindow@EvPaint$qv 1032:@TFrameWindow@EvEraseBkgnd$qul 1152:@TFrameWindow@FirstChildWithTab$qv 1189:@TFrameWindow@HoldFocusHWnd$qulul 11D1:@TFrameWindow@EvSetFocus$qul 1260:@TFrameWindow@EvParentNotify$quiuiui 12FC:@TFrameWindow@ResizeClientWindow$qul 14F6:@TFrameWindow@EvAdjustWindowPos$quil 15FB:@TFrameWindow@EvModalFocus$quil 1611:@TFrameWindow@EvPMSetFocus$quil 1678:@TFrameWindow@EvPMChar$quil 16C6:@TFrameWindow@SetupWindow$qv 17BE:@TFrameWindow@EvSize$quir5TSize 199B:@TFrameWindow@SetMenuDescr$qrx10TMenuDescr 1A61:@TFrameWindow@MergeMenu$qrx10TMenuDescr 1C6E:@TFrameWindow@RestoreMenu$qv 1CB9:@TFrameWindow@Streamer@$bctr$qp15TStreamableBase 1D13:@TFrameWindow@$bctr$q14StreamableInit 1DC1:@TFrameWindow@readPtr$qr8ipstreamrp12TFrameWindow 1E16:@TFrameWindow@readRef$qr8ipstreamr12TFrameWindow 1E4B:@TFrameWindow@writeRef$qr8opstreamrx12TFrameWindow 1E7B:@TFrameWindow@writePtr$qr8opstreampx12TFrameWindow 1EA9:@TFrameWindow@Streamer@Read$xqr8ipstreamul 2030:@TFrameWindow@Streamer@Write$xqr8opstream (016F: FF)
+                08BA........FF7510565250E8:
+                  0. 00 0000 0A54 0000:@TMDIChild@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TMDIChild@$bctr$qr10TMDIClientpxcp7TWindowulp7TModule 01C0:@TMDIChild@$bctr$qulp7TModule 02EF:@TMDIChild@Destroy$qi 0353:@TMDIChild@PerformCreate$qi 055D:@TMDIChild@EvMDIActivate$qulul 0741:@TMDIChild@Streamer@$bctr$qp15TStreamableBase 079B:@TMDIChild@$bctr$q14StreamableInit 08B7:@TMDIChild@readPtr$qr8ipstreamrp9TMDIChild 090C:@TMDIChild@readRef$qr8ipstreamr9TMDIChild 0941:@TMDIChild@writeRef$qr8opstreamrx9TMDIChild 0971:@TMDIChild@writePtr$qr8opstreampx9TMDIChild 099F:@TMDIChild@Streamer@Read$xqr8ipstreamul 09D1:@TMDIChild@Streamer@Write$xqr8opstream (05F9: 6A)
+                  1. 00 0000 08BA 0000:@TMDIFrame@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0051:@TMDIFrame@$bctr$qpxc6TResIdr10TMDIClientp7TModule 01CD:@TMDIFrame@$bctr$qululp7TModule 0374:@TMDIFrame@PerformCreate$qi 03A1:@TMDIFrame@FindChildMenu$qp4MENU 04DE:@TMDIFrame@SetMenu$qp4MENU 052E:@TMDIFrame@GetClientWindow$xqv 0579:@TMDIFrame@Streamer@$bctr$qp15TStreamableBase 05D3:@TMDIFrame@$bctr$q14StreamableInit 06EF:@TMDIFrame@readPtr$qr8ipstreamrp9TMDIFrame 0744:@TMDIFrame@readRef$qr8ipstreamr9TMDIFrame 0779:@TMDIFrame@writeRef$qr8opstreamrx9TMDIFrame 07A9:@TMDIFrame@writePtr$qr8opstreampx9TMDIFrame 07D7:@TMDIFrame@Streamer@Read$xqr8ipstreamul 0837:@TMDIFrame@Streamer@Write$xqr8opstream (05F9: 47)
+                  2. 00 0000 061A 0000:@TDecoratedMDIFrame@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 006D:@TDecoratedMDIFrame@$bctr$qpxc6TResIdr10TMDIClientulp7TModule 024A:@TDecoratedMDIFrame@DefWindowProc$quiuil 0281:@TDecoratedMDIFrame@Streamer@$bctr$qp15TStreamableBase 02DB:@TDecoratedMDIFrame@$bctr$q14StreamableInit 0461:@TDecoratedMDIFrame@readPtr$qr8ipstreamrp18TDecoratedMDIFrame 04B6:@TDecoratedMDIFrame@readRef$qr8ipstreamr18TDecoratedMDIFrame 04EB:@TDecoratedMDIFrame@writeRef$qr8opstreamrx18TDecoratedMDIFrame 051B:@TDecoratedMDIFrame@writePtr$qr8opstreampx18TDecoratedMDIFrame 0549:@TDecoratedMDIFrame@Streamer@Read$xqr8ipstreamul 0589:@TDecoratedMDIFrame@Streamer@Write$xqr8opstream (05F9: C3)
+            8BC6BA........8917894704BA........8917BA:
+              0. 00 0000 0861 0000:@TWindow@Streamer@$bctr$qp15TStreamableBase 005A:@TWindow@$bctr$q14StreamableInit 00E5:@TWindow@readPtr$qr8ipstreamrp7TWindow 013A:@TWindow@readRef$qr8ipstreamr7TWindow 016F:@TWindow@writeRef$qr8opstreamrx7TWindow 019F:@TWindow@writePtr$qr8opstreampx7TWindow 01CD:@TWindow@Streamer@Read$xqr8ipstreamul 053A:@TWindow@Streamer@Write$xqr8opstream
+          C70700000000C745FC000000008B45FC8907A1:
+            0. 75 375A 0124 0000:@TMenuDescr@$bctr$qv 0044:@TMenuDescr@$bctr$q6TResIdiiiiiip7TModule 0087:@$brsh$qr8ipstreamr10TMenuDescr 00D7:@$blsh$qr8opstreamrx10TMenuDescr
+      8B:
+        45088B780485FF74078B078945FCEB07C745FC00000000B8:
+          0. 00 0000 003F 0000:@TNewStreamer@StreamableName$xqv
+        7D:
+          08:
+            837F34FF0F95C00FB6C085C08945FC7515837F1C000F95C0:
+              0. 16 4A1C 0036 0000:@TFileDocument@IsOpen$qv
+            8B:
+              0768E37F000050E8........FF37E8C701000089470C8B:
+                0. 4F 4138 4653 0000:@TDC@Init$qi 0108:@TDC@$bdtr$qv 013C:@TDC@TState@Alloc$qv 018C:@TDC@TState@Release$qus 01E3:@TDC@TState@FindPS$qul 020B:@TDC@TState@RegisterPS$qul 0275:@TDC@TState@UnRegisterPS$qul 02BE:@TDC@Erase$qv 02D2:@TDC@GetClipRgn$xqr7TRegion 0308:@TDC@OWLFastWindowFrame$qr6TBrushr5TRectii 039E:@TDC@SaveDC$xqv 03B2:@TDC@RestoreDC$qi 03CA:@TDC@GetDeviceCaps$xqi 0448:@TDC@SelectObject$qrx6TBrush 046D:@TDC@SelectObject$qrx4TPen 04B6:@TDC@SelectObject$qrx5TFont 04C8:@TDC@SelectObject$qrx8TPaletteul 04E2:@TDC@SelectStockObject$qi 0624:@TDC@RestoreBrush$qv 063E:@TDC@RestorePen$qv 0658:@TDC@RestoreFont$qv 066F:@TDC@RestorePalette$qv 069D:@TDC@RestoreObjects$qv 06D1:@TDC@GetBrushOrg$xqr6TPoint 0737:@TDC@SetBrushOrg$qrx6TPointp6TPoint 07BB:@TDC@GetNearestColor$xq6TColor 07E1:@TDC@RealizePalette$qv 07EA:@TDC@UpdateColors$qv 07F1:@TDC@GetSystemPaletteUse$xqv 07FD:@TDC@SetSystemPaletteUse$qi 0806:@TDC@GetSystemPaletteEntries$xqiip15tagPALETTEENTRY 0826:@TDC@GetBkColor$xqv 0845:@TDC@SetBkColor$q6TColor 087A:@TDC@GetBkMode$xqv 088E:@TDC@SetBkMode$qi 08B9:@TDC@GetPolyFillMode$xqv 08C9:@TDC@SetPolyFillMode$qi 08E6:@TDC@GetROP2$xqv 08FA:@TDC@SetROP2$qi 0925:@TDC@GetStretchBltMode$xqv 0935:@TDC@SetStretchBltMode$qi 0952:@TDC@GetTextColor$xqv 0979:@TDC@SetTextColor$q6TColor 09CD:@TDC@AdjustPMViewport$qv 0C10:@TDC@GetMapMode$xqv 0C20:@TDC@SetMapMode$qi 0CFD:@TDC@SetWorldTransform$qr8tagXFORM 0D8E:@TDC@ModifyWorldTransform$qr8tagXFORMul 0E41:@TDC@GetViewportOrg$xqr6TPoint 0E61:@TDC@SetViewportOrg$qrx6TPointp6TPoint 0EE3:@TDC@OffsetViewportOrg$qrx6TPointp6TPoint 0F2C:@TDC@GetViewportExt$xqr5TSize 0F4C:@TDC@SetViewportExt$qrx5TSizep5TSize 0FDB:@TDC@ScaleViewportExt$qiiiip5TSize 104B:@TDC@GetWindowOrg$xqr6TPoint 106B:@TDC@SetWindowOrg$qrx6TPointp6TPoint 10ED:@TDC@OffsetWindowOrg$qrx6TPointp6TPoint 1136:@TDC@GetWindowExt$xqr5TSize 1156:@TDC@SetWindowExt$qrx5TSizep5TSize 11C8:@TDC@ScaleWindowExt$qiiiip5TSize 122B:@TDC@DPtoLP$xqp6TPointi 126F:@TDC@LPtoDP$xqp6TPointi 12C0:@TDC@GetClipBox$xqr5TRect 12D8:@TDC@ExcludeClipRect$qrx5TRect 12F0:@TDC@ExcludeUpdateRgn$qul 1308:@TDC@IntersectClipRect$qrx5TRect 1320:@TDC@OffsetClipRgn$qrx6TPoint 1338:@TDC@SelectClipRgn$qrx7TRegion 1398:@TDC@PtVisible$xqrx6TPoint 13B9:@TDC@RectVisible$xqrx5TRect 13D4:@TDC@GetBoundsRect$xqr5TRectus 143A:@TDC@SetBoundsRect$qr5TRectui 14FC:@TDC@GetCurrentPosition$xqr6TPoint 151C:@TDC@MoveTo$qrx6TPoint 1549:@TDC@DrawIcon$qiirx5TIcon 156C:@TDC@DrawIcon$qrx6TPointrx5TIcon 1597:@TDC@BrushBox$xqrx5TRectpx11TAreaBundle 1644:@TDC@FrameRect$qrx5TRectrx6TBrush 16A8:@TDC@FillRect$qrx5TRectrx6TBrush 16BF:@TDC@InvertRect$qrx5TRect 176E:@TDC@DrawFocusRect$qrx5TRect 1785:@TDC@TextRect$qrx5TRect 17AE:@TDC@TextRect$qrx5TRect6TColor 17E8:@TDC@FrameRgn$qrx7TRegionrx6TBrushrx5TSize 1880:@TDC@FillRgn$qrx7TRegionrx6TBrush 1914:@TDC@InvertRgn$qrx7TRegion 19A6:@TDC@PaintRgn$qrx7TRegion 19C9:@TDC@SetArcParams$xqrx5TRectr6TPoint 1A3E:@TDC@PieArcChord$xqrx5TRectrx6TPointt2rlt4t4r6TPoint 1B68:@TDC@SetArcDirection$qi 1B85:@TDC@Arc$qrx5TRectrx6TPointt2 1C2E:@TDC@Chord$qrx5TRectrx6TPointt2 1D4D:@TDC@Pie$qrx5TRectrx6TPointt2 1E4B:@TDC@Ellipse$qrx5TRect 1F28:@TDC@LineTo$qrx6TPoint 1FA0:@TDC@Polyline$qpx6TPointi 201B:@TDC@Polygon$qpx6TPointi 20E9:@TDC@PolyPolygon$qpx6TPointxpxii 2133:@TDC@RoundRect$qrx5TRectrx6TPoint 220A:@TDC@GetPixel$xqii 2234:@TDC@GetPixel$xqrx6TPoint 2257:@TDC@SetPixel$qii6TColor 228A:@TDC@SetPixel$qrx6TPoint6TColor 22EF:@TDC@Blt$xqulp6TPointul 2417:@TDC@BitBlt$qiiiirx3TDCiiul 24D9:@TDC@BitBlt$qrx5TRectrx3TDCrx6TPointul 2590:@TDC@PatBlt$qiiiiul 262B:@TDC@PatBlt$qrx5TRectul 26A4:@TDC@ScrollDC$qiirx5TRectt3r7TRegionr5TRect 26D2:@TDC@ScrollDC$qrx5TSizerx5TRectt2r7TRegionr5TRect 2AE5:@TDC@StretchBlt$qiiiirx3TDCiiiiul 2BA7:@TDC@StretchBlt$qrx5TRectrx3TDCt1ul 2C28:@TDC@GetDIBits$qrx7TBitmapususpvrx13tagBITMAPINFOus 2D22:@TDC@GetDIBits$qrx7TBitmapr4TDib 2E1E:@TDC@SetDIBits$qr7TBitmapususpxvrx13tagBITMAPINFOus 2F18:@TDC@SetDIBits$qr7TBitmaprx4TDib 3014:@TDC@DrawBits$qxpx6TPointpxvpx13tagBITMAPINFOui 30CD:@TDC@SetDIBitsToDevice$qrx5TRectrx6TPointususpxvrx13tagBITMAPINFOus 31A8:@TDC@SetDIBitsToDevice$qrx5TRectrx6TPointrx4TDib 3261:@TDC@StretchDIBits$qrx5TRectt1pxvrx13tagBITMAPINFOusul 32F0:@TDC@StretchDIBits$qrx5TRectt1rx4TDibul 3380:@TDC@FloodFill$qrx6TPoint6TColor 339D:@TDC@ExtFloodFill$qrx6TPoint6TColorus 33D4:@TDC@TextOut$xqrx6TPointpxcilpx5TRectpxi 34C0:@TDC@TextOut$qiipxci 34EE:@TDC@ExtTextOut$qiiuspx5TRectpxcipxi 358F:@TDC@TabbedTextOut$qrx6TPointpxciipxiir5TSize 36AE:@TDC@DrawText$qpxcirx5TRectus 38D6:@TDC@GrayString$qrx6TBrushpqulli$ulpxcirx5TRect 3B23:@TDC@GetTextExtent$xqpxcir5TSize 3B73:@TDC@GetTabbedTextExtent$xqpxciipxir5TSize 3C6A:@TDC@GetTextAlign$xqv 3CA1:@TDC@SetTextAlign$qui 3CEE:@TDC@GetTextCharacterExtra$xqv 3D0E:@TDC@SetTextCharacterExtra$qi 3D42:@TDC@SetTextJustification$qii 3D70:@TDC@GetTextFace$xqipc 3F12:@FillLogFont$qulr14tagENUMLOGFONTir12_FONTMETRICS 40CD:@TDC@EnumerateFonts$xqipxcpqpx14tagENUMLOGFONTpx16tagNEWTEXTMETRICil$ipv 42B5:@TDC@GetTextMetrics$xqr13tagTEXTMETRIC 42F4:@TDC@GetKerningPairs$qip14tagKERNINGPAIR 430F:@TDC@GetCharWidth$quiuipi 4338:@TDC@SetMapperFlags$qul 4355:@TDC@GetAspectRatioFilter$xqr5TSize 4379:@TDC@EnumFonts$xqpxcpqpx10tagLOGFONTpx13tagTEXTMETRICil$ipv 4393:@TDC@EnumFontFamilies$xqpxcpqpx14tagENUMLOGFONTpx16tagNEWTEXTMETRICil$ipv 43AD:@TDC@BeginPath$qv 43CD:@TDC@CloseFigure$qv 43E1:@TDC@EndPath$qv 43FE:@TDC@FillPath$qv 4417:@TDC@StrokePath$qv 4430:@TDC@StrokeAndFillPath$qv 4449:@TDC@SelectClipPath$qi 44BB:@TDC@PathToRegion$qv 44DA:@TDC@BeginWideLine$xqv 460E:@TDC@EndWideLine$xqpx11TAreaBundle
+              45:
+                1050FF750C57E8........B8........8947088B4708:
+                  0. 16 00AC 03AF 0000:@TPrintDC@$bctr$qul11TAutoDelete 0043:@TPrintDC@$bctr$qpxct1t1px10tagDEVMODE 008B:@TPrintDC@DeviceCapabilities$qpxct1t1ipcp10tagDEVMODE 0094:@TPrintDC@SetMapMode$qi 02AF:@TPrintDC@Escape$qiipxvpv 02F8:@TPrintDC@SetAbortProc$qpquli$ul 0301:@TPrintDC@StartDoc$qpxct1 0324:@TPrintDC@StartPage$qv 032D:@TPrintDC@BandInfo$qr9TBandInfo 0336:@TPrintDC@NextBand$qr5TRect 033F:@TPrintDC@EndPage$qv 0359:@TPrintDC@AbortDoc$qv 0373:@TPrintDC@EndDoc$qv 038D:@TPrintDC@QueryEscSupport$qi 03A6:@TPrintDC@SetCopyCount$qiri
+                1485C0740C8B4514488B04078945FCEB03897DFC8B45:
+                  0. FF 8FCA 0810 0000:@LRESULT_WPARAM_LPARAM_Dispatch$qr7GENERICM7GENERICquil$luil 0035:@v_Dispatch$qr7GENERICM7GENERICqv$vuil 0066:@v_WPARAM_LPARAM_Dispatch$qr7GENERICM7GENERICquil$vuil 009D:@t_WPARAM_LPARAM_Dispatch$qr7GENERICM7GENERICquil$vuil 00D7:@v_U_U_Dispatch$qr7GENERICM7GENERICquiui$vuil 010F:@v_U_U_U_Dispatch$qr7GENERICM7GENERICquiuiui$vuil 014F:@U_U_U_U_Dispatch$qr7GENERICM7GENERICquiuiui$uiuil 018D:@v_LPARAM_Dispatch$qr7GENERICM7GENERICql$vuil 01C1:@i_LPARAM_Dispatch$qr7GENERICM7GENERICql$iuil 01F3:@v_WPARAM_Dispatch$qr7GENERICM7GENERICqui$vuil 0227:@i_WPARAM_Dispatch$qr7GENERICM7GENERICqui$uluil 0259:@v_U_U_W_Dispatch$qr7GENERICM7GENERICquiuiul$vuil 0299:@LRESULT_U_U_W_Dispatch$qr7GENERICM7GENERICquiuiul$luil 02D8:@v_U_POINT_Dispatch$qr7GENERICM7GENERICquir6TPoint$vuil 032A:@v_POINT_Dispatch$qr7GENERICM7GENERICqr6TPoint$vuil 0375:@v_U_SIZE_Dispatch$qr7GENERICM7GENERICquir5TSize$vuil 03C3:@U_LPARAM_Dispatch$qr7GENERICM7GENERICql$uiuil 03F5:@U_WPARAM_LPARAM_Dispatch$qr7GENERICM7GENERICquil$uiuil 042A:@U_POINT_Dispatch$qr7GENERICM7GENERICqr6TPoint$uiuil 0473:@U_Dispatch$qr7GENERICM7GENERICqv$uiuil 04A2:@i_U_W_U_Dispatch$qr7GENERICM7GENERICquiului$iuil 04E1:@v_W_W_Dispatch$qr7GENERICM7GENERICqulul$vuil 0519:@v_U_B_W_Dispatch$qr7GENERICM7GENERICquiulul$vuil 055A:@HBRUSH_HDC_W_U_Dispatch$qr7GENERICM7GENERICqulului$px11TAreaBundleuil 0598:@v_POINTER_Dispatch$qr7GENERICM7GENERICqpv$vuil 05CC:@v_ParentNotify_Dispatch$qr7GENERICM7GENERICquiuiui$iuil 060D:@Key_Dispatch$qr7GENERICM7GENERICquiuiui$vuil 069D:@InitMenu_Dispatch$qr7GENERICM7GENERICqp4MENU$vuil 06D1:@InitMenuPopup_Dispatch$qr7GENERICM7GENERICqp4MENUuiul$vuil 0744:@MenuSelect_Dispatch$qr7GENERICM7GENERICquiuiul$vuil
+              47:
+                088B8088000000578945FC8B45FCFFD05FC9C20400:
+                  0. 00 0000 001F 0000:@TEdit@CmEditClear$qv
+                0C8B40:
+                  04578945FC8B45FCFFD05FC9C20400:
+                    0. 00 0000 001C 0000:@TMDIClient@CmCloseChildren$qv
+                  08578945FC8B45FCFFD05FC9C20400:
+                    0. 00 0000 001C 0000:@TMDIClient@CmArrangeIcons$qv
+                  0C578945FC8B45FCFFD05FC9C20400:
+                    0. 00 0000 001C 0000:@TMDIClient@CmCascadeChildren$qv
+                  106A:
+                    00578945FC8B45FCFFD05FC9C20400:
+                      0. 00 0000 001E 0000:@TMDIClient@CmTileChildren$qv
+                    01578945FC8B45FCFFD05FC9C20400:
+                      0. 00 0000 001E 0000:@TMDIClient@CmTileChildrenHoriz$qv
+                  18578945FC8B45FCFFD05FC9C20400:
+                    0. 00 0000 001C 0000:@TMDIClient@CmCreateChild$qv
+            A1........FF0885FF74218B078B008B40548B1757528945:
+              0. 10 637D 0039 0000:@TStream@$bdtr$qv
+          0C85FF74088B47148945FCEB088B45088B008945FC8B45FC5F:
+            0. 71 0C34 1AB1 0000:@TDocument@List@Next$qpx9TDocument 0024:@TDocument@List@Insert$qp9TDocument 0055:@TDocument@List@Remove$qp9TDocument 0087:@TDocument@List@Destroy$qv 00E2:@TDocument@$bctr$qp9TDocument 01EA:@TDocument@$bdtr$qv 03D3:@TDocument@PropertyName$qi 0405:@TDocument@PropertyFlags$qi 0437:@TDocument@FindProperty$qpxc 046D:@TDocument@GetProperty$qipvi 05AC:@TDocument@SetProperty$qipxv 05F4:@TDocument@RootDocument$qv 060E:@TDocument@SetDocManager$qr11TDocManager 0647:@GetFileTitle$qpxcpci 06E4:@TDocument@SetDocPath$qpxc 077C:@TDocument@SetTitle$qpxc 07B8:@TDocument@SetTemplate$qp12TDocTemplate 083B:@TDocument@ReindexFrames$qv 08C8:@TDocument@AttachStream$qr7TStream 08E2:@TDocument@DetachStream$qr7TStream 0910:@TDocument@NextStream$qpx7TStream 0935:@TDocument@NextView$qpx5TView 095A:@TDocument@AttachView$qr5TView 0994:@TDocument@InitView$qp5TView 0AB1:@TDocument@Commit$qul 0AFB:@TDocument@Revert$qul 0B45:@TDocument@DetachView$qr5TView 0BE0:@TDocument@DetachInvalidView$qv 0C67:@TDocument@NotifyViews$qilp5TView 0D19:@TDocument@QueryViews$qilp5TView 0DC5:@TDocument@IsDirty$qv 0E23:@TDocument@HasFocus$qul 0E6F:@TDocument@CanClose$qv 0EBD:@TDocument@Close$qv 0EF9:@TDocument@PostError$quiui 0F21:@TView@$bctr$qr9TDocument 0F99:@TView@$bdtr$qv 104E:@TView@SetViewMenu$qp10TMenuDescr 1092:@TView@PropertyName$qi 10C4:@TView@PropertyFlags$qi 10F6:@TView@FindProperty$qpxc 112C:@TView@GetProperty$qipvi 11E1:@TWindowView@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 122F:@B_long_Dispatch$qr7GENERICM7GENERICql$iuil 1261:@B_int_Dispatch$qr7GENERICM7GENERICqi$iuil 1293:@B_void_Dispatch$qr7GENERICM7GENERICqv$iuil 12C2:@B_pointer_Dispatch$qr7GENERICM7GENERICqpv$iuil 12F4:@TView@Streamer@$bctr$qp15TStreamableBase 134E:@TView@$bctr$q14StreamableInit 13A7:@TView@readPtr$qr8ipstreamrp5TView 13FC:@TView@readRef$qr8ipstreamr5TView 1431:@TView@writeRef$qr8opstreamrx5TView 1461:@TView@writePtr$qr8opstreampx5TView 148F:@TView@Streamer@Read$xqr8ipstreamul 153B:@TView@Streamer@Write$xqr8opstream 15A2:@TDocument@Streamer@$bctr$qp15TStreamableBase 15FC:@TDocument@$bctr$q14StreamableInit 162D:@TDocument@readPtr$qr8ipstreamrp9TDocument 1682:@TDocument@readRef$qr8ipstreamr9TDocument 16A3:@TDocument@writeRef$qr8opstreamrx9TDocument 16BE:@TDocument@writePtr$qr8opstreampx9TDocument 16D7:@TDocument@Streamer@Read$xqr8ipstreamul 1767:@TDocument@Streamer@Write$xqr8opstream 17E2:@TWindowView@Streamer@$bctr$qp15TStreamableBase 183C:@TWindowView@$bctr$q14StreamableInit 18F4:@TWindowView@readPtr$qr8ipstreamrp11TWindowView 1949:@TWindowView@readRef$qr8ipstreamr11TWindowView 197E:@TWindowView@writeRef$qr8opstreamrx11TWindowView 19AE:@TWindowView@writePtr$qr8opstreampx11TWindowView 19DC:@TWindowView@Streamer@Read$xqr8ipstreamul 1A1E:@TWindowView@Streamer@Write$xqr8opstream
+    8B450825F0FF00003D000200007509C745FC........EB07C745FC00:
+      0. 1E 5067 0050 0000:GetDocTemplateHead 0028:GetModulePtr
+  08:
+    0000:
+      5357568B75088B460D85C0750883C8FFE9A100000031FF8B460D4889:
+        0. 1E 44CC 00C1 0000:@%TMSVectorImp$t6string$t18TStandardAllocator%@Find$xqrx6string
+      57:
+        568B75088B7D0C8975FCC745F8000000000FBE0783E82A741683E8:
+          0. 3C A54E 01AA 008C:@TProfile@$bctr$qpxc 00ED:@TProfile@$bdtr$qv 0122:@TProfile@GetInt$qpxct1i 0140:@TProfile@GetString$qpxct1pcuit1 0164:@TProfile@WriteInt$qpxct1i 018C:@TProfile@WriteString$qpxct1t1
+        8B7D08:
+          57E8........85C00F95C00FB6C085C08945FC74248B87:
+            96:
+              0. 29 C8E3 0049 0000:@TWindowView@CanClose$qv
+            9A:
+              0. 29 EDF6 0049 0000:@TListView@CanClose$qv
+            BE:
+              0. 29 169D 0049 0000:@TEditView@CanClose$qv
+          B8........8907A1........FF00BA........89178B450C:
+            0. AF 4389 10F2 0000:@TScroller@$bctr$qp7TWindowiill 00DC:@TScroller@$bdtr$qv 0121:@TScroller@SetPageSize$qv 01C1:@TScroller@SetRange$qll 01FD:@TScroller@SetUnits$qii 0224:@TScroller@SetSBarRange$qv 03E9:@TScroller@BeginView$qr3TDCr5TRect 0480:@TScroller@EndView$qv 053A:@TScroller@VScroll$quii 06A7:@TScroller@HScroll$quii 07F8:@TScroller@ScrollTo$qll 09E8:@TScroller@IsAutoMode$qv 09F5:@TScroller@AutoScroll$qv 0D42:@TScroller@Streamer@$bctr$qp15TStreamableBase 0D9C:@TScroller@$bctr$q14StreamableInit 0DC1:@TScroller@readPtr$qr8ipstreamrp9TScroller 0E16:@TScroller@readRef$qr8ipstreamr9TScroller 0E37:@TScroller@writeRef$qr8opstreamrx9TScroller 0E52:@TScroller@writePtr$qr8opstreampx9TScroller 0E6B:@TScroller@Streamer@Read$xqr8ipstreamul 0F85:@TScroller@Streamer@Write$xqr8opstream
+      B8........8D55FC52506A006A00E8........83C41085C07530B8:
+        0. 00 0000 0130 0000:@TSound@$bctr$qpxc14TSound@Options 0055:@TSound@$bctr$qul6TResId14TSound@Options 00B0:@TSound@Stop$qv 00FD:@TSound@Beep$q14TSound@Message
+    010057568B750CC745FC000000008B45088B008B008B780685F67505BE:
+      0. 00 0000 0462 0000:@HandleGlobalException$qr4xmsgpct2 00CC:@TXOwl@ResourceIdToString$qpuluip7TModule 01EC:@TXOwl@$bctr$quip7TModule 024A:@TXOwl@Unhandled$qp7TModuleui 0270:@TXOwl@Clone$qv 02E4:@TXOwl@Throw$qv 0348:@TXOutOfMemory@$bctr$qv 0376:@TXOutOfMemory@Clone$qv 03F4:@TXOutOfMemory@Throw$qv
+  0C:
+    000057568B7D088B750CC70700000000C7470401000000B8........8947:
+      0. 02 0475 021A 0000:@TMetaFileDC@$bctr$qpxc 0097:@TMetaFileDC@Close$qv 0116:@TMetaFileDC@$bdtr$qv
+    010057568B7D088B470885C00F85CF000000FF750C83EC04C70424050000:
+      0. 10 E593 0B98 0000:@TModeStrings@Init$qp7TModuleuspxc 00E9:@TStatusBar@$bctr$qp7TWindow20TGadget@TBorderStyleuip5TFontp7TModule 069D:@TStatusBar@IsModeIndicator$qp7TGadget 06ED:@TStatusBar@PositionGadget$qp7TGadgett1r6TPoint 075E:@TStatusBar@Insert$qr7TGadget24TGadgetWindow@TPlacementp7TGadget 07A9:@TStatusBar@$bsubs$qui 07CC:@TStatusBar@GetGadgetAndStrings$q25TStatusBar@TModeIndicatorrp11TTextGadgetrpxct3 0883:@TStatusBar@ToggleModeIndicator$q25TStatusBar@TModeIndicator 08C1:@TStatusBar@SetModeIndicator$q25TStatusBar@TModeIndicatorul 0927:@TStatusBar@PreProcessMsg$qr7_tagMSG 09C6:@TStatusBar@IdleAction$ql
+  10:
+    000053578B7D0C8D45F4FF750850E8........B8010000008BD78D5DF06A:
+      0. 07 7830 003B 0000:@WriteBaseObject$qp9TDocumentr8opstream (REF 0011: @TDocument@Streamer@$bctr$qp15TStreamableBase)
+      1. 07 7830 003B 0000:@WriteBaseObject$qp10TValidatorr8opstream (REF 0011: @TValidator@Streamer@$bctr$qp15TStreamableBase)
+      2. 07 7830 003B 0000:@WriteBaseObject$qp16TFilterValidatorr8opstream (REF 0011: @TFilterValidator@Streamer@$bctr$qp15TStreamableBase)
+    0300538D45FC8D95FCFEFFFF8D9DFCFDFFFF6A00535250FF7508E8:
+      0. 00 0000 0A49 0082:@TModule@$bctr$qpxcul 014D:@TModule@$bctr$qpxcp8INSTANCE 01AD:@TModule@$bctr$qpxcp8INSTANCEt1 023C:@TModule@$bdtr$qv 029D:@TModule@InitModule$qp8INSTANCEpxc 034B:@TModule@SetName$qpxc 036A:@TModule@SetInstance$qp8INSTANCE 037A:@TModule@Error$qr4xmsguiui 0412:@TModule@GetModuleFileName$qpci 0437:@TModule@GetProcAddress$xqpxc 046D:@TModule@CopyPointer$xqul 049A:@TModule@LoadAccelerators$xq6TResId 04B9:@TModule@LoadBitmap$xq6TResId 0512:@TModule@LoadPointer$xq6TResId 052D:@TModule@LoadMenu$xq6TResId 0548:@TModule@LoadString$xquipci 0585:@TModule@LoadString$xqui 0642:@TModule@Error$qi 06B1:@TModule@TXInvalidModule@$bctr$qv 06DF:@TModule@TXInvalidModule@Clone$qv 075D:@TModule@TXInvalidModule@Throw$qv 07CB:@TModule@Streamer@$bctr$qp15TStreamableBase 0825:@TModule@$bctr$q14StreamableInit 0861:@TModule@readPtr$qr8ipstreamrp7TModule 08B6:@TModule@readRef$qr8ipstreamr7TModule 08EB:@TModule@writeRef$qr8opstreamrx7TModule 091B:@TModule@writePtr$qr8opstreampx7TModule 0949:@TModule@Streamer@Read$xqr8ipstreamul 0991:@TModule@Streamer@Write$xqr8opstream 09CE:@$blsh$qr7ostreamrx7TModule
+  14000057568B7D0CC745FC000000008B471D85C0760E8BC78D55FC6A045250:
+    0. 01 3E9B 004B 0000:@ReadBaseObject$qp9TDocumentr8ipstream (REF 002D: @TDocument@Streamer@$bctr$qp15TStreamableBase)
+    1. 01 3E9B 004B 0000:@ReadBaseObject$qp10TValidatorr8ipstream (REF 002D: @TValidator@Streamer@$bctr$qp15TStreamableBase)
+    2. 01 3E9B 004B 0000:@ReadBaseObject$qp16TFilterValidatorr8ipstream (REF 002D: @TFilterValidator@Streamer@$bctr$qp15TStreamableBase)
+  180000:
+    5357568B7D088B750C8D45F485FF8945F074:
+      088B47:
+        048945ECEB0389:
+          0. 09 7619 0054 0000:@WriteBaseObject$qp8TControlr8opstream (0005: 01) (REF 0029: @TControl@Streamer@$bctr$qp15TStreamableBase)
+          1. 09 7619 0054 0000:@WriteBaseObject$qp5TEditr8opstream (0005: 01) (REF 0029: @TEdit@Streamer@$bctr$qp15TStreamableBase)
+          2. 09 7619 0054 0000:@WriteBaseObject$qp7TButtonr8opstream (0005: 01) (REF 0029: @TButton@Streamer@$bctr$qp15TStreamableBase)
+          3. 09 7619 0054 0000:@WriteBaseObject$qp8TListBoxr8opstream (0005: 01) (REF 0029: @TListBox@Streamer@$bctr$qp15TStreamableBase)
+          4. 09 7619 0054 0000:@WriteBaseObject$qp9TCheckBoxr8opstream (0005: 01) (REF 0029: @TCheckBox@Streamer@$bctr$qp15TStreamableBase)
+          5. 09 7619 0054 0000:@WriteBaseObject$qp7TStaticr8opstream (0005: 01) (REF 0029: @TStatic@Streamer@$bctr$qp15TStreamableBase)
+          6. 09 7619 0054 0000:@WriteBaseObject$qp11TEditSearchr8opstream (0005: 01) (REF 0029: @TEditSearch@Streamer@$bctr$qp15TStreamableBase)
+          7. 09 7619 0054 0000:@WriteBaseObject$qp7TWindowr8opstream (0005: 04)
+        088945ECEB0389:
+          0. 09 7619 0054 0000:@WriteBaseObject$qp12TFrameWindowr8opstream (0005: 01) (REF 0029: @TFrameWindow@Streamer@$bctr$qp15TStreamableBase)
+          1. 09 7619 0054 0000:@WriteBaseObject$qp7TDialogr8opstream (0005: 01) (REF 0029: @TDialog@Streamer@$bctr$qp15TStreamableBase)
+          2. 09 7619 0054 0000:@WriteBaseObject$qp13TLayoutWindowr8opstream (0005: 04)
+        0C8945ECEB0389:
+          0. 09 7619 0054 0000:@WriteBaseObject$qp9TMDIFramer8opstream
+      0A8B078B40088945ECEB:
+        0. 0B 0EBE 0056 0000:@WriteBaseObject$qp15TDecoratedFramer8opstream
+    57568B7D088B750C8B068B400885C0757185FF74088B47:
+      048945FCEB:
+        0. 0D 186F 008C 0000:@WriteVirtualBase$qp7TWindowr8opstream
+      088945FCEB:
+        0. 0D 186F 008C 0000:@WriteVirtualBase$qp12TFrameWindowr8opstream
+  1C0000:
+    5357568B7D0CC745FC000000008BC725000E00003D000600008945F8:
+      0. CE 7A8F 1344 0000:@TFileDocument@OpenThisFile$qipxcpl 0228:@TFileDocument@CloseThisFile$quli 0256:@TFileDocument@Open$qipxc 02B9:@TFileDocument@Open$qul 02E8:@TFileDocument@Close$qv 0335:@TFileDocument@Commit$qul 035E:@TFileDocument@Revert$qul 0387:@TFileDocument@PropertyName$qi 03C1:@TFileDocument@PropertyFlags$qi 03FB:@TFileDocument@FindProperty$qpxc 043B:@TFileDocument@GetProperty$qipvi 04DA:@TFileDocument@SetProperty$qipxv 04EF:@TFileDocument@InStream$qipxc 06B1:@TFileDocument@OutStream$qipxc 0873:@TFileInStream@$bdtr$qv 0948:@TFileOutStream@$bdtr$qv 0A50:@TFileBuf@$bctr$qiil 0AC3:@TFileBuf@seekoff$ql12ios@seek_diri 0C47:@TFileBuf@sync$qv 0DF0:@TFileBuf@underflow$qv 0FF0:@TFileBuf@overflow$qi 1131:@TFileStreamBase@$bctr$qiil 118A:@TFileDocument@Streamer@$bctr$qp15TStreamableBase 11E4:@TFileDocument@$bctr$q14StreamableInit 1208:@TFileDocument@readPtr$qr8ipstreamrp13TFileDocument 125D:@TFileDocument@readRef$qr8ipstreamr13TFileDocument 127E:@TFileDocument@writeRef$qr8opstreamrx13TFileDocument 1299:@TFileDocument@writePtr$qr8opstreampx13TFileDocument 12B2:@TFileDocument@Streamer@Read$xqr8ipstreamul 12DA:@TFileDocument@Streamer@Write$xqr8opstream
+    57568B:
+      75088B7D0C8BC750E8........0FBED04A74054A7404EB6BEB:
+        0. 11 1216 0090 0000:@ReadVirtualBase$qp7TWindowr8ipstream (0033: 04)
+        1. 11 1216 0090 0000:@ReadVirtualBase$qp12TFrameWindowr8ipstream (0033: 08)
+      7D088B750CC745FC000000008B461D85C0760E8BC68D55FC6A:
+        0. 04 D800 0060 0000:@ReadBaseObject$qp8TControlr8ipstream (0010: 04) (REF 0044: @TControl@Streamer@$bctr$qp15TStreamableBase)
+        1. 04 D800 0060 0000:@ReadBaseObject$qp5TEditr8ipstream (0010: 04) (REF 0044: @TEdit@Streamer@$bctr$qp15TStreamableBase)
+        2. 04 D800 0060 0000:@ReadBaseObject$qp7TButtonr8ipstream (0010: 04) (REF 0044: @TButton@Streamer@$bctr$qp15TStreamableBase)
+        3. 04 D800 0060 0000:@ReadBaseObject$qp8TListBoxr8ipstream (0010: 04) (REF 0044: @TListBox@Streamer@$bctr$qp15TStreamableBase)
+        4. 04 D800 0060 0000:@ReadBaseObject$qp7TWindowr8ipstream (0010: 04) (REF 0044: @TWindow@Streamer@$bctr$qp15TStreamableBase)
+        5. 04 D800 0060 0000:@ReadBaseObject$qp11TEditSearchr8ipstream (0010: 04) (REF 0044: @TEditSearch@Streamer@$bctr$qp15TStreamableBase)
+        6. 04 D800 0060 0000:@ReadBaseObject$qp7TStaticr8ipstream (0010: 04) (REF 0044: @TStatic@Streamer@$bctr$qp15TStreamableBase)
+        7. 04 D800 0060 0000:@ReadBaseObject$qp9TCheckBoxr8ipstream (0010: 04) (REF 0044: @TCheckBox@Streamer@$bctr$qp15TStreamableBase)
+        8. 04 D800 0060 0000:@ReadBaseObject$qp13TLayoutWindowr8ipstream (0010: 08) (REF 0044: @TWindow@Streamer@$bctr$qp15TStreamableBase)
+        9. 04 D800 0060 0000:@ReadBaseObject$qp12TFrameWindowr8ipstream (0010: 08) (REF 0044: @TFrameWindow@Streamer@$bctr$qp15TStreamableBase)
+        10. 04 D800 0060 0000:@ReadBaseObject$qp7TDialogr8ipstream (0010: 08) (REF 0044: @TDialog@Streamer@$bctr$qp15TStreamableBase)
+        11. 04 D800 0060 0000:@ReadBaseObject$qp9TMDIFramer8ipstream (0010: 0C)
+        12. 04 D800 0062 0000:@ReadBaseObject$qp15TDecoratedFramer8ipstream (0010: 8B)
+  20000057:
+    568B7D088B750C8D45E068........50E8........8D45E05057E8:
+      0. 00 0000 031A 0000:@TRangeValidator@$bctr$qll 0052:@TRangeValidator@Error$qv 0078:@TRangeValidator@IsValid$qpxc 00B4:@TRangeValidator@Transfer$qpcpv18TTransferDirection 0104:@TRangeValidator@Streamer@$bctr$qp15TStreamableBase 015E:@TRangeValidator@$bctr$q14StreamableInit 0182:@TRangeValidator@readPtr$qr8ipstreamrp15TRangeValidator 01D7:@TRangeValidator@readRef$qr8ipstreamr15TRangeValidator 01F8:@TRangeValidator@writeRef$qr8opstreamrx15TRangeValidator 0213:@TRangeValidator@writePtr$qr8opstreampx15TRangeValidator 022C:@TRangeValidator@Streamer@Read$xqr8ipstreamul 0277:@TRangeValidator@Streamer@Write$xqr8opstream
+    8B7D08B8........E8........:
+      85FF74:
+        43A1........FF08FF08BA:
+          0. 00 0000 0067 0000:@%TMVectorImp$t6string$t18TStandardAllocator%@$bdtr$qv
+        45A1........FF08FF08FF:
+          0. 02 56DB 0069 0000:@%TMCVectorImp$t6string$t18TStandardAllocator%@$bdtr$qv
+        47A1........FF08FF08FF:
+          0. 06 B7D4 006B 0000:@%TArrayAsVectorImp$t45%TMSVectorImp$t6string$t18TStandardAllocator%$t6string%@$bdtr$qv
+          1. 04 E40B 006B 0000:@%TMSVectorImp$t6string$t18TStandardAllocator%@$bdtr$qv
+        49A1........FF08FF08FF:
+          0. 08 5203 006D 0000:@%TDArrayAsVectorImp$t45%TMSVectorImp$t6string$t18TStandardAllocator%$t6string%@$bdtr$qv
+        4BA1........FF08FF08FF:
+          0. 0A 4136 006F 0000:@%TMSArrayAsVector$t6string$t18TStandardAllocator%@$bdtr$qv
+        4DA1........FF08FF08FF:
+          0. 0C 96EF 0071 0000:@%TSArrayAsVector$t6string%@$bdtr$qv
+        4FA1........FF08FF08FF:
+          0. 0E E9B6 0073 0000:@TSortedStringArray@$bdtr$qv
+      A1........FF0885FF743AB8:
+        0. 00 0000 0065 0000:@%TVectorImpBase$t6string$t18TStandardAllocator%@$bdtr$qv
+  240000578B7D08C70700000000C7470401000000B8........894708A1:
+    0. 00 0000 0281 0000:@TWindowDC@$bctr$qul 0066:@TWindowDC@$bdtr$qv 010C:@TWindowDC@RealizePalette$qv 012E:@TScreenDC@$bctr$qv 019D:@TDesktopDC@$bctr$qv 0211:@TClientDC@$bctr$qul
+  280000:
+    5357568B7D08:
+      8B7510B8........E8........66837D0C0075688D47:
+        0. 2A 41D3 0555 0000:@TInputDialog@$bctr$qp7TWindowpxct2pcip7TModulep10TValidator 0178:@TInputDialog@$bdtr$qv 0227:@TInputDialog@TransferData$q18TTransferDirection 0277:@TInputDialog@SetupWindow$qv 02A2:@TInputDialog@Streamer@$bctr$qp15TStreamableBase 02FC:@TInputDialog@$bctr$q14StreamableInit 03C8:@TInputDialog@readPtr$qr8ipstreamrp12TInputDialog 041D:@TInputDialog@readRef$qr8ipstreamr12TInputDialog 0452:@TInputDialog@writeRef$qr8opstreamrx12TInputDialog 0482:@TInputDialog@writePtr$qr8opstreampx12TInputDialog 04B0:@TInputDialog@Streamer@Read$xqr8ipstreamul 04DA:@TInputDialog@Streamer@Write$xqr8opstream
+      B8........E8........:
+        8B47058B550C3B42050F84AA:
+          0. 0D B096 00DF 0000:@%TVectorImpBase$t6string$t18TStandardAllocator%@$basg$qrx47%TVectorImpBase$t6string$t18TStandardAllocator%
+        B8........8947018B450C8B:
+          0. 0A C672 00BE 0000:@%TVectorImpBase$t6string$t18TStandardAllocator%@$bctr$qrx47%TVectorImpBase$t6string$t18TStandardAllocator%
+    B8........E8........837D0800754E6A1CE8........8945FC837D:
+      0. 13 48AD 0072 0000:@_dllmain$qulul
+  2C0000:
+    5357:
+      568B7D08:
+        8B:
+          470939450C76138B47018B4008578945FC8B45FCFF:
+            0. 69 125D 0120 0000:@%TVectorImpBase$t4TInt$t18TStandardAllocator%@Resize$quiui
+            1. 69 79CA 010E 0000:@%TVectorImpBase$tul$t18TStandardAllocator%@Resize$quiui
+          750CB8........8907897704837D24010F94C00FB6:
+            0. 7E BB99 048C 0000:@TCelArray@$bctr$qp7TBitmapi5TSize6TPoint11TAutoDelete 0106:@TCelArray@$bctr$qr4TDibi 01FD:@TCelArray@$bctr$qrx9TCelArray 02C5:@TCelArray@$bdtr$qv 0331:@TCelArray@$basg$qrx9TCelArray 0419:@TCelArray@CelOffset$xqi 0442:@TCelArray@CelRect$xqi
+        B8........E8........66837D0C0075388D87B60000:
+          0. 17 AA63 039A 0000:@TMessageBar@$bctr$qp7TWindowp5TFontp7TModule 0128:@TMessageBar@$bdtr$qv 01A1:@TMessageBar@PaintGadgets$qr3TDCulr5TRect 02E4:@TMessageBar@GetInnerRect$qr5TRect 0310:@TMessageBar@GetDesiredSize$qr5TSize 0335:@TMessageBar@SetText$qpxc 034E:@TMessageBar@SetHintText$qpxc
+      8B7D08B8........E8........66837D0C0075388D87B6000000:
+        0. 16 3024 0942 0000:@TToolBox@$bctr$qp7TWindowii28TGadgetWindow@TTileDirectionp7TModule 019E:@TToolBox@Insert$qr7TGadget24TGadgetWindow@TPlacementp7TGadget 01C4:@TToolBox@SetDirection$q28TGadgetWindow@TTileDirection 0204:@TToolBox@ComputeNumRowsColumns$qrit1 0297:@TToolBox@ComputeCellSize$qr5TSize 02F1:@TToolBox@GetDesiredSize$qr5TSize 03A8:@TToolBox@TileGadgets$qv 0905:@TToolBox@LayoutSession$qv
+    578B7D08:
+      B8........E8........FF35........FF35........FF75:
+        0. 03 D696 193E 0000:@TApplication@$bctr$qpxcrp7TModule 014C:@TApplication@$bctr$qpxcp8INSTANCEt2t1irp7TModule 028E:@TApplication@$bdtr$qv 0425:@TApplication@InitApplication$qv 042C:@TApplication@InitInstance$qv 04CE:@TApplication@InitMainWindow$qv 0546:@TApplication@TermInstance$qi 0550:@TApplication@SetMainWindow$qp12TFrameWindow 058C:@TApplication@SetDocManager$qp11TDocManager 05A1:@TApplication@Dispatch$qr24TEventHandler@TEventInfouil 0641:@TApplication@IdleAction$ql 0671:@TApplication@Run$qv 0842:@TApplication@ProcessAppMsg$qr7_tagMSG 0893:@TApplication@PostDispatchAction$qv 08D8:@TApplication@TranslateMessage$qp7_tagMSG 0956:@TApplication@PumpWaitingMessages$qv 0AAF:@TApplication@SuspendThrow$qr6xalloc 0ADA:@TApplication@SuspendThrow$qr4xmsg 0AFD:@TApplication@SuspendThrow$qr5TXOwl 0B6B:@TApplication@SuspendThrow$qi 0B80:@TApplication@ResumeThrow$qv 0D09:@TApplication@MessageLoop$qv 0F9E:@TApplication@Find$qr24TEventHandler@TEventInfopqr31%TResponseTableEntry$t7GENERIC%r24TEventHandler@TEventInfo$ul 0FDA:@TApplication@CanClose$qv 109D:@TApplication@PreProcessMenu$qp4MENU 110F:@TApplication@Condemn$qp7TWindow 113B:@TApplication@Uncondemn$qp7TWindow 1191:@TApplication@DeleteCondemned$qv 11FE:@TApplication@TXInvalidMainWindow@$bctr$qv 122C:@TApplication@TXInvalidMainWindow@Clone$qv 12AA:@TApplication@TXInvalidMainWindow@Throw$qv 1318:@TApplication@GetModalFocus$qv 1368:@DISABLEWNDS$QULP9TENUMINFO 144D:@TApplication@BeginModal$qp7TWindowi 1614:@TApplication@EndModal$qi 1641:@TApplication@WhereIs$q6TResIdt1p7TModule 16C1:@TApplication@EnableBWCC$qului 16C8:@TApplication@EnableCtl3d$qul 16CF:@TApplication@EnableCtl3dAutosubclass$qul 16D6:@TApplication@Streamer@$bctr$qp15TStreamableBase 1730:@TApplication@$bctr$q14StreamableInit 17B6:@TApplication@readPtr$qr8ipstreamrp12TApplication 180B:@TApplication@readRef$qr8ipstreamr12TApplication 1840:@TApplication@writeRef$qr8opstreamrx12TApplication 1870:@TApplication@writePtr$qr8opstreampx12TApplication 189E:@TApplication@Streamer@Read$xqr8ipstreamul 18C6:@TApplication@Streamer@Write$xqr8opstream
+      C70700000000C7470401000000B8........894708A1:
+        0. 00 0000 0189 0000:@TPaintDC@$bctr$qulul 00C1:@TPaintDC@$bdtr$qv 0167:@TPaintDC@RealizePalette$qv
+  340000:
+    53:
+      578B7D08B8........E8........57E8........B8........8907:
+        0. 08 F236 0E02 0000:@TPXPictureValidator@$bctr$qpxcul 00A4:@TPXPictureValidator@Error$qv 00C9:@TPXPictureValidator@IsValidInput$qpcul 013B:@TPXPictureValidator@IsValid$qpxc 0197:@TPXPictureValidator@ToGroupEnd$quirui 024A:@TPXPictureValidator@SkipToComma$quirui 0294:@TPXPictureValidator@CalcTerm$quiui 02AD:@TPXPictureValidator@Iteration$qpcuiruit3 0400:@TPXPictureValidator@Group$qpcuiruit3 0460:@TPXPictureValidator@CheckComplete$quirui10TPicResult 052B:@TPXPictureValidator@Scan$qpcuiruit3 0889:@TPXPictureValidator@Process$qpcuiruit3 099C:@TPXPictureValidator@SyntaxCheck$qv 0AC5:@TPXPictureValidator@Picture$qpcul 0C2A:@TPXPictureValidator@Streamer@$bctr$qp15TStreamableBase 0C84:@TPXPictureValidator@$bctr$q14StreamableInit 0CB1:@TPXPictureValidator@readPtr$qr8ipstreamrp19TPXPictureValidator 0D06:@TPXPictureValidator@readRef$qr8ipstreamr19TPXPictureValidator 0D27:@TPXPictureValidator@writeRef$qr8opstreamrx19TPXPictureValidator 0D42:@TPXPictureValidator@writePtr$qr8opstreampx19TPXPictureValidator 0D5B:@TPXPictureValidator@Streamer@Read$xqr8ipstreamul 0D86:@TPXPictureValidator@Streamer@Write$xqr8opstream
+      B8........E8........C745FC........66C745EC08008D45CCFF:
+        0. 04 BFB6 0049 0000:@TWindow@TXWindow@Throw$qv
+    578B7D08B8........E8........6A0CE8........8945FC837DFC00:
+      0. 14 0010 00A7 0000:@TScroller@Streamer@Build$qp15TStreamableBase (0026: 02)
+      1. 14 0010 00A7 0000:@TFileDocument@Streamer@Build$qp15TStreamableBase (0026: 04)
+      2. 14 2588 00A7 0000:@TRangeValidator@Streamer@Build$qp15TStreamableBase
+      3. 14 370D 00A7 0000:@TPrintout@Streamer@Build$qp15TStreamableBase
+      4. 14 76CC 00A7 (!)0000:?
+      5. 14 A487 00A7 0000:@TPrinter@Streamer@Build$qp15TStreamableBase
+      6. 14 D665 00A7 0000:@TValidator@Streamer@Build$qp15TStreamableBase (0026: 02)
+      7. 14 D665 00A7 0000:@TLookupValidator@Streamer@Build$qp15TStreamableBase (0026: 03)
+      8. 14 E546 00A7 0000:@TFilterValidator@Streamer@Build$qp15TStreamableBase
+  38000057568B7508B8........E8........6A0CE8........8945FC837DFC:
+    0. 1C 0639 00C4 (!)0000:?
+    1. 19 1113 00BF 0000:@TModule@Streamer@Build$qp15TStreamableBase
+    2. 1C 1614 00C4 0000:@TMDIClient@Streamer@Build$qp15TStreamableBase
+    3. 1C 24F8 00C4 0000:@TMDIFrame@Streamer@Build$qp15TStreamableBase
+    4. 1C 397B 00C4 0000:@TFloatingFrame@Streamer@Build$qp15TStreamableBase
+    5. 1C 4416 00C4 0000:@TMDIChild@Streamer@Build$qp15TStreamableBase
+    6. 1C 468D 00C4 0000:@TInputDialog@Streamer@Build$qp15TStreamableBase
+    7. 1C 56A0 00C4 0000:@TEditSearch@Streamer@Build$qp15TStreamableBase
+    8. 1C 7444 00C6 0000:@TDecoratedFrame@Streamer@Build$qp15TStreamableBase
+    9. 1C 76FA 00C4 0000:@TDialog@Streamer@Build$qp15TStreamableBase (0048: 08)
+    10. 1C 76FA 00C4 0000:@TWindowView@Streamer@Build$qp15TStreamableBase (0048: 04)
+    11. 1C 85EF 00C4 0000:@TListView@Streamer@Build$qp15TStreamableBase
+    12. 1C 986C 00C4 0000:@TDecoratedMDIFrame@Streamer@Build$qp15TStreamableBase
+    13. 1C A5B5 00C4 0000:@TTinyCaption@Streamer@Build$qp15TStreamableBase
+    14. 19 B584 00BF 0000:@TApplication@Streamer@Build$qp15TStreamableBase
+    15. 1C B7F8 00C2 0000:@TDocManager@Streamer@Build$qp15TStreamableBase
+    16. 1C C7C0 00C4 (!)0000:? (0028: 04)
+    17. 1C C7C0 00C4 0000:@TComboBox@Streamer@Build$qp15TStreamableBase (0028: 05)
+    18. 1C D576 00C4 0000:@TFrameWindow@Streamer@Build$qp15TStreamableBase
+    19. 1C D7ED 00C4 (!)0000:? (0028: 05)
+    20. 1C D7ED 00C4 0000:@TRadioButton@Streamer@Build$qp15TStreamableBase (0028: 06)
+    21. 1C E79A 00C4 0000:@TWindow@Streamer@Build$qp15TStreamableBase (0028: 02)
+    22. 1C E79A 00C4 0000:@TControl@Streamer@Build$qp15TStreamableBase (0028: 03)
+    23. 1C F52C 00C4 (!)0000:?
+    24. 1C F7B7 00C4 (!)0000:?
+  4800005357568B7D088B750CB8........E8........E8........BA:
+    0. 00 0000 0619 0000:@TCreatedDC@CreateHdc$qiippxcul 00DD:@TCreatedDC@$bctr$qul11TAutoDelete 0130:@TCreatedDC@$bctr$qpxct1t1px10tagDEVMODE 0352:@TCreatedDC@$bdtr$qv 044F:@TIC@$bctr$qpxct1t1px10tagDEVMODE 04FD:@TDibDC@$bctr$qrx4TDib 0563:@TDibDC@$bdtr$qv 05B1:@TDibDC@SelectObject$qrx8TPaletteul
+  5400005357568B7D08B8........E8........8B470939450C76138B47018B:
+    0. 7F 54BF 0188 0000:@%TVectorImpBase$t6string$t18TStandardAllocator%@Resize$quiui
+  6000005357568B7D08B8........E8........C7472200000000C745F40C00:
+    0. 0B BF40 17E0 0000:@TDib@InfoFromBitmap$qv 0186:@TDib@InfoFromHandle$qv 01DC:@TDib@$bctr$qp6GLOBAL11TAutoDelete 020B:@TDib@$bctr$qrx10TClipboard 0240:@TDib@$bctr$qrx4TDib 02D4:@TDib@$bdtr$qv 0377:@TDib@UpdateInfo$qp6TDibDC 03FE:@TDib@ChangeModeToPal$qrx8TPalette 04C7:@TDib@ChangeModeToRGB$qrx8TPalette 057D:@TDib@GetColors$xqp6TColoruiui 05DA:@TDib@SetColors$qpx6TColoruiui 06CD:@TDib@FindColor$q6TColor 070F:@TDib@MapColor$q6TColort1ul 077D:@TDib@GetIndices$xqpusuiui 07D9:@TDib@SetIndices$qpxusuiui 08A4:@TDib@FindIndex$qus 08DE:@TDib@MapIndex$qususul 093D:@TDib@MapUIColors$quip6TColor 0A4B:@TDib@ToClipboard$qr10TClipboard 0ACD:@TDib@$bctr$qpxc 0B53:@TDib@ReadFileHeader$qr5TFile 0EA0:@TDib@ReadFile$qr5TFile 0FB0:@TDib@LoadFile$qpxc 1119:@TDib@$bctr$qp8INSTANCE6TResId 11F3:@TDib@WriteFile$qpxc 138E:@TDib@$bctr$qiiius 150E:@TDib@$bctr$qrx7TBitmappx8TPalette 1719:@TDib@GetBits$xqv 174C:@TDib@SetBits$qpxvulul
+CA000000030030000C0000007F00000040004400000000000000000000000000:
+  0. 08 1815 0070 0000:@$xt$13TLayoutWindow (0014: 77)
+  1. 08 1815 0070 0000:@$xt$12TTinyCaption (0014: 00)
+D600000003003000:
+  080000007F0000003C004C00000000000000000000000000:
+    0. 08 FE66 006C 0000:@$xt$10TStatusBar
+  0C0000007F00000040004400000000000000000000000000:
+    0. 08 1815 0070 0000:@$xt$12TFrameWindow
+DE00000003003000080000007F0000003C00:
+  4C00000000000000000000000000:
+    0. 08 A8CA 0074 0000:@$xt$9TEditFile
+  5800000000000000000000000000:
+    0. 08 A8CA 0078 0000:@$xt$9TEditView
+EE00000003003000100000007F0000003C004000000000000000000000000000:
+  0. 08 1689 0078 0000:@$xt$9TMDIFrame
+F600000003003000100000007F0000003C004000000000000000000000000000:
+  0. 08 1689 0078 0000:@$xt$9TMDIChild

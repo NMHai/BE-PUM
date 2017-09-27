@@ -1,0 +1,2 @@
+new $v.type ();
+		$v.name#**#.setPointer (new Pointer(t$v.order));

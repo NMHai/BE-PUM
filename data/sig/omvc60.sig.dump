@@ -1,0 +1,944 @@
+53568B:
+  74240C578BD95633FFE8........85C059753781FE02010000742F81FE:
+    0. 3D B694 006B 0000:?OnWndMsg@MvcController@@UAEHIIJPAJ@Z
+  F1578B068B7E:
+    248B5E28FF506885C0750E8B4424148946248B44241889:
+      0. 11 180F 0031 0000:?SetLogExtents@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+    2C8B5E30FF506885C0750E8B44241489462C8B44241889:
+      0. 11 54FE 0031 0000:?SetExtents@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+558BEC:
+  51:
+    51:
+      53:
+        5657:
+          8BF133FFE8........8B5D1085C0741FE8........FF7514:
+            0. 21 4513 0088 0000:?OnWndMsg@MvcViewport@@UAEHIIJPAJ@Z
+            1. 21 4577 0088 0000:?OnWndMsg@MvcViewport@@UAEHIIJPAJ@Z
+          8D45F8FF75108BF1FF750C50E8........8B38837E54008B:
+            0. 0D 4B7A 0059 0000:?SetSize@MvcBufferedViewport@@UAE?AVCSize@@HH@Z
+        8D45F857508D45FC8BF950E8........8B5D0C85DB7E:
+          2B568B75:
+            0. 07 A55B 004E 0000:?CPtoLP@MvcLogicalPart@@QBEXPAUtagPOINT@@H@Z
+          37568B75:
+            0. 10 F826 005A 0000:?LPtoCP@MvcLogicalPart@@QBEXPAUtagPOINT@@H@Z
+      56:
+        8BF18D4DF88B06518BCEFF:
+          50:
+            108B088B50048B460403450C8946:
+              0. 17 1ADE 0037 0000:?SetSize@MvcVisualComponent@@UAE?AVCSize@@HH@Z
+            6C8B088B50048B450C89461C8B45:
+              0. 11 EB95 0031 0000:?SetLogOrigin@MvcLogicalPart@@UAE?AVCPoint@@HH@Z
+          90980000008BC88B168B01:
+            03450C8B:
+              0. 27 F77E 0047 0000:?IncreaseMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+            2B450C8B:
+              0. 27 DD76 0047 0000:?DecreaseMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+        8D45F857508D45FC8BF950E8........8B7508:
+          8B062B471C8945:
+            0. 08 C27A 0079 0000:?LPtoCP@MvcLogicalPart@@QBEXPAUtagRECT@@@Z
+          DB06D84DFCE8:
+            0. 00 0000 0061 0000:?CPtoLP@MvcLogicalPart@@QBEXPAUtagRECT@@@Z
+      837D0C00568BF17506837D100074198B4E208B06034D10518B4E1C:
+        0. 2C 4851 004C 0000:?OffsetLogOrigin@MvcLogicalPart@@UAE?AVCPoint@@HH@Z
+      8B:
+        018D55F852FF507C8BC88B45088B1189108B4904894804C9C204:
+          0. 01 78F0 0021 0000:?GetVirtualSize@MvcLogicalPart@@UBE?AVCSize@@XZ
+        450C8D55F88941348B45108941388B0152FF507C8BC88B45088B:
+          0. 0D 13A0 002D 0000:?SetLogScaling@MvcLogicalPart@@UAE?AVCSize@@MM@Z
+        51088B01035510528B510403550C528D55F852FF50048BC88B45:
+          0. 0F 84E8 002F 0000:?OffsetOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z
+      8D45F856:
+        508D45FC50E8........8B7508DB06D8:
+          4DFCE8:
+            0. 09 52F4 0035 0000:?CPtoLP@MvcLogicalPart@@QBEXPAUtagSIZE@@@Z
+          75FCE8:
+            0. 09 3EB4 0035 0000:?LPtoCP@MvcLogicalPart@@QBEXPAUtagSIZE@@@Z
+        8BF150E8........8B088B50048B450C8946048B451089:
+          0. 0F 86D9 002F 0000:?SetOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z
+      D94510D84938518B018D55F8D91C24D9450CD8493451D91C2452FF:
+        0. 18 90A1 0038 0000:?ScaleRelative@MvcLogicalPart@@UAE?AVCSize@@MM@Z
+      DB4510518B018D55F8D83D........D91C24DB450C51D83D:
+        0. 00 0000 003E 0000:?SetMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+      FF75108D45F8C7416C01000000FF750C50E8........8BC88B4508:
+        0. 0E 112C 002E 0000:?SetLogExtents@MvcBufferedViewport@@UAE?AVCSize@@HH@Z (REF 0017: ?SetLogExtents@MvcLogicalPart@@UAE?AVCSize@@HH@Z)
+        1. 0E 112C 002E 0000:?SetLogOrigin@MvcBufferedViewport@@UAE?AVCPoint@@HH@Z (REF 0017: ?SetLogOrigin@MvcLogicalPart@@UAE?AVCPoint@@HH@Z)
+    53:
+      5657:
+        837D0C0074276A018B450CC1E002508B4D0851E8........85:
+          0. 06 927E 0086 0000:?ConstructElements@@YGXPAPAVIMvcObserver@@H@Z (005F: 00)
+        894DFC:
+          68B601000068........8B45FC50E8........837D08:
+            0. 09 B862 0071 0000:?SetAtGrow@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@@Z (REF 0055: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+            1. 09 B862 0071 0000:?SetAtGrow@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@@Z (REF 0055: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+          837D08007C0B8B45FC8B4D083B48087C1468:
+            02010000:
+              0. 01 361F 004D 0000:?SetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@@Z (002B: 00)
+            FE000000:
+              0. 01 361F 004A 0000:?GetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QBEPAVIMvcObserver@@H@Z (0028: 00)
+          8B:
+            45FC8B4D088948088B55FC837A0800751468440100:
+              0. 02 09E0 0055 0000:?Init@?$Iterator_T@PAVIMvcObserver@@@@UAEXPAV?$ICollection_T@PAVIMvcObserver@@@@@Z (0032: 00)
+            4DFCE8........8B45FC83780400754B8B4DFC8379:
+              0. 0A 6D0F 0111 0000:?AssertValid@?$CArray@PAVIMvcObserver@@PAV1@@@UBEXXZ (00E6: C3)
+        8BF9834DFCFF33DB8B47148D77148BCEFF502C85C07E20837D:
+          0. 28 434F 0048 0000:?FindIndex@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVMvcVisualComponent@@@Z
+      8BD9568B75108B4308578B7D088945FC3BF86AFF7C0B8D043750E8:
+        0. 00 0000 0092 0000:?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z (0071: 00) (REF 0020: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+        1. 00 0000 0092 0000:?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z (0071: 00) (REF 0020: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+        2. 00 0000 0093 0000:?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z (0071: 0C) (REF 0020: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+        3. 00 0000 0093 0000:?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z (0071: 0C) (REF 0020: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+    568BF1578975FC837E600074238B465885C0740E6A00FF7668FF7004:
+      0. 02 ABB7 00B3 0000:?SetPalette@MvcBufferedViewport@@QAEXPAVCPalette@@@Z
+    817D08:
+      02010000741B817D08010100007412817D08000100007409C7:
+        0. 16 DD1D 0036 0000:?IsKeyMessage@MvcMsgDecoder@@SAHI@Z
+      030200007463817D0801020000745A817D0802020000745181:
+        0. 5E 2435 007E 0000:?IsMouseMessage@MvcMsgDecoder@@SAHI@Z
+    894DFC:
+      6A008B4DFCE8........8B45FCC700........8B4DFCC7413C:
+        0. 00 0000 0D0C 0000:??0MvcBufferedViewport@@QAE@XZ 0071:??1MvcBufferedViewport@@UAE@XZ 0106:?SetPalette@MvcBufferedViewport@@QAEXPAVCPalette@@@Z 0269:?CreateOffscreenDC@MvcBufferedViewport@@MAEHXZ 034E:?CreateOffscreenBuffer@MvcBufferedViewport@@IAEHXZ 0610:?NeedToResizeBuffer@MvcBufferedViewport@@IAEHXZ 06E9:?DestroyOffscreenBuffer@MvcBufferedViewport@@IAEXXZ 0766:?DrawOffscreen@MvcBufferedViewport@@QAEXXZ 082C:?DrawOffscreen@MvcBufferedViewport@@QAEXABVCRect@@@Z 08E9:?Draw@MvcBufferedViewport@@UAEXPAVCDC@@@Z 0943:?DrawRect@MvcBufferedViewport@@UAEXPAVCDC@@ABVCRect@@@Z 0950:?Refresh@MvcBufferedViewport@@QAEXPAVCDC@@@Z 0992:?Refresh@MvcBufferedViewport@@QAEXPAVCDC@@ABVCRect@@@Z 0B9C:?OnInitialUpdate@MvcBufferedViewport@@UAEXXZ 0BD2:?SetSize@MvcBufferedViewport@@UAE?AVCSize@@HH@Z 0C49:?SetLogOrigin@MvcBufferedViewport@@UAE?AVCPoint@@HH@Z 0C86:?SetLogExtents@MvcBufferedViewport@@UAE?AVCSize@@HH@Z 0CC3:?Pan@MvcBufferedViewport@@UAE?AVCRect@@HH@Z
+      8B:
+        45:
+          08508B4DFC:
+            83C154:
+              8B55FC8B4254FF50148BE55DC20400:
+                0. 00 0000 0020 0000:?RemoveComponent@MvcCompositeViewport@@UAEXPAVMvcVisualComponent@@@Z
+              E8........8BE55DC20400:
+                0. 00 0000 001C 0000:?AddComponent@MvcCompositeViewport@@UAEHPAVMvcVisualComponent@@@Z
+            8B5104528B45FC8B48088B55FC8B42088B10:
+              0. 09 2B97 0029 0000:?FindNext@?$Iterator_T@PAVMvcVisualComponent@@@@UAEHPAVMvcVisualComponent@@@Z
+              1. 09 5DF8 0029 (!)0000:?
+              2. 09 5DF8 0029 0000:?Insert@?$Iterator_T@PAVIMvcObserver@@@@UAEXPAVIMvcObserver@@@Z
+              3. 09 8D9F 0029 0000:?Set@?$Iterator_T@PAVIMvcObserver@@@@UAEXPAVIMvcObserver@@@Z
+              4. 09 B126 0029 (!)0000:?
+              5. 09 B126 0029 0000:?FindPrev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEHPAVMvcVisualComponent@@@Z
+            E8........68........8B4DFC8B51085268:
+              0. 00 0000 007D 0000:?Dump@?$CArray@PAVIMvcObserver@@PAV1@@@UBEXAAVCDumpContext@@@Z (REF 0066: ?DumpElements@@YGXAAVCDumpContext@@PBQAVIMvcObserver@@H@Z)
+              1. 00 0000 007D 0000:?Dump@?$CArray@PAVMvcCommand@@PAV1@@@UBEXAAVCDumpContext@@@Z (REF 0066: ?DumpElements@@YGXAAVCDumpContext@@PBQAVMvcCommand@@H@Z)
+              2. 00 0000 007D 0000:?Dump@?$CArray@PAVMvcVisualComponent@@PAV1@@@UBEXAAVCDumpContext@@@Z (REF 0066: ?DumpElements@@YGXAAVCDumpContext@@PBQAVMvcVisualComponent@@H@Z)
+          0C508B4D08518B55FC8B028B4DFCFF90C40000008BC8E8:
+            0. 00 0000 002A 0000:?GetUpdateRect@MvcViewport@@UAEHPAUtagRECT@@H@Z
+          FC:
+            83C0048B4D088B1089118B50048951048B5008895108:
+              0. 0F 9770 002F 0000:?GetBounds@MvcVisualComponent@@QBE?AVCRect@@XZ
+            8B:
+              108B4DFCFF52:
+                088B45FC8B108B4DFCFF52208BE55D:
+                  0. 01 EF04 0021 0000:?GetFirst@?$Iterator_T@PAVMvcVisualComponent@@@@QAEPAVMvcVisualComponent@@XZ
+                0C8B45FC8B108B4DFCFF52208BE55D:
+                  0. 01 EF04 0021 0000:?GetNext@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+                148B45FC8B108B4DFCFF52208BE55D:
+                  0. 01 EF04 0021 0000:?GetPrev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+                1C8B45FC8B108B4DFCFF52208BE55D:
+                  0. 01 EF04 0021 0000:?GetLast@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+              40:
+                08:
+                  83E8018BE55DC3:
+                    0. 00 0000 0014 0000:?GetUpperBound@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEHXZ
+                  8BE55DC3:
+                    0. 00 0000 0011 0000:?GetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEHXZ
+                4C8BE55DC3:
+                  0. 00 0000 0011 0000:?IsPlugged@SECWndPlugIn@@UAEHXZ
+                508BE55DC3:
+                  0. 00 0000 0011 0000:?IsPlugged@SECWndPlugIn@@UAEHXZ
+                548BE55DC3:
+                  0. 00 0000 0011 0000:?GetWnd@MvcController@@QBEPAVCWnd@@XZ
+                588BE55DC3:
+                  0. 00 0000 0011 0000:?GetWnd@MvcController@@QBEPAVCWnd@@XZ
+              4804518B55FC8B4A088B45FC8B50088B02FF50:
+                048B:
+                  0. 03 C861 0023 0000:?First@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+                088B:
+                  0. 03 C861 0023 0000:?Next@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+                0C8B:
+                  0. 03 C861 0023 0000:?Prev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+                108B:
+                  0. 03 C861 0023 0000:?Last@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+                148B:
+                  0. 03 C861 0023 0000:?Remove@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+                188B:
+                  0. 03 C861 0023 0000:?Get@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+              4D088948:
+                086AFF8B55FC8B4208508B4DFC83E914E8:
+                  0. 00 0000 002A 0000:?SetMaxSize@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEXH@Z
+                588BE55DC20400:
+                  0. 00 0000 0016 0000:?SetModel@MvcController@@UAEXPAVMvcModel@@@Z
+                5C8BE55DC20400:
+                  0. 00 0000 0016 0000:?SetModel@MvcController@@UAEXPAVMvcModel@@@Z
+            C700........8B:
+              45FC8BE55DC3:
+                0. 00 0000 0017 0000:??0IMvcMsgHandler@@QAE@XZ (REF 000C: ??_7IMvcMsgHandler@@6B@)
+                1. 00 0000 0017 0000:??0?$IStack_T@PAVMvcCommand@@@@QAE@XZ (REF 000C: ??_7?$IStack_T@PAVMvcCommand@@@@6B@)
+                2. 00 0000 0017 0000:??0IMvcSubject@@QAE@XZ (REF 000C: ??_7IMvcSubject@@6B@)
+                3. 00 0000 0017 0000:??0?$ICollection_T@PAVIMvcObserver@@@@QAE@XZ (REF 000C: ??_7?$ICollection_T@PAVIMvcObserver@@@@6B@)
+                4. 00 0000 0017 0000:??0CCIterPos@@QAE@XZ (REF 000C: ??_7CCIterPos@@6B@)
+                5. 00 0000 0017 0000:??0?$ICollection_T@PAVMvcVisualComponent@@@@QAE@XZ (REF 000C: ??_7?$ICollection_T@PAVMvcVisualComponent@@@@6B@)
+                6. 00 0000 0017 0000:??0IMvcMessage@@QAE@XZ (REF 000C: ??_7IMvcMessage@@6B@)
+                7. 00 0000 0017 0000:??0IMvcObserver@@QAE@XZ (REF 000C: ??_7IMvcObserver@@6B@)
+              4D08518B4DFCE8........8B45FC8B:
+                0. 05 1E44 0025 0000:??0?$Iterator_T@PAVMvcVisualComponent@@@@QAE@PAV?$ICollection_T@PAVMvcVisualComponent@@@@@Z (REF 000C: ??_7?$Iterator_T@PAVMvcVisualComponent@@@@6B@)
+                1. 05 1E44 0025 0000:??0?$Iterator_T@PAVIMvcObserver@@@@QAE@PAV?$ICollection_T@PAVIMvcObserver@@@@@Z (REF 000C: ??_7?$Iterator_T@PAVIMvcObserver@@@@6B@)
+              E55DC3:
+                0. 00 0000 0014 0000:??1CCIterPos@@UAE@XZ
+        4DFC:
+          83:
+            C104E8........8B45FCC700........8B4DFC83C1:
+              0. 02 6103 0317 0000:??0MvcVisualComponent@@QAE@XZ 002D:??1MvcVisualComponent@@UAE@XZ 0041:?Draw@MvcVisualComponent@@UAEXPAVCDC@@@Z 004E:?OnInitialUpdate@MvcVisualComponent@@UAEXXZ 0059:?GetOrigin@MvcVisualComponent@@QBE?AVCPoint@@XZ 0081:?SetOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z 00CA:?OffsetOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z 010C:?MoveOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z 0154:?GetSize@MvcVisualComponent@@UBE?AVCSize@@XZ 0182:?SetSize@MvcVisualComponent@@UAE?AVCSize@@HH@Z 01DA:?ScaleBounds@MvcVisualComponent@@UAE?AVCSize@@HHHHH@Z 0296:?ContainsPoint@MvcVisualComponent@@QBEHABVCPoint@@@Z 02CE:?Intersects@MvcVisualComponent@@QBEHABVCRect@@@Z 030A:?Sprint@MvcVisualComponent@@UAEXAAVCString@@@Z
+            E914E8........8BE55DC3:
+              0. 00 0000 0016 0000:?GetSize@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHXZ (REF 000E: ?GetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEHXZ)
+              1. 00 0000 0016 0000:?GetSize@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEHXZ (REF 000E: ?GetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QBEHXZ)
+          8B45FC8B10FF522C85C07E116A016A008B4DFC83E914:
+            0. 01 3E9B 002B 0000:?RemoveAll@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXXZ (REF 0021: ?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+            1. 01 3E9B 002B 0000:?RemoveAll@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXXZ (REF 0021: ?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+          E8........8B:
+            45:
+              0883E00185C074:
+                098B4DFC51E8:
+                  0. 00 0000 002B 0000:??_GDC@MvcViewport@@UAEPAXI@Z (REF 000B: ??1DC@MvcViewport@@UAE@XZ)
+                  1. 00 0000 002B 0000:??_G?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CCStack_T@PAVMvcCommand@@PAV1@@@UAE@XZ)
+                  2. 00 0000 002B 0000:??_G?$CArray@PAVMvcCommand@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ)
+                  3. 00 0000 002B 0000:??_G?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+                  4. 00 0000 002B 0000:??_G?$CArray@PAVIMvcObserver@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+                  5. 00 0000 002B 0000:??_GMvcController@@UAEPAXI@Z (REF 000B: ??1MvcController@@UAE@XZ)
+                  6. 00 0000 002B 0000:??_G?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+                  7. 00 0000 002B 0000:??_G?$CArray@PAVMvcVisualComponent@@PAV1@@@UAEPAXI@Z (REF 000B: ??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+                0C8B4DFC51E8:
+                  0. 00 0000 002E 0000:??_GMvcVisualPart@@UAEPAXI@Z (REF 000B: ??1MvcVisualPart@@UAE@XZ)
+                  1. 00 0000 002E 0000:??_GMvcVisualComponent@@UAEPAXI@Z (REF 000B: ??1MvcVisualComponent@@UAE@XZ)
+                  2. 00 0000 002E 0000:??_GMvcViewport@@UAEPAXI@Z (REF 000B: ??1MvcViewport@@UAE@XZ)
+                  3. 00 0000 002E 0000:??_GMvcTransactionModel@@UAEPAXI@Z (REF 000B: ??1MvcTransactionModel@@UAE@XZ)
+                  4. 00 0000 002E 0000:??_GMvcModel@@UAEPAXI@Z (REF 000B: ??1MvcModel@@UAE@XZ)
+                  5. 00 0000 002E 0000:??_G?$Iterator_T@PAVIMvcObserver@@@@UAEPAXI@Z (REF 000B: ??1?$Iterator_T@PAVIMvcObserver@@@@UAE@XZ)
+                  6. 00 0000 002E 0000:??_GCCIterPos@@UAEPAXI@Z (REF 000B: ??1CCIterPos@@UAE@XZ)
+                  7. 00 0000 002E 0000:??_G?$CCIterPos_T@H@@UAEPAXI@Z (REF 000B: ??1?$CCIterPos_T@H@@UAE@XZ)
+                  8. 00 0000 002E 0000:??_GMvcLogicalPart@@UAEPAXI@Z (REF 000B: ??1MvcLogicalPart@@UAE@XZ)
+                  9. 00 0000 002E 0000:??_GMvcCompositeViewport@@UAEPAXI@Z (REF 000B: ??1MvcCompositeViewport@@UAE@XZ)
+                  10. 00 0000 002E 0000:??_G?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAXI@Z (REF 000B: ??1?$Iterator_T@PAVMvcVisualComponent@@@@UAE@XZ)
+                  11. 00 0000 002E 0000:??_GMvcCommand@@UAEPAXI@Z (REF 000B: ??1MvcCommand@@UAE@XZ)
+                  12. 00 0000 002E 0000:??_GMvcBufferedViewport@@UAEPAXI@Z (REF 000B: ??1MvcBufferedViewport@@UAE@XZ)
+              FC:
+                8B4D088948148B55FCC702:
+                  0. 00 0000 012A 0000:??0MvcVisualPart@@QAE@PAV0@@Z 002A:??1MvcVisualPart@@UAE@XZ 0046:?Create@MvcVisualPart@@UAEHPAV1@@Z 006D:?GetContainer@MvcVisualPart@@QAEPAV1@XZ 007E:?SetContainer@MvcVisualPart@@UAEXPAV1@@Z 0094:?Invalidate@MvcVisualPart@@UAEXHH@Z 00B8:?InvalidateVisual@MvcVisualPart@@UAEXPAVMvcVisualComponent@@HH@Z 00E7:?InvalidateRect@MvcVisualPart@@UAEXABVCRect@@HH@Z 011A:?OnCreate@MvcVisualPart@@UAEHXZ
+                C700........8B:
+                  45FC8BE55DC3:
+                    55:
+                      0. 0B C269 0063 0000:??0MvcCommand@@QAE@XZ 001F:??1MvcCommand@@UAE@XZ 0033:?Execute@MvcCommand@@UAEHXZ 0043:?Unexecute@MvcCommand@@UAEHXZ 0053:?IsUndoable@MvcCommand@@UBEHXZ
+                    ..:
+                      0. 00 0000 001F 0000:??0?$CCIterPos_T@H@@QAE@XZ
+                  4DFCC741040000:
+                    0. 27 6C81 0047 0000:??0?$CArray@PAVMvcCommand@@PAV1@@@QAE@XZ (REF 0014: ??_7?$CArray@PAVMvcCommand@@PAV1@@@6B@)
+                    1. 27 6C81 0047 0000:??0?$CArray@PAVMvcVisualComponent@@PAV1@@@QAE@XZ (REF 0014: ??_7?$CArray@PAVMvcVisualComponent@@PAV1@@@6B@)
+                    2. 27 6C81 0047 0000:??0?$CArray@PAVIMvcObserver@@PAV1@@@QAE@XZ (REF 0014: ??_7?$CArray@PAVIMvcObserver@@PAV1@@@6B@)
+            4DFC83C1:
+              04E8........8B45FCC700:
+                0. 00 0000 01A0 0000:??0MvcModel@@QAE@XZ 002A:??1MvcModel@@UAE@XZ 00A6:?IsModified@MvcModel@@UBEHXZ 00B3:?AddObserver@MvcModel@@UAEXPAVIMvcObserver@@@Z 00CF:?RemoveObserver@MvcModel@@UAEXPAVIMvcObserver@@@Z 00EF:?UpdateAllObservers@MvcModel@@UAEXPAVIMvcObserver@@PAVIMvcMessage@@@Z 0195:?Reset@MvcModel@@UAEXXZ
+              08E8........8B45FC8BE55D:
+                0. 01 EF04 0021 0000:??0Extents@MvcLogicalPart@@QAE@XZ
+            E55DC3:
+              0. 00 0000 0013 0000:??1?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAE@XZ (REF 000B: ??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+              1. 00 0000 0013 0000:??1?$CCIterPos_T@H@@UAE@XZ (REF 000B: ??1CCIterPos@@UAE@XZ)
+              2. 00 0000 0013 0000:??1?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAE@XZ (REF 000B: ??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+              3. 00 0000 0013 0000:??1?$CCStack_T@PAVMvcCommand@@PAV1@@@UAE@XZ (REF 000B: ??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ)
+        E55D:
+          C20400:
+            0. 00 0000 000D 0000:?OnPrepareDC@MvcVisualComponent@@UAEXPAVCDC@@@Z
+          C3:
+            0. 00 0000 000B 0000:?CreateComponents@MvcCompositeViewport@@MAEXXZ
+    8B45088365FC0053568B30578BF98D5F148B038BCB46FF502C3BF07D:
+      0. 5B 78F6 007B 0000:?FindNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHAAHPAVMvcVisualComponent@@@Z
+  535657837D:
+    0C0074276A018B450CC1E002508B4D0851E8........85C0:
+      0. 05 6D82 005D 0000:?DestructElements@@YGXPAPAVMvcVisualComponent@@H@Z (0037: 00)
+    100074276A:
+      008B4510C1E002508B4D0C51E8........85C0:
+        0. 05 4E3B 0040 0000:?DumpElements@@YGXAAVCDumpContext@@PBQAVMvcVisualComponent@@H@Z (001A: 00)
+      018B4510C1E002508B4D0C51E8........85C0:
+        0. 05 3CD9 0074 0000:?SerializeElements@@YGXAAVCArchive@@PAPAVMvcVisualComponent@@H@Z (004E: 00)
+  6AFF68........64A1........50648925........:
+    51894DF0:
+      6A008B4D:
+        0. 02 0918 03BB 0000:??0MvcCompositeViewport@@QAE@XZ 007E:??1MvcCompositeViewport@@UAE@XZ 00FF:?DestroyComponents@MvcCompositeViewport@@MAEXXZ 01C9:?SetModel@MvcCompositeViewport@@UAEXPAVMvcModel@@@Z 01F0:?Draw@MvcCompositeViewport@@UAEXPAVCDC@@@Z 02F9:?HitTestComponent@MvcCompositeViewport@@UAEPAVMvcVisualComponent@@VCPoint@@@Z
+      8B:
+        450850:
+          0. 04 E2FF 1627 0000:??0MvcLogicalPart@@QAE@PAVMvcVisualPart@@@Z 00B2:??1MvcLogicalPart@@UAE@XZ 00CE:?OnPrepareDC@MvcLogicalPart@@UAEXPAVCDC@@@Z 0228:?ScaleToDeviceRes@MvcLogicalPart@@IAEXPAVCDC@@@Z 0282:?ScaleToDeviceRes@MvcLogicalPart@@IAEHPAVCDC@@AAVCSize@@@Z 0372:?GetMapMode@MvcLogicalPart@@UBEHXZ 0383:?SetMapMode@MvcLogicalPart@@UAEHH@Z 03B6:?CalcConversionFactors@MvcLogicalPart@@IBEXAAM0@Z 0436:?NormalizeAndScaleExtents@MvcLogicalPart@@UBEXAAVCSize@@0@Z 04B6:?LPtoCP@MvcLogicalPart@@QBEXPAUtagPOINT@@H@Z 053F:?LPtoCP@MvcLogicalPart@@QBEXPAUtagRECT@@@Z 05DC:?LPtoCP@MvcLogicalPart@@QBEXPAUtagSIZE@@@Z 0621:?CPtoLP@MvcLogicalPart@@QBEXPAUtagPOINT@@H@Z 06A2:?CPtoLP@MvcLogicalPart@@QBEXPAUtagRECT@@@Z 072F:?CPtoLP@MvcLogicalPart@@QBEXPAUtagSIZE@@@Z 0774:?LPtoLP@MvcLogicalPart@@QAEHHAAH0@Z 0B5D:?SetAxisExtents@MvcLogicalPart@@UAEXW4MvcAxis@@HH@Z 0B96:?GetAxisExtents@MvcLogicalPart@@UAEXW4MvcAxis@@AAH1@Z 0BD7:?GetLogSize@MvcLogicalPart@@UBE?AVCSize@@XZ 0C1D:?GetClippedLogBounds@MvcLogicalPart@@QBE?AVCRect@@XZ 0D32:?SetLogSize@MvcLogicalPart@@UAE?AVCSize@@HH@Z 0D98:?GetLogOrigin@MvcLogicalPart@@UBE?AVCPoint@@XZ 0DB9:?SetLogOrigin@MvcLogicalPart@@UAE?AVCPoint@@HH@Z 0E05:?OffsetLogOrigin@MvcLogicalPart@@UAE?AVCPoint@@HH@Z 0E62:?Pan@MvcLogicalPart@@UAE?AVCRect@@HH@Z 0F6D:?LineUp@MvcLogicalPart@@UAEXH@Z 0FE8:?LineDown@MvcLogicalPart@@UAEXH@Z 105F:?PageUp@MvcLogicalPart@@UAEXH@Z 10BE:?PageDown@MvcLogicalPart@@UAEXH@Z 1119:?ExtentsFixed@MvcLogicalPart@@UBEHXZ 113F:?GetExtents@MvcLogicalPart@@UBE?AVCSize@@XZ 1160:?SetExtents@MvcLogicalPart@@UAE?AVCSize@@HH@Z 11B0:?GetLogExtents@MvcLogicalPart@@UBE?AVCSize@@XZ 11D1:?SetLogExtents@MvcLogicalPart@@UAE?AVCSize@@HH@Z 1221:?SetLogCenter@MvcLogicalPart@@UAEXHH@Z 12B3:?GetLogScaling@MvcLogicalPart@@QAEXAAM0@Z 12D6:?SetLogScaling@MvcLogicalPart@@UAE?AVCSize@@MM@Z 1316:?ScaleRelative@MvcLogicalPart@@UAE?AVCSize@@MM@Z 1361:?SetMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z 13B2:?GetMagnification@MvcLogicalPart@@UBE?AVCSize@@XZ 140E:?IncreaseMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z 1476:?DecreaseMagnification@MvcLogicalPart@@UAE?AVCSize@@HH@Z 14DE:?SetVirtualSize@MvcLogicalPart@@UAEXHH@Z 14EB:?SetVirtualOrigin@MvcLogicalPart@@UAEXHH@Z 14F8:?GetVirtualSize@MvcLogicalPart@@UBE?AVCSize@@XZ 1526:?GetVirtualOrigin@MvcLogicalPart@@UBE?AVCPoint@@XZ 1551:?InvalidateVisual@MvcLogicalPart@@UAEXPAVMvcVisualComponent@@HH@Z 15C7:?InvalidateRect@MvcLogicalPart@@UAEXABVCRect@@HH@Z
+        4DF0E8:
+          0. 00 0000 007F 0000:??0?$CCStack_T@PAVMvcCommand@@PAV1@@@QAE@XZ (0040: C7)
+          1. 00 0000 0061 0000:??0?$CCArray_T@PAVIMvcObserver@@PAV1@@@QAE@XZ (0040: C3) (REF 0020: ??0?$CArray@PAVIMvcObserver@@PAV1@@@QAE@XZ)
+          2. 00 0000 0061 0000:??0?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@QAE@XZ (0040: C3) (REF 0020: ??0?$CArray@PAVMvcVisualComponent@@PAV1@@@QAE@XZ)
+          3. 00 0000 0368 0000:??0MvcTransactionModel@@QAE@XZ 0077:??1MvcTransactionModel@@UAE@XZ 00E6:?Reset@MvcTransactionModel@@UAEXXZ 017D:?IsModified@MvcTransactionModel@@UBEHXZ 018D:?SetHistorySize@MvcTransactionModel@@QAEXH@Z 01C0:?Log@MvcTransactionModel@@UAEHPAVMvcCommand@@@Z 025F:?Do@MvcTransactionModel@@UAEHPAVMvcCommand@@@Z 0286:?Undo@MvcTransactionModel@@UAEPAVMvcCommand@@XZ 02F7:?Redo@MvcTransactionModel@@UAEPAVMvcCommand@@XZ (0040: 45)
+    83EC:
+      08:
+        535657894D:
+          0. 05 ACAC 096F 0000:??0DC@MvcViewport@@QAE@PAV1@H@Z 00EE:??1DC@MvcViewport@@UAE@XZ 0173:??0MvcViewport@@QAE@PAVMvcVisualPart@@@Z 0217:??1MvcViewport@@UAE@XZ 02EC:?Create@MvcViewport@@UAEHPAVCWnd@@PAVMvcVisualPart@@@Z 030E:?OnCreate@MvcViewport@@MAEHXZ 035F:?GetModel@MvcViewport@@UBEPAVMvcModel@@XZ 0370:?SetModel@MvcViewport@@UAEXPAVMvcModel@@@Z 03CF:?CreateController@MvcViewport@@MAEHXZ 03DF:?GetController@MvcViewport@@UAEPAVMvcController@@XZ 03F0:?SetController@MvcViewport@@UAEXPAVMvcController@@@Z 0406:?OnWndMsg@MvcViewport@@UAEHIIJPAJ@Z 04C9:?OnCmdMsg@MvcViewport@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z 051B:?ContainsDP@MvcViewport@@UAEHABVCPoint@@@Z 05C5:?GetWnd@MvcViewport@@UBEPAVCWnd@@XZ 05D6:?InvalidateRect@MvcViewport@@UAEXABVCRect@@HH@Z 069D:?OnUpdate@MvcViewport@@UAEXPAVIMvcSubject@@PAVIMvcMessage@@@Z 06AA:?LPtoDP@MvcViewport@@UAEXPAUtagPOINT@@H@Z 070C:?LPtoDP@MvcViewport@@UAEXPAUtagRECT@@@Z 076A:?LPtoDP@MvcViewport@@UAEXPAUtagSIZE@@@Z 07C8:?DPtoLP@MvcViewport@@UAEXPAUtagPOINT@@H@Z 082A:?DPtoLP@MvcViewport@@UAEXPAUtagRECT@@@Z 0888:?DPtoLP@MvcViewport@@UAEXPAUtagSIZE@@@Z 08E6:?GetLogSize@MvcViewport@@UBE?AVCSize@@XZ
+        894DEC8B45:
+          0. 03 6CED 008F 0000:??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ (REF 0023: ??_7?$CArray@PAVIMvcObserver@@PAV1@@@6B@)
+          1. 03 6CED 008F 0000:??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ (REF 0023: ??_7?$CArray@PAVMvcCommand@@PAV1@@@6B@)
+          2. 03 6CED 008F 0000:??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ (REF 0023: ??_7?$CArray@PAVMvcVisualComponent@@PAV1@@@6B@)
+      10894DE86A08:
+        0. 01 3E9B 006A 0000:?iCreateIteratorPosition@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEPAVCCIterPos@@XZ (0048: C3)
+  83:
+    7D0800:
+      750D8B550C8B412489028B412CEB0B8B550C8B412889028B41:
+        0. 0A EE79 002A 0000:?GetAxisExtents@MvcLogicalPart@@UAEXW4MvcAxis@@AAH1@Z
+      8B450C750B8941248B451089412CEB098941288B4510894130:
+        0. 04 C5B4 0024 0000:?SetAxisExtents@MvcLogicalPart@@UAEXW4MvcAxis@@HH@Z
+    EC:
+      08:
+        535657894DF868:
+          C101000068........8B45F850E8........83:
+            0. 0B A16F 0150 0000:?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z (0124: 00) (REF 0077: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+            1. 0B A16F 0150 0000:?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z (0124: 00) (REF 0077: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+            2. 0B A16F 0151 0000:?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z (0124: 0C) (REF 0077: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+            3. 0B A16F 0151 0000:?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z (0124: 0C) (REF 0077: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+          E201000068........8B45F850E8........83:
+            0. 0B 7404 00F8 0000:?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (00CC: 00) (REF 00AA: ?DestructElements@@YGXPAPAVMvcVisualComponent@@H@Z)
+            1. 0B 7404 00F8 0000:?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z (00CC: 00) (REF 00AA: ?DestructElements@@YGXPAPAVIMvcObserver@@H@Z)
+            2. 0B 7404 00F9 0000:?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (00CC: 08) (REF 00AA: ?DestructElements@@YGXPAPAVMvcVisualComponent@@H@Z)
+            3. 0B 7404 00F9 0000:?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z (00CC: 08) (REF 00AA: ?DestructElements@@YGXPAPAVIMvcObserver@@H@Z)
+        894D:
+          F8:
+            680302000068........8B45F850E8........8B4D0851:
+              0. 04 2231 007B 0000:?Serialize@?$CArray@PAVIMvcObserver@@PAV1@@@UAEXAAVCArchive@@@Z (REF 005A: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+              1. 04 2231 007B 0000:?Serialize@?$CArray@PAVMvcCommand@@PAV1@@@UAEXAAVCArchive@@@Z (REF 005A: ?SetSize@?$CArray@PAVMvcCommand@@PAV1@@@QAEXHH@Z)
+              2. 04 2231 007B 0000:?Serialize@?$CArray@PAVMvcVisualComponent@@PAV1@@@UAEXAAVCArchive@@@Z (REF 005A: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+            8B:
+              45:
+                088945FC:
+                  6A018B4D:
+                    0C518B55FC8B4204508B4DF883:
+                      0. 03 C4CA 002D 0000:?iInsert@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVCCIterPos@@PAVIMvcObserver@@@Z (REF 0023: ?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z)
+                      1. 03 C4CA 002D 0000:?iInsert@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@PAVMvcVisualComponent@@@Z (REF 0023: ?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z)
+                    FC8B5104528B4DF883E914E8:
+                      0. 00 0000 0029 0000:?iRemoveAt@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVCCIterPos@@@Z (REF 001F: ?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+                      1. 00 0000 0029 0000:?iRemoveAt@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@@Z (REF 001F: ?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+                  8B4D:
+                    0C518B55FC:
+                      83C204528B4DF883E914:
+                        0. 0F 90D2 002F 0000:?iFindNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+                        1. 0F E6BD 002F (!)0000:?
+                        2. 0F E6BD 002F 0000:?iFindPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+                      8B4204508B4DF883E914:
+                        0. 01 3E9B 002B 0000:?iSet@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVCCIterPos@@PAVIMvcObserver@@@Z (REF 0021: ?SetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@@Z)
+                        1. 01 3E9B 002B 0000:?iSet@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@PAVMvcVisualComponent@@@Z (REF 0021: ?SetAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@@Z)
+                    F883E914E8........8B4DFC894104:
+                      0. 06 6154 0026 0000:?iLast@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z (REF 0016: ?GetUpperBound@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEHXZ)
+                      1. 06 6154 0026 0000:?iLast@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEXPAVCCIterPos@@@Z (REF 0016: ?GetUpperBound@?$CArray@PAVIMvcObserver@@PAV1@@@QBEHXZ)
+                    FC:
+                      837904007C278B4DF88B55F88B02:
+                        0. 19 146F 0047 0000:?iGet@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEPAVIMvcObserver@@PAVCCIterPos@@@Z (REF 0039: ?GetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QBEPAVIMvcObserver@@H@Z)
+                        1. 19 146F 0047 0000:?iGet@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEPAVMvcVisualComponent@@PAVCCIterPos@@@Z (REF 0039: ?GetAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEPAVMvcVisualComponent@@H@Z)
+                      8B510483:
+                        C2018B45FC8950048BE5:
+                          0. 04 057A 0024 0000:?iNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+                        EA018B45FC8950048BE5:
+                          0. 04 057A 0024 0000:?iPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+                      C74104000000008BE55DC20400:
+                        0. 00 0000 001F 0000:?iFirst@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+                F88B4808894DFC8B5508528B45FC508B4DF8E8:
+                  0. 00 0000 002B 0000:?Add@?$CArray@PAVIMvcObserver@@PAV1@@@QAEHPAVIMvcObserver@@@Z (REF 001E: ?SetAtGrow@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@@Z)
+                  1. 00 0000 002B 0000:?Add@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEHPAVMvcVisualComponent@@@Z (REF 001E: ?SetAtGrow@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@@Z)
+              4DF8E8........8945FCEB098B45FC83E8018945FC83:
+                0. 0D 4E3E 004C 0000:?Remove@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVIMvcObserver@@@Z (REF 000D: ?GetUpperBound@?$CArray@PAVIMvcObserver@@PAV1@@@QBEHXZ)
+                1. 0D 4E3E 004C 0000:?Remove@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVMvcVisualComponent@@@Z (REF 000D: ?GetUpperBound@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEHXZ)
+          FC8B45FC837804007C258B4DFC8B55FC8B41043B42087D17:
+            0. 0E 3888 0045 0000:?Peek@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@XZ
+        8B450850E8........83C40485C0743B668B4D1066894DFC8B55:
+          0. 37 3134 0057 0000:?DecodeMouseMessage@MvcMsgDecoder@@SAHIIJAAVCPoint@@@Z
+      0C894D:
+        F4:
+          8B450C8B4804518B550C8B02508D4DF8518B55F48B028B:
+            0. 1B 8715 003B 0000:?SetSize@MvcVisualComponent@@QAE?AVCSize@@ABV2@@Z
+          8D45F8508B4DF48B118B4DF4FF526C8B088B50048B4508:
+            0. 0E 785C 002E 0000:?TopLeftLog@MvcLogicalPart@@QBE?AVCPoint@@XZ
+          C745F8:
+            000000008B45088B08894DFC837DF80075:
+              298B55:
+                0. 15 5908 009F 0000:?FindPrev@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEHAAHPAVIMvcObserver@@@Z (REF 0035: ?GetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QBEPAVIMvcObserver@@H@Z)
+                1. 15 5908 009F 0000:?FindPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHAAHPAVMvcVisualComponent@@@Z (REF 0035: ?GetAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEPAVMvcVisualComponent@@H@Z)
+              378B55:
+                0. 23 AE41 00B0 0000:?FindNext@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEHAAHPAVIMvcObserver@@@Z (REF 0043: ?GetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QBEPAVIMvcObserver@@H@Z)
+                1. 23 AE41 00B0 0000:?FindNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHAAHPAVMvcVisualComponent@@@Z (REF 0043: ?GetAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEPAVMvcVisualComponent@@H@Z)
+            FFFFFFFFC745FC00000000EB098B45FC83C00189:
+              0. 24 D4B7 005E 0000:?FindIndex@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UBEHPAVIMvcObserver@@@Z (REF 0044: ?GetAt@?$CArray@PAVIMvcObserver@@PAV1@@@QBEPAVIMvcObserver@@H@Z)
+              1. 24 D4B7 005E 0000:?FindIndex@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVMvcVisualComponent@@@Z (REF 0044: ?GetAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QBEPAVMvcVisualComponent@@H@Z)
+        F88B45F8:
+          83780C000F8E8C0000008B4DF88B5104528B4DF8:
+            0. 04 75F8 00B0 0000:?Pop@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@XZ
+          8B400483C0018B4DF899F779088B45F88950048B:
+            0. 0D 5C2C 008D 0000:?Push@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@PAV2@@Z
+      10:
+        53:
+          568BF1:
+            578D4D:
+              F08B06518BCEFF507C8B388BCE8B58048B450C:
+                0. 0E 923C 0052 0000:?SetLogSize@MvcLogicalPart@@UAE?AVCSize@@HH@Z
+              F88B06518BCEFF507C8BC88B7D088B5D0C8B01:
+                0. 40 26E6 0060 0000:?SetLogCenter@MvcLogicalPart@@UAEXHH@Z
+            8D4DF88B06518BCEFF507C8BC833DB837D08018B168B:
+              0. 29 2AED 0049 0000:?PageDown@MvcLogicalPart@@UAEXH@Z
+              1. 2D DED8 004D 0000:?PageUp@MvcLogicalPart@@UAEXH@Z
+          8BD9837B14007429568B7508578D7DF0A5A5A58D45F050A5E8:
+            0. 00 0000 003D 0000:?InvalidateRect@MvcLogicalPart@@UAEXABVCRect@@HH@Z
+        56:
+          57:
+            8B45088D71048D7DF0A5FF7004A5FF308D45F0A550A5FF15:
+              0. 00 0000 002A 0000:?ContainsPoint@MvcVisualComponent@@QBEHABVCPoint@@@Z
+            8D71048D7DF0A5A58D45F0A550FF7508A5E8........5F5E:
+              0. 04 26E6 0024 0000:?Refresh@MvcBufferedViewport@@QAEXPAVCDC@@@Z
+            FF75108D45F0C7416C01000000FF750C50E8........8BF0:
+              0. 0F 53AB 002F 0000:?Pan@MvcBufferedViewport@@UAE?AVCRect@@HH@Z
+          8B:
+            75088D45F057508BF9FF7608FF15........8B45F08BCF89:
+              0. 0E 89D0 004D 0000:?ScaleToDeviceRes@MvcLogicalPart@@IAEXPAVCDC@@@Z
+            F1:
+              8B460C2B46040FAF450C99F77D108945F88B46102B4608:
+                0. 66 C804 0086 0000:?ScaleBounds@MvcVisualComponent@@UAE?AVCSize@@HHHHH@Z
+              8D4D:
+                F08B06518BCEFF50108B08894DF88BCE8B40048945:
+                  0. 06 5E7A 003D 0000:?GetLogSize@MvcLogicalPart@@UBE?AVCSize@@XZ
+                F8578B06518BCEFF507C8BC86A2D5F8B016A1999F7:
+                  0. 3D 8538 005D 0000:?LineUp@MvcLogicalPart@@UAEXH@Z
+                  1. 39 89F0 0059 0000:?LineDown@MvcLogicalPart@@UAEXH@Z
+        894DF48B45F4C700........8B4DF48B51048955F88B45F88945:
+          0. 23 9C2F 0043 0000:??1?$Iterator_T@PAVMvcVisualComponent@@@@UAE@XZ (REF 000E: ??_7?$Iterator_T@PAVMvcVisualComponent@@@@6B@)
+          1. 23 9C2F 0043 0000:??1?$Iterator_T@PAVIMvcObserver@@@@UAE@XZ (REF 000E: ??_7?$Iterator_T@PAVIMvcObserver@@@@6B@)
+        8B:
+          41248D55F88945F08B41288945F48B412C8945F88B41305289:
+            0. 41 10F6 0061 0000:?CalcConversionFactors@MvcLogicalPart@@IBEXAAM0@Z
+          450856578D7DF08D7004FF7510A5FF750C8B01A5A58D55F052:
+            0. 0A E2A9 002A 0000:?InvalidateVisual@MvcVisualPart@@UAEXPAVMvcVisualComponent@@HH@Z
+      146A01518D4DECE8........:
+        6A02FF7508FF75F4FF15........8D:
+          0. 03 BA14 002B 0000:?LPtoDP@MvcViewport@@UAEXPAUtagRECT@@@Z (REF 001B: LPtoDP)
+          1. 03 BA14 002B 0000:?DPtoLP@MvcViewport@@UAEXPAUtagRECT@@@Z (REF 001B: DPtoLP)
+        FF750CFF7508FF75F4FF15:
+          0. 04 4988 002C 0000:?LPtoDP@MvcViewport@@UAEXPAUtagPOINT@@H@Z (REF 001C: LPtoDP)
+          1. 04 4988 002C 0000:?DPtoLP@MvcViewport@@UAEXPAUtagPOINT@@H@Z (REF 001C: DPtoLP)
+      1853568BF1578D4DF88B06518BCEFF507C8B388D4DF0518BCE8B58:
+        0. 30 5C4C 0050 0000:?GetLogBounds@MvcLogicalPart@@QBE?AVCRect@@XZ
+      20:
+        53568D45:
+          E0578BD950E8........8BF08D7DF0A5A58B038D4DF0:
+            0. 1B 54B7 003B 0000:?Draw@MvcBufferedViewport@@UAEXPAVCDC@@@Z
+          F0578BD950E8........8BF08D7DE0A5A58B038D4DF8:
+            0. 65 A9DA 0085 0000:?GetClippedLogBounds@MvcLogicalPart@@QBE?AVCRect@@XZ
+        5657:
+          8B7D088BF18BCF8B07FF7618FF50:
+            348B068D4DE8518BCEFF:
+              0. 11 0D1D 00F6 0000:?OnPrepareDC@MvcLogicalPart@@UAEXPAVCDC@@@Z
+            3C8B068D4DE8518BCEFF:
+              0. 11 0D1D 00F6 0000:?OnPrepareDC@MvcLogicalPart@@UAEXPAVCDC@@@Z
+          8D71048D7DF0A5FF75088D45F0A5A5508D45E050A5FF15:
+            0. 00 0000 0029 0000:?Intersects@MvcVisualComponent@@QBEHABVCRect@@@Z
+        8B4508538BD9563BC357740F8D70048D7DF0A5A5A5A58D45F0EB:
+          0. 08 4B73 004D 0000:?InvalidateVisual@MvcLogicalPart@@UAEXPAVMvcVisualComponent@@HH@Z
+      285356:
+        57894DE0683301000068........8B45E050E8........83:
+          0. 0B 9FCB 0303 0000:?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z (REF 006C: ?DestructElements@@YGXPAPAVIMvcObserver@@H@Z)
+          1. 0B 9FCB 0303 0000:?SetSize@?$CArray@PAVMvcCommand@@PAV1@@@QAEXHH@Z (REF 006C: ?DestructElements@@YGXPAPAVMvcCommand@@H@Z)
+          2. 0B 9FCB 0303 0000:?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (REF 006C: ?DestructElements@@YGXPAPAVMvcVisualComponent@@H@Z)
+        8D45E8578BD950E8........8BF08D7DD8A5A58B038D4DF0:
+          0. 92 E773 00C8 0000:?Pan@MvcLogicalPart@@UAE?AVCRect@@HH@Z
+      30538BD956578D73048D7DD0A5A5A5A58B750C8D7DE0A5A58D45D0:
+        0. 0D 91FA 016A 0000:?Refresh@MvcBufferedViewport@@QAEXPAVCDC@@ABVCRect@@@Z
+      34894DCC8D45E0508B4DCC8B118B4DCCFF527C8B088B5004894DE8:
+        0. 31 60A3 0077 0000:?GetLogBounds@MvcLogicalPart@@QBE?AVCRect@@XZ
+  8B:
+    45:
+      0885C074038B4004FF7524FF7520FF751CFF7518FF7514FF7510FF:
+        0. 08 B905 0030 0000:?GrayStringA@CDC@@UAEHPAVCBrush@@P6GHPAUHDC__@@JH@ZJHHHHH@Z (REF 0028: GrayStringA)
+        1. 08 B905 0030 0000:?GrayStringW@CDC@@UAEHPAVCBrush@@P6GHPAUHDC__@@JH@ZJHHHHH@Z (REF 0028: GrayStringW)
+      0C:
+        535683F8FF578BF174038946108B7D0885FF751E8B460485C074:
+          0. 03 070D 010D 0000:?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (00E9: 00)
+        5DC3:
+          0. 00 0000 0008 0000:??2@YAPAXIPAX@Z
+    4D088B4114F7D0A8018B4510740EC1E00250FF750CE8........EB0C:
+      0. 08 224D 0030 0000:?SerializeElements@@YGXAAVCArchive@@PAPAVMvcVisualComponent@@H@Z (0007: 00)
+  A1........5DC3558BEC8B45083B05........742D833D........0074:
+    0. 03 F9A8 0240 0000:?GetActiveController@MvcController@@SAPAV1@XZ 000A:?SetActiveController@MvcController@@SAXPAV1@@Z 0047:??0MvcController@@QAE@XZ 00BC:??1MvcController@@UAE@XZ 00E2:?Create@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z 0105:?PlugInTo@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z 0143:?SetComponent@MvcController@@UAEXPAVMvcVisualComponent@@@Z 0159:?OnWndMsg@MvcController@@UAEHIIJPAJ@Z 021B:?OnCmdMsg@MvcController@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+  FF75:
+    20FF751CFF7518FF7514FF7510FF750CFF7508FF7104FF15:
+      0. 00 0000 0025 0000:?ExtTextOutA@CDC@@UAEHHHIPBUtagRECT@@PBDIPAH@Z (REF 001D: ExtTextOutA)
+      1. 00 0000 0025 0000:?ExtTextOutW@CDC@@UAEHHHIPBUtagRECT@@PBGIPAH@Z (REF 001D: ExtTextOutW)
+    24FF7520FF751CFF7518FF7514FF7510FF750CFF7104FF15:
+      0. 00 0000 0038 0000:?TabbedTextOutA@CDC@@UAE?AVCSize@@HHPBDHHPAHH@Z (REF 001D: TabbedTextOutA)
+      1. 00 0000 0038 0000:?TabbedTextOutW@CDC@@UAE?AVCSize@@HHPBGHHPAHH@Z (REF 001D: TabbedTextOutW)
+56:
+  57:
+    33FF8BF157E8........897E58897E5C897E60897E6CC706........C746:
+      0. 01 970B 003F 0000:??0MvcBufferedViewport@@QAE@XZ
+    8B:
+      7C240C8BF18B:
+        4714F7D0A801740CFF76088BCFE8........EB118BCFE8:
+          0. 00 0000 003F 0000:?Serialize@?$CArray@PAVIMvcObserver@@PAV1@@@UAEXAAVCArchive@@@Z (REF 002A: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+          1. 00 0000 003F 0000:?Serialize@?$CArray@PAVMvcCommand@@PAV1@@@UAEXAAVCArchive@@@Z (REF 002A: ?SetSize@?$CArray@PAVMvcCommand@@PAV1@@@QAEXHH@Z)
+          2. 00 0000 003F 0000:?Serialize@?$CArray@PAVMvcVisualComponent@@PAV1@@@UAEXAAVCArchive@@@Z (REF 002A: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+        CF8B07FF50108B06578BCEFF50185F5EC20400:
+          0. 00 0000 001C 0000:?Do@MvcTransactionModel@@UAEHPAVMvcCommand@@@Z
+      F9:
+        6AFF8B77088D460150E8........8B47048B4C240C5F890CB08BC65E:
+          0. 03 8E1E 0023 0000:?Add@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEHPAVMvcVisualComponent@@@Z (REF 000E: ?SetSize@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+          1. 03 8E1E 0023 0000:?Add@?$CArray@PAVIMvcObserver@@PAV1@@@QAEHPAVIMvcObserver@@@Z (REF 000E: ?SetSize@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+        8B:
+          47:
+            308D4F30FF50088BF085F6742F8B068BCEFF500C85C074078B06:
+              0. 27 F444 0047 0000:?Undo@MvcTransactionModel@@UAEPAVMvcCommand@@XZ
+            548D4F54FF50088BF085F6742F8B068BCEFF500C85C074078B06:
+              0. 27 038A 0047 0000:?Redo@MvcTransactionModel@@UAEPAVMvcCommand@@XZ
+          77084E78188B47048B4C240C3B0CB075F16A01568BCFE8:
+            0. 07 76F2 0027 0000:?Remove@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVMvcVisualComponent@@@Z (REF 001C: ?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+            1. 07 76F2 0027 0000:?Remove@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVIMvcObserver@@@Z (REF 001C: ?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+        8D77308B068BCEFF500885C0740B8B106A018BC8FF5208EBEA8D7754:
+          0. 19 80A0 0039 0000:?Reset@MvcTransactionModel@@UAEXXZ
+    FF7424148BF1FF7424148D7E0457FF15........8B44240C8B3F8B760889:
+      0. 09 C9D2 0029 0000:?MoveOrigin@MvcVisualComponent@@UAE?AVCPoint@@HH@Z
+  8B:
+    742408578BF9DB06D84F34E8........83F80189067F036A0158DB460489:
+      0. 05 DAB6 003C 0000:?NormalizeAndScaleExtents@MvcLogicalPart@@UBEXAAVCSize@@0@Z
+    F1:
+      578B:
+        06FF90F80000008B4E448BF885C9740E8B0156FF764CFF90:
+          C80000:
+            0. 08 707C 0028 0000:?OnCreate@MvcViewport@@MAEHXZ
+          D00000:
+            0. 08 707C 0028 0000:?OnCreate@MvcViewport@@MAEHXZ
+        7C240C8B06FF742410897E:
+          54FF90D400000083661C00578BCEE8:
+            0. 00 0000 0028 0000:?PlugInTo@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z
+          58FF90DC00000083662000578BCEE8:
+            0. 00 0000 0028 0000:?PlugInTo@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z
+      8B:
+        06FF50:
+          0C8B068BCEFF50205EC3:
+            0. 00 0000 0011 0000:?GetNext@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+          148B068BCEFF50205EC3:
+            0. 00 0000 0011 0000:?GetPrev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+          1C8B068BCEFF50205EC3:
+            0. 00 0000 0011 0000:?GetLast@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+          2C85C07E1B578D7EEC6A016A008BCFE8........8B068BCEFF:
+            0. 09 3037 0029 0000:?RemoveAll@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXXZ (REF 0017: ?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+            1. 09 3037 0029 0000:?RemoveAll@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXXZ (REF 0017: ?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+        4C2408:
+          894E088B01FF108946045EC20400:
+            0. 00 0000 0015 0000:?Init@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXPAV?$ICollection_T@PAVMvcVisualComponent@@@@@Z
+          C706........894E088B01FF108946048BC65EC20400:
+            0. 00 0000 001D 0000:??0?$Iterator_T@PAVMvcVisualComponent@@@@QAE@PAV?$ICollection_T@PAVMvcVisualComponent@@@@@Z (REF 0009: ??_7?$Iterator_T@PAVMvcVisualComponent@@@@6B@)
+            1. 00 0000 001D 0000:??0?$Iterator_T@PAVIMvcObserver@@@@QAE@PAV?$ICollection_T@PAVIMvcObserver@@@@@Z (REF 0009: ??_7?$Iterator_T@PAVIMvcObserver@@@@6B@)
+        4E5C85C974078B016A01FF50048B4E5883665C0085C974078B016A01:
+          0. 09 6342 0029 0000:?DestroyOffscreenBuffer@MvcBufferedViewport@@IAEXXZ
+      8D:
+        4604C706........50FF15........8BC65EC3:
+          0. 00 0000 0017 0000:??0MvcVisualComponent@@QAE@XZ
+        4E04C706........E8........C706........8BC65EC3:
+          0. 00 0000 001B 0000:??0MvcModel@@QAE@XZ
+      E8........:
+        8B:
+          442408C706........8946148BC65EC20400:
+            0. 00 0000 001B 0000:??0MvcVisualPart@@QAE@PAV0@@Z
+          CEE8........8B465885C074088B16508BCEFF52205EC3:
+            0. 00 0000 0020 0000:?OnInitialUpdate@MvcBufferedViewport@@UAEXXZ
+        C746:
+          50........8366540083665C00C706........C74650:
+            0. 00 0000 0028 0000:??0MvcController@@QAE@XZ
+          54........8366580083666000C706........C74654:
+            0. 00 0000 0028 0000:??0MvcController@@QAE@XZ
+        F644240801740756E8........598BC65EC20400:
+          0. 00 0000 001C 0000:??_GMvcVisualComponent@@UAEPAXI@Z (REF 0004: ??1MvcVisualComponent@@UAE@XZ)
+          1. 00 0000 001C 0000:??_GDC@MvcViewport@@UAEPAXI@Z (REF 0004: ??1DC@MvcViewport@@UAE@XZ)
+          2. 00 0000 001C 0000:??_GMvcViewport@@UAEPAXI@Z (REF 0004: ??1MvcViewport@@UAE@XZ)
+          3. 00 0000 001C 0000:??_GMvcTransactionModel@@UAEPAXI@Z (REF 0004: ??1MvcTransactionModel@@UAE@XZ)
+          4. 00 0000 001C 0000:??_G?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CCStack_T@PAVMvcCommand@@PAV1@@@UAE@XZ)
+          5. 00 0000 001C 0000:??_G?$CArray@PAVMvcCommand@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ)
+          6. 00 0000 001C 0000:??_GMvcModel@@UAEPAXI@Z (REF 0004: ??1MvcModel@@UAE@XZ)
+          7. 00 0000 001C 0000:??_G?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+          8. 00 0000 001C 0000:??_G?$Iterator_T@PAVIMvcObserver@@@@UAEPAXI@Z (REF 0004: ??1?$Iterator_T@PAVIMvcObserver@@@@UAE@XZ)
+          9. 00 0000 001C 0000:??_G?$CCIterPos_T@H@@UAEPAXI@Z (REF 0004: ??1?$CCIterPos_T@H@@UAE@XZ)
+          10. 00 0000 001C 0000:??_G?$CArray@PAVIMvcObserver@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+          11. 00 0000 001C 0000:??_GMvcLogicalPart@@UAEPAXI@Z (REF 0004: ??1MvcLogicalPart@@UAE@XZ)
+          12. 00 0000 001C 0000:??_GMvcController@@UAEPAXI@Z (REF 0004: ??1MvcController@@UAE@XZ)
+          13. 00 0000 001C 0000:??_GMvcCompositeViewport@@UAEPAXI@Z (REF 0004: ??1MvcCompositeViewport@@UAE@XZ)
+          14. 00 0000 001C 0000:??_G?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+          15. 00 0000 001C 0000:??_G?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAXI@Z (REF 0004: ??1?$Iterator_T@PAVMvcVisualComponent@@@@UAE@XZ)
+          16. 00 0000 001C 0000:??_G?$CArray@PAVMvcVisualComponent@@PAV1@@@UAEPAXI@Z (REF 0004: ??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+          17. 00 0000 001C 0000:??_GMvcCommand@@UAEPAXI@Z (REF 0004: ??1MvcCommand@@UAE@XZ)
+          18. 00 0000 001C 0000:??_GMvcBufferedViewport@@UAEPAXI@Z (REF 0004: ??1MvcBufferedViewport@@UAE@XZ)
+          19. 00 0000 001C 0000:??_GCBitmap@@UAEPAXI@Z (REF 0004: ??1CBitmap@@UAE@XZ)
+          20. 00 0000 001C 0000:??_GCGdiObject@@UAEPAXI@Z (REF 0004: ??1CGdiObject@@UAE@XZ)
+          21. 00 0000 001C 0000:??_GCPalette@@UAEPAXI@Z (REF 0004: ??1CPalette@@UAE@XZ)
+          22. 00 0000 001C 0000:??_GMvcVisualPart@@UAEPAXI@Z (REF 0004: ??1MvcVisualPart@@UAE@XZ)
+      F7D9578B7C240C8D563C897E488B071BC923CA518BCFFF108B4E4485C9:
+        0. 10 4D73 0030 0000:?SetModel@MvcViewport@@UAEXPAVMvcModel@@@Z
+        1. 10 870C 0030 0000:?SetModel@MvcViewport@@UAEXPAVMvcModel@@@Z
+      FF742408:
+        8B:
+          06FF50308B068BCEFF50405EC20400:
+            0. 00 0000 0017 0000:?Create@MvcVisualPart@@UAEHPAV1@@Z
+          46308D4E30FF:
+            1085C074098B106A018BC8FF520883C6548B:
+              0. 1C D955 003C 0000:?Log@MvcTransactionModel@@UAEHPAVMvcCommand@@@Z
+            500C8B4654FF7424088D4E54FF500C5EC204:
+              0. 01 78F0 0021 0000:?SetHistorySize@MvcTransactionModel@@QAEXH@Z
+        E8........:
+          8B068BCEFF90080100005EC20400:
+            0. 00 0000 001A 0000:?SetModel@MvcCompositeViewport@@UAEXPAVMvcModel@@@Z
+          C7463C........33C0C74640........89464889:
+            0. 0A 417C 0042 0000:??0MvcViewport@@QAE@PAVMvcVisualPart@@@Z
+          D9E8C746180800000083661C00836620006A01D9:
+            0. 05 0642 0040 0000:??0MvcLogicalPart@@QAE@PAVMvcVisualPart@@@Z
+6A:
+  00FF71:
+    1CFF15........C3:
+      0. 00 0000 000C 0000:?BeginModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+    20FF15........C3:
+      0. 00 0000 000C 0000:?BeginModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+  01FF71:
+    1CFF15........C3:
+      0. 00 0000 000C 0000:?EndModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+    20FF15........C3:
+      0. 00 0000 000C 0000:?EndModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+  08E8........85C0597407C700........C333C0C3:
+    0. 00 0000 0016 0000:?iCreateIteratorPosition@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEPAVCCIterPos@@XZ
+83:
+  790C00567E378B41048B51F08B3482832482008D04828B41044899F7790885:
+    0. 24 69CF 0044 0000:?Pop@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@XZ
+  E9:
+    50E9:
+      0. 00 0000 0008 0000:?OnCmdMsg@MvcController@@WFA@AEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z (REF 0004: ?OnCmdMsg@MvcController@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z)
+      1. 00 0000 0008 0000:?OnWndMsg@MvcController@@WFA@AEHIIJPAJ@Z (REF 0004: ?OnWndMsg@MvcController@@UAEHIIJPAJ@Z)
+    54E9:
+      0. 00 0000 0008 0000:?OnCmdMsg@MvcController@@WFE@AEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z (REF 0004: ?OnCmdMsg@MvcController@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z)
+      1. 00 0000 0008 0000:?OnWndMsg@MvcController@@WFE@AEHIIJPAJ@Z (REF 0004: ?OnWndMsg@MvcController@@UAEHIIJPAJ@Z)
+8B:
+  01FF90C4000000FF742408FF742408FF70:
+    1CFF15........C20800:
+      0. 00 0000 001C 0000:?GetUpdateRect@MvcViewport@@UAEHPAUtagRECT@@H@Z
+    20FF15........C20800:
+      0. 00 0000 001C 0000:?GetUpdateRect@MvcViewport@@UAEHPAUtagRECT@@H@Z
+  41:
+    04:
+      56408B74240899F779088951048B41F08D14908B028932FF410C8B510C:
+        0. 10 3683 0030 0000:?Push@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@PAV2@@Z
+      85C07C0C3B41087D078B49F08B0481C333C0C3:
+        0. 00 0000 0016 0000:?Peek@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEPAVMvcCommand@@XZ
+      FF74240483C104FF50:
+        0CC20400:
+          0. 00 0000 0010 0000:?RemoveObserver@MvcModel@@UAEXPAVIMvcObserver@@@Z
+        14C20400:
+          0. 00 0000 0010 0000:?RemoveObserver@MvcModel@@UAEXPAVIMvcObserver@@@Z
+    1883F808740983F80774046A0158C333C0C3:
+      0. 00 0000 0014 0000:?ExtentsFixed@MvcLogicalPart@@UBEHXZ
+    54FF74240483C154FF50:
+      0CC20400:
+        0. 00 0000 0010 0000:?RemoveComponent@MvcCompositeViewport@@UAEXPAVMvcVisualComponent@@@Z
+      14C20400:
+        0. 00 0000 0010 0000:?RemoveComponent@MvcCompositeViewport@@UAEXPAVMvcVisualComponent@@@Z
+    C083C1C05633F6FF90D400000085C07419FF7424148B108BC8FF742414FF:
+      0. 12 A7FB 0032 0000:?OnCmdMsg@MvcViewport@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+      1. 12 F97B 0032 0000:?OnCmdMsg@MvcViewport@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+    F48B4C240448894104C20400:
+      0. 00 0000 000E 0000:?iLast@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+  442404:
+    33C933D28908895004C20400:
+      0. 00 0000 0010 0000:?GetVirtualOrigin@MvcLogicalPart@@UBE?AVCPoint@@XZ
+    3D0302000074493D0102000074423D02020000743B3D090200007434:
+      0. 38 E533 0058 0000:?IsMouseMessage@MvcMsgDecoder@@SAHI@Z
+    538B5C240C568B00578BF133FF48780F8B4E043B1C8175036A015F85:
+      0. 34 E71C 0054 0000:?FindPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHAAHPAVMvcVisualComponent@@@Z
+    56:
+      578BF1837804007C148B78048B06FF502C3BF87D088B46F08B04B8:
+        0. 09 1703 0029 0000:?iGet@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEPAVMvcVisualComponent@@PAVCCIterPos@@@Z
+      8B71188941188B016A006A01FF50348BC65EC20400:
+        0. 00 0000 001A 0000:?SetMapMode@MvcLogicalPart@@UAEHH@Z
+    6A:
+      01:
+        83C1ECFF7004E8........C20400:
+          0. 00 0000 0014 0000:?iRemoveAt@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@@Z (REF 000D: ?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z)
+          1. 00 0000 0014 0000:?iRemoveAt@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVCCIterPos@@@Z (REF 000D: ?RemoveAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHH@Z)
+        FF74240C83C1ECFF7004E8........C20800:
+          0. 00 0000 0018 0000:?iInsert@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@PAVMvcVisualComponent@@@Z (REF 0011: ?InsertAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHPAVMvcVisualComponent@@H@Z)
+          1. 00 0000 0018 0000:?iInsert@?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAEXPAVCCIterPos@@PAVIMvcObserver@@@Z (REF 0011: ?InsertAt@?$CArray@PAVIMvcObserver@@PAV1@@@QAEXHPAVIMvcObserver@@H@Z)
+      FF8941085083C1ECE8........C20400:
+        0. 00 0000 0015 0000:?SetMaxSize@?$CCStack_T@PAVMvcCommand@@PAV1@@@UAEXH@Z
+    83600400C20400:
+      0. 00 0000 000B 0000:?iFirst@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+    8941:
+      14C20400:
+        0. 00 0000 000A 0000:?SetContainer@MvcVisualPart@@UAEXPAV1@@Z
+      44C20400:
+        0. 00 0000 000A 0000:?SetController@MvcViewport@@UAEXPAVMvcController@@@Z
+      58C20400:
+        0. 00 0000 000A 0000:?SetModel@MvcController@@UAEXPAVMvcModel@@@Z
+      5CC20400:
+        0. 00 0000 000A 0000:?SetComponent@MvcController@@UAEXPAVMvcVisualComponent@@@Z
+      60C20400:
+        0. 00 0000 000A 0000:?SetComponent@MvcController@@UAEXPAVMvcVisualComponent@@@Z
+    8B:
+      49F08B5424088B4004891481C20800:
+        0. 00 0000 0014 0000:?iSet@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAEXPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+      51:
+        0489108B4908894804C20400:
+          0. 00 0000 0012 0000:?GetOrigin@MvcVisualComponent@@QBE?AVCPoint@@XZ
+        1C89108B4920894804C20400:
+          0. 00 0000 0012 0000:?GetLogOrigin@MvcLogicalPart@@UBE?AVCPoint@@XZ
+        2489108B4928894804C20400:
+          0. 00 0000 0012 0000:?GetLogExtents@MvcLogicalPart@@UBE?AVCSize@@XZ
+        2C89108B4930894804C20400:
+          0. 00 0000 0012 0000:?GetExtents@MvcLogicalPart@@UBE?AVCSize@@XZ
+    FF:
+      4004C20400:
+        0. 00 0000 000A 0000:?iNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+      4804C20400:
+        0. 00 0000 000A 0000:?iPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEXPAVCCIterPos@@@Z
+      74240889414CE8........C20800:
+        0. 00 0000 0013 0000:?Create@MvcViewport@@UAEHPAVCWnd@@PAVMvcVisualPart@@@Z
+  45EC50E8........59C3B8........E9:
+    0. 00 0000 0015 0000:?
+  491485C97411FF74240C8B01FF74240CFF74240CFF503CC20C00:
+    0. 00 0000 001B 0000:?InvalidateRect@MvcVisualPart@@UAEXABVCRect@@HH@Z
+  4D:
+    E8:
+      E8........C3B8........E9........6A5468........8B45D850E8:
+        0. 00 0000 00B2 0000:?
+      E9........8B4DE883C154E9........B8........E9:
+        0. 00 0000 001D 0000:?
+    ECE8........C3B8........E9........:
+      8B4DF0E8........C3B8:
+        0. 00 0000 00F7 0000:?
+      ..:
+        0. 00 0000 0013 0000:?
+    F0:
+      83C104E8........C3B8........E9........8D4DE4E8........C3B8:
+        0. 00 0000 0029 0000:?
+      E8........C3:
+        8B4DF083C1:
+          1CE8........C38B4DF083C140E8:
+            0. 02 46D6 0056 0000:?
+          54E8........C3B8........E9........8B:
+            0. 03 8B28 0077 0000:?
+        B8........E9........:
+          8D4DD0E8........C3B8:
+            0. 00 0000 0039 0000:?
+          ..:
+            0. 00 0000 0013 0000:?
+      E9........:
+        8B4DF083C1:
+          1CE9........8B4DF083C140E9........B8:
+            0. 00 0000 0028 0000:?
+          54E9........B8........E9:
+            0. 00 0000 001D 0000:?
+        B8........E9:
+          0. 00 0000 0012 0000:?
+  510C8B4424042B5104568B71102B710889108970045EC20400:
+    0. 00 0000 001A 0000:?GetSize@MvcVisualComponent@@UBE?AVCSize@@XZ
+  542404:
+    53568BF1578B7C24148B46088B4E042BC22BC78D1C9185C074:
+      13C1E0:
+        0. 0A B808 003A 0000:?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (000F: 00)
+      14C1E0:
+        0. 0B 0656 003B 0000:?RemoveAt@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEXHH@Z (000F: 00)
+    FF7424088B41EC83C1EC83C20452FF50:
+      10C20800:
+        0. 00 0000 0018 0000:?iFindNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+      14C20800:
+        0. 00 0000 0018 0000:?iFindPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+      18C20800:
+        0. 00 0000 0018 0000:?iFindNext@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+      1CC20800:
+        0. 00 0000 0018 0000:?iFindPrev@?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UBEHPAVCCIterPos@@PAVMvcVisualComponent@@@Z
+  C1:
+    33C98948:
+      0489481089480C894808C74014........:
+        834818FF83481CFFC7:
+          0. 01 78F0 0030 0000:??0?$CCStack_T@PAVMvcCommand@@PAV1@@@QAE@XZ
+        C700........C74014:
+          0. 00 0000 0025 0000:??0?$CCArray_T@PAVIMvcObserver@@PAV1@@@QAE@XZ (REF 0013: ??_7?$ICollection_T@PAVIMvcObserver@@@@6B@)
+          1. 00 0000 0025 0000:??0?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@QAE@XZ (REF 0013: ??_7?$ICollection_T@PAVMvcVisualComponent@@@@6B@)
+      0889481489481089480CC74018........C74004........C740:
+        0. 01 B16C 002C 0000:??0MvcModel@@QAE@XZ
+    8B4808FF70048B11FF52:
+      04C3:
+        0. 00 0000 000E 0000:?First@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+      08C3:
+        0. 00 0000 000E 0000:?Next@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+      0CC3:
+        0. 00 0000 000E 0000:?Prev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+      10C3:
+        0. 00 0000 000E 0000:?Last@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+      14C3:
+        0. 00 0000 000E 0000:?Remove@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXXZ
+      18C3:
+        0. 00 0000 000E 0000:?Get@?$Iterator_T@PAVMvcVisualComponent@@@@UAEPAVMvcVisualComponent@@XZ
+    C700........C3:
+      0. 00 0000 0009 0000:??0MvcCommand@@QAE@XZ (REF 0004: ??_7MvcCommand@@6B@)
+8D4D:
+  C0E9........B8........E9:
+    0. 00 0000 0012 0000:?
+  C8E9........B8........E9:
+    0. 00 0000 0012 0000:?
+  D0E9........B8........E9:
+    0. 00 0000 0012 0000:?
+  DCE9........:
+    B8........E9:
+      0. 00 0000 0012 0000:?
+    FF75F0E8........C3B8........E9:
+      0. 00 0000 001B 0000:?
+  E0E9........B8........E9:
+    0. 00 0000 0012 0000:?
+  E8E9........B8........E9:
+    0. 00 0000 0012 0000:?
+A1........:
+  568B7424083BF0742685C07406FF15........85F674128B46:
+    54FF:
+      0. 04 413E 0036 0000:?SetActiveController@MvcController@@SAXPAV1@@Z
+    58FF:
+      0. 04 4C1D 0036 0000:?SetActiveController@MvcController@@SAXPAV1@@Z
+  C3:
+    0. 00 0000 0006 0000:?GetActiveController@MvcController@@SAPAV1@XZ (REF 0001: ?m_psActiveCtlr@MvcController@@1PAV1@A)
+B8........E8........:
+  51:
+    568BF1:
+      578975F0E8........8B7D088365FC00C706:
+        0. 00 0000 0070 0000:??0DC@MvcViewport@@QAE@PAV1@H@Z
+      6A008975F0E8........8365FC008D4E54E8:
+        0. 00 0000 0047 0000:??0MvcCompositeViewport@@QAE@XZ
+      8975F0:
+        8D463CC706........C74640:
+          0. 00 0000 0072 0000:??1MvcViewport@@UAE@XZ
+        C706........:
+          8365FC00E8:
+            0. 06 126E 0042 0000:??1DC@MvcViewport@@UAE@XZ
+            1. 05 3792 0033 0000:??1CBitmap@@UAE@XZ (000D: C3)
+          8B46048365FC0085C0:
+            0. 04 C3E0 003C 0000:??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ (REF 0013: ??_7?$CArray@PAVIMvcObserver@@PAV1@@@6B@)
+            1. 04 C3E0 003C 0000:??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ (REF 0013: ??_7?$CArray@PAVMvcCommand@@PAV1@@@6B@)
+            2. 04 C3E0 003C 0000:??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ (REF 0013: ??_7?$CArray@PAVMvcVisualComponent@@PAV1@@@6B@)
+          C7:
+            45FC02000000E8:
+              0. 00 0000 0053 0000:??1MvcTransactionModel@@UAE@XZ
+            463C........C746:
+              0. 01 7CB2 0056 0000:??1MvcBufferedViewport@@UAE@XZ (0033: C9)
+              1. 01 7CB2 0055 0000:??1MvcCompositeViewport@@UAE@XZ (0033: C3)
+        E8........8365FC008D4E1CE8:
+          0. 00 0000 0053 0000:??0MvcTransactionModel@@QAE@XZ
+    894DF0C701........:
+      8365FC00E8........8B4DF4:
+        0. 03 D120 0029 0000:??1CBitmap@@UAE@XZ (0005: C3)
+      8B49048365FC0085C9740751:
+        0. 01 3E9B 0032 0000:??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ (REF 0010: ??_7?$CArray@PAVIMvcObserver@@PAV1@@@6B@)
+        1. 01 3E9B 0032 0000:??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ (REF 0010: ??_7?$CArray@PAVMvcCommand@@PAV1@@@6B@)
+        2. 01 3E9B 0032 0000:??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ (REF 0010: ??_7?$CArray@PAVMvcVisualComponent@@PAV1@@@6B@)
+  565733FF8BF157E8........897E58897E64897E6089:
+    0. 05 7982 005C 0000:??0MvcCompositeViewport@@QAE@XZ
+  83EC:
+    0C56:
+      8BF18D46:
+        048D4E18F7D81BC023C18D4DE850:
+          0. 01 3E9B 0074 0000:?UpdateAllObservers@MvcModel@@UAEXPAVIMvcObserver@@PAVIMvcMessage@@@Z
+        548D4E68F7D81BC023C18D4DE850:
+          0. 01 3E9B 0088 0000:?HitTestComponent@MvcCompositeViewport@@UAEPAVMvcVisualComponent@@VCPoint@@@Z
+      8D716883C154F7D91BC923CE518D4DE8E8:
+        0. 00 0000 0070 0000:?DestroyComponents@MvcCompositeViewport@@MAEXXZ
+    14:
+      535633DB578BF153568D4DE0E8........395E:
+        0. 43 23B4 0078 0000:?DrawOffscreen@MvcBufferedViewport@@QAEXABVCRect@@@Z
+        1. 43 A5FE 0078 0000:?DrawOffscreen@MvcBufferedViewport@@QAEXABVCRect@@@Z
+      568BF157837E540074318B4E5885C9742A8B01:
+        0. 2F 80AB 007C 0000:?DrawOffscreen@MvcBufferedViewport@@QAEXXZ
+        1. 2F E5F7 007C 0000:?DrawOffscreen@MvcBufferedViewport@@QAEXXZ
+      578B7D08397918894DF00F842F02000083FF08:
+        0. 15 3C91 025D 0000:?LPtoLP@MvcLogicalPart@@QAEHHAAH0@Z
+      6A01518D4DE0E8........FF75088365FC008D:
+        0. 03 1ABD 0041 0000:?LPtoDP@MvcViewport@@UAEXPAUtagSIZE@@@Z (REF 0023: ?LPtoDP@CDC@@QBEXPAUtagSIZE@@@Z)
+        1. 03 1ABD 0041 0000:?DPtoLP@MvcViewport@@UAEXPAUtagSIZE@@@Z (REF 0023: ?DPtoLP@CDC@@QBEXPAUtagSIZE@@@Z)
+    18:
+      56578BF16A01568D4DDCE8........8365FC00:
+        0. 03 2C4E 0088 0000:?CreateOffscreenDC@MvcBufferedViewport@@MAEHXZ
+      8B41185633F683F8088975EC740E83F8077409:
+        0. 0F 8917 00C1 0000:?ScaleToDeviceRes@MvcLogicalPart@@IAEHPAVCDC@@AAVCSize@@@Z
+    1C568BF1578B06FF90C40000008D4DD86A0051FF:
+      0. 04 413E 00B9 0000:?Draw@MvcCompositeViewport@@UAEXPAVCDC@@@Z
+      1. 04 4C1D 00B9 0000:?Draw@MvcCompositeViewport@@UAEXPAVCDC@@@Z
+    24:
+      5356578BD96A01538D4DD0E8........8B7508:
+        0. 1C B42E 0090 0000:?InvalidateRect@MvcViewport@@UAEXABVCRect@@HH@Z
+      568BF18D4DE48B06518BCEFF50108B086A0189:
+        0. 0D 9ED5 006C 0000:?GetLogSize@MvcViewport@@UBE?AVCSize@@XZ
+    2C:
+      53568BF133C0573946540F8463010000394658:
+        0. 36 4F61 0191 0000:?CreateOffscreenBuffer@MvcBufferedViewport@@IAEHXZ
+      568BF15733FF8B465C85C074638D4DE45351FF:
+        0. 04 167D 008D 0000:?NeedToResizeBuffer@MvcBufferedViewport@@IAEHXZ
+    3456578BF16A01568D4DC0E8........8365FC00:
+      0. 07 F32B 0075 0000:?ContainsDP@MvcViewport@@UAEHABVCPoint@@@Z
+C701........:
+  83C104E9:
+    0. 00 0000 000E 0000:??1MvcModel@@UAE@XZ (REF 0002: ??_7MvcModel@@6B@)
+  8B490485C974068B016A01FF10C3:
+    0. 00 0000 0014 0000:??1?$Iterator_T@PAVMvcVisualComponent@@@@UAE@XZ (REF 0002: ??_7?$Iterator_T@PAVMvcVisualComponent@@@@6B@)
+    1. 00 0000 0014 0000:??1?$Iterator_T@PAVIMvcObserver@@@@UAE@XZ (REF 0002: ??_7?$Iterator_T@PAVIMvcObserver@@@@6B@)
+  C3:
+    0. 00 0000 0007 0000:??1?$CCIterPos_T@H@@UAE@XZ (REF 0002: ??_7CCIterPos@@6B@)
+    1. 00 0000 0007 0000:??1MvcCommand@@UAE@XZ (REF 0002: ??_7MvcCommand@@6B@)
+    2. 00 0000 0007 0000:??1CObject@@UAE@XZ (REF 0002: ??_7CObject@@6B@)
+    3. 00 0000 0007 0000:??1MvcVisualComponent@@UAE@XZ (REF 0002: ??_7MvcVisualComponent@@6B@)
+  C741:
+    50........E9:
+      0. 00 0000 0012 0000:??1MvcController@@UAE@XZ
+    54........E9:
+      0. 00 0000 0012 0000:??1MvcController@@UAE@XZ
+  E9:
+    0. 00 0000 000B 0000:??1MvcLogicalPart@@UAE@XZ (REF 0002: ??_7MvcLogicalPart@@6B@)
+    1. 00 0000 000B 0000:??1MvcVisualPart@@UAE@XZ (REF 0002: ??_7MvcVisualPart@@6B@)
+D9:
+  05........568BF157D87634E8........D905........D876388BF8E8:
+    0. 00 0000 0032 0000:?GetMagnification@MvcLogicalPart@@UBE?AVCSize@@XZ
+  41348B442404D918D941388B442408D918C20800:
+    0. 00 0000 0015 0000:?GetLogScaling@MvcLogicalPart@@QAEXAAM0@Z
+E9:
+  0. 00 0000 0005 0000:??1?$CCStack_T@PAVMvcCommand@@PAV1@@@UAE@XZ (REF 0001: ??1?$CArray@PAVMvcCommand@@PAV1@@@UAE@XZ)
+  1. 00 0000 0005 0000:??1?$CCArray_T@PAVMvcVisualComponent@@PAV1@@@UAE@XZ (REF 0001: ??1?$CArray@PAVMvcVisualComponent@@PAV1@@@UAE@XZ)
+  2. 00 0000 0005 0000:??1?$CCArray_T@PAVIMvcObserver@@PAV1@@@UAE@XZ (REF 0001: ??1?$CArray@PAVIMvcObserver@@PAV1@@@UAE@XZ)
+F644240401568BF1C706........740756E8........598BC65EC20400:
+  0. 00 0000 001D 0000:??_GCObject@@UAEPAXI@Z (REF 000A: ??_7CObject@@6B@)
+  1. 00 0000 001D 0000:??_GCCIterPos@@UAEPAXI@Z (REF 000A: ??_7CCIterPos@@6B@)
+FF7424:
+  04:
+    83C1:
+      04E8........C20400:
+        0. 00 0000 000F 0000:?AddObserver@MvcModel@@UAEXPAVIMvcObserver@@@Z (REF 0008: ?Add@?$CArray@PAVIMvcObserver@@PAV1@@@QAEHPAVIMvcObserver@@@Z)
+      54E8........C20400:
+        0. 00 0000 000F 0000:?AddComponent@MvcCompositeViewport@@UAEHPAVMvcVisualComponent@@@Z (REF 0008: ?Add@?$CArray@PAVMvcVisualComponent@@PAV1@@@QAEHPAVMvcVisualComponent@@@Z)
+    8BC18B4808FF70048B11FF52:
+      1CC20400:
+        0. 00 0000 0014 0000:?Set@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXPAVMvcVisualComponent@@@Z
+      20C20400:
+        0. 00 0000 0014 0000:?Insert@?$Iterator_T@PAVMvcVisualComponent@@@@UAEXPAVMvcVisualComponent@@@Z
+      24C20400:
+        0. 00 0000 0014 0000:?FindNext@?$Iterator_T@PAVMvcVisualComponent@@@@UAEHPAVMvcVisualComponent@@@Z
+      28C20400:
+        0. 00 0000 0014 0000:?FindPrev@?$Iterator_T@PAVMvcVisualComponent@@@@UAEHPAVMvcVisualComponent@@@Z
+    E8........59C20400:
+      0. 00 0000 000D 0000:??3CObject@@SGXPAX@Z (REF 0005: ??3@YAXPAX@Z)
+    FF7104FF15........C20400:
+      0. 00 0000 0010 0000:?RectVisible@CDC@@UBEHPBUtagRECT@@@Z
+  08:
+    8B01FF742408:
+      51FF5038C20800:
+        0. 00 0000 0011 0000:?Invalidate@MvcVisualPart@@UAEXHH@Z
+      FF90:
+        CC000000C20800:
+          0. 00 0000 0013 0000:?Create@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z
+        D4000000C20800:
+          0. 00 0000 0013 0000:?Create@MvcController@@UAEHPAVCWnd@@PAVMvcVisualComponent@@@Z
+    FF742408FF7104FF15........C20800:
+      0. 00 0000 0014 0000:?PtVisible@CDC@@UBEHHH@Z
+  10FF742410FF742410FF742410:
+    E8........C21000:
+      0. 00 0000 0018 0000:?OnCmdMsg@MvcController@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+    FF7104FF15........C21000:
+      0. 00 0000 001C 0000:?DrawTextA@CDC@@UAEHPBDHPAUtagRECT@@I@Z (REF 0015: DrawTextA)
+      1. 00 0000 001C 0000:?Escape@CDC@@UAEHHHPBDPAX@Z (REF 0015: Escape)
+      2. 00 0000 001C 0000:?TextOutW@CDC@@UAEHHHPBGH@Z (REF 0015: TextOutW)
+      3. 00 0000 001C 0000:?DrawTextW@CDC@@UAEHPBGHPAUtagRECT@@I@Z (REF 0015: DrawTextW)
+      4. 00 0000 001C 0000:?TextOutA@CDC@@UAEHHHPBDH@Z (REF 0015: TextOutA)

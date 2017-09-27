@@ -1,0 +1,69 @@
+455589E5:
+  528B16....A1....C706....0020..........:
+    EA:
+      0. 00 0000 001C 0000:m=+12^/main_
+    ..........5A5D4DCB:
+      0. 00 0000 0020 0000:m=+12^/main_
+  53511E:
+    B8....8ED88B1E....8B0E....A1....C706....0020:
+      0. 00 0000 002D 0000:m=+1D^/main_
+    ..........B8....8ED88B1E....8B0E....A1....C706:
+      0. 02 452E 002C 0000:m=+22^/main_
+528B16....A1....C706....0020E8....:
+  E8....5AC3:
+    0. 00 0000 0016 0000:m=+0E^/main_
+  E9:
+    0. 00 0000 0014 0000:m=+0E^/main_
+53511E:
+  B8....8ED88B1E....8B0E....A1....C706....0020E8....E8....1F:
+    0. 03 F91A 0023 0000:m=+19^/main_
+  E8....B8....8ED88B1E....8B0E....A1....C706....0020E8....:
+    E8:
+      0. 00 0000 0026 0000:m=+1C^/main_
+    E9:
+      0. 00 0000 0022 0000:m=+1C^/main_
+56:
+  1E065589E583EC06B8....8ED8C706....00008CDAC706........52A1:
+    0. 01 361F 012A 0000:m=+DF^+10^/__dll_initialize_ 00F3:_Not_Enough_Memory_ 0105:__exit_ (0101: BB)
+    1. 01 361F 012D 0000:m=+E1^+10^/__dll_initialize_ 00F5:_Not_Enough_Memory_ 0108:__exit_ (0101: 1E)
+    2. 01 361F 0127 0000:m=+DC^+10^/__dll_initialize_ 00F0:_Not_Enough_Memory_ 0102:__exit_ (0101: EA)
+  57:
+    065589E583EC0489C68956:
+      FC891E....1E891E....68....891E:
+        0. 00 0000 00ED 0000:m=+BA^+0E^/main_ 00C2:_Not_Enough_Memory_ 00D2:__exit_ (00CC: C3)
+        1. 00 0000 00F7 0000:m=+BE^+12^/main_ 00C8:_Not_Enough_Memory_ 00DA:__exit_ (00CC: 53)
+      FE:
+        1E891E....891E....891E....BB....53:
+          0. 00 0000 0104 0000:m=+A8^+0E^/main_ 00B2:_Not_Enough_Memory_ 00BC:__exit_with_msg_ 00EC:__exit_ (00E0: 5A)
+          1. 00 0000 010B 0000:m=+AA^+0E^/main_ 00B6:_Not_Enough_Memory_ 00C0:__exit_with_msg_ 00F1:__exit_ (00E0: 52)
+        891E....1E891E....68....891E:
+          0. 00 0000 00ED 0000:m=+BA^+0E^/main_ 00C2:_Not_Enough_Memory_ 00D2:__exit_ (00CA: 59)
+          1. 00 0000 00F7 0000:m=+BE^+12^/main_ 00C8:_Not_Enough_Memory_ 00DA:__exit_ (00CA: 6A)
+          2. 00 0000 00EB 0000:m=+B8^+0E^/main_ 00C0:_Not_Enough_Memory_ 00D0:__exit_ (00CA: C3)
+          3. 00 0000 00F5 0000:m=+BC^+12^/main_ 00C6:_Not_Enough_Memory_ 00D8:__exit_ (00CA: 53)
+    1E065589E583EC:
+      0289C68EDA:
+        B8....8EC026891E....2689D88CC35326A3:
+          0. 00 0000 00FE 0000:m=+CA^+19^/main_ 00D3:_Not_Enough_Memory_ 00E3:__exit_ (00D1: 6A)
+          1. 00 0000 0101 0000:m=+CC^+19^/main_ 00D5:_Not_Enough_Memory_ 00E6:__exit_ (00D1: E8)
+          2. 00 0000 0108 0000:m=+CE^+1D^/main_ 00D9:_Not_Enough_Memory_ 00EB:__exit_ (00D1: BA)
+          3. 00 0000 010B 0000:m=+D0^+1D^/main_ 00DB:_Not_Enough_Memory_ 00EE:__exit_ (00D1: 06)
+        BF....:
+          578EC768....26891E....26891E:
+            0. 00 0000 00F9 0000:m=+C5^(+19^/main_)+1C^/main_ 00CE:_Not_Enough_Memory_ 00DE:__exit_ (00D8: C3)
+            1. 00 0000 0103 0000:m=+C9^(+1D^/main_)+22^/main_ 00D4:_Not_Enough_Memory_ 00E6:__exit_ (00D8: 53)
+          8EC75726891E....26891E....2689:
+            0. 01 8709 010F 0000:m=+B3^+1C^/main_ 00BE:_Not_Enough_Memory_ 00C8:__exit_with_msg_ 00F7:__exit_ (00EA: 5A)
+            1. 01 8709 0116 0000:m=+B5^+1E^/main_ 00C2:_Not_Enough_Memory_ 00CC:__exit_with_msg_ 00FC:__exit_ (00EA: 52)
+      0689C68EDAB8....:
+        508EC068....26891E....26891E:
+          0. 00 0000 0127 0000:m=+ED^(+1D^/main_)+22^/main_ 00F8:_Not_Enough_Memory_ 010A:__exit_ (0090: F1)
+          1. 00 0000 0146 0000:m=+10B^+1D^/main_ 0116:_Not_Enough_Memory_ 0129:__exit_ (0090: 16)
+          2. 00 0000 0145 0000:m=+10B^+1D^/main_ 0116:_Not_Enough_Memory_ 0128:__exit_ (0090: FE)
+          3. 00 0000 0142 0000:m=+108^(+1D^/main_)+22^/main_ 0113:_Not_Enough_Memory_ 0125:__exit_ (0090: FA)
+          4. 00 0000 012A 0000:m=+EF^+1D^/main_ 00FA:_Not_Enough_Memory_ 010D:__exit_ (0090: DF)
+          5. 00 0000 0129 0000:m=+EF^+1D^/main_ 00FA:_Not_Enough_Memory_ 010C:__exit_ (0090: B8)
+        8EC050B8....26891E....26891E:
+          0. 00 0000 017F 0000:m=+119^+1E^/main_ 0126:_Not_Enough_Memory_ 0130:__exit_with_msg_ 0160:__exit_
+      0AB8....8ED831DBC706........8CDAA1....52A3:
+        0. 01 BBC9 0176 0000:m=+100^+C^/__dll_initialize_ 0117:_Not_Enough_Memory_ 0121:__exit_with_msg_ 0151:__exit_

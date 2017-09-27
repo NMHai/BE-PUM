@@ -1,0 +1,11 @@
+digraph G {
+node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
+bgcolor="transparent"
+a0x00401000movw_0x64UINT16_ax[label="start\nmovw $0x64<UINT16>, %ax",fillcolor="orange",color="lightgrey"];
+a0x00401004movw_0x32UINT16_bx[label="0x00401004\nmovw $0x32<UINT16>, %bx"];
+a0x00401008shrdw_0x4UINT8_bx_ax[label="0x00401008\nshrdw $0x4<UINT8>, %bx, %ax"];
+a0x0040100dmovb_0x5UINT8_cl[label="0x0040100d\nmovb $0x5<UINT8>, %cl"];
+a0x00401000movw_0x64UINT16_ax -> a0x00401004movw_0x32UINT16_bx [color="#000000"];
+a0x00401004movw_0x32UINT16_bx -> a0x00401008shrdw_0x4UINT8_bx_ax [color="#000000"];
+a0x00401008shrdw_0x4UINT8_bx_ax -> a0x0040100dmovb_0x5UINT8_cl [color="#000000"];
+}

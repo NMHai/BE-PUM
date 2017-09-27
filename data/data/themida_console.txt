@@ -1,0 +1,127 @@
+Enter file name:asm/packer/api_test_v2.3_lvl1.exe
+Start analyzing file with BE-PUM
+Parsing main module asm/packer/api_test_v2.3_lvl1.exe...
+-- Reading image import descriptors....
+Starting On-the-fly Model Generation algorithm.
+Finish creating PE Header File kernel32.dll
+Finish creating PE Header File user32.dll
+Reset address of import table
+Set Up Exception: 0x00407958
+Set Up Exception: 0x004079b2
+Set Up Exception: 0x00407c78
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x004082c5
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00408411
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x004084e7
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00408bd8
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00408cda
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00408dc6
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00408db6
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Instruction not supportedrdtsc at 0x004094da
+Instruction not supportedrdtsc at 0x004094df
+Stop Path after 1500000 at 0x00433c4d
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433b4d
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x004338cc
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433b80
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433bc8
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x004339af
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433a42
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433956
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x00433bfd
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Instruction not supportedrdtsc at 0x004360e9
+Instruction not supportedrdtsc at 0x00436107
+Instruction not supportedrdtsc at 0x0043610f
+Instruction not supportedrdtsc at 0x00432220
+Debug at:0x004329b0
+ Register: eax=0, ebx=59, ecx=1, edx=47d135e3, esp=12ff6c, ebp=40ed50, esi=67e9, edi=40ed5d
+ Flag: cf=false, pf=true, af=false, zf=true, sf=false, tf=false, df=false, of=false, if=true
+******************************************************************
+Writing assembly file to D:\Syn\GitHub\BE-PUMv2\asm\cfg\api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to D:\Syn\GitHub\BE-PUMv2\asm\cfg\api_test_v2.3_lvl1.exe_test_model.dot
+Stop Path after 1500000 at 0x004329b6
+Writing assembly file to asm/cfg/api_test_v2.3_lvl1.exe_test_code.asm
+Writing assembly CFG to asm/cfg/api_test_v2.3_lvl1.exe_test_model.dot
+Process SEH at:0x0041c896
+Set Up System Exception: 0x0041c896
+Unknown data type for operand type: 5!
+Error during disassembly: null
+Unknown data type for operand type: 5!
+Error during disassembly: null
+Instruction could not be disassembled at: 0x004199c3
+java.lang.RuntimeException
+***********************************************************
+* WARNING: Analysis interrupted, CFG might be incomplete! *
+***********************************************************
+Writing assembly file to D:\Syn\GitHub\BE-PUMv2\asm\cfg\api_test_v2.3_lvl1.exe_code.asm
+	at org.jakstab.disasm.x86.InstructionDecoder.getDataType(InstructionDecoder.java:303)
+	at org.jakstab.disasm.x86.InstructionDecoder.getOperand(InstructionDecoder.java:436)
+	at org.jakstab.disasm.x86.InstructionDecoder.getOperand2(InstructionDecoder.java:208)
+	at org.jakstab.disasm.x86.InstructionDecoder.decodeInstruction(InstructionDecoder.java:187)
+	at org.jakstab.disasm.x86.InstructionDecoder.decode(InstructionDecoder.java:160)
+	at org.jakstab.disasm.x86.X86Disassembler.decodeInstruction(X86Disassembler.java:159)
+	at org.jakstab.Program.getInstruction(Program.java:1177)
+	at org.jakstab.Program.getInstruction(Program.java:1079)
+	at v2.org.analysis.transition_rule.X86TransitionRule.generateNextInstruction(X86TransitionRule.java:247)
+	at v2.org.analysis.transition_rule.X86ArithmeticInterpreter.execute(X86ArithmeticInterpreter.java:1629)
+	at v2.org.analysis.transition_rule.X86TransitionRule.getNewState(X86TransitionRule.java:405)
+	at v2.org.analysis.algorithm.OTFModelGeneration.run(OTFModelGeneration.java:224)
+	at v2.org.analysis.Main.runAlgorithm(Main.java:356)
+	at v2.org.analysis.Main.analyzeFile(Main.java:515)
+	at v2.org.analysis.Main.main(Main.java:349)
+java.lang.RuntimeException
+	at org.jakstab.disasm.x86.InstructionDecoder.getDataType(InstructionDecoder.java:303)
+	at org.jakstab.disasm.x86.InstructionDecoder.getOperand(InstructionDecoder.java:436)
+	at org.jakstab.disasm.x86.InstructionDecoder.getOperand2(InstructionDecoder.java:208)
+	at org.jakstab.disasm.x86.InstructionDecoder.decodeInstruction(InstructionDecoder.java:187)
+	at org.jakstab.disasm.x86.InstructionDecoder.decode(InstructionDecoder.java:160)
+	at org.jakstab.disasm.x86.X86Disassembler.decodeInstruction(X86Disassembler.java:282)
+	at org.jakstab.Program.getInstruction(Program.java:1085)
+	at v2.org.analysis.transition_rule.X86TransitionRule.generateNextInstruction(X86TransitionRule.java:247)
+	at v2.org.analysis.transition_rule.X86ArithmeticInterpreter.execute(X86ArithmeticInterpreter.java:1629)
+	at v2.org.analysis.transition_rule.X86TransitionRule.getNewState(X86TransitionRule.java:405)
+	at v2.org.analysis.algorithm.OTFModelGeneration.run(OTFModelGeneration.java:224)
+	at v2.org.analysis.Main.runAlgorithm(Main.java:356)
+	at v2.org.analysis.Main.analyzeFile(Main.java:515)
+	at v2.org.analysis.Main.main(Main.java:349)
+Writing assembly CFG to D:\Syn\GitHub\BE-PUMv2\asm\cfg\api_test_v2.3_lvl1.exe_model.dot
+===============================================================================
+   Statistics for On-The-Fly Model Generation of BE-PUM
+===============================================================================
+   Filename:                     api_test_v2.3_lvl1.exe
+   Runtime:                     52384786ms
+   Instructions:                           11876
+   Nodes:                           11876
+   Edges:                           11898

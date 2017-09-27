@@ -1,0 +1,19 @@
+45558BEC1E:
+  0BC074:
+    328C06....8936....893E....8916....891E....8C06:
+      0. 00 0000 0040 0000:o=2:a=a6:i=tpne.idc:tpwin:l=tpowl
+    4D8C06....8936....893E....8916....891E....8C06:
+      0. 00 0000 005B 0000:o=2:a=a6:i=tpne.idc:tpwin:l=tpowl
+    508C06....8936....893E....8916....891E....8C06:
+      0. 00 0000 005E 0000:o=2:a=a6:i=tpne.idc:delphi
+  893E....8936....8C06....E30E33C01E50519A........0BC074:
+    0. 02 07BE 007E 0000:o=2:a=aa:i=tpdll.idc:tpwin:l=tpowl 0054:@__LibExit$qv
+    1. 04 6D66 0060 0000:o=2:a=aa:i=tpdll.idc:tpwin:l=tpowl 0036:@__LibExit$qv
+89:
+  26....892E....893E....8936....8C06....E30E33C01E50519A:
+    0. 05 0BD2 0090 0000:o=2:a=aa:i=tpdll.idc:delphi 0058:@__LibExit$qv 0070:WEP
+  3E....B80004CD31FEC9880E....C706....0220C706........C706:
+    0. 00 0000 0062 0000:o=4:a=ab:i=tpdll.idc:tpdpmi:l=tptvdpmi 003A:@__LibExit$qv
+BA....8EDA33ED8C06....893E....8BC405040036C7060A00100036A30C0036:
+  0. 0C FDFE 0266 0000:o=4:a=a7:i=tpne.idc:tpdpmi:l=tptvdpmi (0238: 75)
+  1. 0C FDFE 0284 0000:o=4:a=a7:i=tpne.idc:tpdpmi:l=tptvdpmi (0238: 21)

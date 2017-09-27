@@ -1,0 +1,2972 @@
+01:
+  000000000008006368617200:
+    0. 00 0000 000D 0000:@$xt$c
+  03696E740400000080FFFFFF7F:
+    0. 00 0000 000E 0000:?
+  046C6F6E670400000080FFFFFF7F:
+    0. 00 0000 000F 0000:?
+  0573686F7274020080FFFFFF7F0000:
+    0. 00 0000 0010 0000:?
+  0654436F6C6F720400000080FFFFFF7F:
+    0. 00 0000 0011 0000:?
+  0754437572736F72020080FFFFFF7F0000:
+    0. 00 0000 0012 0000:?
+03:
+  04626F6F6C010000000001000000........0566616C73650474727565:
+    0. 00 0000 001E 0000:?
+  0654416C69676E000000000006000000........06616C4E6F6E6505616C54:
+    0. 35 0929 0055 0000:?
+    1. 35 4206 0055 0000:?
+    2. 34 AF2A 0054 0000:?
+    3. 38 BBE9 0058 0000:?
+    4. 32 CBBC 0052 0000:?
+    5. 35 E3E6 0055 0000:?
+  0954:
+    44726167:
+      4B696E64000000000001000000........06646B4472616706:
+        0. 0F 8D37 002F 0000:?
+      4D6F6465000000000001000000........08646D4D616E7561:
+        0. 13 0DBD 0033 0000:?
+        1. 19 76FD 0039 0000:?
+        2. 16 92EC 0036 0000:?
+        3. 13 A216 0033 0000:?
+        4. 16 D9C3 0036 0000:?
+    5465787443617365000000000002000000........0B74634C6F776572:
+      0. 20 6293 0040 0000:?
+  0A5447726170684B696E64000000000001000000........05706742617206:
+    0. 0F D072 002F 0000:?
+  0B54:
+    416E63686F724B696E64000000000003000000........06616B4C6566:
+      0. 21 26A4 0041 0000:?
+      1. 1D 2C78 003D 0000:?
+      2. 21 6D8B 0041 0000:?
+      3. 1E 77F7 003E 0000:?
+      4. 20 B645 0040 0000:?
+      5. 21 CC6B 0041 0000:?
+      6. 1E D85C 003E 0000:?
+    4347617567654B696E64000000000004000000........06676B546578:
+      0. 36 1F4E 0056 0000:?
+  0C54:
+    4F75746C696E6554797065000000000001000000........0A6F745374:
+      0. 1B 1FDA 003B 0000:?
+    5363726F6C6C5374796C65000000000003000000........0673734E6F:
+      0. 2A 7AB2 004A 0000:?
+  0D54477269644F72646572696E67000000000004000000........06676F31:
+    0. 22 BFC6 0042 0000:?
+  0E544F75746C696E654F7074696F6E000000000002000000........0E6F6F:
+    0. 36 F02F 0056 0000:?
+  1054:
+    466F726D426F726465725374796C65000000000005000000........06:
+      0. 47 0ECC 0067 0000:?
+      1. 47 45E3 0067 0000:?
+      2. 46 6D33 0066 0000:?
+    5472617949636F6E4D657373616765000000000008000000........07:
+      0. 7D FD13 009D 0000:?
+04:
+  000000:
+    0300:
+      2000:
+        00000000:
+          5100000034003800000000000000000000000000:
+            0. 1C 0214 003C 0000:@$xt$15ATL@CMessageMap
+          550000009000A000000000000000000000000000:
+            0. 70 8C47 00A4 0000:@$xt$136ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%
+        FFFFFFFF:
+          01000000:
+            30003400000000000000000000000000:
+              0. 18 8FFB 0038 0000:@$xt$11ATL@CWindow
+            38003C00000000000000000000000000:
+              0. 20 46D9 0040 0000:@$xt$22ATL@CComObjectRootBase
+          0500000054006400000000000000000000000000:
+            0. 34 9614 0068 0000:@$xt$50ATL@%CComObjectRootEx$25ATL@CComSingleThreadModel%
+      3000:
+        00000000:
+          512000003C004000000000000000000000000000:
+            0. 24 F56F 0044 0000:@$xt$8IUnknown
+          55200000:
+            3C004C00000000000000000000000000:
+              0. 1C C23C 0050 0000:@$xt$10IOleWindow
+              1. 1C C86D 0050 0000:@$xt$9IDispatch
+              2. 1C F335 0050 0000:@$xt$11IAdviseSink
+            40005000000000000000000000000000:
+              0. 20 0F71 0054 0000:@$xt$13IOleContainer
+              1. 20 1906 0054 0000:@$xt$15IOleControlSite
+              2. 20 79C6 0054 0000:@$xt$15IObjectWithSite
+              3. 20 946D 0054 0000:@$xt$15IOleInPlaceSite
+              4. 20 E7B8 0054 0000:@$xt$14IOleClientSite
+              5. 20 F602 0054 0000:@$xt$12IEnumUnknown
+            44005400000000000000000000000000:
+              0. 24 0633 0058 0000:@$xt$17IOleInPlaceSiteEx
+              1. 24 27F4 0058 0000:@$xt$16IServiceProvider
+              2. 24 4597 0058 0000:@$xt$17IDocHostUIHandler
+              3. 24 4F40 0058 0000:@$xt$19IOleInPlaceUIWindow
+              4. 24 711F 0058 0000:@$xt$16IOleInPlaceFrame
+              5. 24 7196 0058 0000:@$xt$16IAxWinHostWindow
+              6. 24 7BC5 0058 0000:@$xt$17IParseDisplayName
+            48005800000000000000000000000000:
+              0. 28 9B68 005C 0000:@$xt$21IAxWinAmbientDispatch
+            4C005C00000000000000000000000000:
+              0. 2C FE24 0060 0000:@$xt$25IOleInPlaceSiteWindowless
+          B300000040004400000000000000000000000000:
+            0. 08 771E 004C 0000:@$xt$14System@TObject
+          B700000048005800000000000000000000000000:
+            0. 08 6AB1 0060 0000:@$xt$19Classes@TPersistent
+        FFFFFFFF:
+          03000000:
+            40004400000000000000000000000000:
+              0. 08 771E 004C 0000:@$xt$12ATL@CComBSTR
+            48004C00000000000000000000000000:
+              0. 08 771E 0054 0000:@$xt$24ATL@%CComPtr$9IDispatch% (0016: 44)
+              1. 08 771E 0054 0000:@$xt$24ATL@%CComPtr$9IFontDisp% (0016: 46)
+              2. 08 771E 0054 0000:@$xt$22ATL@%CComPtr$7IStream% (0016: 53)
+              3. 08 771E 0054 0000:@$xt$24ATL@%CComPtr$9ITypeInfo% (0016: 54)
+              4. 08 771E 0054 0000:@$xt$23ATL@%CComPtr$8IUnknown% (0016: 55)
+              5. 08 771E 0054 0000:@$xt$21System@AnsiStringBase (0016: 72)
+              6. 08 771E 0054 0000:@$xt$20System@UnicodeString (0016: 65)
+            4C005000000000000000000000000000:
+              0. 08 771E 0058 0000:@$xt$28ATL@%CComPtr$12IHTMLElement% (001B: 6C)
+              1. 08 771E 0058 0000:@$xt$26ATL@%CComPtr$10IOleObject% (001B: 6A)
+              2. 08 771E 0058 0000:@$xt$26ATL@%CComPtr$10ITypeInfo2% (001B: 6E)
+              3. 08 771E 0058 0000:@$xt$29ATL@%CComPtr$13IViewObjectEx% (001B: 62)
+              4. 08 771E 0058 0000:@$xt$28ATL@%CComPtr$12IWebBrowser2% (001B: 6F)
+              5. 08 771E 0058 0000:@$xt$27std@%auto_ptr$10TBltBitmap% (001B: 69)
+            50005400000000000000000000000000:
+              0. 08 771E 005C 0000:@$xt$32ATL@%CComPtr$16IAxWinHostWindow% (0019: 69)
+              1. 08 771E 005C 0000:@$xt$32ATL@%CComPtr$16IConnectionPoint% (0019: 6E)
+              2. 08 771E 005C 0000:@$xt$30ATL@%CComPtr$14IHTMLDocument2% (0019: 4C)
+              3. 08 771E 005C 0000:@$xt$31ATL@%CComPtr$15IObjectWithSite% (0019: 65)
+              4. 08 771E 005C 0000:@$xt$30ATL@%CComPtr$14IOleClientSite% (0019: 43)
+              5. 08 771E 005C 0000:@$xt$32ATL@%CComPtr$16IOleInPlaceFrame% (0019: 49)
+              6. 08 771E 005C 0000:@$xt$32ATL@%CComPtr$16IServiceProvider% (0019: 76)
+            54005800000000000000000000000000:
+              0. 08 771E 0060 0000:@$xt$35ATL@%CComPtr$19IOleInPlaceUIWindow% (0023: 69)
+              1. 08 771E 0060 0000:@$xt$34ATL@%CComPtr$18IPersistStreamInit% (0023: 49)
+              2. 08 771E 0060 0000:@$xt$33std@%auto_ptr$16Graphics@TBitmap% (0023: 74)
+              3. 08 771E 0060 0000:@$xt$36System@%DelphiInterface$t9IDispatch% (0023: 73)
+              4. 08 771E 0060 0000:@$xt$38System@%DelphiInterface$t10IOleObject% (0023: 65)
+              5. 08 771E 0060 0000:@$xt$35System@%DelphiInterface$t8IUnknown% (0023: 6B)
+            58005C00000000000000000000000000:
+              0. 08 771E 0064 0000:@$xt$41ATL@%CComPtr$25IConnectionPointContainer% (002E: 3E)
+              1. 08 771E 0064 0000:@$xt$41ATL@%CComPtr$25IDocHostUIHandlerDispatch% (002E: 3E)
+              2. 08 771E 0064 0000:@$xt$39ATL@%CComPtr$23IOleInPlaceActiveObject% (002E: 00)
+              3. 08 771E 0064 0000:@$xt$50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$KS$% (002B: 4B)
+              4. 08 771E 0064 0000:@$xt$50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$NQ$% (002B: 4E)
+              5. 08 771E 0064 0000:@$xt$50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$QS$% (002B: 51)
+              6. 08 771E 0064 0000:@$xt$50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$TQ$% (002B: 54)
+              7. 08 771E 0064 0000:@$xt$50%TComInterface$8IUnknownpx5_GUID$e&@IID_IUnknown$% (002E: 00)
+              8. 08 771E 0064 0000:@$xt$39System@%DelphiInterface$t11IOleControl% (002B: 3E)
+            5C006000000000000000000000000000:
+              0. 08 771E 0068 0000:@$xt$43ATL@%CComPtr$27IOleInPlaceObjectWindowless% (002E: 73)
+              1. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$IS$% (0032: 00)
+              2. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$JS$% (002E: 4A)
+              3. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$LQ$% (002F: 51)
+              4. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$LS$% (002F: 53)
+              5. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$MQ$% (002E: 4D)
+              6. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$OQ$% (002F: 51)
+              7. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$OS$% (002F: 53)
+              8. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$PS$% (002E: 50)
+              9. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$RQ$% (002F: 51)
+              10. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$RS$% (002F: 53)
+              11. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$SQ$% (002E: 53)
+              12. 08 771E 0068 0000:@$xt$53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$UQ$% (002E: 55)
+              13. 08 771E 0068 0000:@$xt$45System@%DelphiInterface$t17IOleInPlaceObject% (002E: 65)
+              14. 08 771E 0068 0000:@$xt$46System@%DelphiInterface$t18IPersistStreamInit% (0032: 3E)
+              15. 08 771E 0068 0000:@$xt$45System@%DelphiInterface$t17System@IInterface% (002E: 66)
+            60006400000000000000000000000000:
+              0. 08 771E 006C 0000:@$xt$57ATL@%CComQIPtr$11IOleControlpx5_GUID$e&@IID_IOleControl$% (0034: 00)
+              1. 08 771E 006C 0000:@$xt$49System@%DelphiInterface$t21Controls@IDockManager% (0034: 65)
+              2. 08 771E 006C 0000:@$xt$48System@%DelphiInterface$t20IPerPropertyBrowsing% (0034: 3E)
+            64006800000000000000000000000000:
+              0. 08 771E 0070 0000:@$xt$51System@%DelphiInterface$t23IOleInPlaceActiveObject%
+            6C007000000000000000000000000000:
+              0. 08 771E 0078 0000:@$xt$71ATL@%CComQIPtr$18IPersistStreamInitpx5_GUID$e&@IID_IPersistStreamInit$%
+            78007C00000000000000000000000000:
+              0. 08 771E 0084 0000:@$xt$81ATL@%CComQIPtr$23IOleInPlaceActiveObjectpx5_GUID$e&@IID_IOleInPlaceActiveObject$% (004E: 00)
+              1. 08 771E 0084 0000:@$xt$69%TComInterface$24Shdocvw_tlb@IWebBrowser2px5_GUID$gIID_IWebBrowser2$% (004E: 3E)
+            7C008000000000000000000000000000:
+              0. 08 771E 0088 0000:@$xt$71%TComInterface$25Shdocvw_tlb@IShellWindowspx5_GUID$gIID_IShellWindows$%
+            80008400000000000000000000000000:
+              0. 08 771E 008C 0000:@$xt$75%TComInterface$27Shdocvw_tlb@IShellNameSpacepx5_GUID$gIID_IShellNameSpace$% (0053: 65)
+              1. 08 771E 008C 0000:@$xt$75%TComInterface$27Shdocvw_tlb@IShellUIHelper2px5_GUID$gIID_IShellUIHelper2$% (0053: 32)
+          0700000048005800000000000000000000000000:
+            0. 08 6AB1 0060 0000:@$xt$27System@%AnsiStringT$us$i0$%
+    10000C00........:
+      43436F6D:
+        42535452202A00:
+          0. 00 0000 0017 0000:@$xt$p12ATL@CComBSTR
+        5074723C49:
+          436F6E6E656374696F6E50:
+            0. 08 44BD 0028 0000:@$xt$p32ATL@%CComPtr$16IConnectionPoint%
+            1. 11 463B 0031 0000:@$xt$p41ATL@%CComPtr$25IConnectionPointContainer%
+          44:
+            697370617463683E202A:
+              0. 01 78F0 0021 0000:@$xt$p24ATL@%CComPtr$9IDispatch%
+            6F63486F737455494861:
+              0. 11 B3EE 0031 0000:@$xt$p41ATL@%CComPtr$25IDocHostUIHandlerDispatch%
+          466F6E74446973703E202A:
+            0. 01 78F0 0021 0000:@$xt$p24ATL@%CComPtr$9IFontDisp%
+          4F:
+            626A6563745769746853:
+              0. 07 4E04 0027 0000:@$xt$p31ATL@%CComPtr$15IObjectWithSite%
+            6C65:
+              496E506C616365:
+                46:
+                  0. 08 7431 0028 0000:@$xt$p32ATL@%CComPtr$16IOleInPlaceFrame%
+                4F:
+                  0. 13 B701 0033 0000:@$xt$p43ATL@%CComPtr$27IOleInPlaceObjectWindowless%
+                55:
+                  0. 0B 7BC7 002B 0000:@$xt$p35ATL@%CComPtr$19IOleInPlaceUIWindow%
+              4F626A6563743E20:
+                0. 02 04D1 0022 0000:@$xt$p26ATL@%CComPtr$10IOleObject%
+          5365727669636550726F76:
+            0. 08 0798 0028 0000:@$xt$p32ATL@%CComPtr$16IServiceProvider%
+          556E6B6E6F776E3E202A00:
+            0. 00 0000 0020 0000:@$xt$p23ATL@%CComPtr$8IUnknown%
+          566965774F626A65637445:
+            0. 05 6CBF 0025 0000:@$xt$p29ATL@%CComPtr$13IViewObjectEx%
+        51495074723C49:
+          41647669736553696E:
+            0. 0B 38BF 002B 0000:@$xt$p50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$KS$%
+            1. 0B 86D4 002B 0000:@$xt$p50ATL@%CComQIPtr$11IAdviseSinkpx5_GUID$e&@ATL@_$QS$%
+          4F6C65436C69656E74:
+            0. 0E 02BB 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$PS$%
+            1. 0E 3BC4 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$OS$%
+            2. 0E 46C8 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$LS$%
+            3. 0E 54B3 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$RS$%
+            4. 0E BCD0 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$JS$%
+            5. 0E C1DC 002E 0000:@$xt$p53ATL@%CComQIPtr$14IOleClientSitepx5_GUID$e&@ATL@_$IS$%
+          506572736973745374:
+            0. 24 F03F 0044 0000:@$xt$p71ATL@%CComQIPtr$18IPersistStreamInitpx5_GUID$e&@IID_IPersistStreamInit$%
+        54797065496E666F486F6C6465723A3A:
+          0. 14 38AF 0034 0000:@$xt$pa0$35ATL@CComTypeInfoHolder@stringdispid
+      46696C6546696E64202A00:
+        0. 00 0000 0017 (!)0000:?
+      49:
+        5368656C6C:
+          4E616D655370616365507472202A:
+            0. 01 78F0 0021 0000:@$xt$p75%TComInterface$27Shdocvw_tlb@IShellNameSpacepx5_GUID$gIID_IShellNameSpace$%
+          554948656C70657232507472202A:
+            0. 01 78F0 0021 0000:@$xt$p75%TComInterface$27Shdocvw_tlb@IShellUIHelper2px5_GUID$gIID_IShellUIHelper2$%
+          57696E646F7773507472202A00:
+            0. 00 0000 001F 0000:@$xt$p71%TComInterface$25Shdocvw_tlb@IShellWindowspx5_GUID$gIID_IShellWindows$%
+        556E6B6E6F776E507472202A00:
+          0. 00 0000 001A 0000:@$xt$p50%TComInterface$8IUnknownpx5_GUID$e&@IID_IUnknown$%
+        57656242726F7773657232507472202A00:
+          0. 00 0000 001E 0000:@$xt$p69%TComInterface$24Shdocvw_tlb@IWebBrowser2px5_GUID$gIID_IWebBrowser2$%
+      544E6F506172616D202A00:
+        0. 00 0000 0017 0000:@$xt$p8TNoParam
+      556E69636F6465537472696E67202A00:
+        0. 00 0000 001C 0000:@$xt$p20System@UnicodeString
+      5F:
+        636F6D5F6572726F72202A00:
+          0. 00 0000 0019 0000:@$xt$p10_com_error
+        64695F49:
+          4469737061746368202A00:
+            0. 00 0000 001C 0000:@$xt$p36System@%DelphiInterface$t9IDispatch%
+          496E74657266616365202A00:
+            0. 00 0000 001D 0000:@$xt$p45System@%DelphiInterface$t17System@IInterface%
+          4F6C65:
+            436F6E74726F6C202A00:
+              0. 00 0000 001E 0000:@$xt$p39System@%DelphiInterface$t11IOleControl%
+            496E506C616365:
+              4163746976:
+                0. 0A 623D 002A 0000:@$xt$p51System@%DelphiInterface$t23IOleInPlaceActiveObject%
+              4F626A6563:
+                0. 04 0F09 0024 0000:@$xt$p45System@%DelphiInterface$t17IOleInPlaceObject%
+            4F626A656374202A00:
+              0. 00 0000 001D 0000:@$xt$p38System@%DelphiInterface$t10IOleObject%
+          506572:
+            50726F706572747942726F77:
+              0. 07 2644 0027 0000:@$xt$p48System@%DelphiInterface$t20IPerPropertyBrowsing%
+            7369737453747265616D496E:
+              0. 05 71CA 0025 0000:@$xt$p46System@%DelphiInterface$t18IPersistStreamInit%
+          556E6B6E6F776E202A00:
+            0. 00 0000 001B 0000:@$xt$p35System@%DelphiInterface$t8IUnknown%
+      63686172202A00:
+        0. 00 0000 0013 0000:@$xt$pc
+      7374643A3A6175746F5F7074723C5442:
+        69746D61:
+          0. 05 4CE5 0025 0000:@$xt$p33std@%auto_ptr$16Graphics@TBitmap%
+        6C744269:
+          0. 08 BF3E 0028 0000:@$xt$p27std@%auto_ptr$10TBltBitmap%
+    90000C00........:
+      416E7369537472696E67202A00:
+        0. 00 0000 0019 0000:@$xt$p27System@%AnsiStringT$us$i0$%
+      43:
+        4178486F737457696E646F77202A00:
+          0. 00 0000 001C 0000:@$xt$p17ATL@CAxHostWindow
+        436F6D:
+          456E756D496D706C3C49456E756D556E:
+            0. 40 8C35 0060 0000:@$xt$p104ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%
+          4F626A6563743C43:
+            4178:
+              4672616D6557:
+                0. 09 AA1A 0029 0000:@$xt$p37ATL@%CComObject$18ATL@CAxFrameWindow%
+              554957696E64:
+                0. 06 5057 0026 0000:@$xt$p34ATL@%CComObject$15ATL@CAxUIWindow%
+            436F6D456E756D3C:
+              0. 5D 57B6 007D 0000:@$xt$p146ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%
+          506F6C794F626A6563743C434178486F:
+            0. 0C 3662 002C 0000:@$xt$p40ATL@%CComPolyObject$17ATL@CAxHostWindow%
+      45:
+        45787465726E616C202A00:
+          0. 00 0000 0018 0000:@$xt$p18Sysutils@EExternal
+        48656170457863657074696F6E202A00:
+          0. 00 0000 001D 0000:@$xt$p23Sysutils@EHeapException
+        496E744572726F72202A00:
+          0. 00 0000 0018 0000:@$xt$p18Sysutils@EIntError
+        4F:
+          6C65:
+            45:
+              72726F72202A00:
+                0. 00 0000 0018 0000:@$xt$p16Comobj@EOleError
+              7863657074696F6E202A00:
+                0. 00 0000 001C 0000:@$xt$p20Comobj@EOleException
+            5379734572726F72202A00:
+              0. 00 0000 001B 0000:@$xt$p19Comobj@EOleSysError
+          75744F66:
+            4D656D6F7279202A00:
+              0. 00 0000 001B 0000:@$xt$p21Sysutils@EOutOfMemory
+            5265736F7572636573202A00:
+              0. 00 0000 001E 0000:@$xt$p23Classes@EOutOfResources
+        52616E67654572726F72202A00:
+          0. 00 0000 001A 0000:@$xt$p20Sysutils@ERangeError
+      4957656242726F777365723244697370202A00:
+        0. 00 0000 001F 0000:@$xt$p58Shdocvw_tlb@%IWebBrowser2DispT$24Shdocvw_tlb@IWebBrowser2%
+      54:
+        41:
+          6E676C6573202A00:
+            0. 00 0000 0016 0000:@$xt$p7TAngles
+          75746F4472697665723C4957656242726F77:
+            0. 08 3AE5 0028 0000:@$xt$p40%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%
+        42:
+          69746D6170202A00:
+            0. 00 0000 0016 0000:@$xt$p16Graphics@TBitmap
+          6C744269746D6170202A00:
+            0. 00 0000 0019 0000:@$xt$p10TBltBitmap
+          72757368202A00:
+            0. 00 0000 0015 0000:@$xt$p15Graphics@TBrush
+        43:
+          43:
+            616C656E646172202A00:
+              0. 00 0000 0019 0000:@$xt$p10TCCalendar
+            6F6C6F7247726964202A00:
+              0. 00 0000 001A 0000:@$xt$p21CColorgrd@TCColorGrid
+          4469726563746F72794F75746C696E65202A:
+            0. 01 78F0 0021 0000:@$xt$p27Cdiroutl@TCDirectoryOutline
+          4761756765202A00:
+            0. 00 0000 0016 0000:@$xt$p7TCGauge
+          5370696E:
+            427574746F6E202A00:
+              0. 00 0000 001B 0000:@$xt$p18Cspin@TCSpinButton
+            45646974202A00:
+              0. 00 0000 0019 0000:@$xt$p16Cspin@TCSpinEdit
+          5472617949636F6E202A00:
+            0. 00 0000 0019 0000:@$xt$p10TCTrayIcon
+          7070:
+            496E7465726E65744578706C6F726572:
+              0. 03 B41B 0023 0000:@$xt$p32Shdocvw_tlb@TCppInternetExplorer
+            5368656C6C:
+              554948656C706572202A00:
+                0. 00 0000 0020 0000:@$xt$p29Shdocvw_tlb@TCppShellUIHelper
+              57696E646F7773202A00:
+                0. 00 0000 001F 0000:@$xt$p28Shdocvw_tlb@TCppShellWindows
+            57656242726F77736572202A00:
+              0. 00 0000 001D 0000:@$xt$p26Shdocvw_tlb@TCppWebBrowser
+          7573746F6D45646974202A00:
+            0. 00 0000 001A 0000:@$xt$p20Stdctrls@TCustomEdit
+        47726170686963:
+          202A00:
+            0. 00 0000 0017 0000:@$xt$p17Graphics@TGraphic
+          734F626A656374202A00:
+            0. 00 0000 001E 0000:@$xt$p24Graphics@TGraphicsObject
+        49:
+          636F6E202A00:
+            0. 00 0000 0014 0000:@$xt$p14Graphics@TIcon
+          6E746572666163656450657273697374656E:
+            0. 04 0F09 0024 0000:@$xt$p29Classes@TInterfacedPersistent
+        4F6C65436F6E74726F6C202A00:
+          0. 00 0000 001A 0000:@$xt$p20Olectrls@TOleControl
+        50:
+          65:
+            6E202A00:
+              0. 00 0000 0013 0000:@$xt$p13Graphics@TPen
+            72:
+              666F726D616E63654772617068202A00:
+                0. 00 0000 0020 0000:@$xt$p17TPerformanceGraph
+              73697374656E74202A00:
+                0. 00 0000 001A 0000:@$xt$p19Classes@TPersistent
+          6965202A00:
+            0. 00 0000 0013 0000:@$xt$p4TPie
+        5368656C6C:
+          4661766F72697465734E616D6553:
+            0. 07 1288 0027 0000:@$xt$p36Shdocvw_tlb@TShellFavoritesNameSpace
+          5368656C6C4E616D655370616365:
+            0. 03 B41B 0023 0000:@$xt$p32Shdocvw_tlb@TShellShellNameSpace
+        54696D6572:
+          202A00:
+            0. 00 0000 0015 0000:@$xt$p15Extctrls@TTimer
+          5370656564427574746F6E202A00:
+            0. 00 0000 0020 0000:@$xt$p23Cspin@TTimerSpeedButton
+        56617269616E74202A00:
+          0. 00 0000 0017 0000:@$xt$p29%TVariantT$10tagVARIANTo$i1$%
+  1000........0000000043436F6D54797065496E666F486F6C6465723A3A73:
+    0. 0E 24BE 002E 0000:?
+060353657401:
+  0. 00 0000 000A 0000:?
+07:
+  0454506965................200004706965731100........:
+    610000FF:
+      0. 00 0000 0276 0000:?
+    630000FF:
+      0. 00 0000 027E 0000:?
+  0754:
+    416E676C6573................030004706965730300........0400:
+      0. 02 3F00 008D 0000:? (0063: 00)
+      1. 02 3F00 0085 0000:?
+    434761756765................230007636761756765731400:
+      0. 00 0000 02DC 0000:? (029E: 57)
+      1. 00 0000 02E4 0000:? (029E: 59)
+  0A54:
+    426C744269746D6170................000007636761756765730000:
+      0. 00 0000 0020 0000:?
+      1. 08 7383 0028 0000:?
+    43:
+      43616C656E646172................3700086363616C656E647228:
+        0. 01 78F0 05AA 0000:? (0523: 20)
+        1. 01 78F0 05B2 0000:? (0523: 28)
+      5370696E45646974................370005637370696E2800:
+        0. 00 0000 05B0 0000:? (04E0: 20)
+        1. 00 0000 05B8 0000:? (04E0: 28)
+      5472617949636F6E................1A00087472617969636F6E18:
+        0. 01 78F0 037F 0000:? (033F: C0)
+        1. 01 78F0 0387 0000:? (033F: C4)
+  0B5443436F6C6F7247726964................32000563677269642300:
+    0. 00 0000 0528 0000:? (0458: 20)
+    1. 00 0000 0530 0000:? (0458: 28)
+  0C54435370696E427574746F6E................2A0005637370696E1B00:
+    0. 00 0000 03E7 0000:? (03AB: 70)
+    1. 00 0000 03EF 0000:? (03AB: 80)
+  0E5443707057656242726F77736572................4D000B5348446F63:
+    0. 08 C0FA 09E8 0000:? (099A: 03)
+    1. 08 C0FA 09F0 0000:? (099A: 04)
+  10544370705368656C6C57696E646F7773................07000B534844:
+    0. 0A 8692 0081 0000:? (0035: 5C)
+    1. 0A 8692 0089 0000:? (0035: 60)
+  1154:
+    4370705368656C6C554948656C706572................05000B5348:
+      0. 13 5DFF 0033 0000:?
+      1. 0B CA5E 002B 0000:?
+    506572666F726D616E63654772617068................2000087065:
+      0. 08 F8ED 027F 0000:? (0239: 57)
+      1. 08 F8ED 0287 0000:? (0239: 59)
+    54696D65725370656564427574746F6E................2F00056373:
+      0. 05 55AF 0025 0000:?
+      1. 0D F1D6 002D 0000:?
+  1254434469726563746F72794F75746C696E65................3E000863:
+    0. 09 8E67 06BE 0000:? (0677: 57)
+    1. 09 8E67 06C6 0000:? (0677: 59)
+  1454:
+    437070496E7465726E65744578706C6F726572................2800:
+      0. 0E 88F7 0619 0000:? (05C4: 64)
+      1. 0E 88F7 0621 0000:? (05C4: 68)
+    5368656C6C5368656C6C4E616D655370616365................0900:
+      0. 0E B399 00DF 0000:? (0091: 6C)
+      1. 0E B399 00E7 0000:? (0091: 70)
+  18545368656C6C4661766F72697465734E616D655370616365:
+    0. 00 0000 00E3 0000:? (00A3: 6C)
+    1. 00 0000 00EB 0000:? (00A3: 70)
+080000:
+  00:
+    00041000........0200000054:
+      416E676C6573202A5B325D00:
+        0. 00 0000 001D 0000:@$xt$a2$p7TAngles
+      42:
+        69746D6170202A5B325D00:
+          0. 00 0000 001D 0000:@$xt$a2$p16Graphics@TBitmap
+        6C744269746D6170202A5B325D00:
+          0. 00 0000 0020 0000:@$xt$a2$p10TBltBitmap
+        72757368202A5B325D00:
+          0. 00 0000 001C 0000:@$xt$a2$p15Graphics@TBrush
+      49636F6E202A5B325D00:
+        0. 00 0000 001B 0000:@$xt$a2$p14Graphics@TIcon
+      50656E202A5B325D00:
+        0. 00 0000 001A 0000:@$xt$a2$p13Graphics@TPen
+      54696D6572202A5B325D00:
+        0. 00 0000 001C 0000:@$xt$a2$p15Extctrls@TTimer
+    01001000FFFFFFFF00000000:
+      41544C3A3A43436F6D436F436C617373:
+        0. 20 F7AF 0040 0000:@$xt$59ATL@%CComCoClass$17ATL@CAxHostWindowpx5_GUID$e&@GUID_NULL$%
+      53797374656D3A3A44796E4172726179:
+        0. 0C 7017 002C 0000:@$xt$24System@DynArrayException
+      544175746F447269766572426173653C:
+        0. 0C 2C9B 002C 0000:@$xt$28%TAutoDriverBase$9IDispatch%
+    0300:
+      2000FFFFFFFF040000003C004C00000000000000000000000000:
+        0. 1C 288B 0050 0000:@$xt$23System@DynArrayNullData
+      3000000000005700000060007000000000000000000000000000:
+        0. 08 6AB1 0080 0000:@$xt$45ATL@%IObjectWithSiteImpl$17ATL@CAxHostWindow%
+  01080653656E64657207544F626A6563740000000000000000:
+    0. 00 0000 001C 0000:?
+  02080653656E64657207544F626A656374:
+    00:
+      04:
+        4C656674046C6F6E6700:
+          0. 07 708C 0027 0000:?
+        54657874044253545200:
+          0. 07 708C 0027 0000:?
+      05:
+        496E64657803696E7400:
+          0. 07 708C 0027 0000:?
+        70446973700A4C504449:
+          0. 0E F60A 002E 0000:?
+      0756697369626C650C5641:
+        0. 12 1C8A 0032 0000:?
+    10034B657908576964654368:
+      0. 12 03EF 0032 0000:?
+    180A447261674F626A656374:
+      0. 14 51C7 0034 0000:?
+      1. 18 8139 0038 0000:?
+  03080653656E64657207544F626A656374:
+    00:
+      0570446973700A4C504449:
+        0. 1B DEA4 003B 0000:?
+      07436F6D6D616E64046C6F:
+        0. 1F CA44 003F 0000:?
+      0850726F6772657373046C:
+        0. 1D 289C 003D 0000:?
+      0D49734368696C6457696E:
+        0. 2D A7DE 004D 0000:?
+      12647757696E646F775374:
+        0. 3E 3F4E 005E 0000:?
+    08:
+      024358046C6F6E67080243:
+        0. 0E EB7F 002E 0000:?
+      067070446973700A4C5044:
+        0. 24 E648 0044 0000:?
+    10034B657904576F72640005:
+      0. 2A AA04 004A 0000:?
+  0408:
+    0653656E64657207544F626A656374:
+      0005:
+        53686966740B54536869:
+          0. 26 E71D 0046 0000:?
+        70446973700A4C504449:
+          0. 2C 1F91 004C 0000:?
+      0806536F7572636507544F62:
+        0. 22 45AF 0042 0000:?
+    07436F6E74726F6C0B5457696E436F6E74726F6C0005496E646578:
+      0. 41 76A0 0061 0000:?
+  05080653656E64657207544F626A6563740006427574746F6E0C544D6F:
+    0. 3B E049 005B 0000:?
+  06080653656E64657207544F626A656374:
+    000570446973700A4C504449:
+      0. 53 F817 0073 0000:?
+    0806:
+      536F7572636507544F62:
+        0. 41 5371 0061 0000:?
+      7070446973700A4C5044:
+        0. 5E 84D8 007E 0000:?
+  08080653656E64657207544F626A65637400:
+    0570446973700A4C504449:
+      0. 7B 9E4E 009B 0000:?
+    06634974656D73046C6F6E:
+      0. 64 2071 0084 0000:?
+0B0A57696465537472696E67:
+  0. 00 0000 000C 0000:?
+0C:
+  00000003003000:
+    00000000B700000050006000000000000000000000000000:
+      0. 08 41E7 0070 0000:@$xt$29Classes@TInterfacedPersistent
+    FFFFFFFF0300000058005C00000000000000000000000000:
+      0. 08 6AB1 006C 0000:@$xt$35ATL@CComTypeInfoHolder@stringdispid
+  0300000300300000000000B70000003C004C00000000000000000000000000:
+    0. 08 21B2 0054 0000:@$xt$10TCCalendar
+10000000:
+  01001000FFFFFFFF0000000074616756415249414E540000:
+    0. 00 0000 001C 0000:@$xt$10tagVARIANT
+  0300:
+    2000FFFFFFFF050000003C004C00000000000000000000000000:
+      0. 1C 7D99 0050 0000:@$xt$25System@DynArrayOutOfRange
+    3000:
+      00000000730000003C004000000000000000000000000000:
+        0. 08 771E 0048 0000:@$xt$10_com_error
+      FFFFFFFF:
+        030000003C004000000000000000000000000000:
+          0. 08 6AB1 0050 0000:@$xt$8TNoParam
+        07000000:
+          44005400000000000000000000000000:
+            0. 08 771E 005C 0000:@$xt$15ATL@CComVariant
+          48005800000000000000000000000000:
+            0. 08 771E 0060 0000:@$xt$29%TVariantT$10tagVARIANTo$i1$%
+120D556E69636F6465537472696E67:
+  0. 00 0000 000F 0000:?
+140000000300300000000000B700000038004800000000000000000000000000:
+  0. 08 6E2C 0050 0000:@$xt$7TAngles
+1800000003003000:
+  00000000:
+    570000008C009C00000000000000000000000000:
+      0. 08 6AB1 00AC 0000:@$xt$104ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%
+    B7000000:
+      44005400000000000000000000000000:
+        0. 08 41E7 005C 0000:@$xt$16Comobj@EOleError (0018: 72)
+        1. 08 41E7 005C 0000:@$xt$15Graphics@TBrush (0018: 00)
+        2. 08 6E2C 0064 0000:@$xt$18Sysutils@Exception
+      4C005C00000000000000000000000000:
+        0. 08 6E2C 0064 0000:@$xt$24Graphics@TGraphicsObject
+  FFFFFFFF0300000050005400000000000000000000000000:
+    0. 08 771E 005C 0000:@$xt$27ATL@CComAutoCriticalSection
+1C00000003003000:
+  00000000B7000000:
+    44005400000000000000000000000000:
+      0. 08 41E7 005C 0000:@$xt$18Sysutils@EExternal
+      1. 08 457A 005C 0000:@$xt$18Sysutils@EIntError
+    48005800000000000000000000000000:
+      0. 08 457A 0060 0000:@$xt$19Comobj@EOleSysError (001D: 00)
+      1. 08 457A 0060 0000:@$xt$21Sysutils@EOutOfMemory (001D: 79)
+      2. 08 58D5 0060 0000:@$xt$20Sysutils@ERangeError
+    4C005C00000000000000000000000000:
+      0. 08 41E7 0064 0000:@$xt$23Sysutils@EHeapException
+      1. 08 58D5 0064 0000:@$xt$23Classes@EOutOfResources
+  FFFFFFFF0700000064007400000000000000000000000000:
+    0. 08 6AB1 0084 0000:@$xt$49ATL@%CComObjectRootEx$24ATL@CComMultiThreadModel%
+20000000:
+  00041000........0200000043436F6D56617269616E745B325D00:
+    0. 00 0000 001F 0000:@$xt$a2$15ATL@CComVariant
+  03003000:
+    00000000B700000040005000000000000000000000000000:
+      0. 08 41E7 0058 0000:@$xt$13Graphics@TPen
+    FFFFFFFF5700000054007000000000000000000000000000:
+      0. 08 771E 0078 0000:@$xt$35ATL@%CWindowImplRoot$11ATL@CWindow%
+240000000300300000000000B700000048005800000000000000000000000000:
+  0. 08 174B 0070 0000:@$xt$20Comobj@EOleException
+2800000003003000:
+  00000000B700000044005400000000000000000000000000:
+    0. 08 457A 005C 0000:@$xt$17Graphics@TGraphic
+  2000000057000000:
+    74008400000000000000000000000000:
+      0. 08 6AB1 008C 0000:@$xt$76ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%
+    80009000000000000000000000000000:
+      0. 08 6E2C 0098 0000:@$xt$88ATL@%CWindowImpl$15ATL@CAxUIWindow11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%
+    84009400000000000000000000000000:
+      0. 08 6E2C 009C 0000:@$xt$91ATL@%CWindowImpl$18ATL@CAxFrameWindow11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%% (0058: 3E)
+      1. 08 6E2C 009C 0000:@$xt$90ATL@%CWindowImpl$17ATL@CAxHostWindow11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%% (0058: 00)
+30:
+  0000000300300000000000B700000044005400000000000000000000000000:
+    0. 08 41E7 0064 0000:@$xt$18Classes@TComponent
+  0200000300300000000000B700000044005400000000000000000000000000:
+    0. 08 13D6 005C 0000:@$xt$17TPerformanceGraph
+  0400000300300000000000B70000004C005C00000000000000000000000000:
+    0. 08 9CE2 006C 0000:@$xt$26Shdocvw_tlb@TCppWebBrowser
+340000000300300000000000:
+  57000000:
+    A400C000000000000000000000000000:
+      0. 08 457A 00C8 0000:@$xt$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%
+    B400C400000000000000000000000000:
+      0. 08 58D5 00CC 0000:@$xt$146ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%
+  B700000044005400000000000000000000000000:
+    0. 08 41E7 0064 0000:@$xt$18Classes@TComponent
+38:
+  00000003003000:
+    00000000B700000040005000000000000000000000000000:
+      0. 08 58D5 0058 0000:@$xt$14Graphics@TIcon
+    FFFFFFFF07000000:
+      58006800000000000000000000000000:
+        0. 08 771E 0070 0000:@$xt$40%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%
+      6C007C00000000000000000000000000:
+        0. 08 6AB1 0084 0000:@$xt$58Shdocvw_tlb@%IWebBrowser2DispT$24Shdocvw_tlb@IWebBrowser2%
+  0200000300300000000000B700000044005400000000000000000000000000:
+    0. 08 13D6 005C 0000:@$xt$17TPerformanceGraph
+  0300000300300000000000B700000044005400000000000000000000000000:
+    0. 08 252F 005C 0000:@$xt$17Grids@TCustomGrid
+40:
+  0000000300300000000000B7000000:
+    3C004C00000000000000000000000000:
+      0. 08 5C48 0054 0000:@$xt$10TBltBitmap
+    44005400000000000000000000000000:
+      0. 08 58D5 005C 0000:@$xt$16Graphics@TBitmap
+  0400000300300000000000B70000004C005C00000000000000000000000000:
+    0. 08 9CE2 006C 0000:@$xt$26Shdocvw_tlb@TCppWebBrowser
+480000000300300000000000B700000044005400000000000000000000000000:
+  0. 08 457A 005C 0000:@$xt$15Extctrls@TTimer
+5000000003003000:
+  00000000B7000000:
+    44005400000000000000000000000000:
+      0. 08 457A 005C 0000:@$xt$15Extctrls@TTimer
+    48005800000000000000000000000000:
+      0. 08 58D5 0068 0000:@$xt$20Oleserver@TOleServer
+  4800000057000000:
+    44006C00000000000000000000000000:
+      0. 08 5C48 007C 0000:@$xt$18ATL@CAxFrameWindow (001A: 77)
+      1. 08 5C48 007C 0000:@$xt$15ATL@CAxUIWindow (001A: 00)
+    54006400000000000000000000000000:
+      0. 08 174B 006C 0000:@$xt$34ATL@%CComObject$15ATL@CAxUIWindow%
+    58006800000000000000000000000000:
+      0. 08 174B 0070 0000:@$xt$37ATL@%CComObject$18ATL@CAxFrameWindow%
+54:
+  0000000300300000000000B7000000:
+    48005800000000000000000000000000:
+      0. 08 58D5 0068 0000:@$xt$20Oleserver@TOleServer
+    50006000000000000000000000000000:
+      0. 08 174B 0070 0000:@$xt$29Shdocvw_tlb@TCppShellUIHelper
+  0300000300300000000000B70000003C004C00000000000000000000000000:
+    0. 08 21B2 0054 0000:@$xt$10TCCalendar
+558BEC:
+  0FB680:
+    0903000083F8011BD2F7DA8BC25DC3:
+      0. 00 0000 0015 0000:@TCCalendar@StoreCalendarDate$qqrv
+    5103000083F8011BD2F7DA8BC25DC3:
+      0. 00 0000 0015 0000:@TCCalendar@StoreCalendarDate$qqrv
+  33:
+    C05D:
+      C2:
+        0400:
+          0. 00 0000 0009 (!)0000:?
+        0800:
+          0. 00 0000 0009 (!)0000:?
+        0C00:
+          0. 00 0000 0009 0000:@ATL@CAxFrameWindow@InsertMenus$qqsp7HMENU__p21tagOleMenuGroupWidths
+        1000:
+          0. 00 0000 0009 (!)0000:?
+        1400:
+          0. 00 0000 0009 0000:@ATL@CAxHostWindow@ScrollRect$qqsiipx7tagRECTt3
+      C3:
+        0. 00 0000 0007 (!)0000:?
+    D2E8........5DC3:
+      0. 00 0000 000C 0000:@CColorgrd@TCColorGrid@WMSize$qqrr16Messages@TWMSize
+  3A90:
+    B5010000740B8890B5010000E8........5DC3:
+      0. 00 0000 0018 0000:@TCGauge@SetShowText$qqro
+    BD010000740B8890BD010000E8........5DC3:
+      0. 00 0000 0018 0000:@TCGauge@SetShowText$qqro
+    C4010000740B8890C4010000E8........5DC3:
+      0. 00 0000 0018 0000:@TPerformanceGraph@SetGridlines$qqro
+    CC010000740B8890CC010000E8........5DC3:
+      0. 00 0000 0018 0000:@TPerformanceGraph@SetGridlines$qqro
+  3B:
+    50:
+      047408895004E8........5DC3:
+        0. 00 0000 0012 0000:@TAngles@SetStart$qqri
+      087408895008E8........5DC3:
+        0. 00 0000 0012 0000:@TAngles@SetEnd$qqri
+    90:
+      AC010000740B8990AC010000E8........5DC3:
+        0. 00 0000 0018 0000:@TPerformanceGraph@SetForeColor$qqr15Graphics@TColor
+      B0010000740B8990B0010000E8........5DC3:
+        0. 00 0000 0018 0000:@TPerformanceGraph@SetBackColor$qqr15Graphics@TColor
+      B401000074:
+        0B8990B4010000E8........5DC3:
+          0. 00 0000 0018 0000:@TPerformanceGraph@SetForeColor$qqr15Graphics@TColor
+        1583FA027D05BA020000008990B4010000E8:
+          0. 02 5F98 0022 0000:@TPerformanceGraph@SetGridSize$qqrl
+      B8010000740B8990B8010000E8........5DC3:
+        0. 00 0000 0018 0000:@TCGauge@SetForeColor$qqr15Graphics@TColor
+      BC01000074:
+        0B8990BC010000E8........5DC3:
+          0. 00 0000 0018 0000:@TCGauge@SetBackColor$qqr15Graphics@TColor
+        1583FA027D05BA020000008990BC010000E8:
+          0. 02 5F98 0022 0000:@TPerformanceGraph@SetGridSize$qqrl
+      C0010000740B8990C0010000E8........5DC3:
+        0. 00 0000 0018 0000:@TCGauge@SetForeColor$qqr15Graphics@TColor
+      C4010000740B8990C4010000E8........5DC3:
+        0. 00 0000 0018 0000:@TCGauge@SetBackColor$qqr15Graphics@TColor
+      C8010000740B8990C8010000E8........5DC3:
+        0. 00 0000 0018 0000:@TPerformanceGraph@SetGradient$qqrl
+  51:
+    53:
+      56:
+        57:
+          66894DFE8B:
+            DA8BF88B750C56FF7508668B4DFE8BD38BC7E8:
+              0. 00 0000 0123 0000:@CColorgrd@TCColorGrid@MouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+            FA8BD8668B4DFE8BD78BC3E8........8BB3D802:
+              0. 2B 57E5 0270 0000:@CColorgrd@TCColorGrid@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%
+          884DFF8B:
+            DA8BF88B750C56FF75088A4DFF8BD38BC7E8:
+              0. 00 0000 0121 0000:@CColorgrd@TCColorGrid@MouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+            FA8BD88A4DFF8BD78BC3E8........8BB3C8020000:
+              0. 29 D008 026D 0000:@CColorgrd@TCColorGrid@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%
+          894DFC8BF28BD883BB:
+            60020000007458833E0F7D06C7060F00:
+              0. 55 7F84 0075 0000:@Cspin@TCSpinButton@AdjustSize$qqrrit1
+            70020000007458833E0F7D06C7060F00:
+              0. 55 56FB 0075 0000:@Cspin@TCSpinButton@AdjustSize$qqrrit1
+          8B:
+            5D:
+              0C8B750833FF833B007518837B04007512817B08C00000:
+                0. 3E C2E6 0078 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@QueryInterface$qqsrx5_GUIDppv
+              108B7508833E007421687D08000068........68:
+                0. 00 0000 00FB 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@Create$qp6HWND__r7tagRECTpxcululuiuspv (00DA: C3)
+                1. 00 0000 00FD 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@Create$qp6HWND__r7tagRECTpxcululuiuspv (00DA: 59)
+            75:
+              088B5D0C8D068945FC8B7DFC83C74C85DB7406538B03FF:
+                0. 24 5F25 00B9 0000:@ATL@CAxHostWindow@SetSite$qqsp8IUnknown
+              148B45108945FCBF0340008085F6744133D289D3833D:
+                0. 00 0000 0064 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@GetTypeInfo$qqsuiulpp9ITypeInfo
+            7D:
+              08FF35........E8........8BD885DB75216846080000:
+                0. 01 361F 0093 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@StartWindowProc$qqsp6HWND__uiuil
+              0C8B5D08833B007421689408000068........68:
+                0. 00 0000 00B7 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@SubclassWindow$qp6HWND__
+            F1:
+              668955FE8BD88B7D08578BCE668B55FE8BC3E8:
+                0. 10 7152 0064 0000:@CColorgrd@TCColorGrid@MouseMove$qqr46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+              8855FF8BD88B7D08578BCE8A55FF8BC3E8........80BB:
+                0. 0E 34FF 0062 0000:@CColorgrd@TCColorGrid@MouseMove$qqr46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+        66894DFE8B:
+          D8668B026683E82074606683E80674086683E80274:
+            0. 0C 1EDD 0094 0000:@Cspin@TCSpinButton@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%
+          DA8BF00FBE864F02000083F80275078BC68B10FF52:
+            0. 40 C7C2 0060 0000:@TCTrayIcon@DoMouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+            1. 40 CA31 0060 0000:@TCTrayIcon@DoMouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+          F28BD80FB70683F826750E8BD38BC38B08FF911401:
+            0. 21 2237 004A 0000:@Cspin@TCSpinEdit@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%
+        884DFF8B:
+          D8668B026683E82074606683E80674086683E802742B:
+            0. 0B 6FA1 0093 0000:@Cspin@TCSpinButton@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%
+          DA8BF00FBE864B02000083F80275078BC68B10FF5254:
+            0. 3E B42C 005E 0000:@TCTrayIcon@DoMouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+            1. 3E B661 005E 0000:@TCTrayIcon@DoMouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+          F28BD80FB70683F826750E8BD38BC38B08FF91040100:
+            0. 1F CB9B 0048 0000:@Cspin@TCSpinEdit@KeyDown$qqrrus46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%
+        8BD88B53648B83:
+          60020000E8........33C9894DFCEB2633F6EB:
+            0. 13 A379 006D 0000:@CColorgrd@TCColorGrid@Paint$qqrv
+          70020000E8........33C9894DFCEB2633F6EB:
+            0. 13 D396 006D 0000:@CColorgrd@TCColorGrid@Paint$qqrv
+      6689:
+        4DFE8BD8FF750CFF7508668B4DFE8BC3E8........:
+          83BBD001:
+            0. 0E 430D 0038 0000:@Cspin@TTimerSpeedButton@MouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+          C683F902:
+            0. 12 B04A 003C 0000:@CColorgrd@TCColorGrid@MouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+        55FE6683B86E02000000741851FF75088BD88BD08B80700200:
+          0. 11 26E6 0031 0000:@TCTrayIcon@DoMouseMove$qqr46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+      88:
+        4DFF8BD8FF750CFF75088A4DFF8BC3E8........:
+          83BBC8010000:
+            0. 0C 972A 0036 0000:@Cspin@TTimerSpeedButton@MouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+          C683E9020000:
+            0. 10 9CDA 003A 0000:@CColorgrd@TCColorGrid@MouseUp$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+        55FF6683B86A02000000741751FF75088BD88BD08B806C020000:
+          0. 0F FC0E 002F 0000:@TCTrayIcon@DoMouseMove$qqr46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+      8B5D:
+        0C85DB750433C0EB24DB4508D80D........895DFCDB45FCDE:
+          0. 08 15EC 003C 0000:@SolveForY$qll
+        108B4508F680C8000000207407BA01000000EB0233D28955FC:
+          0. 10 CC2A 0056 0000:@ATL@CAxHostWindow@ShowContextMenu$qqsulp8tagPOINTp8IUnknownp9IDispatch
+    56578945FCA1........8BF0BF........B904000000F3A5BE:
+      0. 00 0000 004D 0000:@Shdocvw_tlb@TCppShellUIHelper@InitServerData$qqrv (REF 000A: @Shdocvw_tlb@CLSID_CppShellUIHelper)
+      1. 00 0000 004D 0000:@Shdocvw_tlb@TCppShellWindows@InitServerData$qqrv (REF 000A: @Shdocvw_tlb@CLSID_CppShellWindows)
+      2. 00 0000 004D 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@InitServerData$qqrv (REF 000A: @Shdocvw_tlb@CLSID_ShellFavoritesNameSpace)
+      3. 00 0000 004D 0000:@Shdocvw_tlb@TShellShellNameSpace@InitServerData$qqrv (REF 000A: @Shdocvw_tlb@CLSID_ShellShellNameSpace)
+      4. 00 0000 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@InitServerData$qqrv (REF 000A: @Shdocvw_tlb@CLSID_CppInternetExplorer)
+    68........FF7508E8........5950E8........83C40885C0751768:
+      0. 05 0180 008D (!)0000:?
+      1. 05 99BB 008D (!)0000:?
+    6A:
+      016A008D45FF50E8........83C40C6A10E8........6685C07D04:
+        0. 07 BA45 004A 0000:@TCTrayIcon@ShiftState$qv
+      026A008D45FE50E8........83C40C6A10E8........6685C07D04:
+        0. 07 FE4E 004B 0000:@TCTrayIcon@ShiftState$qv
+    8945FC8B45FC:
+      8B:
+        00595DC3:
+          0. 00 0000 000F (!)0000:?
+        10FF52:
+          40595DC3:
+            0. 00 0000 0012 (!)0000:?
+          44595DC3:
+            0. 00 0000 0012 (!)0000:?
+      C780:
+        60020000........595DC3:
+          0. 00 0000 0017 0000:@Shdocvw_tlb@TCppWebBrowser@InitControlData$qqrv
+        70020000........C705........F0020000595D:
+          0. 01 EF04 0021 0000:@Shdocvw_tlb@TCppWebBrowser@InitControlData$qqrv
+    8B4508:
+      8B108955FC8B4D0883390074088B45FC8B40FCEB0233C0595D:
+        0. 01 EF04 0021 0000:@System@%DynamicArray$t17System@OleVariant%@get_length$xqv
+      F680C8000000407407BA01000000EB0233D28955FC83B88000:
+        0. 0C D4DD 0052 0000:@ATL@CAxHostWindow@ShowUI$qqsulp23IOleInPlaceActiveObjectp17IOleCommandTargetp16IOleInPlaceFramep19IOleInPlaceUIWindow
+  53:
+    0FBE:
+      88:
+        DC0200000FBEDA3BCB74338890DC0200008A88DC020000BA10:
+          0. 21 56DE 0048 0000:@CColorgrd@TCColorGrid@SetGridOrdering$qqr23CColorgrd@TGridOrdering
+        EC0200000FBEDA3BCB74338890EC0200008A88EC020000BA10:
+          0. 21 8F70 0048 0000:@CColorgrd@TCColorGrid@SetGridOrdering$qqr23CColorgrd@TGridOrdering
+      CA0FBE98:
+        A80100003BCB740B8890A8010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TPerformanceGraph@SetGraphKind$qqr10TGraphKind
+        B00100003BCB740B8890B0010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TPerformanceGraph@SetGraphKind$qqr10TGraphKind
+        B40100003BCB740B8890B4010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TCGauge@SeTCGaugeKind$qqr11TCGaugeKind
+        B60100003BCB740B8890B6010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TCGauge@SetBorderStyle$qqr22Forms@TFormBorderStyle
+        BC0100003BCB740B8890BC010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TCGauge@SeTCGaugeKind$qqr11TCGaugeKind
+        BE0100003BCB740B8890BE010000E8........5B5DC3:
+          0. 00 0000 0020 0000:@TCGauge@SetBorderStyle$qqr22Forms@TFormBorderStyle
+    3B:
+      90:
+        60020000751D6683B87202000000742D8BD88BD08B8074020000:
+          0. 26 4B79 0046 0000:@Cspin@TCSpinButton@BtnClick$qqrp14System@TObject
+        70020000751D6683B88202000000742D8BD88BD08B8084020000:
+          0. 26 DA44 0046 0000:@Cspin@TCSpinButton@BtnClick$qqrp14System@TObject
+      D0741033C9EB078A1C0A881C084183F90472F45B5DC3:
+        0. 00 0000 001B (!)0000:?
+    56:
+      57:
+        6A00E8........8BD885DB752168230C000068........68:
+          0. 00 0000 0087 0000:@ATL@AtlPixelToHiMetric$qqspx7tagSIZEp7tagSIZE
+        8B:
+          5D:
+            088B75108B7D0C5657:
+              8B4308508B10FF128BF085F67D2253:
+                0. 01 3E9B 004A 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@QueryInterface$qqsrx5_GUIDppv
+              E8........5053E8........5F5E5B:
+                0. 04 C5B4 0024 (!)0000:?
+            0C8B750885DB7507B803400080EB4D33D2891383BE800000:
+              0. 0C B016 006B 0000:@ATL@CAxHostWindow@GetExternal$qqspp9IDispatch
+            108B450885C074058D70B8EB028BF085DB752168A70D0000:
+              0. 01 361F 0072 0000:@ATL@%IObjectWithSiteImpl$17ATL@CAxHostWindow%@GetSite$qqsrx5_GUIDppv
+          75:
+            0C8B5D08:
+              33C083BB8000000000743181C38000000053E8:
+                0. 00 0000 004F 0000:@ATL@CAxHostWindow@ResizeBorder$qqspx7tagRECTp19IOleInPlaceUIWindowi
+              85F67507B803400080EB3C83BB8000000000741F:
+                0. 08 20B7 005A 0000:@ATL@CAxHostWindow@GetHostInfo$qqsp14_DOCHOSTUIINFO
+              B8:
+                0100000085F67507B803400080EB5833D28916:
+                  0. 11 54EA 007B 0000:@ATL@CAxHostWindow@GetOptionKeyPath$qqsppbul
+                0340008085F67437B80140008033D28916837B:
+                  0. 09 CF15 0053 0000:@ATL@CAxHostWindow@GetContainer$qqspp13IOleContainer
+            108B5D:
+              08B80340008085F67426837B6400741783C36453E8:
+                0. 00 0000 0042 0000:@ATL@CAxHostWindow@QueryControl$qqsrx5_GUIDppv
+              0C837D08007521681C15000068........68:
+                0. 00 0000 0170 0000:@ATL@AtlInternalQueryInterface$qqspvpx21ATL@_ATL_INTMAP_ENTRYrx5_GUIDppv
+          7D:
+            08:
+              33F68D473450E8........8B5F6885DB7431E8:
+                0. 31 369D 005E 0000:@ATL@AtlModuleExtractCreateWndData$qqsp15ATL@_ATL_MODULE
+              8B5D0C8BF785DB7406538B03FF5004833E0074088B1652:
+                0. 0E 0C95 002E 0000:@ATL@%CComPtr$8IUnknown%@$basg$qp8IUnknown
+            148B750C8B450833DB8BD683FA4E7F550F848B00000083C2:
+              0. 0D C620 0196 0000:@ATL@CAxHostWindow@ReflectNotifications$quiuilri
+          D88BC3E8........8B832C020000403B8324020000750233C0:
+            0. D8 338D 0127 0000:@TPerformanceGraph@Update$qqrv
+          D98BF28BF88BCB8BD68BC7E8........0FBEC34875223BB7:
+            34:
+              0. 24 61BB 0044 0000:@TCTrayIcon@Notification$qqrp18Classes@TComponent18Classes@TOperation
+            38:
+              0. 24 D11A 0044 0000:@TCTrayIcon@Notification$qqrp18Classes@TComponent18Classes@TOperation
+          DA8BF08BD38BC68B08FF91:
+            140100008BD38BC6E8........8B:
+              0. 04 83A7 0050 0000:@Cdiroutl@TCDirectoryOutline@BuildSubTree$qqrl
+            FC0000008BD38BC6E8........8B:
+              0. 04 83A7 0050 0000:@Cdiroutl@TCDirectoryOutline@BuildSubTree$qqrl
+          F28BD8:
+            80BB:
+              E001000000745CBAB6FFFFFF8BC3E8........8B:
+                0. 28 F81A 0074 0000:@Cspin@TCSpinButton@SetFocusBtn$qqrp23Cspin@TTimerSpeedButton
+              E801000000745CBAB6FFFFFF8BC3E8........8B:
+                0. 28 61DB 0074 0000:@Cspin@TCSpinButton@SetFocusBtn$qqrp23Cspin@TTimerSpeedButton
+            8BC3E8........8BF83BB3:
+              A80100007D088BB3A80100:
+                0. 22 8E71 0056 0000:@TCGauge@SetProgress$qqrl
+              B00100007D088BB3B00100:
+                0. 22 8239 0056 0000:@TCGauge@SetProgress$qqrl
+          F98BF28BD88BC6E8........8B40:
+            148B93BC010000E8:
+              0. 00 0000 0034 0000:@TCGauge@PaintAsNothing$qqrp16Graphics@TBitmaprx11Types@TRect
+            488B93C4010000E8:
+              0. 00 0000 0034 0000:@TCGauge@PaintAsNothing$qqrp16Graphics@TBitmaprx11Types@TRect
+          FA8BD88BB3:
+            9402000003F68D34760FB747082BC6B907000000:
+              0. 08 7C91 0048 0000:@TCCalendar@WMSize$qqrr16Messages@TWMSize
+            B002000003F68D34760FB747082BC6B907000000:
+              0. 08 7C91 0048 0000:@TCCalendar@WMSize$qqrr16Messages@TWMSize
+      8B:
+        4508:
+          80A09C000000FE8D58788B3385F6740A33C08903568B16FF:
+            0. 0A 002C 002A 0000:@ATL@CAxHostWindow@OnInPlaceDeactivate$qqsv
+          8B:
+            5D0C8D:
+              70:
+                4C85DB7406538B03FF5004833E0074088B1652:
+                  0. 0F 007A 002F (!)0000:?
+                7C85DB7406538B03FF5004833E0074088B1652:
+                  0. 0F 601D 002F 0000:@ATL@CAxHostWindow@SetExternalDispatch$qqsp9IDispatch
+              B08000000085DB7406538B03FF5004833E007408:
+                0. 12 B032 0032 0000:@ATL@CAxHostWindow@SetExternalUIHandler$qqsp25IDocHostUIHandlerDispatch
+            750C8D98E8000000FF33E8........56E8........8903:
+              0. 08 06C1 0028 0000:@ATL@CAxHostWindow@put_OptionKeyPath$qqspb
+        5D:
+          08:
+            33C083BB800000000074:
+              1581C38000000053E8........59:
+                0. 0E 8E86 002E 0000:@ATL@CAxHostWindow@HideUI$qqsv
+                1. 0E F8E9 002E 0000:@ATL@CAxHostWindow@UpdateUI$qqsv
+              2381C38000000053E8........59:
+                0. 1C 17E8 003C 0000:@ATL@CAxHostWindow@OnFrameWindowActivate$qqsi
+                1. 1C 8D59 003C 0000:@ATL@CAxHostWindow@OnDocWindowActivate$qqsi
+                2. 1C FB36 003C 0000:@ATL@CAxHostWindow@EnableModeless$qqsi
+            808B9C000000016A006A01FF7368E8........:
+              80A39C0000:
+                0. 07 67EE 004B 0000:@ATL@CAxHostWindow@OnInPlaceActivate$qqsv
+              B805400080:
+                0. 12 310C 00A6 0000:@ATL@CAxHostWindow@OnInPlaceActivateEx$qqspiul
+            833B:
+              00:
+                752168A508000068........68........E8:
+                  0. 00 0000 006D 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@UnsubclassWindow$qi
+                7F21685D09000068........68........E8:
+                  0. 00 0000 003A 0000:@ATL@%CComObjectRootEx$24ATL@CComMultiThreadModel%@InternalRelease$qv
+              FF7521685809000068........68........E8:
+                0. 00 0000 003A 0000:@ATL@%CComObjectRootEx$24ATL@CComMultiThreadModel%@InternalAddRef$qv
+            8D430C50E8........598BF085F67507B805400080EB4283:
+              0. 0A 4820 0067 0000:@ATL@CAxHostWindow@ShowObject$qqsv
+            B80240008085C07D2783BBDC00000000741E81C3DC000000:
+              0. 02 9E9D 003E 0000:@ATL@CAxHostWindow@QueryService$qqsrx5_GUIDt1ppv
+          0C8B750885DB7405833B007421685402000068........68:
+            0. 00 0000 0046 0000:@ATL@%CComPtr$10IOleObject%@%QueryInterface$9IDispatch%$xqpp9IDispatch$xl
+        75:
+          0856E8........8BD885DB7D21681012000068........68:
+            0. 00 0000 0047 0000:@ATL@CComVariant@InternalClear$qv
+          0C8B5D0885:
+            DB752168DF08000068........68........E8:
+              0. 00 0000 006A 0000:@ATL@CComObjectRootBase@InternalQueryInterface$qqspvpx21ATL@_ATL_INTMAP_ENTRYrx5_GUIDppv
+            F675:
+              1E6A4068........68........E8:
+                0. 09 D4F3 006D 0000:@AtlA2WHelper$qqspbpxciui
+              21683302000068........68........E8:
+                0. 00 0000 0052 (!)0000:?
+          148B5D0885F67407B803400080EB0E83C30C53E8........59:
+            0. 0A BB39 002A 0000:@ATL@CAxHostWindow@GetDC$qqspx7tagRECTulpp5HDC__
+        D8:
+          84C90F859E0000008BC3E8........83BB:
+            6C0200000074538B:
+              0. 1A BD45 00B3 0000:@Cspin@TCSpinButton@BtnMouseDown$qqrp14System@TObject21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+            7C0200000074538B:
+              0. 1A 410C 00B3 0000:@Cspin@TCSpinButton@BtnMouseDown$qqrp14System@TObject21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+          8BC3E8........:
+            3B434C7E0B8BD08BC3E8........EB:
+              7783BB:
+                0. 09 4564 0099 0000:@Cspin@TCSpinEdit@WMSize$qqrr16Messages@TWMSize
+              7A83BB:
+                0. 09 8354 009C 0000:@Cspin@TCSpinEdit@WMSize$qqrr16Messages@TWMSize
+            8BD08BC3E8........8BF08BC3E8:
+              0. 07 97B9 0038 0000:@Cspin@TCSpinEdit@CMExit$qqrr20Messages@TWMNoParams
+        DA8BF0:
+          668B138BC68B08FF91:
+            0001000084C0750C66C70300006A:
+              0. 02 0164 0039 0000:@Cspin@TCSpinEdit@KeyPress$qqrrb
+            1001000084C0750C66C70300006A:
+              0. 02 0164 0039 0000:@Cspin@TCSpinEdit@KeyPress$qqrrb
+          813B120100007520817B0420F0000075078BC68B10FF52:
+            0. 17 096E 0037 0000:@TCTrayIcon@ApplicationHookProc$qqrr17Messages@TMessage
+            1. 17 95E8 0037 0000:@TCTrayIcon@ApplicationHookProc$qqrr17Messages@TMessage
+        F28BD8:
+          3BB3:
+            BC:
+              01000074468B8BC001000085C974138BC699F7F9:
+                0. 33 9AAB 005B 0000:@TPerformanceGraph@SetScale$qqrl
+              0200000F848800000080BBC402000000747F8B83:
+                0. 27 255F 00A1 0000:@CColorgrd@TCColorGrid@SetForegroundIndex$qqri
+            C00200000F848800000080BBC502000000747F8B83:
+              0. 27 472A 00A1 0000:@CColorgrd@TCColorGrid@SetBackgroundIndex$qqri
+            C401000074468B8BC801000085C974138BC699F7F9:
+              0. 33 5F2C 005B 0000:@TPerformanceGraph@SetScale$qqrl
+            C8020000742F33C98B93C80200008BC3E8:
+              0. 15 AF5F 0044 0000:@CColorgrd@TCColorGrid@SetSelection$qqri
+            CC0200000F848800000080BBD402000000747F8B83:
+              0. 27 8211 00A1 0000:@CColorgrd@TCColorGrid@SetForegroundIndex$qqri
+            D00200000F848800000080BBD502000000747F8B83:
+              0. 27 8EFF 00A1 0000:@CColorgrd@TCColorGrid@SetBackgroundIndex$qqri
+            D8020000742F33C98B93D80200008BC3E8:
+              0. 15 1F79 0044 0000:@CColorgrd@TCColorGrid@SetSelection$qqri
+          85DB7420833B00740C8B03508B10FF520833C9890BF7C6:
+            0. 08 B934 0031 (!)0000:?
+          8B:
+            15........8BC6E8........8B50048BC3E8:
+              0. 02 0F20 003B 0000:@TAngles@Assign$qqrp19Classes@TPersistent
+            4348483BF07E068B73484EEB0685F67D0233F68B434C:
+              0. 34 3A34 0054 0000:@CColorgrd@TCColorGrid@SquareFromPos$qqrii
+              1. 34 C1B3 0054 0000:@CColorgrd@TCColorGrid@SquareFromPos$qqrii
+            D68BC3E8........83780C00750C8BD68BC38B08FF91:
+              0. 09 440B 0031 0000:@Cdiroutl@TCDirectoryOutline@Expand$qqri
+              1. 09 BC20 0031 0000:@Cdiroutl@TCDirectoryOutline@Expand$qqri
+    6683:
+      780E00740A8BD88BD08B4010FF530C5B5DC3:
+        0. 00 0000 0018 0000:@TAngles@Changed$qqrv
+      B8:
+        460300000074108BD88BD08B8048030000FF93440300005B5D:
+          0. 01 EF04 0021 0000:@TCCalendar@Change$qqrv
+        620300000074108BD88BD08B8064030000FF93600300005B5D:
+          0. 01 EF04 0021 0000:@Cdiroutl@TCDirectoryOutline@Change$qqrv
+        AA0300000074108BD88BD08B80AC030000FF93A80300005B5D:
+          0. 01 EF04 0021 0000:@Cdiroutl@TCDirectoryOutline@Change$qqrv
+        E20200000074108BD88BD08B80E4020000FF93E00200005B5D:
+          0. 01 EF04 0021 0000:@CColorgrd@TCColorGrid@Change$qqrv
+        F20200000074108BD88BD08B80F4020000FF93F00200005B5D:
+          0. 01 EF04 0021 0000:@CColorgrd@TCColorGrid@Change$qqrv
+        FE0200000074108BD88BD08B8000030000FF93FC0200005B5D:
+          0. 01 EF04 0021 0000:@TCCalendar@Change$qqrv
+    83B8:
+      BC020000087D088B90BC020000EB098B90BC02000083C20433C9:
+        0. 2A 7A0A 004A 0000:@CColorgrd@TCColorGrid@GetForegroundColor$qqrv
+      C0020000087D088B90C0020000EB098B90C002000083C20433C9:
+        0. 2A 7A0A 004A 0000:@CColorgrd@TCColorGrid@GetBackgroundColor$qqrv
+      CC020000087D088B90CC020000EB098B90CC02000083C20433C9:
+        0. 2A 1B4D 004A 0000:@CColorgrd@TCColorGrid@GetForegroundColor$qqrv
+      D0020000087D088B90D0020000EB098B90D002000083C20433C9:
+        0. 2A 1B4D 004A 0000:@CColorgrd@TCColorGrid@GetBackgroundColor$qqrv
+    8B:
+      1D........663B13742E0FB7DA83FB2B74260FB7DA83FB2D741E0F:
+        0. 47 8756 0067 0000:@Cspin@TCSpinEdit@IsValidChar$qqrb
+        1. 47 ADAA 0067 0000:@Cspin@TCSpinEdit@IsValidChar$qqrb
+      5D08:
+        83:
+          3B:
+            00:
+              742168:
+                CB0F000068........68........E8:
+                  0. 09 D4F3 0035 0000:@ATL@CComBSTR@Attach$qpb
+                FA01000068........68........E8:
+                  0. 09 D4F3 0032 (!)0000:?
+              752168:
+                9302000068........68........E8:
+                  0. 09 D4F3 0032 (!)0000:?
+                FF01000068........68........E8:
+                  0. 09 D4F3 0032 (!)0000:?
+            FF7521687109000068........68........E8:
+              0. 09 D4F3 0036 0000:@ATL@%CComObjectRootEx$25ATL@CComSingleThreadModel%@InternalAddRef$qv
+          7D0C0074138D430C50E8........59808B9C00000010EB0C:
+            0. 01 3E9B 0033 0000:@ATL@CAxHostWindow@SetCapture$qqsi
+        85DB74:
+          1353E8........F6450C01740753E8........595B5D:
+            0. 01 EF04 0021 0000:@ATL@CComVariant@$bdtr$qv (REF 000D: VariantClear)
+            1. 01 EF04 0021 0000:@ATL@CComAutoCriticalSection@$bdtr$qv (REF 000D: DeleteCriticalSection)
+          14FF33E8........F6450C01740753E8........595B:
+            0. 02 5F98 0022 0000:@ATL@CComBSTR@$bdtr$qv
+          1A833B0074088B03508B10FF5208F6450C01740753E8:
+            0. 00 0000 0028 (!)0000:?
+        E8........83780801742168:
+          6601000068........68:
+            0. 00 0000 0040 0000:@ATL@CAxHostWindow@_GetRawUnknown$qv
+          BC00000068........68:
+            0. 00 0000 0040 0000:@ATL@CComClassFactory@_GetRawUnknown$qv
+          C000000068........68:
+            0. 00 0000 0040 0000:@ATL@CComClassFactoryAutoThread@_GetRawUnknown$qv
+        FF:
+          33E8........85C0752168:
+            1702000068........68:
+              0. 00 0000 0043 0000:@ATL@CWindow@InvalidateRect$qpx7tagRECTi
+            2208000068........68:
+              0. 00 0000 003D 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@DestroyWindow$qv
+            2302000068........68:
+              0. 00 0000 0043 0000:@ATL@CWindow@InvalidateRgn$qp6HRGN__i
+            4B03000068........68:
+              0. 00 0000 0040 0000:@ATL@CWindow@IsChild$xqp6HWND__
+            4D02000068........68:
+              0. 00 0000 0046 0000:@ATL@CWindow@RedrawWindow$qpx7tagRECTp6HRGN__ui
+            5103000068........68:
+              0. 00 0000 003D 0000:@ATL@CWindow@GetParent$xqv
+            6B03000068........68:
+              0. 00 0000 0040 0000:@ATL@CWindow@GetDlgItem$xqi
+            7301000068........68:
+              0. 00 0000 004F 0000:@ATL@CWindow@SetWindowPos$qp6HWND__iiiiui
+            7502000068........68:
+              0. 00 0000 003D 0000:@ATL@CWindow@SetCapture$qv
+            9101000068........68:
+              0. 00 0000 0040 0000:@ATL@CWindow@GetClientRect$xqp7tagRECT
+            D800000068........68:
+              0. 00 0000 003F 0000:@ATL@CWindow@GetStyle$xqv
+            DB01000068........68:
+              0. 00 0000 003D 0000:@ATL@CWindow@GetDC$qv
+            E701000068........68:
+              0. 00 0000 0040 0000:@ATL@CWindow@ReleaseDC$qp5HDC__
+            EA00000068........68:
+              0. 00 0000 0043 0000:@ATL@CWindow@SetWindowLongA$qil
+          7510FF750CE8........5053E8........5B5DC3:
+            0. 00 0000 001C (!)0000:?
+      CA8B:
+        98:
+          940200003B9890020000741E3B90900200007D088B889002:
+            0. 17 88FD 0037 0000:@Cspin@TCSpinEdit@CheckValue$qqrl
+          A40200003B98A0020000741E3B90A00200007D088B88A002:
+            0. 17 06EC 0037 0000:@Cspin@TCSpinEdit@CheckValue$qqrl
+        C1250300008079054883C8FC4085C0751C8BC1BB6400000099:
+          0. 20 72AE 0040 0000:@TCCalendar@IsLeapYear$qqri
+      D8:
+        0393:
+          B00100008BC3E8........8BC3E8........5B5DC3:
+            0. 00 0000 001D 0000:@TCGauge@AddProgress$qqrl
+          B80100008BC3E8........8BC3E8........5B5DC3:
+            0. 00 0000 001D 0000:@TCGauge@AddProgress$qqrl
+        0FBE83:
+          4B0200004875078BC38B10FF52540FBE8B4C0200004975:
+            0. 23 389B 0043 0000:@TCTrayIcon@DoDblClick$qqrv
+          4F0200004875078BC38B10FF52580FBE8B500200004975:
+            0. 23 FB1B 0043 0000:@TCTrayIcon@DoDblClick$qqrv
+        3A93:
+          09030000741F88930903000084D27415E8........DD9BF0:
+            0. 10 E5E2 0030 0000:@TCCalendar@SetUseCurrentDate$qqro
+          51030000741F88935103000084D27415E8........DD9B38:
+            0. 10 9AD1 0030 0000:@TCCalendar@SetUseCurrentDate$qqro
+          C4020000743A8893C40200008B83BC0200003B83C8020000:
+            0. 1D 9D95 004B 0000:@CColorgrd@TCColorGrid@EnableForeground$qqro
+          C5020000743A8893C50200008B83C00200003B83C8020000:
+            0. 1D 4B35 004B 0000:@CColorgrd@TCColorGrid@EnableBackground$qqro
+          D4020000743A8893D40200008B83CC0200003B83D8020000:
+            0. 1D 014C 004B 0000:@CColorgrd@TCColorGrid@EnableForeground$qqro
+          D5020000743A8893D50200008B83D00200003B83D8020000:
+            0. 1D 5248 004B 0000:@CColorgrd@TCColorGrid@EnableBackground$qqro
+        3B93:
+          B8010000741E83FA017D05BA010000008993B80100008BC3:
+            0. 01 3E9B 002F 0000:@TPerformanceGraph@SetStepSize$qqrl
+          C0010000741E83FA017D05BA010000008993C00100008BC3:
+            0. 01 3E9B 002F 0000:@TPerformanceGraph@SetStepSize$qqrl
+          C801000074218993C80100008B83A00100008B40108B93C8:
+            0. 04 238B 0032 0000:@TPerformanceGraph@SetPenWidth$qqrl
+          D001000074218993D00100008B83A80100008B40448B93D0:
+            0. 04 238B 0032 0000:@TPerformanceGraph@SetPenWidth$qqrl
+        80BB:
+          4B0200000075078BC38B10FF525480BB4C0200000075078B:
+            0. 21 71F6 0041 0000:@TCTrayIcon@DoClick$qqrv
+          4F0200000075078BC38B10FF525880BB500200000075078B:
+            0. 21 622C 0041 0000:@TCTrayIcon@DoClick$qqrv
+          6C02000000740A6A00E8........5B5DC38BC3E8:
+            0. 0B 619E 0032 0000:@Cspin@TCSpinEdit@DownClick$qqrp14System@TObject
+            1. 0B 9216 0032 0000:@Cspin@TCSpinEdit@UpClick$qqrp14System@TObject
+          7C02000000740A6A00E8........5B5DC38BC3E8:
+            0. 0B 2B48 0032 0000:@Cspin@TCSpinEdit@DownClick$qqrp14System@TObject
+            1. 0B D8C0 0032 0000:@Cspin@TCSpinEdit@UpClick$qqrp14System@TObject
+        85D2740E8B83:
+          60020000E8........5B5DC368........8B15:
+            0. 00 0000 005A 0000:@Cspin@TCSpinButton@SetUpGlyph$qqrp16Graphics@TBitmap
+          64020000E8........5B5DC368........8B15:
+            0. 00 0000 005A 0000:@Cspin@TCSpinButton@SetDownGlyph$qqrp16Graphics@TBitmap
+          70020000E8........5B5DC368........8B15:
+            0. 00 0000 005A 0000:@Cspin@TCSpinButton@SetUpGlyph$qqrp16Graphics@TBitmap
+          74020000E8........5B5DC368........8B15:
+            0. 00 0000 005A 0000:@Cspin@TCSpinButton@SetDownGlyph$qqrp16Graphics@TBitmap
+        8993:
+          4402000083BB340200000074178B8B300200008B93440200:
+            0. 08 C2D1 0036 0000:@TCTrayIcon@SetIconIndex$qqri
+          4802000083BB380200000074178B8B340200008B93480200:
+            0. 08 F2A6 0036 0000:@TCTrayIcon@SetIconIndex$qqri
+        8B:
+          83:
+            180200008B10FF52243B434C75108B83180200008B10FF52:
+              0. 19 8D29 0069 0000:@TPerformanceGraph@Paint$qqrv
+            200200008B10FF52243B434C75108B83200200008B10FF52:
+              0. 19 D6B0 006B 0000:@TPerformanceGraph@Paint$qqrv
+            34020000E8........3B83440200007E08FF8344020000EB:
+              0. 20 1413 0040 0000:@TCTrayIcon@DoOnAnimate$qqrp14System@TObject
+            38020000E8........3B83480200007E08FF8348020000EB:
+              0. 20 3F92 0040 0000:@TCTrayIcon@DoOnAnimate$qqrp14System@TObject
+            B40100008B08FF51088BC38B10FF92800000005B5DC3:
+              0. 00 0000 001E 0000:@TPie@SetAngles$qqrp7TAngles
+            BC0100008B08FF51088BC38B10FF92900000005B5DC3:
+              0. 00 0000 001E 0000:@TPie@SetAngles$qqrp7TAngles
+          C3E8........:
+            6AF08BC3E8........50E8........0D000000:
+              0. 07 9997 0034 0000:@CColorgrd@TCColorGrid@CreateWnd$qqrv
+            83BB:
+              34020000007522C6834A020000008B15:
+                0. 00 0000 006A 0000:@TCTrayIcon@Loaded$qqrv
+              38020000007522C6834E020000008B15:
+                0. 00 0000 006A 0000:@TCTrayIcon@Loaded$qqrv
+            8BC3E8........5B5DC3:
+              0. 00 0000 0017 0000:@Cspin@TCSpinEdit@CreateWnd$qqrv
+        8D83:
+          380300008B550889108B550C8950048BC38B10FF92200100:
+            0. 10 F60B 0030 0000:@TCCalendar@SeTCCalendarDate$qqr16System@TDateTime
+          F00200008B550889108B550C8950048BC38B10FF92080100:
+            0. 10 0E20 0030 0000:@TCCalendar@SeTCCalendarDate$qqr16System@TDateTime
+        A1........8B:
+          00E8........6A:
+            008B15........8B0AFFB17001:
+              0. 03 8AAD 0042 0000:@TCTrayIcon@Minimize$qqrv
+            098B15........8B0AFFB17001:
+              0. 03 8AAD 0055 0000:@TCTrayIcon@Restore$qqrv (0030: 5D)
+              1. 03 8AAD 0054 0000:@TCTrayIcon@Restore$qqrv (0030: C3)
+          108B92:
+            9C0000008B83300200008B08FF51088BC3:
+              0. 08 67C9 0028 0000:@TCTrayIcon@SetDefaultIcon$qqrv
+            A00000008B83340200008B08FF51088BC3:
+              0. 08 8BBB 0028 0000:@TCTrayIcon@SetDefaultIcon$qqrv
+        BA:
+          010000008BC3E8........8BD08BC38B08FF91:
+            0401000084C0:
+              0. 0A 1EBB 0073 0000:@TCCalendar@NextYear$qqrv (0039: 41)
+              1. 0A 1EBB 0073 0000:@TCCalendar@PrevYear$qqrv (0039: 49)
+            1C01000084C0:
+              0. 0A 1EBB 0073 0000:@TCCalendar@NextYear$qqrv (0039: 41)
+              1. 0A 1EBB 0073 0000:@TCCalendar@PrevYear$qqrv (0039: 49)
+          020000008BC3E8........50BA010000008BC3E8........8B:
+            0. 0F A94E 002F 0000:@TCCalendar@DaysThisMonth$qqrv
+            1. 0F C6F3 002F 0000:@TCCalendar@DaysThisMonth$qqrv
+        C683:
+          58030000018BC3E8........8BC3E8........8BC38B10FF:
+            0. 0F 6CBB 002F 0000:@Cdiroutl@TCDirectoryOutline@Loaded$qqrv
+          A0030000018BC3E8........8BC3E8........8BC38B10FF:
+            0. 0F FFEC 002F 0000:@Cdiroutl@TCDirectoryOutline@Loaded$qqrv
+          DD020000:
+            0033C98B93C80200008BC3E8........8BC3E8:
+              0. 00 0000 0026 0000:@CColorgrd@TCColorGrid@WMKillFocus$qqrr21Messages@TWMKillFocus
+            01B1018B93C80200008BC3E8........8BC3E8:
+              0. 00 0000 0026 0000:@CColorgrd@TCColorGrid@WMSetFocus$qqrr20Messages@TWMSetFocus
+          ED020000:
+            0033C98B93D80200008BC3E8........8BC3E8:
+              0. 00 0000 0026 0000:@CColorgrd@TCColorGrid@WMKillFocus$qqrr21Messages@TWMKillFocus
+            01B1018B93D80200008BC3E8........8BC3E8:
+              0. 00 0000 0026 0000:@CColorgrd@TCColorGrid@WMSetFocus$qqrr20Messages@TWMSetFocus
+        F6431C1075228B83:
+          30020000E8........89434480BB48020000:
+            0. 0A 3B71 0031 0000:@TCTrayIcon@Update$qqrv
+          34020000E8........89434880BB4C020000:
+            0. 0A 2B5C 0031 0000:@TCTrayIcon@Update$qqrv
+      DA8BD3E8........814B04040000025B5DC3:
+        0. 00 0000 0017 0000:@Cspin@TCSpinEdit@CreateParams$qqrr22Controls@TCreateParams
+  568B750885F6751E6A4368........68........E8........83C40C83:
+    0. 05 1C9F 0068 0000:@ATL@AtlGetDirLen$qqspxb
+  5D:
+    C2:
+      0400:
+        0. 00 0000 0007 (!)0000:?
+      0800:
+        0. 00 0000 0007 (!)0000:?
+      0C00:
+        0. 00 0000 0007 (!)0000:?
+    C3:
+      0. 00 0000 0005 (!)0000:?
+  6683FA077F066683FA017D0B66C780:
+    0603000001005DC3663B90060300:
+      0. 14 AEF8 0034 0000:@TCCalendar@SetStartOfWeek$qqrs
+    4E03000001005DC3663B904E0300:
+      0. 14 9AF0 0034 0000:@TCCalendar@SetStartOfWeek$qqrs
+  68........:
+    68........E8........83C40885C07407B8........EB05:
+      0. 01 BBC9 0027 0000:@%TComInterface$8IUnknownpx5_GUID$e&@IID_IUnknown$%@GetIID$xqv
+    FF35........E8........83C40885C07407A1........EB:
+      0. 02 3C48 0028 0000:@%TComInterface$24Shdocvw_tlb@IWebBrowser2px5_GUID$gIID_IWebBrowser2$%@GetIID$xqv (REF 000A: @Shdocvw_tlb@IID_IWebBrowser2)
+      1. 02 3C48 0028 0000:@%TComInterface$25Shdocvw_tlb@IShellWindowspx5_GUID$gIID_IShellWindows$%@GetIID$xqv (REF 000A: @Shdocvw_tlb@IID_IShellWindows)
+      2. 02 3C48 0028 0000:@%TComInterface$27Shdocvw_tlb@IShellUIHelper2px5_GUID$gIID_IShellUIHelper2$%@GetIID$xqv (REF 000A: @Shdocvw_tlb@IID_IShellUIHelper2)
+      3. 02 3C48 0028 0000:@%TComInterface$27Shdocvw_tlb@IShellNameSpacepx5_GUID$gIID_IShellNameSpace$%@GetIID$xqv (REF 000A: @Shdocvw_tlb@IID_IShellNameSpace)
+  6A:
+    006A006A006A006A006A006A008D45085068........E8........83:
+      0. 04 A942 0024 0000:@%DebugHlpr_THROW$c%$qpclt1o$v
+    10FF750CFF7508E8........83C40C85C00F94C083E0015DC3:
+      0. 00 0000 001D 0000:@IsEqualGUID$qrx5_GUIDt1
+  80:
+    7D:
+      080074058B450CEB038B45105DC3:
+        0. 00 0000 0013 0000:@CColorgrd@TernaryOp$qoii
+      0C0074158B450883780800740C8B55088B4A08518B01FF50088B55:
+        0. 08 19B2 0028 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@Unbind$qo
+    B8:
+      6E02000000740BF64054017505E8........5DC3:
+        0. 00 0000 0019 0000:@Cspin@TCSpinEdit@CMEnter$qqrr20Messages@TWMNoParams
+      7E02000000740BF64054017505E8........5DC3:
+        0. 00 0000 0019 0000:@Cspin@TCSpinEdit@CMEnter$qqrr20Messages@TWMNoParams
+      A402000000740780B86C020000005DC3:
+        0. 00 0000 0015 (!)0000:?
+      B402000000740780B87C020000005DC3:
+        0. 00 0000 0015 (!)0000:?
+  81C4:
+    00FEFFFF5356578B750C8B5D08B8........E8........BF010000:
+      0. 20 94BA 13F2 0000:@ATL@CAxHostWindow@CreateControlEx$qqspxbp6HWND__p7IStreampp8IUnknownrx5_GUIDp8IUnknown
+    28FDFFFF5356578B7D1C8B75108B5D08B8........E8........C7:
+      0. 6C 95FD 1941 0000:@ATL@CAxHostWindow@ProcessWindowMessage$qp6HWND__uiuilrlul
+      1. 6C 9FB8 192F 0000:@ATL@CAxHostWindow@ProcessWindowMessage$qp6HWND__uiuilrlul
+    34FFFFFF5356578B5D08B8........E8........8D4304FF088B38:
+      0. 1C 2AA6 0581 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@Release$qqsv
+    4CFDFFFF535657899550FDFFFF8BF0B8........E8........8B95:
+      0. 07 3DEB 032F 0000:@Cdiroutl@TCDirectoryOutline@BuildOneLevel$qqrl (02FE: 00)
+      1. 07 3DEB 0326 0000:@Cdiroutl@TCDirectoryOutline@BuildOneLevel$qqrl (02FE: C3)
+    54FFFFFF5356578B5D08837B74000F94C083E00184C0745D8D55B4:
+      0. 05 15C4 01A9 0000:@ATL@CAxHostWindow@OnPaint$quiuilri
+    58FFFFFF535657BE........B8........E8........8B5510833A:
+      0. 09 E295 0713 0000:@ATL@%CComCreator$40ATL@%CComPolyObject$17ATL@CAxHostWindow%%@CreateInstance$qqspvrx5_GUIDppv
+    68FFFFFF53894DF48955F88945FC8B45F83D010100000F8FEE0000:
+      0. 73 9354 0C3B 0000:@Shdocvw_tlb@TCppInternetExplorer@InvokeEvent$qqrir42System@%DynamicArray$t17System@OleVariant%
+      1. 73 C5D9 0C35 0000:@Shdocvw_tlb@TCppInternetExplorer@InvokeEvent$qqrir42System@%DynamicArray$t17System@OleVariant%
+    6CFFFFFF5356578B5D08B8........E8........8D4304FF088B30:
+      0. 1C C098 03C2 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@Release$qqsv
+    74FFFFFF535657B8........E8........C745EC12000000837D08:
+      0. 0E 5827 0465 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@$bdtr$qv
+    78FFFFFF535657B8........E8........C745EC12000000837D08:
+      0. 0E 7792 0382 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@$bdtr$qv
+    98FEFFFF5356578B5D08B8........E8........BF01000000F683:
+      0. 1D D0ED 0D05 0000:@ATL@CAxHostWindow@AttachControl$qqsp8IUnknownp6HWND__
+    ACFEFFFF5356578B5D088D75ACB8........E8........C745A801:
+      0. 22 8A1F 0D2E 0000:@ATL@CAxHostWindow@AttachControl$qqsp8IUnknownp6HWND__
+    B4FEFFFF535657B8........E8........8B5510833A0074216854:
+      0. 04 B144 0B00 0000:@ATL@%CComCreator$40ATL@%CComPolyObject$17ATL@CAxHostWindow%%@CreateInstance$qqspvrx5_GUIDppv
+    E4FDFFFF5356578B750C8B5D08B8........E8........BF010000:
+      0. 20 8810 13BE 0000:@ATL@CAxHostWindow@CreateControlEx$qqspxbp6HWND__p7IStreampp8IUnknownrx5_GUIDp8IUnknown
+    E8FBFFFF837D08000F8DF4000000837D10007419FF751068:
+      0. 00 0000 010E 0000:@%DebugHlpr_HRCHECK$xc%$qlpxct2i$l
+    F0FBFFFF5356578B750C8B7D08FF7510565768........8D85F8FD:
+      0. 04 4E47 009A 0000:@%DebugHlpr_ASSERTE$xc%$qpxct1i$i
+    F8FDFFFFFF750C68........8D85F8FDFFFF50E8........83C40C:
+      0. 12 8E82 003A 0000:@%DebugHlpr_PROMPT$xc%$qpxct1$i
+  83:
+    7D080074:
+      17FF7508E8........F6450C017409FF7508E8........59:
+        0. 02 5F98 0022 0000:@%TVariantT$10tagVARIANTo$i1$%@$bdtr$qv
+      1C6A:
+        00FF7508E8........83C408F6450C017409FF7508E8:
+          0. 00 0000 0027 (!)0000:?
+        01FF7508E8........83C408F6450C017409FF7508E8:
+          0. 00 0000 0027 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bdtr$qv
+    B8:
+      3402000000750EF6401C010F95C183E10184C9740688904A020000:
+        0. 16 0F3A 003C 0000:@TCTrayIcon@SetAnimate$qqro
+      3802000000750EF6401C010F95C183E10184C9740688904E020000:
+        0. 16 71F7 003C 0000:@TCTrayIcon@SetAnimate$qqro
+    C0:
+      30506A02E8........5DC3:
+        0. 00 0000 0010 0000:@TCTrayIcon@EndSession$qqrv
+      34506A02E8........5DC3:
+        0. 00 0000 0010 0000:@TCTrayIcon@EndSession$qqrv
+    C4:
+      845657894D9889559C8945A0B8........E8........68:
+        C1000000:
+          0. 01 361F 009E 0000:@Shdocvw_tlb@TCppWebBrowser@GetProperty$qqrpb
+        C2000000:
+          0. 01 361F 009E 0000:@Shdocvw_tlb@TCppWebBrowser@GetProperty$qqrpb
+      885356:
+        57B8........E8........8B75148B55108955C88B4D0C89:
+          0. 09 072C 0237 0000:AtlAxCreateControl
+          1. 0A B026 022E 0000:AtlAxCreateControl
+        8BF06A00E8........8BD88D45C45053E8........8B4664:
+          0. 01 3E9B 0074 0000:@Cspin@TCSpinEdit@GetMinHeight$qqrv
+      8C5356578B5D0883BBD8000000000F94C083E00184C00F84:
+        140100:
+          0. 09 FA65 0156 0000:@ATL@CAxHostWindow@get_Font$qqspp9IFontDisp
+        160100:
+          0. 09 FA65 0158 0000:@ATL@CAxHostWindow@get_Font$qqspp9IFontDisp
+      9489:
+        4D9889559C8945A0B8........E8........66C745B40C008D:
+          0. 06 37A4 0077 0000:@Shdocvw_tlb@TCppWebBrowser@Navigate$qqrpbp10tagVARIANTt2t2t2 (004F: 0C)
+          1. 06 37A4 007A 0000:@Shdocvw_tlb@TCppWebBrowser@Navigate2$qqrp10tagVARIANTt1t1t1t1 (0048: 89)
+          2. 06 37A4 0077 0000:@Shdocvw_tlb@TCppWebBrowser@ExecWB$qqr20Shdocvw_tlb@OLECMDID25Shdocvw_tlb@OLECMDEXECOPTp10tagVARIANTt3 (004F: 08)
+          3. 06 37A4 0074 0000:@Shdocvw_tlb@TCppWebBrowser@ShowBrowserBar$qqrp10tagVARIANTt1t1 (0048: 8B)
+          4. 06 37A4 006F 0000:@Shdocvw_tlb@TCppWebBrowser@ClientToWindow$qqrpit1 (0048: C3)
+        559C8945A0B8........E8........68:
+          D100000068:
+            0. 01 361F 0088 0000:@Shdocvw_tlb@TCppWebBrowser@QueryStatusWB$qqr20Shdocvw_tlb@OLECMDID
+          D200000068:
+            0. 01 361F 0088 0000:@Shdocvw_tlb@TCppWebBrowser@QueryStatusWB$qqr20Shdocvw_tlb@OLECMDID
+      98:
+        5356578B:
+          5D0C8B750866837B40000F85:
+            340100008D463450E8:
+              0. 00 0000 01B7 0000:@ATL@AtlModuleRegisterWndClassInfoA$qqsp15ATL@_ATL_MODULEp18_ATL_WNDCLASSINFOAppqqsp6HWND__uiuil$l
+            350100008D463450E8:
+              0. 00 0000 01B8 0000:@ATL@AtlModuleRegisterWndClassInfoA$qqsp15ATL@_ATL_MODULEp18_ATL_WNDCLASSINFOAppqqsp6HWND__uiuil$l
+          7D108B750CB8........E8........8B5D085657BE:
+            0. 00 0000 0152 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@WindowProc$qqsp6HWND__uiuil (0124: 15)
+            1. 00 0000 0146 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@WindowProc$qqsp6HWND__uiuil (0124: 10)
+        89:
+          45A0B8........E8........68:
+            0001000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Document$qqrv
+            0101000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Document$qqrv
+            E800000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Application$qqrv
+            E900000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Application$qqrv
+            F000000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Parent$qqrv
+            F100000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Parent$qqrv
+            F800000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Container$qqrv
+            F900000068........68:
+              0. 00 0000 007F 0000:@Shdocvw_tlb@TCppWebBrowser@get_Container$qqrv
+          559C8945A0B8........E8........66C745B40C008D55C88B:
+            0. 03 BE3D 0076 0000:@Shdocvw_tlb@TCppWebBrowser@PutProperty$qqrpb10tagVARIANT (0042: C4)
+            1. 03 BE3D 0066 0000:@Shdocvw_tlb@TCppWebBrowser@Refresh2$qqrp10tagVARIANT (0042: C3)
+      9C8945A0B8........E8........66C745B40C008D55C88B45A0E8:
+        0. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@GoBack$qqrv (001D: 1C)
+        1. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@GoForward$qqrv (001D: 20)
+        2. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@GoHome$qqrv (001D: 24)
+        3. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@GoSearch$qqrv (001D: 28)
+        4. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@Refresh$qqrv (001D: 30)
+        5. 00 0000 0060 0000:@Shdocvw_tlb@TCppWebBrowser@Stop$qqrv (001D: 38)
+        6. 00 0000 0063 0000:@Shdocvw_tlb@TCppWebBrowser@Quit$qqrv (001D: 80)
+      A45356578BD8B8........E8........66C745D40C00B201A1:
+        0. 00 0000 0299 0000:@TCGauge@Paint$qqrv (0272: 5F)
+        1. 00 0000 0293 0000:@TCGauge@Paint$qqrv (0272: C3)
+      A85356578B:
+        F28945B08D5DB4B8........E8........66C7431018:
+          0. 12 1079 0320 0000:@Cdiroutl@TCDirectoryOutline@WalkTree$qqrrx20System@UnicodeString
+        F98955D88BF0B8........E8........5657BE:
+          0. 00 0000 0061 0000:@TCCalendar@DaysPerMonth$qqrii (003A: 5F)
+          1. 00 0000 005B 0000:@TCCalendar@DaysPerMonth$qqrii (003A: C3)
+      AC5356578B5D08B8........E8........:
+        66C745CC0C008B451466:
+          0. 0B C067 00D3 0000:@ATL@CComDispatchDriver@Invoke2$qlp10tagVARIANTt2t2 (00A1: 5F)
+          1. 0B C067 00CD 0000:@ATL@CComDispatchDriver@Invoke2$qlp10tagVARIANTt2t2 (00A1: C3)
+        85DB0F846C010000FF4D:
+          0. 13 B6FB 019B 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@$bdtr$qv
+      B053568BD88D75C4B8........E8........66C745D80C0033D289:
+        0. 22 903C 03F5 0000:@CColorgrd@TCColorGrid@DrawFgBg$qqrv
+        1. 22 D088 03F5 0000:@CColorgrd@TCColorGrid@DrawFgBg$qqrv
+      B85356:
+        57:
+          8BD98955B88BF8B8........E8........66C745CC0C00:
+            0. 27 6B28 01C3 0000:@Cdiroutl@TCDirectoryOutline@GetChildNamed$qqrrx20System@UnicodeStringl
+          B8........E8........837D0800752168EE09000068:
+            0. 00 0000 0266 0000:@ATL@%CComObject$15ATL@CAxUIWindow%@CreateInstance$qqspp34ATL@%CComObject$15ATL@CAxUIWindow% (0245: 00)
+            1. 00 0000 0267 0000:@ATL@%CComObject$15ATL@CAxUIWindow%@CreateInstance$qqspp34ATL@%CComObject$15ATL@CAxUIWindow% (0245: 04)
+            2. 00 0000 026E 0000:@ATL@%CComObject$18ATL@CAxFrameWindow%@CreateInstance$qqspp37ATL@%CComObject$18ATL@CAxFrameWindow% (0245: 5F)
+        8B5D08B8........E8........8D731456E8........8BF0:
+          0. 16 67D2 00A0 0000:@%TATLModule$14ATL@CComModule%@Unlock$qv
+      BC:
+        5356578B:
+          7D08B8........E8........8B55288955D88B4D2489:
+            0. 31 C843 00AF 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@Invoke$qqslrx5_GUIDulusp13tagDISPPARAMSp10tagVARIANTp12tagEXCEPINFOpui
+          D98BFA8BF0B8........E8........66C745D40C0033:
+            0. 16 57F5 0231 0000:@TCGauge@PaintAsText$qqrp16Graphics@TBitmaprx11Types@TRect
+        5657B8........E8........8B15........8955D08B0D:
+          0. 00 0000 0167 0000:@Shdocvw_ocx@Register$qqrv (0146: C3)
+          1. 00 0000 016F 0000:@Shdocvw_ocx@Register$qqrv (0146: 15)
+      C053:
+        56:
+          57:
+            8855F884D27E05E8........8BF18BDA8945FC8D7DFCB8:
+              0. 00 0000 0132 0000:@TPie@$bctr$qqrp18Classes@TComponent
+            8B:
+              5D08B8........E8........837B:
+                04007405833B0075:
+                  0. 07 0572 0294 0000:@ATL@CComTypeInfoHolder@GetTI$qul (0265: 00)
+                  1. 07 0572 028D 0000:@ATL@CComTypeInfoHolder@GetTI$qul (0265: C3)
+                1C000F85:
+                  8B000000:
+                    0. 01 8DAC 00C8 (!)0000:?
+                  97000000:
+                    0. 01 8DAC 00D4 (!)0000:?
+              D98955C08BF0B8........E8........66C745D40C00:
+                0. 17 BE4C 022E 0000:@TCGauge@PaintAsText$qqrp16Graphics@TBitmaprx11Types@TRect
+          8855F484D27E05E8........8BF18855D38945FC8D5DFCB8:
+            0. 00 0000 0166 0000:@Cspin@TCSpinEdit@$bctr$qqrp18Classes@TComponent (0145: C3)
+            1. 00 0000 0167 0000:@Cspin@TCSpinEdit@$bctr$qqrp18Classes@TComponent (0145: 5D)
+        E8........8BDA8945FCB8........E8........C745DC0800:
+          0. B3 8F95 00F2 0000:@TPie@$bdtr$qqrv
+          1. B3 E44D 00F2 0000:@TPie@$bdtr$qqrv
+      C45356578955FC8BF0B8........E8........C745E8010000008D:
+        0. 06 3B6C 0203 0000:@Cdiroutl@TCDirectoryOutline@SetDirectory$qqr20System@UnicodeString
+      C8:
+        53:
+          5657:
+            89:
+              4DC88BFA8BF08B5D0CB8........E8........66C745:
+                0. 17 9575 0110 0000:@TCCalendar@DrawCell$qqriirx11Types@TRect42System@%Set$t14Grids@Grids__3$iuc$0$iuc$2% (00D8: 00)
+                1. 17 9575 0115 0000:@TCCalendar@DrawCell$qqriirx11Types@TRect42System@%Set$t14Grids@Grids__3$iuc$0$iuc$5% (00D8: 8B)
+              55FC8BF8B8........E8........C745EC010000008D:
+                0. 06 3B6C 01AE 0000:@Cdiroutl@TCDirectoryOutline@SetDirectory$qqr20System@UnicodeString
+            8B:
+              5D108B7D0C8B7508B8........E8........5657BE:
+                0. 00 0000 00BC 0000:@ATL@CComDispatchDriver@PutProperty$qp9IDispatchlp10tagVARIANT (0095: 5F)
+                1. 00 0000 00B6 0000:@ATL@CComDispatchDriver@PutProperty$qp9IDispatchlp10tagVARIANT (0095: C3)
+              7D1C8B5D08B8........E8........33F6837D0C0074:
+                0. 22 E06F 01C7 0000:@ATL@CAxHostWindow@GetWindowContext$qqspp16IOleInPlaceFramepp19IOleInPlaceUIWindowp7tagRECTt3p7tagOIFI (0183: 18)
+                1. 22 E06F 01D3 0000:@ATL@CAxHostWindow@GetWindowContext$qqspp16IOleInPlaceFramepp19IOleInPlaceUIWindowp7tagRECTt3p7tagOIFI (0183: 15)
+            B8........E8........8B7D088D470850E8........8B:
+              0. 31 EA28 0094 (!)0000:?
+          E8........8BDA8945FCB8........E8........C745E40500:
+            0. 23 42BF 010E 0000:@TCTrayIcon@$bdtr$qqrv
+            1. 23 5292 010E 0000:@TCTrayIcon@$bdtr$qqrv
+        8945C8B8........E8........8B55C883C2:
+          5052E8........59:
+            0. 12 EF9B 010C (!)0000:?
+          5452E8........59:
+            0. 12 EF9B 010C (!)0000:?
+      CC:
+        5356:
+          57:
+            8B:
+              5D08B8........E8........BE........8D7DCCB904:
+                0. 2A 1FC4 006A 0000:@ATL@CComDispatchDriver@InvokeN$qlp10tagVARIANTit2
+                1. 1E 2694 005E 0000:@ATL@CComDispatchDriver@Invoke1$qlp10tagVARIANTt2
+                2. 18 2B57 0058 0000:@ATL@CComDispatchDriver@Invoke0$qlp10tagVARIANT
+                3. 24 4E80 0064 0000:@ATL@CComDispatchDriver@InvokeN$qlp10tagVARIANTit2
+                4. 24 7F6C 0064 0000:@ATL@CComDispatchDriver@Invoke1$qlp10tagVARIANTt2
+                5. 1E A336 005E 0000:@ATL@CComDispatchDriver@Invoke0$qlp10tagVARIANT
+              75:
+                08B8........E8........:
+                  56E8........598BD885:
+                    0. 1B D45E 0121 (!)0000:?
+                  837D10007514B8034000:
+                    0. 1A 6A29 01B9 0000:@ATL@CAxHostWindow@EnumObjects$qqsulpp12IEnumUnknown
+                    1. 1A 6C1E 01BA 0000:@ATL@CAxHostWindow@EnumObjects$qqsulpp12IEnumUnknown
+                0C8B5D08B8........E8........C745D401000000:
+                  0. 11 1F9A 00A5 0000:@ATL@CAxHostWindow@TranslateAcceleratorA$qqsp6tagMSGpx5_GUIDul
+                148B7D08B8........E8........BB0100000085F6:
+                  0. 43 F33B 0137 0000:@ATL@CAxHostWindow@TranslateUrl$qqsulpbppb
+              7D0C8B7508B8........E8........8D55D052578B0F:
+                0. 2D 9DA2 015D 0000:@ATL@CComTypeInfoHolder@LoadNameCache$qp9ITypeInfo
+              DA8BF0B8........E8........0FBEFB57E8:
+                0. 2D 3C44 0110 0000:@Cdiroutl@TCDirectoryOutline@SetDrive$qqrc
+                1. 2D 664C 0110 0000:@Cdiroutl@TCDirectoryOutline@SetDrive$qqrc
+              F0B8........E8........8BC6E8........66C745DC:
+                0. 03 BE79 00F8 0000:@Cdiroutl@TCDirectoryOutline@BuildTree$qqrv
+            B8........E8........837D0800752168EE09000068:
+              0. 00 0000 0181 0000:@ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%@CreateInstance$qqspp146ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IoZlQKBYY9cv3Dl/vs5cLng (0160: 00)
+              1. 00 0000 0182 0000:@ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%@CreateInstance$qqspp146ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IoZlQKBYY9cv3Dl/vs5cLng (0160: 04)
+          8855F884D27E05E8........8BF18855D78945FC8D5DFCB8:
+            0. 00 0000 01C3 0000:@TCTrayIcon@$bctr$qqrp18Classes@TComponent (01A2: C3)
+            1. 00 0000 01C4 0000:@TCTrayIcon@$bctr$qqrp18Classes@TComponent (01A2: 5D)
+          894DF48955CC8BF0B8........E8........66C745E00C00:
+            0. 14 A6F1 00A8 0000:@Cdiroutl@TCDirectoryOutline@ForceCase$qqrrx20System@UnicodeString
+            1. 14 FDB2 00A8 0000:@Cdiroutl@TCDirectoryOutline@ForceCase$qqrrx20System@UnicodeString
+          8BF0B8........E8........8BC6E8........66C745DC0C:
+            0. 02 9615 00F6 0000:@Cdiroutl@TCDirectoryOutline@BuildTree$qqrv
+        5657B8........E8........BE........8D7DCCB904000000F3:
+          0. 14 0A85 0054 0000:@ATL@CComDispatchDriver@GetProperty$qp9IDispatchlp10tagVARIANT
+          1. 1A CEF8 005A 0000:@ATL@CComDispatchDriver@GetProperty$qp9IDispatchlp10tagVARIANT
+        89:
+          45D0B8........E8........8B55D081C2:
+            0804000052E8:
+              0. 00 0000 00D8 0000:@Shdocvw_tlb@TCppWebBrowser@CreateControl$qqrv
+            F803000052E8:
+              0. 00 0000 00D8 0000:@Shdocvw_tlb@TCppWebBrowser@CreateControl$qqrv
+          55F48945CCB8........E8........66C745E00C008D45FCE8:
+            0. 00 0000 00CE (!)0000:?
+        B8........E8........8D55CC526A006A006A006A0168:
+          0. 00 0000 0056 0000:@_com_util@_com_issue_error$qqsl (0034: 04)
+          1. 00 0000 0056 0000:@_com_util@_com_issue_errorex$qqslp8IUnknownrx5_GUID (0034: 0C)
+          2. 00 0000 0057 0000:@_com_util@_com_raise_error$qqslp10IErrorInfo (0034: C2)
+      D0:
+        53:
+          56:
+            57:
+              8945D0B8........E8........66C745E40C0066C745E4:
+                0. 11 4C3E 00D7 0000:@Cspin@TCSpinEdit@GetValue$qqrv
+              8B:
+                D88B83:
+                  B40100008B70048B83B40100008B78088B4348:
+                    0. 1F F72F 01B4 0000:@TPie@Paint$qqrv
+                  BC0100008B70048B83BC0100008B78088B4348:
+                    0. 1F F72F 01B8 0000:@TPie@Paint$qqrv
+                D98BFA8BF0B8........E8........66C745E00C0033:
+                  0. 2B 9691 012F 0000:@TCCalendar@GetCellText$qqrii
+                  1. 2B C997 012F 0000:@TCCalendar@GetCellText$qqrii
+            66894DDA8BDA8BF0B8........E8........FF750CFF7508:
+              0. 09 D22D 00A7 0000:@Cspin@TTimerSpeedButton@MouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$8%ii
+            88:
+              4DDB8BDA8BF0B8........E8........FF750CFF75088A:
+                0. 07 A5CD 00A5 0000:@Cspin@TTimerSpeedButton@MouseDown$qqr21Controls@TMouseButton46System@%Set$t18Classes@Classes__1$iuc$0$iuc$6%ii
+              55F084D27E05E8........894DFC8BDA8945F88D75D0B8:
+                0. 00 0000 00B5 (!)0000:?
+          8BD8B8........E8........66C745E00C0033D28955FCFF45:
+            0. 0A B597 00F6 0000:@Cdiroutl@TCDirectoryOutline@CreateWnd$qqrv
+          E8........8BDA8945FCB8........E8........C745EC:
+            0800:
+              0. 49 3566 0097 0000:@TPerformanceGraph@$bdtr$qqrv
+              1. 49 4502 0097 0000:@TPerformanceGraph@$bdtr$qqrv
+            0900:
+              0. 55 59F2 0094 0000:@Cspin@TTimerSpeedButton@$bdtr$qqrv
+              1. 55 BD40 0094 0000:@Cspin@TTimerSpeedButton@$bdtr$qqrv
+        8855F884D27E05E8........894DD08855D78945FCB8:
+          0. 01 3E9B 00C8 0000:@Olectrls@TOleControl@$bctr$qqrp6HWND__ (004A: F4)
+          1. 01 3E9B 006C 0000:@Shdocvw_tlb@TCppWebBrowser@$bctr$qqrp18Classes@TComponent (004A: C3)
+        89:
+          45D0B8........E8........:
+            8B55D083C2:
+              5052E8........59:
+                0. 05 102C 00B0 (!)0000:?
+              5452E8........59:
+                0. 05 102C 00B0 (!)0000:?
+            C745F00100000066C745E40C00:
+              0. 14 072A 00C9 (!)0000:?
+              1. 14 D25F 00C9 (!)0000:?
+          55:
+            D48945FCB8........E8........66C745E80C008B55FC33:
+              0. 07 8661 005A (!)0000:?
+            FC8945D4B8........E8........8B45D4E8........66C7:
+              0. 17 3AED 0059 0000:@Shdocvw_tlb@TCppWebBrowser@GetDefaultInterface$qqrv
+              1. 17 A043 005A 0000:@Shdocvw_tlb@TCppWebBrowser@GetDefaultInterface$qqrv
+        B8........E8........8D55D0526A006A006A006A0168:
+          0. 00 0000 007E 0000:@%DebugHlpr_THROW$c%$qpclt1o$v
+        E8........8855D78945D8B8........E8........807DD7007C:
+          0. 19 9631 006A 0000:@Shdocvw_tlb@TCppWebBrowser@$bdtr$qqrv
+          1. 19 CF99 006A 0000:@Shdocvw_tlb@TCppWebBrowser@$bdtr$qqrv
+      D4:
+        53:
+          56:
+            57:
+              88:
+                4DFF8BCA8BD833C08945F08945EC8945E88945E485C9:
+                  0. 58 093F 0246 0000:@CColorgrd@TCColorGrid@DrawSquare$qqrio
+                  1. 55 DCE8 0236 0000:@CColorgrd@TCColorGrid@DrawSquare$qqrio
+                55F884D27E05E8........8BF98BDA8945FC8D75FCB8:
+                  0. 00 0000 00D9 0000:@Cdiroutl@TCDirectoryOutline@$bctr$qqrp18Classes@TComponent
+              8B:
+                7508B8........E8........8B7D1833D289D3837E0C:
+                  0. 06 9BB0 00F0 0000:@ATL@CComTypeInfoHolder@GetIDsOfNames$qrx5_GUIDppbuiulpl
+                7D0C8B7508B8........E8........BB0340008085FF:
+                  0. 0F 9EF2 0108 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Clone$qqspp12IEnumUnknown
+                DA8BF0B8........E8........889E4C020000F6461C:
+                  0. 17 1E1E 013A 0000:@TCTrayIcon@SetVisible$qqro
+              B8........E8........BB0001000053E8........5989:
+                0. 0D F000 00FE 0000:@Cdiroutl@TCDirectoryOutline@CurDir$qv
+            8B:
+              DA8BF0B8........E8........889E48020000F6461C10:
+                0. 16 355B 0138 0000:@TCTrayIcon@SetVisible$qqro
+              F28BD8B8........E8........:
+                3BB3:
+                  A80100000F84B500:
+                    0. 2F 1A37 00E7 0000:@TCGauge@SetMinValue$qqrl
+                  B00100000F84B500:
+                    0. 2F 2F9D 00E7 0000:@TCGauge@SetMinValue$qqrl
+                85F60F84B50000003BB3:
+                  0. 2B D678 00E3 0000:@TCGauge@SetMaxValue$qqrl
+                  1. 2B E3D2 00E3 0000:@TCGauge@SetMaxValue$qqrl
+          8855F884D27E05E8........8BD98855D78945FCB8:
+            0. 01 3E9B 006D 0000:@Cspin@TTimerSpeedButton@$bctr$qqrp18Classes@TComponent
+          8955FC8BD8B8........E8........C745F0010000008D55FC:
+            0. 04 1ADB 00E9 0000:@TCTrayIcon@SetHint$qqr20System@UnicodeString (00C4: C3)
+            1. 04 1ADB 00EA 0000:@TCTrayIcon@SetHint$qqr20System@UnicodeString (00C4: 5D)
+          8B:
+            5D08B8........E8........85DB743E833B00742C8B1389:
+              0. 31 2EB5 0065 (!)0000:?
+              1. 31 4B26 0064 (!)0000:?
+            D8B8........E8........66C745E40C0033D28955FCFF45:
+              0. 28 61E5 00A2 0000:@TCCalendar@Click$qqrv
+              1. 28 8B18 00A2 0000:@TCCalendar@Click$qqrv
+        E8........8855D78945:
+          D8B8........E8........807DD7007C:
+            0. 0E 8363 005F (!)0000:?
+            1. 0E E200 005F (!)0000:?
+          FCB8........E8........C745F4:
+            0300:
+              0. 18 937B 0058 0000:@Comobj@EOleError@$bdtr$qqrv
+            0400:
+              0. 18 8BBC 0058 0000:@Comobj@EOleSysError@$bdtr$qqrv
+            0700:
+              0. 1D 87A0 007E 0000:@Comobj@EOleException@$bdtr$qqrv
+      D8:
+        53:
+          56:
+            57:
+              8855F884D27E05E8........8BF98BDA8945FC8D75FCB8:
+                0. 00 0000 01F7 0000:@TPerformanceGraph@$bctr$qqrp18Classes@TComponent (009E: 00)
+                1. 00 0000 00CE 0000:@TCGauge@$bctr$qqrp18Classes@TComponent (009E: 84)
+                2. 00 0000 00C3 0000:@Cspin@TCSpinButton@$bctr$qqrp18Classes@TComponent (009E: 5B)
+                3. 00 0000 00F7 0000:@CColorgrd@TCColorGrid@$bctr$qqrp18Classes@TComponent (009E: 98)
+                4. 00 0000 00D6 0000:@TCCalendar@$bctr$qqrp18Classes@TComponent (009E: 89)
+              89:
+                45D8B8........E8........8B55D88B82:
+                  C8010000BA:
+                    0. 05 9228 009E 0000:@Cspin@TTimerSpeedButton@TimerExpired$qqrp14System@TObject
+                  D0010000BA:
+                    0. 05 9228 009E 0000:@Cspin@TTimerSpeedButton@TimerExpired$qqrp14System@TObject
+                55FC8BD833C08945EC8945F0FFB3:
+                  3C030000FFB33803:
+                    0. 0C 07C8 00FA 0000:@TCCalendar@ChangeMonth$qqri
+                  F4020000FFB3F002:
+                    0. 0C 07C8 00FA 0000:@TCCalendar@ChangeMonth$qqri
+              8B:
+                5D08B8........E8........:
+                  668B550C80E201:
+                    03D28A:
+                      0. 2F A7D4 00AD 0000:@ATL@CAxHostWindow@put_UserMode$qqss
+                    C1E2:
+                      02:
+                        0. 30 ED3F 00AE 0000:@ATL@CAxHostWindow@put_DisplayAsDefault$qqss
+                      03:
+                        0. 30 D576 00AE 0000:@ATL@CAxHostWindow@put_MessageReflect$qqss
+                  85DB743EFF4DF88D734C:
+                    0. 27 73B7 0068 (!)0000:?
+                  8B550C8993:
+                    D000000033:
+                      0. 1E E5A9 009C 0000:@ATL@CAxHostWindow@put_ForeColor$qqsul
+                    D400000033:
+                      0. 1E E5A9 009C 0000:@ATL@CAxHostWindow@put_LocaleID$qqsul
+                    E000000033:
+                      0. 1E E5A9 0099 0000:@ATL@CAxHostWindow@put_DocHostFlags$qqsul
+                75:
+                  08B8........E8........:
+                    8B5D0C8D168955D88B7D:
+                      0. 30 B545 00D0 0000:@ATL@CAxHostWindow@SetSite$qqsp8IUnknown
+                    8D561852E8........59:
+                      0. 16 2953 00A2 0000:@ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%@Release$qqsv
+                  108B7D08B8........E8........BB0140008085F6:
+                    0. 3F CC9A 00D6 0000:@ATL@CAxHostWindow@GetDropTarget$qqsp11IDropTargetpp11IDropTarget
+                  148B5D08B8........E8........85F6752168C201:
+                    0. 03 8229 00D0 0000:@ATL@CAxHostWindow@OnForwardMsg$quiuilri
+                7D:
+                  08B8........E8........8B5D0C8DB7D800000085:
+                    0. 31 41C8 00A9 0000:@ATL@CAxHostWindow@put_Font$qqsp9IFontDisp
+                    1. 37 FBFC 00B5 0000:@ATL@CAxHostWindow@put_Font$qqsp9IFontDisp
+                  108B:
+                    5D0885FF751E6A4368........68........E8:
+                      0. 00 0000 0454 0000:? (0433: C3)
+                      1. 00 0000 0456 0000:? (0433: 01)
+                    7508B8........E8........BB0100000085FF:
+                      0. 3F 3B91 00CC 0000:@ATL@CAxHostWindow@FilterDataObject$qqsp11IDataObjectpp11IDataObject
+                D98BFA8BF08B43082B03408945FC8B530C2B53044289:
+                  0. 05 1CC7 0129 0000:@TCGauge@PaintAsBar$qqrp16Graphics@TBitmaprx11Types@TRect (0103: C3)
+                  1. 05 1CC7 012D 0000:@TCGauge@PaintAsBar$qqrp16Graphics@TBitmaprx11Types@TRect (0103: 5B)
+                DA8BF0B8........E8........0FBED30FBE8EB00300:
+                  0. 12 56B6 00C2 0000:@Cdiroutl@TCDirectoryOutline@SetTextCase$qqr18Cdiroutl@TTextCase
+                F98BF28BD8B8........E8........:
+                  80BB:
+                    0803000000:
+                      0. 24 035F 008E 0000:@TCCalendar@SelectCell$qqrii
+                    5003000000:
+                      0. 24 8B97 0096 0000:@TCCalendar@SelectCell$qqrii
+                  8B93:
+                    2C0200008B:
+                      0. 1F 09A9 0105 0000:@TPerformanceGraph@DataPoint$qqr15Graphics@TColorl
+                    340200008B:
+                      0. 1F 05C7 0106 0000:@TPerformanceGraph@DataPoint$qqr15Graphics@TColorl
+                FA8BD8B8........E8........66C745E80C008BD78B:
+                  0. 02 C384 006F 0000:@Cspin@TCSpinEdit@SetValue$qqrl
+              B8........E8........8B75148B55108955D8BF034000:
+                0. 0B BD81 007B 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@GetTypeInfo$qqsuiulpp9ITypeInfo
+            8B:
+              5D08B8........E8........:
+                668B550C80E201:
+                  03D28A8B:
+                    0. 28 7D8A 009F 0000:@ATL@CAxHostWindow@put_UserMode$qqss
+                  C1E2:
+                    028A:
+                      0. 29 9233 00A0 0000:@ATL@CAxHostWindow@put_DisplayAsDefault$qqss
+                    038A:
+                      0. 29 3DE2 00A0 0000:@ATL@CAxHostWindow@put_MessageReflect$qqss
+                8B550C8993:
+                  CC00000033F6:
+                    0. 17 5307 009C 0000:@ATL@CAxHostWindow@put_BackColor$qqsul
+                    1. 1D A20A 00A8 0000:@ATL@CAxHostWindow@put_BackColor$qqsul
+                  D000000033F6:
+                    0. 17 5307 008E 0000:@ATL@CAxHostWindow@put_ForeColor$qqsul
+                  D400000033F6:
+                    0. 17 5307 008E 0000:@ATL@CAxHostWindow@put_LocaleID$qqsul
+                  E000000033F6:
+                    0. 17 5307 008B 0000:@ATL@CAxHostWindow@put_DocHostFlags$qqsul
+              75148B5D08B8........E8........85F6752168C20100:
+                0. 02 09E0 00CE 0000:@ATL@CAxHostWindow@OnForwardMsg$quiuilri
+              DA8BF0B8........E8........0FBED30FBE8E68030000:
+                0. 11 297E 00C0 0000:@Cdiroutl@TCDirectoryOutline@SetTextCase$qqr18Cdiroutl@TTextCase
+            E8........8BDA8945FCB8........E8........C745F403:
+              0. 31 9C43 0071 0000:@Classes@TInterfacedPersistent@$bdtr$qqrv
+          8855F884D27E05E8........8BDA8945FCB8........E8:
+            0. 00 0000 0051 0000:@TAngles@$bctr$qqrv (0015: 02)
+            1. 00 0000 0051 0000:@TBltBitmap@$bctr$qqrv (0015: 06)
+            2. 00 0000 0050 0000:@Classes@TPersistent@$bctr$qqrv (0015: 8B)
+          8B:
+            5D08B8........E8........66C745E80C0033D28955FCFF:
+              0. 0B 4C90 006F 0000:@ATL@CAxHostWindow@CreateControl$qqspxbp6HWND__p7IStream
+            D8B8........E8........8BC3E8........66C745E80C00:
+              0. 03 0268 006B 0000:@Cdiroutl@TCDirectoryOutline@Click$qqrv
+            DA8945FCB8........E8........C745F401000000837DFC:
+              0. 12 5AD1 0053 0000:@System@%AnsiStringT$us$i0$%@$bdtr$qqrv
+          B8........E8........8B5D08837B0C0074098B430C508B10:
+            0. 15 1C63 0066 0000:@ATL@CComTypeInfoHolder@Cleanup$qqsul
+            1. 15 3A16 0066 0000:@ATL@CComTypeInfoHolder@Cleanup$qqsul
+          E8........8BDA8945FCB8........E8........C745F4:
+            0200:
+              0. 16 9A33 0055 (!)0000:?
+            0300:
+              0. 16 4FAC 0055 (!)0000:?
+            0400:
+              0. 16 576B 0055 (!)0000:?
+            0500:
+              0. 16 82F4 0055 (!)0000:?
+            0A00:
+              0. 16 76ED 0055 0000:@Cspin@TCSpinButton@$bdtr$qqrv
+            0B00:
+              0. 1D B8EB 006A 0000:@Stdctrls@TCustomEdit@$bdtr$qqrv
+              1. 1D EA39 006A 0000:@Stdctrls@TCustomEdit@$bdtr$qqrv
+            0C00:
+              0. 21 48FC 0060 0000:@Cspin@TCSpinEdit@$bdtr$qqrv
+              1. 21 9F2A 0060 0000:@Cspin@TCSpinEdit@$bdtr$qqrv
+        8945FCB8........E8........66C745E80C008B55FC33C9890A:
+          0. 10 86C0 0030 0000:@System@UnicodeString@$bctr$qqrv
+        B8........E8........66C745EC0C008B550833C9890A68:
+          0. 00 0000 00A6 (!)0000:?
+      DC:
+        53:
+          56:
+            57:
+              894DFC8BFA8BD88B750885F60F84A50000008B83:
+                E00100:
+                  0. 22 720D 00C9 0000:@TPerformanceGraph@PaintBar$qqr15Graphics@TColorll
+                E80100:
+                  0. 22 9506 00C9 0000:@TPerformanceGraph@PaintBar$qqr15Graphics@TColorll
+              8B:
+                5D08B8........E8........85DB742EFF4DF88D7318:
+                  0. 08 16ED 0058 0000:@ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%@$bdtr$qv
+                7D08B8........E8........6A006A006A:
+                  006A006AFF:
+                    0. 06 EE47 006C 0000:@_com_util@ConvertBSTRToString$qqspb
+                  FF576A016A:
+                    0. 02 0164 0065 0000:@_com_util@ConvertStringToBSTR$qqspxc
+                D8B8........E8........8BC3E8........8B833402:
+                  0. E5 AA7E 0140 0000:@TPerformanceGraph@Update$qqrv
+                D98BF2:
+                  8945FC8B038945EC8B53048955E88B4B082B0B:
+                    0. 1D C2EC 01F4 0000:@TCGauge@PaintAsNeedle$qqrp16Graphics@TBitmaprx11Types@TRect
+                  8BF88B038945F08B53048955EC8B4B082B0B89:
+                    0. 1E FA7D 01E0 0000:@TCGauge@PaintAsNeedle$qqrp16Graphics@TBitmaprx11Types@TRect
+            8A550C8855FC84D27E0B8B4508E8........8945088B:
+              5D10:
+                0. 04 C35F 0081 0000:@Sysutils@Exception@$bctr$qrx18Sysutils@Exception
+              7510:
+                0. 04 3A9A 0060 0000:@Sysutils@EHeapException@$bctr$qrx23Sysutils@EHeapException (001C: 88)
+                1. 04 3A9A 0060 0000:@Sysutils@EExternal@$bctr$qrx18Sysutils@EExternal (001C: 89)
+                2. 04 3A9A 005A (!)0000:? (001C: 55)
+            8B:
+              5D08B8........E8........:
+                80A39C000000FE83C3788B:
+                  0. 23 C1D2 0043 0000:@ATL@CAxHostWindow@OnInPlaceDeactivate$qqsv
+                85DB74:
+                  19FF4DF88D730456:
+                    0. 01 3E9B 0041 0000:@ATL@%CComObjectRootEx$24ATL@CComMultiThreadModel%@$bdtr$qv
+                  20FF4DF88D730483:
+                    0. 14 24DD 0049 0000:@ATL@%IObjectWithSiteImpl$17ATL@CAxHostWindow%@$bdtr$qv
+              F0B8........E8........8BCEB201A1........E8:
+                0. 00 0000 0083 0000:@Cspin@TCSpinButton@CreateButton$qqrv
+              F28BD8B8........E8........85DB741BFF4DF833D28B:
+                0. 02 C384 0045 0000:@System@%AnsiStringT$us$i0$%@$bdtr$qqrv
+            B8........E8........C745F807000000837D08000F84C1:
+              0. 0A 28FF 00F4 (!)0000:?
+            E8........8BDA8BF0B8........E8........84DB7C:
+              0D83:
+                0. 08 2F5A 0047 0000:@TCGauge@$bdtr$qqrv
+                1. 08 5256 0047 0000:@CColorgrd@TCColorGrid@$bdtr$qqrv
+                2. 08 834A 0047 0000:@TCCalendar@$bdtr$qqrv
+                3. 08 8D63 0047 0000:@TBltBitmap@$bdtr$qqrv
+              20FF:
+                0. 0E 94B6 005A 0000:@Cdiroutl@TCDirectoryOutline@$bdtr$qqrv
+                1. 0E D752 005A 0000:@Cdiroutl@TCDirectoryOutline@$bdtr$qqrv
+          8A550C8855FC84D27E0B8B4508E8........894508:
+            8B5D08B8:
+              0. 00 0000 0045 0000:@System@TObject@$bctr$qrx14System@TObject
+            B8:
+              0. 00 0000 0063 0000:@Comobj@EOleSysError@$bctr$qrx19Comobj@EOleSysError (0042: C3)
+              1. 00 0000 009A 0000:@Sysutils@Exception@$bctr$qrx18Sysutils@Exception (0042: 89)
+          8B5D:
+            08B8........E8........:
+              33D28913:
+                8D4304BA:
+                  0. 0D 9DDA 005D 0000:@ATL@%CWindowImpl$17ATL@CAxHostWindow11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@$bctr$qv
+                FF45F88BC38B55DC:
+                  0. 0C 4054 002C 0000:@ATL@CComTypeInfoHolder@stringdispid@$bctr$qv
+              53E8........598B55DC6489:
+                0. 0A 6055 002A (!)0000:?
+              85DB74:
+                10FF4DF8F6450C0174:
+                  0. 03 10D8 0037 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@$bdtr$qv
+                13FF4DF8FF4DF8F645:
+                  0. 06 4AFB 003A (!)0000:?
+                17FF4DF8FF33E8:
+                  0. 00 0000 003E 0000:@ATL@CComTypeInfoHolder@stringdispid@$bdtr$qv
+                1C836DF8116A0053E8:
+                  0. 00 0000 0043 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@$bdtr$qv
+                1DFF4DF88D4314BA02:
+                  0. 04 9897 0044 0000:@Sysutils@TSearchRec@$bdtr$qv
+              8B038B55DC64891500000000:
+                0. 05 86B7 0025 (!)0000:?
+              BA........8913B9:
+                0. 1D 1A5F 003D 0000:@ATL@%IObjectWithSiteImpl$17ATL@CAxHostWindow%@$bctr$qv
+              FF4DF885DB7431BA:
+                0. 1B C091 005A 0000:@_com_error@$bdtr$qv
+                1. 1B F6FB 005B 0000:@_com_error@$bdtr$qv
+            0CB8........E8........66C745EC0C00:
+              8B550833C989:
+                0. 09 E47F 0044 0000:@ATL@%CComQIPtr$18IPersistStreamInitpx5_GUID$e&@IID_IPersistStreamInit$%@$bctr$qp8IUnknown (001A: C3)
+              BA........8B:
+                0. 45 1B41 0065 0000:@_com_error@$bctr$qrx10_com_error
+                1. 45 66DE 0065 0000:@_com_error@$bctr$qrx10_com_error
+          B8........E8........:
+            66C745EC0C00:
+              8B550833C9894A:
+                088B:
+                  0. 1C 9416 0055 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bctr$qul
+                306A:
+                  0. 0B E0CA 0071 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bctr$qrx40%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%
+              BA........8B4D0889:
+                0. 47 5774 0067 0000:@_com_error@$bctr$qlp10IErrorInfoo
+            C745F801000000837D080074:
+              6866C7:
+                0. 3C B8FB 0094 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@$bdtr$qv
+              6E66C7:
+                0. 3C 42B6 009A 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@$bdtr$qv
+        8A550C8855FC84D27E0B8B4508E8........894508B8:
+          0. 01 3E9B 0041 0000:@System@TObject@$bctr$qrx14System@TObject (001D: E5)
+          1. 01 3E9B 0055 0000:@Comobj@EOleError@$bctr$qrx16Comobj@EOleError (001D: DC)
+          2. 01 3E9B 0061 0000:@Comobj@EOleSysError@$bctr$qrx19Comobj@EOleSysError (001D: 18)
+          3. 01 3E9B 007D 0000:@Comobj@EOleException@$bctr$qrx20Comobj@EOleException (001D: 1C)
+          4. 01 3E9B 0098 0000:@Sysutils@Exception@$bctr$qrx18Sysutils@Exception (001D: 8B)
+        B8........E8........:
+          66C745EC0C00:
+            6800080000FF7508E8:
+              0. 00 0000 003A 0000:@Shdocvw_tlb@%IWebBrowser2DispT$24Shdocvw_tlb@IWebBrowser2%@$bctr$qv
+            8B5508:
+              33C989:
+                0A8B45DC:
+                  0. 0D A6FB 002D (!)0000:?
+                4A:
+                  088B45:
+                    0. 1B AE32 0053 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bctr$qul
+                  306A20:
+                    0. 0A C644 006F 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bctr$qrx40%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%
+              8B4D0C890A8B45:
+                0. 0E 9B92 002E (!)0000:?
+            BA........8B4D088911:
+              0. 46 93B3 0066 0000:@_com_error@$bctr$qlp10IErrorInfoo
+            FF7508E8........:
+              59FF:
+                0. 24 7394 0044 0000:@TNoParam@$bctr$qv
+              8B55:
+                0. 0F 06DB 002F 0000:@%TVariantT$10tagVARIANTo$i1$%@$bctr$qv
+          837D0800741FFF4DF86A:
+            00FF7508E8:
+              0. 00 0000 0043 0000:@Shdocvw_tlb@%IWebBrowser2DispT$24Shdocvw_tlb@IWebBrowser2%@$bdtr$qv
+            02FF7508E8:
+              0. 00 0000 0043 0000:@TNoParam@$bdtr$qv
+          8B550C8B4D088951088B45108B550889:
+            0. 13 0EC4 0033 0000:@System@DynArrayOutOfRange@$bctr$qii
+          B8........8B55DC648915000000008B:
+            0. 03 C861 0023 (!)0000:?
+          C745F8:
+            02000000837D0800743366C745:
+              0. 07 B059 005E (!)0000:?
+            05000000837D0800745E66C745:
+              0. 04 1260 0089 0000:@ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%@$bdtr$qv
+            10000000837D08000F842E0100:
+              0. 15 22A5 015C 0000:@ATL@CAxHostWindow@$bdtr$qv
+      E0:
+        5356578B:
+          7D088B45288945FC8B55248955F88B4D20894DF48B45:
+            0. 21 5DDA 0095 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@Invoke$qqslrx5_GUIDulusp13tagDISPPARAMSp10tagVARIANTp12tagEXCEPINFOpui
+          D98955FC8BF08B43082B038945EC8B530C2B53048955:
+            0. 15 F3A1 01AC 0000:@TCGauge@PaintAsPie$qqrp16Graphics@TBitmaprx11Types@TRect
+          DA8BF033C08945FC8945F88945F48945F08BC3E8:
+            0. 00 0000 007C 0000:@TCGauge@PaintBackground$qqrp16Graphics@TBitmap
+        5657894DF48955F88945FC68:
+          5802000068........68:
+            0. 04 873E 0067 0000:@Shdocvw_tlb@TCppInternetExplorer@GetProperty$qqrpb
+          5902000068........68:
+            0. 04 873E 0067 0000:@Shdocvw_tlb@TCppInternetExplorer@GetProperty$qqrpb
+          F604000068........68:
+            0. 04 873E 0069 0000:@Shdocvw_tlb@TCppShellUIHelper@ShowBrowserUI$qqrpbp10tagVARIANT
+          F704000068........68:
+            0. 04 873E 0069 0000:@Shdocvw_tlb@TCppShellUIHelper@ShowBrowserUI$qqrpbp10tagVARIANT
+      E4:
+        53:
+          5657:
+            894DFC8BFA8BD8DB4508DB83:
+              BC010000DEF9DD5DF48B83:
+                0. 14 F833 00CD 0000:@TPerformanceGraph@PaintLine$qqr15Graphics@TColorll
+              C4010000DEF9DD5DF48B83:
+                0. 14 2565 00CD 0000:@TPerformanceGraph@PaintLine$qqr15Graphics@TColorll
+            8BD98BFA8BF08B43082B038945EC8B530C2B53048955E8:
+              0. 13 F366 01A0 0000:@TCGauge@PaintAsPie$qqrp16Graphics@TBitmaprx11Types@TRect
+          894DF48955F88945FC8B45F848741A480F84B7000000480F84:
+            0. 2D 4418 0142 (!)0000:?
+            1. 2D FB98 0142 (!)0000:?
+        56578955F88945FC68:
+          3606000068........68........FF75FC:
+            0. 01 3E9B 005E 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Root$qqrv
+          3706000068........68........FF75FC:
+            0. 01 3E9B 005E 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Root$qqrv
+          6807000068........68........FF75FC:
+            0. 01 3E9B 005E 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Root$qqrv
+          6907000068........68........FF75FC:
+            0. 01 3E9B 005E 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Root$qqrv
+      E857837D0C007C0EFF7508E8........593B450C7F3B6A006A006A:
+        0. 06 359A 009C 0000:@System@%DynamicArray$t17System@OleVariant%@$bsubs$qi
+      EC:
+        53:
+          5657:
+            8855FF8BD88B434899F7BB:
+              D40200008BF00FAFB3D40200:
+                0. 22 6BCB 0087 0000:@CColorgrd@TCColorGrid@UpdateCellSizes$qqro
+              E40200008BF00FAFB3E40200:
+                0. 22 94CD 0087 0000:@CColorgrd@TCColorGrid@UpdateCellSizes$qqro
+            8B:
+              5D108B450C85DB740B83F8017410837D1400750AB803:
+                0. F3 15BE 0113 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Next$qqsulpp8IUnknownpul
+                1. F3 EA30 0113 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Next$qqsulpp8IUnknownpul
+              7D088D470850E8........8B55148955FC8B4D10894D:
+                0. 27 BA87 0080 (!)0000:?
+          894DF48955F88945FC8B45F82DC80000007405487439EB6E8B:
+            0. 18 75AF 0092 0000:@Shdocvw_tlb@TCppShellWindows@InvokeEvent$qqrir42System@%DynamicArray$t17System@OleVariant%
+            1. 18 CA91 0092 0000:@Shdocvw_tlb@TCppShellWindows@InvokeEvent$qqrir42System@%DynamicArray$t17System@OleVariant%
+        894DF48955F88945FC68:
+          5B04000068........68........FF75:
+            0. 02 A9B1 005F 0000:@Shdocvw_tlb@TCppShellWindows@FindWindowSW$qqrp10tagVARIANTt1ipli
+          5C04000068........68........FF75:
+            0. 02 A9B1 005F 0000:@Shdocvw_tlb@TCppShellWindows@FindWindowSW$qqrp10tagVARIANTt1ipli
+      F0:
+        53:
+          56:
+            578BD8:
+              8B4B48038B:
+                140200008BC199F7BBB4010000F7ABB4:
+                  0. 0E 4E22 00DF 0000:@TPerformanceGraph@Replay$qqrv
+                1C0200008BC199F7BBBC010000F7ABBC:
+                  0. 0E 4E22 00DF 0000:@TPerformanceGraph@Replay$qqrv
+              8D83EC010000508B8320020000E8........508B83:
+                0. 05 D6FD 0153 0000:@TPerformanceGraph@ScrollGraph$qqrv
+            8B:
+              D8:
+                33C08945F08945F4C683:
+                  0803000001FFB3F4020000FF:
+                    0. 0F F350 00D2 0000:@TCCalendar@UpdateCalendar$qqrv
+                  5003000001FFB33C030000FF:
+                    0. 0F 8C7F 00D2 0000:@TCCalendar@UpdateCalendar$qqrv
+                8D83E4010000508B8318020000E8........508B8318:
+                  0. 04 EEAE 0151 0000:@TPerformanceGraph@ScrollGraph$qqrv
+              F28BD88BC68B10FF52308BD08BC38B08FF51448BC68B10:
+                0. 0F AC6D 0086 0000:@TBltBitmap@MakeLike$qqrp16Graphics@TBitmap (0056: C3)
+                1. 0F AC6D 0088 0000:@TBltBitmap@MakeLike$qqrp16Graphics@TBitmap (0056: E5)
+          8BD833C08945FC8945F88945F48945F0:
+            8BC3E8........F683:
+              0. 2E D894 0085 0000:@Cspin@TTimerSpeedButton@Paint$qqrv
+              1. 2E ECAD 0085 0000:@Cspin@TTimerSpeedButton@Paint$qqrv
+            8D55F0526A0068B200:
+              0. 05 B961 008F 0000:@Cspin@TCSpinEdit@SetEditRect$qqrv
+        66894DF68955F88945FCFF75FCE8........5950E8........59:
+          0. 18 E60B 0038 0000:@Shdocvw_tlb@TCppShellWindows@OnActivated$qqrls
+        89:
+          4DF4:
+            668955FA8945FCFF75FCE8........5950E8........59:
+              0. 18 192E 0038 0000:@Shdocvw_tlb@TCppShellUIHelper@ImportExportFavorites$qqrspb
+            8955F88945FCFF75FCE8........5950E8........5989:
+              0. 15 08C0 0035 0000:@Shdocvw_tlb@TCppShellWindows@OnNavigate$qqrlp10tagVARIANT
+              1. 18 0CF5 0038 0000:@Shdocvw_tlb@TCppInternetExplorer@ClientToWindow$qqrpit1
+              2. 1D 0EB2 003D 0000:@Shdocvw_tlb@TCppInternetExplorer@ShowBrowserBar$qqrp10tagVARIANTt1t1
+              3. 1D 159C 003D 0000:@Shdocvw_tlb@TCppShellWindows@Register$qqrp9IDispatchlipl
+              4. 23 17C7 0043 0000:@Shdocvw_tlb@TCppInternetExplorer@Navigate2$qqrp10tagVARIANTt1t1t1t1
+              5. 20 3EF9 0040 0000:@Shdocvw_tlb@TCppInternetExplorer@ExecWB$qqr20Shdocvw_tlb@OLECMDID25Shdocvw_tlb@OLECMDEXECOPTp10tagVARIANTt3
+              6. 1A 5D56 003A 0000:@Shdocvw_tlb@TCppShellUIHelper@NavigateAndFind$qqrpbt1p10tagVARIANT
+              7. 15 7803 0035 0000:@Shdocvw_tlb@TCppShellUIHelper@AddFavorite$qqrpbp10tagVARIANT
+              8. 1A 8BF6 003A 0000:@Shdocvw_tlb@TCppShellUIHelper@AutoScan$qqrpbt1p10tagVARIANT
+              9. 20 9ED4 0040 (!)0000:?
+              10. 23 CA69 0043 0000:@Shdocvw_tlb@TCppShellUIHelper@AddDesktopComponent$qqrpbt1p10tagVARIANTt3t3t3
+              11. 15 EBF8 0035 0000:@Shdocvw_tlb@TCppShellWindows@OnCreated$qqrlp8IUnknown
+          55F88945FC68:
+            3705000068........68........FF75FCE8:
+              0. 00 0000 004E 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSearchProviderInstalled$qqrpb
+            3805000068........68........FF75FCE8:
+              0. 00 0000 004E 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSearchProviderInstalled$qqrpb
+            6802000068........68........FF75FCE8:
+              0. 00 0000 0051 0000:@Shdocvw_tlb@TCppInternetExplorer@QueryStatusWB$qqr20Shdocvw_tlb@OLECMDID
+            6902000068........68........FF75FCE8:
+              0. 00 0000 0051 0000:@Shdocvw_tlb@TCppInternetExplorer@QueryStatusWB$qqr20Shdocvw_tlb@OLECMDID
+            D204000068........68........FF75FCE8:
+              0. 00 0000 004F 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSubscribed$qqrpb
+            D304000068........68........FF75FCE8:
+              0. 00 0000 004F 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSubscribed$qqrpb
+      F4:
+        5356:
+          57:
+            8955FC8BD8:
+              33C033F6E9EF0000008B55FC8BCAC1E20503:
+                0. 63 0229 0128 0000:@TPerformanceGraph@DisplayPoints$qqrl
+              8B53488B83200200008B08FF51448B534C8B:
+                0. 43 A996 01C0 0000:@TPerformanceGraph@Initialize$qqrl
+            8B:
+              D88B434899F7BB:
+                B801000083C0028945FC694DFC8400:
+                  0. 0E 090C 0129 0000:@TPerformanceGraph@ReallocHistory$qqrv
+                C001000083C0028945FC694DFC8400:
+                  0. 0E 6D38 0129 0000:@TPerformanceGraph@ReallocHistory$qqrv
+              F18955FC8BF833DB85F60F8E9F000000FFB7:
+                3C030000:
+                  0. 10 1A0F 00C0 0000:@TCCalendar@SetDateElement$qqrii
+                F4020000:
+                  0. 10 6520 00C0 0000:@TCCalendar@SetDateElement$qqrii
+              F28BD833C08945FC8945F86A:
+                016A008D55F752E8:
+                  0. 00 0000 02C3 0000:@TCTrayIcon@DoMessage$qqrr17Messages@TMessage
+                026A008D55F652E8:
+                  0. 00 0000 02D1 0000:@TCTrayIcon@DoMessage$qqrr17Messages@TMessage
+          8955FC8BD833C033F6E9EF0000008B55FC8BCAC1E20503D1:
+            0. 62 D2AB 0126 0000:@TPerformanceGraph@DisplayPoints$qqrl
+        6689:
+          4DF8668955FA8945FCFF75FCE8........5950E8:
+            0. 20 C3F7 0040 0000:@Shdocvw_tlb@TCppShellUIHelper@CustomizeSettings$qqrsspb
+          55FA8945FCFF75FCE8........5950E8........598945F4:
+            0. 15 04CB 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_TheaterMode$qqrs
+            1. 15 1CEC 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_FullScreen$qqrs
+            2. 15 1D3F 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_StatusBar$qqrs
+            3. 15 324C 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Offline$qqrs
+            4. 15 4A17 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_RegisterAsBrowser$qqrs
+            5. 15 51A4 0035 0000:@Shdocvw_tlb@TCppShellUIHelper@RunOnceRequiredSettingsComplete$qqrs
+            6. 12 769E 0032 0000:@Shdocvw_tlb@TCppShellWindows@ProcessAttachDetach$qqrs
+            7. 15 7C90 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Resizable$qqrs
+            8. 15 A0C1 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_MenuBar$qqrs
+            9. 15 A112 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Visible$qqrs
+            10. 12 A74A 0032 0000:@Shdocvw_tlb@TCppShellUIHelper@CustomizeClearType$qqrs
+            11. 15 B8E6 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_RegisterAsDropTarget$qqrs
+            12. 15 C0BD 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_AddressBar$qqrs
+            13. 15 F63A 0035 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Silent$qqrs
+        884DF78955F88945FC807DF700740666B9FFFFEB0233C98B55F8:
+          0. 04 8090 002C 0000:@Shdocvw_tlb@TCppWebBrowser@SetWordBoolProp$qqrio
+        89:
+          45FC:
+            33C08945F868:
+              0003000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Name$qqrv
+              0103000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Name$qqrv
+              1003000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_FullName$qqrv
+              1103000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_FullName$qqrv
+              1803000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Path$qqrv
+              1903000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Path$qqrv
+              2105000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppShellUIHelper@BrandImageUri$qqrv
+              2205000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppShellUIHelper@BrandImageUri$qqrv
+              3C03000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_StatusText$qqrv
+              3D03000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppInternetExplorer@get_StatusText$qqrv
+              4505000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppShellUIHelper@DefaultSearchProvider$qqrv
+              4605000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppShellUIHelper@DefaultSearchProvider$qqrv
+              5805000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppShellUIHelper@SearchGuideUrl$qqrv
+              5905000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TCppShellUIHelper@SearchGuideUrl$qqrv
+              7C06000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Columns$qqrv
+              7D06000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Columns$qqrv
+              A802000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Type$qqrv
+              A902000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Type$qqrv
+              AE07000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Columns$qqrv
+              AF07000068........68........FF75FC:
+                0. 01 3E9B 0050 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Columns$qqrv
+              E802000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_LocationName$qqrv
+              E902000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_LocationName$qqrv
+              F002000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_LocationURL$qqrv
+              F102000068........68........FF75FC:
+                0. 01 3E9B 004D 0000:@Shdocvw_tlb@TCppInternetExplorer@get_LocationURL$qqrv
+            68:
+              0006000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@SelectedItems$qqrv
+              0106000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@SelectedItems$qqrv
+              0803000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_HWND$qqrv
+              0903000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_HWND$qqrv
+              1206000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_SubscriptionsEnabled$qqrv
+              13:
+                05000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@SqmEnabled$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_SubscriptionsEnabled$qqrv
+              1405000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@SqmEnabled$qqrv
+              1A:
+                05000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@PhishingEnabled$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_EnumOptions$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@CreateSubscriptionForSelection$qqrv
+              1B:
+                05000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@PhishingEnabled$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_EnumOptions$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@CreateSubscriptionForSelection$qqrv
+              2003000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Visible$qqrv
+              21:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Visible$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@DeleteSubscriptionForSelection$qqrv
+              2207000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@DeleteSubscriptionForSelection$qqrv
+              2806000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_SelectedItem$qqrv
+              2906000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_SelectedItem$qqrv
+              2D04000068........68........FF75FCE8:
+                0. 03 8061 0056 0000:@Shdocvw_tlb@TCppShellWindows@Item$qqr10tagVARIANT
+              2E:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_StatusBar$qqrv
+                04000068........68........FF75FCE8:
+                  0. 03 8061 0056 0000:@Shdocvw_tlb@TCppShellWindows@Item$qqr10tagVARIANT
+              2F03000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_StatusBar$qqrv
+              3207000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@SelectedItems$qqrv
+              3307000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@SelectedItems$qqrv
+              3404000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppShellWindows@_NewEnum$qqrv
+              3504000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppShellWindows@_NewEnum$qqrv
+              3E05000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSearchMigrated$qqrv
+              3F05000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppShellUIHelper@IsSearchMigrated$qqrv
+              44:
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Depth$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@get_SubscriptionsEnabled$qqrv
+              45:
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Depth$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 0049 0000:@Shdocvw_tlb@TShellShellNameSpace@get_SubscriptionsEnabled$qqrv
+              4A03000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_ToolBar$qqrv
+              4B03000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_ToolBar$qqrv
+              4C07000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_EnumOptions$qqrv
+              4D07000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_EnumOptions$qqrv
+              5105000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppShellUIHelper@RunOnceHasShown$qqrv
+              52:
+                05000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppShellUIHelper@RunOnceHasShown$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Mode$qqrv
+              5306000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Mode$qqrv
+              5803000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_MenuBar$qqrv
+              5903000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_MenuBar$qqrv
+              5A07000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_SelectedItem$qqrv
+              5B07000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_SelectedItem$qqrv
+              6006000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Flags$qqrv
+              6106000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_Flags$qqrv
+              6603000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_FullScreen$qqrv
+              6703000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_FullScreen$qqrv
+              6D04000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppShellWindows@get_Count$qqrv
+              6E04000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppShellWindows@get_Count$qqrv
+              74:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_ReadyState$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_TVFlags$qqrv
+              75:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TCppInternetExplorer@get_ReadyState$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_TVFlags$qqrv
+              7607000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Depth$qqrv
+              7707000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Depth$qqrv
+              7C03000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Offline$qqrv
+              7D03000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Offline$qqrv
+              8002000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Application$qqrv
+              8102000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Application$qqrv
+              8407000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Mode$qqrv
+              8507000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Mode$qqrv
+              8802000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Parent$qqrv
+              8902000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Parent$qqrv
+              8A:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Silent$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_CountViewTypes$qqrv
+              8B:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Silent$qqrv
+                06000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@get_CountViewTypes$qqrv
+              9002000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Container$qqrv
+              9102000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Container$qqrv
+              9207000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Flags$qqrv
+              9307000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TShellShellNameSpace@get_Flags$qqrv
+              98:
+                02000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Document$qqrv
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_RegisterAsBrowser$qqrv
+              99:
+                02000068........68........FF75FCE8:
+                  0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Document$qqrv
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_RegisterAsBrowser$qqrv
+              A002000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppInternetExplorer@get_TopLevelContainer$qqrv
+              A102000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppInternetExplorer@get_TopLevelContainer$qqrv
+              A6:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_RegisterAsDropTarget$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@get_TVFlags$qqrv
+              A7:
+                03000068........68........FF75FCE8:
+                  0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_RegisterAsDropTarget$qqrv
+                07000068........68........FF75FCE8:
+                  0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@get_TVFlags$qqrv
+              B002000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Left$qqrv
+              B102000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Left$qqrv
+              B403000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_TheaterMode$qqrv
+              B503000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_TheaterMode$qqrv
+              BC07000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@get_CountViewTypes$qqrv
+              BD07000068........68........FF75FCE8:
+                0. 03 8061 004B 0000:@Shdocvw_tlb@TShellShellNameSpace@get_CountViewTypes$qqrv
+              BE02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Top$qqrv
+              BF02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Top$qqrv
+              C203000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_AddressBar$qqrv
+              C303000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_AddressBar$qqrv
+              CC02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Width$qqrv
+              CD02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Width$qqrv
+              D003000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Resizable$qqrv
+              D103000068........68........FF75FCE8:
+                0. 03 8061 004C 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Resizable$qqrv
+              DA02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Height$qqrv
+              DB02000068........68........FF75FCE8:
+                0. 03 8061 0048 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Height$qqrv
+              E805000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@CreateSubscriptionForSelection$qqrv
+              E905000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@CreateSubscriptionForSelection$qqrv
+              EF05000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@DeleteSubscriptionForSelection$qqrv
+              F005000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TShellFavoritesNameSpace@DeleteSubscriptionForSelection$qqrv
+              F802000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Busy$qqrv
+              F902000068........68........FF75FCE8:
+                0. 03 8061 0049 0000:@Shdocvw_tlb@TCppInternetExplorer@get_Busy$qqrv
+          55F88945FCFF75FCE8........5950E8........598945F4FF:
+            0. 0F 05B0 002F (!)0000:?
+            1. 12 0A04 0032 (!)0000:?
+            2. 0F 159D 002F 0000:@Shdocvw_tlb@TCppShellUIHelper@AddSearchProvider$qqrpb
+            3. 20 20B7 0040 0000:@Shdocvw_tlb@TCppInternetExplorer@PutProperty$qqrpb10tagVARIANT
+            4. 0F 25EA 002F (!)0000:?
+            5. 0F 35C7 002F 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Left$qqrl
+            6. 12 3EC4 0032 0000:@Shdocvw_tlb@TCppInternetExplorer@set_StatusText$qqrpb
+            7. 0F 5529 002F 0000:@Shdocvw_tlb@TCppShellUIHelper@AutoCompleteSaveForm$qqrp10tagVARIANT
+            8. 20 5E99 0040 (!)0000:?
+            9. 0F 655E 002F (!)0000:?
+            10. 12 683F 0032 (!)0000:?
+            11. 0F 7573 002F 0000:@Shdocvw_tlb@TCppShellUIHelper@AutoCompleteAttach$qqrp10tagVARIANT
+            12. 12 82E9 0032 0000:@Shdocvw_tlb@TCppInternetExplorer@set_ToolBar$qqri
+            13. 0F 84FD 002F 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Height$qqrl
+            14. 0F 8666 002F (!)0000:?
+            15. 0F 94D0 002F (!)0000:?
+            16. 0F A63C 002F 0000:@Shdocvw_tlb@TCppShellWindows@Revoke$qqrl
+            17. 0F B48A 002F (!)0000:?
+            18. 0F B611 002F 0000:@Shdocvw_tlb@TCppInternetExplorer@Refresh2$qqrp10tagVARIANT
+            19. 0F C449 002F 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Top$qqrl
+            20. 12 CE72 0032 (!)0000:?
+            21. 0F D6FF 002F 0000:@Shdocvw_tlb@TCppShellUIHelper@AddChannel$qqrpb
+            22. 0F E413 002F 0000:@Shdocvw_tlb@TCppInternetExplorer@set_Width$qqrl
+            23. 0F F43E 002F (!)0000:?
+      F8:
+        53:
+          56:
+            578B:
+              5D080FBE451883F8030F85E3000000837B0800742168:
+                0. 05 72CA 013D 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Init$qpp8IUnknownt1p8IUnknown17ATL@CComEnumFlags
+              75088B7D:
+                148B45108945FC8B550C8955F88D5E0C57FF:
+                  0. 0B DD55 003F 0000:@ATL@CAxHostWindow@OnDefWindowMessage$qqsuiuilpl
+                1833C089C3837E0C00750C5756E8:
+                  0. 21 C0A3 00DC 0000:@ATL@CComTypeInfoHolder@GetIDsOfNames$qrx5_GUIDppbuiulpl
+              7D0C8B75086A00E8........8BD885DB752168140C00:
+                0. 02 09E0 008E 0000:@ATL@AtlHiMetricToPixel$qqspx7tagSIZEp7tagSIZE
+              F28BD88BD68BC3E8........8B4B48894DFC8B4B4C89:
+                0. 0B F2E3 005E 0000:@Cspin@TCSpinButton@WMSize$qqrr16Messages@TWMSize
+              F98BF28BD88B450C8945FC8B55088955F88D4DF88D55:
+                0. 04 0FB2 0042 0000:@Cspin@TCSpinButton@SetBounds$qqriiii
+              FA8BD88B53488B83180200008B08FF51448B534C8B83:
+                0. 42 1F47 01BE 0000:@TPerformanceGraph@Initialize$qqrl
+            8BF28BD88BD68BC3E8........8B4B48894DFC8B434C8945:
+              0. 0A 35F5 005C 0000:@Cspin@TCSpinButton@WMSize$qqrr16Messages@TWMSize
+          8B:
+            5D08FF33E8........85C07521684904000068........68:
+              0. 00 0000 0064 0000:@ATL@CWindow@IsParentDialog$qv
+            D8:
+              33C08945FC8945F88D55F852E8........8B0D:
+                0. 0A 1CFF 0068 0000:@TCTrayIcon@ShowMenu$qqrv
+                1. 09 7DE6 0067 0000:@TCTrayIcon@ShowMenu$qqrv
+              8B43488945FC8B534C8955F88D4DF88D55FC8BC3E8:
+                0. 00 0000 004A 0000:@Cspin@TCSpinButton@Loaded$qqrv
+            DAFFB0:
+              3C030000FFB0380300008D4DFA8D55FC8D45FEE8:
+                0. 00 0000 0048 0000:@TCCalendar@GetDateElement$qqri
+              F4020000FFB0F00200008D4DFA8D55FC8D45FEE8:
+                0. 00 0000 0048 0000:@TCCalendar@GetDateElement$qqri
+        89:
+          45FCFF75FCE8........5950E8........598945F8:
+            8B45F850:
+              0. 09 0433 0029 0000:@Shdocvw_tlb@TCppShellUIHelper@SkipTabsWelcome$qqrv
+              1. 09 06A8 0029 (!)0000:?
+              2. 09 1685 0029 (!)0000:?
+              3. 0C 24DD 002C 0000:@Shdocvw_tlb@TCppInternetExplorer@Quit$qqrv
+              4. 09 26F2 0029 (!)0000:?
+              5. 09 36DF 0029 (!)0000:?
+              6. 09 461C 0029 (!)0000:?
+              7. 09 5631 0029 (!)0000:?
+              8. 09 6646 0029 (!)0000:?
+              9. 09 74F0 0029 0000:@Shdocvw_tlb@TCppShellUIHelper@DiagnoseConnection$qqrv
+              10. 09 766B 0029 0000:@Shdocvw_tlb@TCppInternetExplorer@Stop$qqrv
+              11. 09 C5CA 0029 0000:@Shdocvw_tlb@TCppShellUIHelper@SkipRunOnce$qqrv
+              12. 0C D46B 002C (!)0000:?
+              13. 09 F5BD 0029 0000:@Shdocvw_tlb@TCppShellUIHelper@RunOnceShown$qqrv
+              14. 09 F726 0029 (!)0000:?
+            FF7514FF:
+              0. 17 BFD0 0037 (!)0000:?
+          55F88945FC:
+            837D:
+              F80074098B45F8508B10FF52048B4DFC8339:
+                0. 1D 1E6A 003D 0000:@System@%DelphiInterface$t8IUnknown%@$basg$qqrp8IUnknown
+              FC0074298B45FC83380074128B55FC8B0A51:
+                0. 16 868E 003F (!)0000:?
+            8B:
+              45F8833800740B8B55F88B0A518B01FF50048B:
+                0. 23 9F2E 0043 (!)0000:?
+              55F88B45FCE8........6685C00F95C083E001:
+                0. 04 4E58 0024 0000:@Shdocvw_tlb@TCppWebBrowser@GetWordBoolProp$qqri
+    CAFFE8........5DC3:
+      0. 00 0000 000D 0000:@TCCalendar@PrevMonth$qqrv
+  8890:
+    490200005DC3:
+      0. 00 0000 000B 0000:@TCTrayIcon@SetHide$qqro
+    4D0200005DC3:
+      0. 00 0000 000B 0000:@TCTrayIcon@SetHide$qqro
+  8A:
+    80:
+      4A0200005DC3:
+        0. 00 0000 000B 0000:@TCTrayIcon@GetAnimate$qqrv
+      4E0200005DC3:
+        0. 00 0000 000B 0000:@TCTrayIcon@GetAnimate$qqrv
+    90:
+      6803000080EA017204740EEB18C7806C030000........5DC3C780:
+        0. 04 6A1D 0034 0000:@Cdiroutl@TCDirectoryOutline@AssignCaseProc$qqrv
+      B003000080EA017204740EEB18C780B4030000........5DC3C780:
+        0. 04 CA00 0034 0000:@Cdiroutl@TCDirectoryOutline@AssignCaseProc$qqrv
+  8B:
+    0A:
+      81F9020300007F11743183E905741781E9FB020000742BEB3081E9:
+        0. 0C 42CD 0055 0000:@Cspin@TCSpinEdit@Dispatch$qqrpv
+      83:
+        E90574:
+          02EB07E8........5DC3E8........5DC3:
+            0. 00 0000 001A 0000:@TCCalendar@Dispatch$qqrpv
+          0F83E902741149741583E97F7417EB1CE8........5DC3:
+            0. 01 3E9B 003C 0000:@Cspin@TCSpinButton@Dispatch$qqrpv
+        F9087F0E742C83E905741983E902741BEB3581E987000000741F:
+          0. 0B 32FF 0054 0000:@CColorgrd@TCColorGrid@Dispatch$qqrpv
+    10FF92:
+      800000005DC3:
+        0. 00 0000 000D (!)0000:?
+      900000005DC3:
+        0. 00 0000 000D (!)0000:?
+    40:
+      345DC3:
+        0. 00 0000 0008 0000:@TCTrayIcon@GetHandle$qqrv
+      385DC3:
+        0. 00 0000 0008 0000:@TCTrayIcon@GetHandle$qqrv
+    45:
+      08:
+        33D289105DC3:
+          0. 00 0000 000C 0000:@ATL@%CComObjectRootEx$25ATL@CComSingleThreadModel%@$bctr$qv
+        50:
+          8B4060FF500459508B10FF52085DC3:
+            0. 00 0000 0016 0000:@ATL@CAxHostWindow@OnFinalMessage$qp6HWND__
+          E8........595DC20400:
+            0. 00 0000 0011 (!)0000:?
+        668B550C80E201:
+          8A88C800000080E1FE0AD18890C800000033C0:
+            0. 04 A5D3 0024 0000:@ATL@CAxHostWindow@put_AllowWindowlessActivation$qqss
+          C1E2:
+            058A88C800000080E1DF0AD18890C80000:
+              0. 07 D123 0027 0000:@ATL@CAxHostWindow@put_AllowContextMenu$qqss
+            068A88C800000080E1BF0AD18890C80000:
+              0. 07 D123 0027 0000:@ATL@CAxHostWindow@put_AllowShowUI$qqss
+        80:
+          889C0000000233C05DC20400:
+            0. 00 0000 0013 0000:@ATL@CAxHostWindow@OnUIActivate$qqsv
+          A09C000000FD33C05DC20800:
+            0. 00 0000 0013 0000:@ATL@CAxHostWindow@OnUIDeactivate$qqsi
+        83:
+          3800:
+            0F:
+              94C083E0015DC3:
+                0. 00 0000 0011 (!)0000:?
+              95C083E0015DC3:
+                0. 00 0000 0011 (!)0000:?
+            74:
+              0B8B55088B0A518B01FF50088B550C8B4D0889115DC3:
+                0. 00 0000 0020 (!)0000:?
+              2168FE08000068........68........E8........83:
+                0. 08 90D3 002E 0000:@ATL@CComObjectRootBase@InternalFinalConstructRelease$qv
+            751768:
+              1D09000068........68........E8........83:
+                0. 09 56A6 0029 (!)0000:?
+              1F09000068........68........E8........83:
+                0. 09 56A6 0029 (!)0000:?
+              2309000068........68........E8........83:
+                0. 09 56A6 0029 (!)0000:?
+              2509000068........68........E8........83:
+                0. 09 56A6 0029 (!)0000:?
+          780800:
+            0F94C083E0015DC3:
+              0. 00 0000 0012 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$bnot$xqv
+            741768:
+              CA0C000068........68........E8:
+                0. 0B ABE7 002B 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$badr$qv
+              CC0C000068........68........E8:
+                0. 0B ABE7 002B 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$badr$qv
+            751768:
+              BA0C000068........68........E8:
+                0. 0B 5A1C 002B 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$barow$qv
+              BC0C000068........68........E8:
+                0. 0B 5A1C 002B 0000:@%TAutoDriver$24Shdocvw_tlb@IWebBrowser2%@$barow$qv
+          C0:
+            0450E8........595DC20400:
+              0. 00 0000 0014 0000:@ATL@%CComPolyObject$17ATL@CAxHostWindow%@AddRef$qqsv
+            1850E8........595DC20400:
+              0. 00 0000 0014 0000:@ATL@%CComObject$126ATL@%CComEnum$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%24ATL@CComMultiThreadModel%%@AddRef$qqsv
+            5050E8........5984C074088B45088B10FF523C8B450883:
+              0. 04 FCD3 0024 (!)0000:?
+            5450E8........5984C074088B45088B10FF52408B450883:
+              0. 04 9DB0 0024 (!)0000:?
+        85C0740DF6450C01740750E8........595DC3:
+          0. 00 0000 0019 0000:@ATL@%CWindowImplRoot$11ATL@CWindow%@$bdtr$qv
+        8B:
+          005DC3:
+            0. 00 0000 000A (!)0000:?
+          40:
+            08:
+              508B10FF52:
+                045DC20400:
+                  0. 00 0000 0013 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@AddRef$qqsv
+                085DC20400:
+                  0. 00 0000 0013 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@Release$qqsv
+              5DC3:
+                0. 00 0000 000B 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@GetControllingUnknown$qv
+            0C8B550C890233C05DC20800:
+              0. 00 0000 0014 0000:@ATL@CAxHostWindow@GetWindow$qqspp6HWND__
+          500889501033C05DC20400:
+            0. 00 0000 0012 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Reset$qqsv
+          550C:
+            80E201C1E2078A889C00000080E17F0AD188909C000000:
+              0. 06 2E58 0026 0000:@ATL@CAxHostWindow@LockContainer$qqsi
+            8990E400000033C05DC20800:
+              0. 00 0000 0015 0000:@ATL@CAxHostWindow@put_DocHostDoubleClickFlags$qqsul
+            C1E2020150108B48103B480C770433C0EB0B8B500C8950:
+              0. 0A 5EAC 002A 0000:@ATL@%CComEnumImpl$12IEnumUnknownpx5_GUID$e&@IID_IEnumUnknown$p8IUnknown30ATL@%_CopyInterface$8IUnknown%%@Skip$qqsul
+          80:
+            CC0000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_BackColor$qqspul
+            D00000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_ForeColor$qqspul
+            D40000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_LocaleID$qqspul
+            E00000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_DocHostFlags$qqspul
+            E40000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_DocHostDoubleClickFlags$qqspul
+            E80000008B550C890233C05DC20800:
+              0. 00 0000 0017 0000:@ATL@CAxHostWindow@get_OptionKeyPath$qqsppb
+        BA........8910B9........8908:
+          5DC3:
+            0. 00 0000 0016 (!)0000:?
+          BA........8910:
+            5DC3:
+              0. 00 0000 001D (!)0000:?
+            B9:
+              0. 03 2F82 002B 0000:@IOleInPlaceSiteWindowless@$bctr$qv
+        F680:
+          9C00000010740433C0EB05B8010000005DC20400:
+            0. 00 0000 001C 0000:@ATL@CAxHostWindow@GetCapture$qqsv
+          C8000000:
+            0174:
+              0433C0EB05B8010000005DC20400:
+                0. 00 0000 001C 0000:@ATL@CAxHostWindow@CanWindowlessActivate$qqsv
+              0583C8FFEB0233C08B550C66890233C05DC2:
+                0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_AllowWindowlessActivation$qqsps
+            02740583C8FFEB0233C08B550C66890233C05DC2:
+              0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_UserMode$qqsps
+            04740583C8FFEB0233C08B550C66890233C05DC2:
+              0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_DisplayAsDefault$qqsps
+            08740583C8FFEB0233C08B550C66890233C05DC2:
+              0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_MessageReflect$qqsps
+            20740583C8FFEB0233C08B550C66890233C05DC2:
+              0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_AllowContextMenu$qqsps
+            40740583C8FFEB0233C08B550C66890233C05DC2:
+              0. 02 87C1 0022 0000:@ATL@CAxHostWindow@get_AllowShowUI$qqsps
+        FF75:
+          0C83C00C50E8........83C40833C05DC20800:
+            0. 00 0000 001B 0000:@ATL@CAxHostWindow@ReleaseDC$qqsp5HDC__
+          10FF750C83C00C50E8........83C40C33C05DC20C00:
+            0. 00 0000 001E (!)0000:?
+      0C:
+        66C700000033C05DC20800:
+          0. 00 0000 0011 (!)0000:?
+        833800740B8B550C8B0A518B01FF50048B550CFF32FF7508E8:
+          0. 00 0000 002B (!)0000:?
+        8B50088B4D088951088B450C8B500C8B4D0889510C8B45085DC3:
+          0. 00 0000 0020 0000:@System@DynArrayOutOfRange@$bctr$qrx25System@DynArrayOutOfRange
+        C7000100000033C05DC20800:
+          0. 00 0000 0012 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@GetTypeInfoCount$qqspui
+    550C8B450885D27507B803400080EB0D5283C06850E8........83C4:
+      0. 05 2CBA 0025 0000:@ATL@CAxHostWindow@GetExtendedControl$qqspp9IDispatch
+    80:
+      3C020000:
+        8B40305DC3:
+          0. 00 0000 000E 0000:@TCTrayIcon@GetAnimateInterval$qqrv
+        E8........5DC3:
+          0. 00 0000 0010 0000:@TCTrayIcon@SetAnimateInterval$qqri
+      40020000:
+        8B40345DC3:
+          0. 00 0000 000E 0000:@TCTrayIcon@GetAnimateInterval$qqrv
+        E8........5DC3:
+          0. 00 0000 0010 0000:@TCTrayIcon@SetAnimateInterval$qqri
+      60020000E8........5DC3:
+        0. 00 0000 0010 0000:@Cspin@TCSpinButton@GetUpGlyph$qqrv
+      64020000E8........5DC3:
+        0. 00 0000 0010 0000:@Cspin@TCSpinButton@GetDownGlyph$qqrv
+      70020000E8........5DC3:
+        0. 00 0000 0010 0000:@Cspin@TCSpinButton@GetUpGlyph$qqrv
+      74020000E8........5DC3:
+        0. 00 0000 0010 0000:@Cspin@TCSpinButton@GetDownGlyph$qqrv
+      A80100008B08FF51085DC3:
+        0. 00 0000 0010 0000:@TPie@SetPen$qqrp13Graphics@TPen
+      AC0100008B08FF51085DC3:
+        0. 00 0000 0010 0000:@TPie@SetBrush$qqrp15Graphics@TBrush
+      B00100008B08FF51085DC3:
+        0. 00 0000 0010 0000:@TPie@SetPen$qqrp13Graphics@TPen
+      B40100008B08FF51085DC3:
+        0. 00 0000 0010 0000:@TPie@SetBrush$qqrp15Graphics@TBrush
+    90:
+      6802000081C2CC01000080:
+        0A018B80680200008B08FF9180000000:
+          0. 02 5F98 0022 0000:@Cspin@TCSpinButton@WMSetFocus$qqrr20Messages@TWMSetFocus
+        22FE8B80680200008B08FF9180000000:
+          0. 02 5F98 0022 0000:@Cspin@TCSpinButton@WMKillFocus$qqrr21Messages@TWMKillFocus
+      7802000081C2D401000080:
+        0A018B80780200008B08FF9190000000:
+          0. 02 5F98 0022 0000:@Cspin@TCSpinButton@WMSetFocus$qqrr20Messages@TWMSetFocus
+        22FE8B80780200008B08FF9190000000:
+          0. 02 5F98 0022 0000:@Cspin@TCSpinButton@WMKillFocus$qqrr21Messages@TWMKillFocus
+      AC0100002B90A8010000528B88B00100002B88A801000051E8:
+        0. 00 0000 0027 0000:@TCGauge@GetPercentDone$qqrv
+      B40100002B90B0010000528B88B80100002B88B001000051E8:
+        0. 00 0000 0027 0000:@TCGauge@GetPercentDone$qqrv
+  B8:
+    01:
+      0000005DC20C00:
+        0. 00 0000 000C (!)0000:?
+      4000805DC2:
+        0400:
+          0. 00 0000 000C (!)0000:?
+        0800:
+          0. 00 0000 000C (!)0000:?
+        0C00:
+          0. 00 0000 000C 0000:@ATL@CAxHostWindow@Scroll$qqs7tagSIZE
+        1000:
+          0. 00 0000 000C 0000:@ATL@CAxHostWindow@GetMoniker$qqsululpp8IMoniker
+        1400:
+          0. 00 0000 000C 0000:@ATL@CAxHostWindow@ParseDisplayName$qqsp8IBindCtxpbpulpp8IMoniker
+    A10104805DC20800:
+      0. 00 0000 000C (!)0000:?
+    ........5DC3:
+      0. 00 0000 000A 0000:@ATL@%CWindowImplBaseT$11ATL@CWindow38ATL@%CWinTraits$ul$i1442840576$ul$i0$%%@GetWindowProc$qv
+  BA01000000E8........5DC3:
+    0. 00 0000 000F 0000:@TCCalendar@NextMonth$qqrv
+  C7420C:
+    010000005DC3:
+      0. 00 0000 000C 0000:@Cspin@TCSpinButton@WMGetDlgCode$qqrr20Messages@TWMNoParams
+    810000005DC3:
+      0. 00 0000 000C 0000:@CColorgrd@TCColorGrid@WMGetDlgCode$qqrr20Messages@TWMNoParams
+  DB4508DC0D........DB450CDEC983C4F8DD1C24E8........83C408E8:
+    0. 00 0000 0030 0000:@SolveForX$qll
+  FF75:
+    0CFF7508E8........83C408:
+      5DC3:
+        0. 00 0000 0013 0000:@$beql$qrx5_GUIDt1
+      85C00F94C083E0015DC3:
+        0. 00 0000 001B 0000:@$bneq$qrx5_GUIDt1
+    1CFF7518FF7514FF7510FF750C68........E8........83C4185D:
+      0. 03 BF22 0023 0000:@ATL@%IDispatchImpl$21IAxWinAmbientDispatchpx5_GUID$e&@IID_IAxWinAmbientDispatch$t2$e&@LIBID_ATLLib$us$i1$us$i0$22ATL@CComTypeInfoHolder%@GetIDsOfNames$qqsrx5_GUIDppbuiulpl
+58:
+  0000000300300000000000B700000050006000000000000000000000000000:
+    0. 08 174B 0070 0000:@$xt$29Shdocvw_tlb@TCppShellUIHelper
+  0300000300300000000000B700000048005800000000000000000000000000:
+    0. 08 3C1D 0068 0000:@$xt$22Outline@TCustomOutline
+600200000300300000000000B700000048005800000000000000000000000000:
+  0. 08 0E79 0070 0000:@$xt$20Controls@TWinControl
+640000000300300000000000B700000050006000000000000000000000000000:
+  0. 08 174B 0070 0000:@$xt$28Shdocvw_tlb@TCppShellWindows
+68:
+  0000000300300000000000B700000050006000000000000000000000000000:
+    0. 08 174B 0070 0000:@$xt$28Shdocvw_tlb@TCppShellWindows
+  0200000300300000000000B70000004C005C00000000000000000000000000:
+    0. 08 0AE4 0064 0000:@$xt$23Controls@TCustomControl
+6C0100000300300000000000B700000054006400000000000000000000000000:
+  0. 08 174B 0074 0000:@$xt$32Shdocvw_tlb@TCppInternetExplorer
+70:
+  0100000300300000000000B700000054006400000000000000000000000000:
+    0. 08 174B 0074 0000:@$xt$32Shdocvw_tlb@TCppInternetExplorer
+  02000003003000:
+    00000000B700000048005800000000000000000000000000:
+      0. 08 0E79 0070 0000:@$xt$20Controls@TWinControl
+    FFFFFFFF0300000048004C00000000000000000000000000:
+      0. 08 6AB1 005C 0000:@$xt$19Sysutils@TSearchRec
+  0300000300300000000000B700000050006000000000000000000000000000:
+    0. 08 AA1B 0070 0000:@$xt$27Cdiroutl@TCDirectoryOutline
+74:
+  0000000300300000000000B7000000:
+    54006400000000000000000000000000:
+      0. 08 174B 0074 0000:@$xt$32Shdocvw_tlb@TShellShellNameSpace
+    58006800000000000000000000000000:
+      0. 08 174B 0078 0000:@$xt$36Shdocvw_tlb@TShellFavoritesNameSpace
+  02000003003000FFFFFFFF0300000048004C00000000000000000000000000:
+    0. 08 6E2C 005C (!)0000:?
+78:
+  0000000300300000000000B7000000:
+    54006400000000000000000000000000:
+      0. 08 174B 0074 0000:@$xt$32Shdocvw_tlb@TShellShellNameSpace
+    58006800000000000000000000000000:
+      0. 08 174B 0078 0000:@$xt$36Shdocvw_tlb@TShellFavoritesNameSpace
+  0200000300300000000000B70000004C005C00000000000000000000000000:
+    0. 08 0AE4 0064 0000:@$xt$23Controls@TCustomControl
+800200000300300000000000B700000044005400000000000000000000000000:
+  0. 08 0AE4 005C 0000:@$xt$18Cspin@TCSpinButton
+83442404:
+  A4E9........83442404A4E9........83442404A4E9........8344:
+    0. 04 50D0 051E 0000:@ATL@%CComContainedObject$17ATL@CAxHostWindow%@3$vsn
+  BCE9........83442404BCE9........83442404BCE9........8344:
+    0. 04 018B 00A0 0000:@ATL@%CComObject$18ATL@CAxFrameWindow%@3$vsn (003A: BC)
+    1. 04 018B 0064 0000:@ATL@%CComObject$15ATL@CAxUIWindow%@3$vsn (003A: E0)
+900200000300300000000000B7000000:
+  44005400000000000000000000000000:
+    0. 08 0AE4 005C 0000:@$xt$18Cspin@TCSpinButton
+  48005800000000000000000000000000:
+    0. 08 252F 0068 0000:@$xt$20Stdctrls@TCustomEdit
+A0:
+  0100000300300000000000B700000044005400000000000000000000000000:
+    0. 08 5C48 006C 0000:@$xt$17Controls@TControl
+  0200000300300000000000B700000048005800000000000000000000000000:
+    0. 08 252F 0068 0000:@$xt$20Stdctrls@TCustomEdit
+  0300000300300000000000B700000048005800000000000000000000000000:
+    0. 08 3C1D 0068 0000:@$xt$22Outline@TCustomOutline
+A8:
+  0100000300300000000000B7000000:
+    44005400000000000000000000000000:
+      0. 08 5C48 006C 0000:@$xt$17Controls@TControl
+    4C005C00000000000000000000000000:
+      0. 08 174B 0064 0000:@$xt$24Controls@TGraphicControl
+  0200000300300000000000B700000044005400000000000000000000000000:
+    0. 08 21B2 005C 0000:@$xt$16Cspin@TCSpinEdit
+B00100000300300000000000B70000004C005C00000000000000000000000000:
+  0. 08 174B 0064 0000:@$xt$24Controls@TGraphicControl
+B8:
+  0100000300300000000000B700000038004800000000000000000000000000:
+    0. 08 13D6 0050 0000:@$xt$4TPie
+  0200000300300000000000B700000044005400000000000000000000000000:
+    0. 08 21B2 005C 0000:@$xt$16Cspin@TCSpinEdit
+  0300000300300000000000B700000050006000000000000000000000000000:
+    0. 08 AA1B 0070 0000:@$xt$27Cdiroutl@TCDirectoryOutline
+C00100000300300000000000B700000038004800000000000000000000000000:
+  0. 08 13D6 0050 0000:@$xt$7TCGauge (000E: 65)
+  1. 08 13D6 0050 0000:@$xt$4TPie (000E: 00)
+C8:
+  0100000300300000000000B7000000:
+    38004800000000000000000000000000:
+      0. 08 13D6 0050 0000:@$xt$7TCGauge
+    48005800000000000000000000000000:
+      0. 08 13D6 0060 0000:@$xt$20Buttons@TSpeedButton
+  0200000300300000000000B70000003C004C00000000000000000000000000:
+    0. 08 58D5 005C 0000:@$xt$10TCTrayIcon
+CC0200000300300000000000B70000003C004C00000000000000000000000000:
+  0. 08 58D5 005C 0000:@$xt$10TCTrayIcon
+D00100000300300000000000B7000000:
+  48005800000000000000000000000000:
+    0. 08 13D6 0060 0000:@$xt$20Buttons@TSpeedButton
+  4C005C00000000000000000000000000:
+    0. 08 0E79 0064 0000:@$xt$23Cspin@TTimerSpeedButton
+D80100000300300000000000B70000004C005C00000000000000000000000000:
+  0. 08 0E79 0064 0000:@$xt$23Cspin@TTimerSpeedButton
+E00200000300300000000000B700000048005800000000000000000000000000:
+  0. 08 B329 0098 0000:@$xt$20Olectrls@TOleControl
+EC:
+  000000030030006000000057000000:
+    4400E400000000000000000000000000:
+      0. 08 AE86 0144 0000:@$xt$17ATL@CAxHostWindow
+    60007000000000000000000000000000:
+      0. 08 B329 0078 0000:@$xt$45ATL@%CComContainedObject$17ATL@CAxHostWindow%
+  0200000300300000000000B700000048005800000000000000000000000000:
+    0. 08 252F 0060 0000:@$xt$21CColorgrd@TCColorGrid
+F00200000300300000000000B7000000:
+  44005400000000000000000000000000:
+    0. 08 252F 005C 0000:@$xt$17Grids@TCustomGrid
+  48005800000000000000000000000000:
+    0. 08 B329 0098 0000:@$xt$20Olectrls@TOleControl
+F400000003003000000000005700000058007400000000000000000000000000:
+  0. 08 B7B4 0084 0000:@$xt$40ATL@%CComPolyObject$17ATL@CAxHostWindow%
+FC0200000300300000000000B700000048005800000000000000000000000000:
+  0. 08 252F 0060 0000:@$xt$21CColorgrd@TCColorGrid

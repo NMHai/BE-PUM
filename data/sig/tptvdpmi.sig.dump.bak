@@ -1,0 +1,2421 @@
+00:
+  00000000:
+    000000000000000000000000000000390800025204000452030005:
+      0. 2E D244 0383 0056:@InitSysError$qv 0118:@DoneSysError$qv (0328: E8)
+      1. 2E D244 0377 0056:@InitSysError$qv 010C:@DoneSysError$qv (0328: CF)
+    28FF03000000000000000000000000000000000000000000000000:
+      0. 27 6CC6 00C4 0040:@TRangeValidator@Init$q7Longintt1
+  5589E531FF9A........742CC47E0E0657BF....0E576A0031C050C47E0606:
+    0. 02 6BAA 0042 0001:@THistoryWindow@Init$qm5TRect4Word
+  C8:
+    040000BF....0E5768002D6A01BF....0E576800446A03BF....0E576800:
+      0. 04 BFE5 0090 0001:@StdStatusKeys$q11PStatusItem
+    6400008CD38EC38CDBFC8D7EB0C5760EAC3C4F7202B04FAA9130EDF3A48E:
+      0. 04 D2DC 01AB 0001:@TEditWindow@Init$qm5TRect8FNameStr7Integer
+01:
+  20C8000200C47E0C06578DBE00FE1657BF....0E579A........8DBE00FF16:
+    0. 06 B1AB 003D 0002:@TCluster@DrawBox$q6String4Char
+  2EC80C0300C47E06268B452C8986F6FDC47E0A0657C47E0606579A:
+    0. 60 38C2 0297 0002:@TSortedListBox@HandleEvent$qm6TEvent
+  3F012AC8020000BF....0E57C47E0606579A........09C07F17BF....0E57:
+    0. 06 74AC 003E 0004:?
+  5C:
+    12496E76616C69642066696C65206E616D652EC8A60100837E0A007509C6:
+      0. 15 DE5B 021D 0015:@TFileDialog@Valid$q4Word
+    C8540100C47E0A0657C47E0606579A........C47E0A26813D00027403E9:
+      0. 42 6581 00C1 0002:@TFileInputLine@HandleEvent$qm6TEvent
+  7EC8:
+    04:
+      0000BF....0E57C47E0606579A........8946FC837EFC0074178B46:
+        0. 0C F73C 0040 0002:?
+      0300C646FF008B460E8B7E0636C47D06263B452A7D03E9BE01268B45:
+        0. 7F 0745 01E2 0002:?
+    0A00008A460A509A........88460AC47E0626C47D24268B05268B5502:
+      0. 26 5709 00AE 0002:@TMenuView@FindItem$q4Char
+022E2EC8020000C47E0E81C709000657C47E0A81C7090006579A........7508:
+  0. 12 B8B7 00CB 0003:@TFileCollection@Compare$q7Pointert1
+03:
+  2A2E2A022E2E0F546F6F206D616E792066696C65732EC88402008CD38EC38C:
+    0. 29 2298 02CC 0017:@TFileList@ReadDirectory$q7PathStr
+  C0C2C40320C3C4023A5C0320C0C402202003C0C4C2015C032A2E2A01C001C3:
+    0. 15 018A 05C1 0020:@TDirListBox@NewDirectory$qm6DirStr
+04:
+  2E42414BC8260200C646FF00A1....25000109C07503E99900C47E0681C75A:
+    0. 16 5D84 017D 0005:@TFileEditor@SaveFile$qv
+  46696E640E7E547E65787420746F2066696E64107E437E6173652073656E73:
+    0. 36 CAA1 020E 0044:@CreateFindDialog$qv
+  4F7E4B7E0643616E63656CC8180000C47E140657C47E100657B8....5031C0:
+    0. 03 0BAD 01BD 000C:@InputBoxRect$qm5TRect6Stringt2m6String4Byte
+05:
+  20:
+    28202920:
+      0220075589E5BF....0E57BF....0E57C47E0606579A:
+        0. 04 E420 0024 0009:@TRadioButtons@Draw$qv
+      5589E5BF....0E576A07C47E0606579A........C9CA0400:
+        0. 00 0000 001E 0006:@TMonoSelector@Draw$qv
+    5B205D20:
+      0220585589E5BF....0E57BF....0E57C47E0606579A:
+        0. 04 E420 0024 0009:@TCheckBoxes@Draw$qv
+      5589E5BF....0E57C47E0626C47D3A0657C47E0606579A:
+        0. 00 0000 0025 0006:@TMultiCheckBoxes@Draw$qv
+  436F6C6F72C8040000BF....0E576A01FF7608FF76069A........8946FC89:
+    0. 0C B4AF 002C 0006:@DesktopColorItems$q10PColorItem
+  5B7EFE7E5D055B7E0F7E5D055B7E187E5D047EC4D97EC86E0200C47E06268B:
+    0. 51 84B7 03D4 0017:@TFrame@Draw$qv
+  7E4E7E657700097E4F7E70656E2E2E2E024633067E537E6176650246320C53:
+    0. 44 8448 0141 005F:@StdFileMenuItems$q9PMenuItem
+  DE7E197EDDC80801008DBEF8FE1657BF....0E57680201C47E0606579A:
+    0. 00 0000 004B 0006:@THistory@Draw$qv
+06:
+  436F6C6F7273077E477E726F7570067E497E74656D0C7E467E6F726567726F:
+    0. 48 F164 054C 004A:@TColorDialog@Init$q6String11PColorGroup
+  4E6F726D616C:
+    0844697361626C65640853686F72746375740853656C656374:
+      0. 2B B230 00B2 0046:@MenuColorItems$q10PColorItem
+    09486967686C6967687409556E6465726C696E6507496E7665:
+      0. 09 37DF 008C 0023:@TMonoSelector@Init$qm5TRect
+  5752500657268B3DFF5D0C5F07C3:
+    0. 00 0000 000F 0000:?
+  7E:
+    547E696C650009437E617E73636164650B436C7E6F7E736520616C6C0B7E:
+      0. 4E 8FEF 014D 0069:@StdWindowMenuItems$q9PMenuItem
+    557E6E646F000543757E747E0953686966742B44656C067E437E6F707908:
+      0. 30 1AED 00E7 004B:@StdEditMenuItems$q9PMenuItem
+07:
+  2025643A256420013AC8220100C47E06268B451A25800009C075126A010657:
+    0. 01 ABCB 00E8 000A:@TIndicator@Draw$qv
+  434F4D5350454300C80001009A........9A........9A........9A:
+    0. 00 0000 0072 0009:@TApplication@DosShell$qv
+  5265706C6163650E7E547E65787420746F2066696E640A7E4E7E6577207465:
+    0. 66 F676 030F 0074:@CreateReplaceDialog$qv
+  7E467E696C6573067E4F7E70656E044F7E4B7E097E527E65706C616365077E:
+    0. 35 06B5 0453 0032:@TFileDialog@Init$q7PathStr6Stringt24Word4Byte
+    1. 35 C7D9 045C 0032:@TFileDialog@Init$q7PathStr6Stringt24Word4Byte
+08:
+  20B3C3C0C4C42BC4C80002008DBE00FE16578DBE00FF1657FF7610FF760EFF:
+    0. 0A 4AAF 0053 0009:@TOutlineViewer@GetGraph$q7Integer7Longint4Word
+  C07432C47E060657500657268B3DFF5D3489C38EC209D0585F5A740B263A07:
+    0. 17 B737 003A 0000:?
+  E4740786E0E8....86E0E8....C3:
+    0. 00 0000 000F 0000:?
+09436C6970626F61726408556E7469746C65645589E5C47E0626C47D4D06579A:
+  0. 00 0000 0079 0013:@TEditWindow@GetTitle$q7Integer
+0C:
+  233F2621402A7B7D5B5D2C00C8060200C646FF04559A........08C07503E9:
+    0. 2A 34DD 015C 000D:@TPXPictureValidator@Picture$qm6String7Boolean
+  3B2C3D2B3C3E7C225B5D205CC8560000C646FF01C47E0606578D7EBA16578D:
+    0. 0A BE3E 0071 000D:?
+  7E416C742D587E2045786974C80800008D7EF81657C47E0606579A:
+    0. 11 AA6A 006F 000D:@TProgram@InitStatusLine$qv
+0D4672616D6520706173736976650C4672616D65206163746976650B4672616D:
+  0. 3D 9D23 00E7 0054:@WindowColorItems$q4Word10PColorItem
+10:
+  4368616E6765204469726563746F7279104469726563746F7279207E6E7E61:
+    0. 35 9EBB 0345 004E:@TChDirDialog@Init$q4Wordt1
+  4672616D652F6261636B67726F756E640B4672616D652069636F6E730F5363:
+    0. FF B1FE 042E 01AE:@DialogColorItems$q4Word10PColorItem
+12496E76616C6964206469726563746F72792EC8520100C646FF01837E0A0A75:
+  0. 15 D06D 008A 0013:@TChDirDialog@Valid$q4Word
+1654797065204558495420746F2072657475726E2E2E2E5589E5BF....0E579A:
+  0. 00 0000 0028 0017:@TApplication@WriteShellMsg$qv
+17496E707574206E6F7420696E2076616C69642D6C6973745589E5BF....0E57:
+  0. 08 4DA2 0030 0018:@TStringLookupValidator@Error$qv
+1A496E76616C69642063686172616374657220696E20696E7075745589E5BF:
+  0. 00 0000 0033 001B:@TFilterValidator@Error$qv
+1B496E76616C6964206472697665206F72206469726563746F72792EC8020000:
+  0. 06 3602 0062 001C:?
+1E8B0E....:
+  8A1E....C536....8CDA8CD809F07415FCEB05AD38DC740DAC30E4:
+    0. 0D F0C5 0034 0000:?
+  FCC43E....89FE4F4F061F8A0430E44001C629F1F3A41F893E:
+    0. 01 EF04 0021 0000:?
+1F56616C7565206E6F7420696E207468652072616E676520256420746F202564:
+  0. 24 71D6 0059 0020:@TRangeValidator@Error$qv
+25:
+  20252D31327320252D397320253373202532642C2025346420202532643A25:
+    0. 55 2C98 02E4 0056:@TFileInfoPane@Draw$qv
+  4E6F7420656E6F756768206D656D6F727920666F722074686973206F706572:
+    0. D2 F245 02CB 00E5:@StdEditorDialog$q7Integer7Pointer
+26:
+  496E70757420646F6573206E6F7420636F6E666F726D20746F207069637475:
+    0. 0B BCC6 0044 0027:@TPXPictureValidator@Error$qv
+  8B:
+    05263B45047D0A268B4502263B45067C07FC31C0ABABABABC3:
+      0. 00 0000 001B 0000:?
+    45:
+      0E268B5510B90040F7F129D189D6268B55063B16....75063B06....74:
+        0. 16 2D01 003D 0000:?
+      14268B5516268B4D0EF7F129D189D6D1E02689450CC3:
+        0. 00 0000 0019 0000:?
+    4D0E262B4D107435268B5D0677103C01743989CAB9FFFFB80142CD21EB1F:
+      0. 1D E5A9 004E 0000:?
+31C03A06....744BA2....A2....A3....B8....A3....A3....B80300CD3391:
+  0. 08 2DA8 0054 0000:@InitEvents$qv
+3B7C347703037C324FC3:
+  0. 00 0000 000A 0000:?
+3C07740B3C0374073C027403B80300C3:
+  0. 00 0000 0010 0000:?
+478B443403443239C772038B7C34C3:
+  0. 00 0000 000F 0000:?
+50530657268B3DFF5D0CC3:
+  0. 00 0000 000B 0000:?
+55:
+  06CD10075DC3:
+    0. 00 0000 0007 0000:?
+  89E5:
+    1E:
+      C47E:
+        06C5760A8B042689450A8B44022689450C8B44042B042689450E:
+          0. 0F 94A0 002F 0000:@TView@SetBounds$qm5TRect
+        0AC576048B4E08E337FCAC3C0172377707ACF2AE752AEB2E30E4:
+          0. 37 165A 0057 0000:?
+      C5:
+        5E06C47E108B760E31D2FC8A660A8B4F36E8....8A660B8B4F3AE8:
+          0. 00 0000 007E 0000:?
+        76:
+          06:
+            31C0AC91C47E0A47E30CAC3C3F74053C2A7401AAE2F4978B7E:
+              0. 0A E4BE 002A 0000:?
+            83C6:
+              0AC47E0AFCAD89C1ABAD89C2ABAD01C8ABAD01D0AB1FC9:
+                0. 03 EC71 0023 0000:@TView@GetBounds$qm5TRect
+              0EC47E0AFC31C0ABABA5A51FC9CA0800:
+                0. 00 0000 0019 0000:@TView@GetExtent$qm5TRect
+            8B:
+              5604FCAD89C1AD89C3AD38D3750808FF740838F77404E2EE:
+                0. 07 6835 0027 0000:?
+              7E0A:
+                09FF74174F7414C45C2C3B7C3A7203035C34268179FF:
+                  0. 0C E9C0 002C 0000:?
+                3B7C32741A473B7C327414C45C2C3B7C3A7203035C34:
+                  0. 10 09FC 0030 0000:?
+            C4:
+              5C2C8B7E0AB00D:
+                FC8B4C3A29F9760901DFF2AE74138B7C3A:
+                  0. 1A 7429 003A 0000:?
+                FD89F92B4C3A7610035C3401DF4FF2AE74:
+                  0. 32 B9B0 0052 0000:?
+              7C34037E0C8B4E0AE3438B443A03443439C77441E8....8B:
+                0. 36 9AAF 0065 0000:@TTerminal@PrevLines$q4Wordt1
+              7E:
+                0AC57420558CD809F0745389F08CDA8CC58B5C068B4C08:
+                  0. 4D 68CF 006D 0000:?
+                0CFC8B4C0AE3138B5E0AC5740C89DAAD29C2AD39C2AD72:
+                  0. 14 7DCB 003C 0000:@TStringList@Get$q4Word
+            FCAC30E491B440BB010089F2CD211FC9CA0400:
+              0. 00 0000 001A 0000:@PrintStr$q6String
+          0AC47E06:
+            B90400FCF3A7B0007501401FC9CA0800:
+              0. 00 0000 001A 0000:@TRect@Equals$q5TRect
+            FC:
+              A5A5A5A51FC9CA0800:
+                0. 00 0000 0014 0000:@TRect@Copy$q5TRect
+              ADAF:
+                7D034F4FABADAF7D034F4FABADAF7E034F4FAB:
+                  0. 0C AC77 002C 0000:@TRect@Union$q5TRect
+                7E034F4FABADAF7E034F4FABADAF7D034F4FAB:
+                  0. 0C 1C98 0032 0000:@TRect@Intersect$q5TRect
+      FC:
+        30C0C47E06B9FFFFF2AEF7D149743689CA8CC38EDBC47E0A89FBB9:
+          0. 33 8DF7 0053 0000:@StrPos$q5PChart1
+        C47E:
+          06:
+            89FEB9FFFF31C099F2AEF7D189F7C5760AF3A6:
+              74228A44FF:
+                0. 24 79C1 0044 0000:@StrIComp$q5PChart1
+              8A44FF268A:
+                0. 09 7EE4 0029 0000:@StrComp$q5PChart1
+            B9FFFF30C0F2AEF7D1:
+              49C57606C47E0A88C8AAF3A41FC9CA:
+                0. 02 2768 0022 0000:@StrPas$q5PChar
+              C57606C47E0A:
+                89F88CC2F3A41FC9CA:
+                  0. 02 87C1 0022 0000:@StrCopy$q5PChart1
+                F3A489F88CC2481FC9:
+                  0. 03 EC71 0023 0000:@StrECopy$q5PChart1
+          08:
+            89FE8B460689C1E3:
+              1A9331C099F2AE29CB89D989F7C5760C:
+                0. 10 22EB 0030 0000:@StrLComp$q5PChart14Word
+              359331C099F2AE29CB89D989F7C5760C:
+                0. 2B 6B73 004B 0000:@StrLIComp$q5PChart14Word
+            8B4E0689CB30C0F2AE29CB89D9C57608C47E0C89FB8CC2F3:
+              0. 08 8F37 0028 0000:@StrLCopy$q5PChart14Word
+        C576:
+          06:
+            89F38CDAAC08C0740F3C:
+              4172F73C5A77F304208844FFEBEC:
+                0. 06 66BE 0026 0000:@StrLower$q5PChar
+              6172F73C7A77F32C208844FFEBEC:
+                0. 06 66BE 0026 0000:@StrUpper$q5PChar
+            C47E0A89FB8CC2AC30E491F3A430C0AA931FC9CA0800:
+              0. 00 0000 001E 0000:@StrPCopy$q5PChar6String
+          08C47E0C89F88CC28B4E0639FE7307FD01CE01CF4E4FF3A4FC:
+            0. 05 E157 0025 0000:@StrMove$q5PChart14Word
+          0AC47E0689FA30E4AC89C309DB7410268A05915189D7ACF2AE:
+            0. 11 D1B8 0031 0000:?
+          0EC47E0AAC268A254788C138E1760288E130EDF3A674078A44:
+            0. 0E BF2F 002E 0000:@TStringCollection@Compare$q7Pointert1
+      FDC416....8B3E....C576048A1C:
+        30FF4343431F1E89F801D829D03B:
+          0. 01 4E95 005A 0000:?
+        FEC3FEC3FEC330FF1F1E89F801D8:
+          0. 04 DD32 005D 0000:?
+    30:
+      C0:
+        8A:
+          4E0480E1DF80F941720780F95A7702FEC0C9C20200:
+            0. 00 0000 001B 0000:?
+          6E0480FD30720780FD397702FEC0C9C20200:
+            0. 00 0000 0018 0000:?
+        8B4E0A83F91F771EB8010031D2E306D1E0D1D2E2FAC47E06262345:
+          0. 0F 0952 002F 0000:@TCluster@ButtonState$q7Integer
+      E4C47E04268A054788E588C18A4608F2AEE3:
+        02FEC488E0C9C20600:
+          0. 00 0000 001F 0000:?
+        04FEC4EBF888E0C9C206:
+          0. 01 78F0 0021 0000:?
+    31:
+      C050C47E06:
+        06579A........:
+          9A........9A........9A........9A:
+            0. 00 0000 0034 0000:@TApplication@Done$qv
+          C47E0626FF75:
+            2626FF75249A:
+              0. 03 ADDE 002B 0000:@TMenuBar@Done$qv
+            3226FF7530559A:
+              0. 00 0000 002C 0000:@TColorGroupList@Done$qv
+            4B26FF75499A:
+              0. 03 ADDE 002B 0000:@TWindow@Done$qv
+        81C72A000657268B3DFF5D0831C050C47E0606579A:
+          0. 00 0000 002D 0000:@TCluster@Done$qv
+      FF9A........:
+        74:
+          1AC47E1006576A02FF760EFF760C31C050C47E0606:
+            0. 02 6BAA 002F 0000:@TFileList@Init$qm5TRect10PScrollBar
+          1B:
+            C47E0681C702000657C47E06268B3D8B05484850:
+              0. 03 288B 0030 0000:@TObject@Init$qv
+            FF760EFF760C31C050C47E0606579A........C4:
+              0. 10 7433 0030 0000:@TSortedCollection@Init$q7Integert1
+          1CC47E100657FF760EFF760C6A006A0031C050C47E:
+            0. 04 B1C4 0031 0000:@TMenuPopup@Init$qm5TRect5PMenu
+          1E31C050C47E0606579A........8B460C8B560EC4:
+            0. 13 4DF5 0033 0000:@TStringLookupValidator@Init$q17PStringCollection
+          21C47E:
+            0E065731C050C47E0606579A........C47E:
+              0. 16 E456 0036 0000:@TBackground@Init$qm5TRect4Char
+            120657C47E0E065731C050C47E0606579A:
+              0. 00 0000 0036 0000:@TParamText@Init$qm5TRect6String7Integer
+          22C47E1006576A01FF760EFF760C31C050C47E0606:
+            0. 02 6BAA 0037 0000:@TDirListBox@Init$qm5TRect10PScrollBar
+          23:
+            31C050C47E0606579A........C47E0681C70A00:
+              0. 18 140F 0038 0000:@TView@Load$qm7TStream
+            C47E:
+              0C065731C050C47E0606579A........559A:
+                0. 00 0000 0038 0000:@TMenuView@Load$qm7TStream (000E: 26)
+                1. 00 0000 0038 0000:@TColorGroupList@Load$qm7TStream (000E: 32)
+                2. 00 0000 0038 0000:@TOutline@Load$qm7TStream (000E: 36)
+              0E0657FF760C31C050C47E0606579A:
+                0. 00 0000 0038 0000:@TFileInputLine@Init$qm5TRect7Integer
+          25C47E0C065731C050C47E0606579A........C47E:
+            0. 1A 1C76 003A 0000:@TFrame@Init$qm5TRect
+          269A........9A........9A........9A:
+            0. 01 ABCB 003B 0000:@TApplication@Init$qv
+          27C47E:
+            0C065731C050C47E0606579A........C47E:
+              0. 04 1F18 003C 0000:@TStringLookupValidator@Load$qm7TStream (000E: 08) (REF 0024: @TStream@Get$qv)
+              1. 04 1F18 003C 0000:@TPXPictureValidator@Load$qm7TStream (000E: 08) (REF 0024: @TStream@ReadStr$qv)
+              2. 04 1F18 003C 0000:@TStaticText@Load$qm7TStream (000E: 22)
+              3. 04 1F18 003C 0000:@TColorDisplay@Load$qm7TStream (000E: 26)
+              4. 04 1F18 003C 0000:@TListBox@Load$qm7TStream (000E: 32)
+            10065731C050C47E0606579A........C47E:
+              0. 04 1F18 003C 0000:@TStaticText@Init$qm5TRect6String
+          28C47E0C065731C050C47E0606579A........C47E:
+            0. 1D 2084 003D 0000:@TFilterValidator@Load$qm7TStream
+            1. 1D 26C6 003D 0000:@TParamText@Load$qm7TStream
+            2. 1D 28CC 003D 0000:@TOutlineViewer@Load$qm7TStream
+            3. 1D 3E89 003D 0000:@TRangeValidator@Load$qm7TStream
+            4. 1D 55EB 003D 0000:@TColorSelector@Load$qm7TStream
+            5. 1D E1B2 003D 0000:@TBackground@Load$qm7TStream
+            6. 1D F8B2 003D 0000:@TScrollBar@Load$qm7TStream
+            7. 1D FDA6 003D 0000:@TSortedCollection@Load$qm7TStream
+          2931C050C47E0606579A........C47E0631C02689:
+            0. 1E AC42 003E 0000:@TValidator@Load$qm7TStream
+          2AC47E0C065731C050C47E0606579A........:
+            559A:
+              0. 00 0000 003F 0000:@TStatusLine@Load$qm7TStream
+            C47E:
+              0. 12 16B0 003F 0000:@TLabel@Load$qm7TStream
+              1. 12 D608 003F 0000:@TEditWindow@Load$qm7TStream
+          2CC47E:
+            0C065731C050C47E0606579A........C47E:
+              0. 21 FE3D 0041 0000:@TDialog@Load$qm7TStream
+            140657FF7612FF7610FF760EFF760C31C050:
+              0. 06 74AC 0041 0000:@TOutlineViewer@Init$qm5TRect10PScrollBart2
+          35C47E120657FF76106A006A00FF760EFF760C31C0:
+            0. 07 44A5 004A 0000:@TListBox@Init$qm5TRect4Word10PScrollBar
+          36C47E180657FF7616FF7614FF7612FF761031C050:
+            0. 06 74AC 004B 0000:@TOutline@Init$qm5TRect10PScrollBart25PNode
+          37C47E0E065731C050C47E0606579A........C47E:
+            0. 2C A233 004C 0000:@TColorSelector@Init$qm5TRect9TColorSel
+          38:
+            31C050C47E0606579A........C47E0631C02689:
+              0. 2D 5103 004D 0000:@TCollection@Init$q7Integert1
+            C47E10065731C050C47E0606579A........C47E:
+              0. 2D 9CEB 004D 0000:@TColorDisplay@Init$qm5TRect7PString
+          39C47E:
+            0C065731C050C47E0606579A........C47E:
+              0. 18 A496 004E 0000:@TGroup@Init$qm5TRect
+            120657FF7610FF760EFF760C31C050C47E06:
+              0. 03 39B5 004E 0000:@TSortedListBox@Init$qm5TRect4Word10PScrollBar
+          3EC47E:
+            0C065731C050C47E0606579A........C47E:
+              0. 26 74CE 0053 0000:@TDesktop@Init$qm5TRect
+            140657C47E10065731C050C47E0606579A:
+              0. 00 0000 0053 0000:@TLabel@Init$qm5TRect6String5PView
+            180657FF7616FF761431C050C47E0606579A:
+              0. 00 0000 0053 0000:@TMultiCheckBoxes@Init$qm5TRect6PSItem4Byte4Word6String
+          40C47E:
+            0C065731C050C47E0606579A........C47E:
+              0. 12 8A00 0055 0000:@THistory@Load$qm7TStream
+              1. 12 F1BB 0055 0000:@TDesktop@Load$qm7TStream
+            12065731C050C47E0606579A........C47E:
+              0. 35 F416 0055 0000:@THistory@Init$qm5TRect10PInputLine4Word
+          4331C050C47E0606579A........C47E0631C02689:
+            0. 17 1A35 0058 0000:@TView@Init$qm5TRect
+          45C47E10065731C050C47E0606579A........C47E:
+            0. 2D 3FFD 005A 0000:@TStatusLine@Init$qm5TRect10PStatusDef
+          47C47E14065731C050C47E0606579A........C47E:
+            0. 3C 4C94 005C 0000:@TScroller@Init$qm5TRect10PScrollBart2
+          4D31C050C47E0606579A........8B460EC47E0626:
+            0. 0E 94DD 0062 0000:@TStrListMaker@Init$q4Wordt1
+          52C47E0E065731C050C47E0606579A........C47E:
+            0. 1D 0969 0067 0000:@TInputLine@Init$qm5TRect7Integer
+          53C47E0C065731C050C47E0606579A........C47E:
+            0. 30 C03B 0068 0000:@TMultiCheckBoxes@Load$qm7TStream
+          55C47E0C065731C050C47E0606579A........C47E:
+            0. 28 D608 006A 0000:@TWindow@Load$qm7TStream
+          5D31C050C47E0606579A........C47E06837E0C00:
+            0. 20 411E 0072 0000:@TMemoryStream@Init$q7Longint4Word
+          6AC47E0C065731C050C47E0606579A........C47E:
+            0. 04 1F18 007F 0000:@TButton@Load$qm7TStream
+          73C47E0C065731C050C47E0606579A........C47E:
+            0. 2C 4C87 0088 0000:@TScrollBar@Init$qm5TRect
+          74C47E1606576A01FF7614FF7612FF7610FF760E31:
+            0. 08 5404 0089 0000:@THistoryViewer@Init$qm5TRect10PScrollBart24Word
+        7503E9:
+          8000C47E160657FF7614FF7612FF7610FF760E:
+            0. 09 9073 0098 0000:@TTerminal@Init$qm5TRect10PScrollBart24Word
+          990031C050C47E0606579A........B86735CD:
+            0. 05 6AA6 00B1 0000:@TEmsStream@Init$q7Longintt1
+          A300C47E0C065731C050C47E0606579A:
+            0. 00 0000 00BB 0000:@TCluster@Load$qm7TStream
+          A600C47E1A065731C050C47E0606579A:
+            0. 00 0000 00BE 0000:@TEditor@Init$qm5TRect10PScrollBart210PIndicator4Word
+          AB00C47E0C065731C050C47E0606579A:
+            0. 00 0000 00C3 0000:@TInputLine@Load$qm7TStream
+          CE00C47E0C065731C050C47E0606579A:
+            0. 00 0000 00E6 0000:@TEditor@Load$qm7TStream
+        C9CA0600:
+          0. 00 0000 000E 0000:@TObject@Done$qv (REF 0006: @Object@$bdtr$q4Word)
+    5089E01650B8020050C47E060657268B3DFF5D1C5809C0741A8B1E:
+      0. 14 01FB 004F 0000:@TStream@Get$qv
+    6A:
+      00:
+        6A00:
+          6A006A00C47E0606579A........C9CA0400:
+            0. 00 0000 0019 0000:@TEditor@DeleteSelect$qv
+          C47E0606579A........:
+            31C050C47E0606579A........31FF:
+              0. 01 ABCB 0029 0000:@TStringLookupValidator@Done$qv
+            C9CA0400:
+              0. 00 0000 0015 0000:@TStatusLine@Draw$qv
+        8B7E0636FF75F48B7E0636C47D0626FF750E6A018B7E0681C7E8FE:
+          0. 0C C131 003B 0000:?
+        C47E0606579A........:
+          31C050C47E0606579A........31FF9A:
+            0. 00 0000 0027 0000:@TMemoryStream@Done$qv
+          C9CA0400:
+            0. 00 0000 0013 0000:@TButton@Draw$qv
+        FF760CC47E06268B4544262B450E50E8....50E8....89460C6A00:
+          0. 10 7952 006C 0000:@TEditor@ScrollTo$q7Integert1
+      016A01C47E0606579A........52506A00C47E0606579A........C9:
+        0. 03 4CD8 0023 0000:?
+      026A:
+        00C47E060657268B3DFF5D44C9CA0400:
+          0. 00 0000 0016 0000:@TView@HideCursor$qv
+        01C47E060657268B3DFF5D44C9CA0400:
+          0. 00 0000 0016 0000:@TView@ShowCursor$qv
+      04:
+        6A:
+          00C47E060657268B3DFF5D44C9CA0400:
+            0. 00 0000 0016 0000:@TView@NormalCursor$qv
+          01C47E060657268B3DFF5D44C9CA0400:
+            0. 00 0000 0016 0000:@TView@BlockCursor$qv
+        C47E060657268B3DFF5D4C08C0740AC47E0606579A........C9CA:
+          0. 02 2768 0022 0000:@TWindow@Close$qv
+      17C47E0626837D4C00750B26837D4E007504B000EB02B00150C47E06:
+        0. 03 39B5 00D3 0000:@TEditor@UpdateCommands$qv
+    80:
+      3E....:
+        007434E8....8A3E....A0....38D8740A08C0742C08DB7469:
+          0. 04 E26A 00B7 0000:@GetMouseEvent$qm6TEvent
+        077439A1....25000109C07408C706....0100EB06C706:
+          0. 04 3C27 005C 0000:@TProgram@InitScreen$qv
+      7E0A007429C47E06268B453C262B450E4050268B451099B90200F7F9:
+        0. 0C 98B5 007A 0000:@TEditor@TrackCursor$q7Boolean
+    837E0A007D0731C089460AEB:
+      148B460AC47E06263B452E7C08268B452E:
+        0. 31 C373 007F 0000:?
+      1B8B460AC47E06263B452E7C0F26837D2E:
+        0. 24 FD5C 0044 0000:?
+    8A:
+      0E....30EDA0....FEC8F6E1D1E0C43E....01C71EC57604268B05A5:
+        0. 0A 8523 002A 0000:?
+      46:
+        04A2....A1....8B16....A3....8916....C9C20200:
+          0. 00 0000 001B 0000:?
+        0AC47E0C2688450CC9CA0A00:
+          0. 00 0000 0011 0000:@TOutline@Adjust$q7Pointer7Boolean
+      56088B7E06368B7D06368A45FD30E48B7E06368B7D0636C47D0C03F8:
+        0. 16 885B 0036 0000:?
+    8B:
+      46:
+        06:
+          0B460874:
+            15FF7608FF7606C47E06268A0530E440509A:
+              0. 04 E420 0024 0000:@DisposeStr$q7PString
+            18FF7608FF7606FF7608FF76069A........40509A:
+              0. 00 0000 0027 0000:@StrDispose$q5PChar
+          3B4604:
+            73038B4604C9C20400:
+              0. 00 0000 0012 0000:?
+            76038B4604C9C20400:
+              0. 00 0000 0012 0000:?
+            7D038B4604C9C20400:
+              0. 00 0000 0012 0000:?
+            7E038B4604C9C20400:
+              0. 00 0000 0012 0000:?
+          E8....E8....E8....C9CA0200:
+            0. 00 0000 0013 0000:@SetVideoMode$q4Word
+        080B460A74:
+          23C47E08268B451A25000109C07417A1....0B06:
+            0. 72 5025 0092 0000:?
+          2A6A308B7E0636C47D0606579A........08C0740CC4:
+            0. 05 112D 0039 0000:?
+          3E6A108B7E0636C47D0606579A........08C074206A:
+            0. 0B E905 004D 0000:?
+        0A:
+          0B460C74:
+            0EB00150C47E0A0657268B3DFF5D08C9CA0800:
+              0. 00 0000 001D 0000:@TCollection@FreeItem$q7Pointer
+            116A208A460850C47E0A0657268B3DFF5D44C9CA0800:
+              0. 00 0000 0020 0000:?
+            1CC47E0A0657C47E0A268A0530E44050C47E06065726:
+              0. 08 1542 003D 0000:@TStream@WriteStr$q7PString
+          8B560C:
+            050800C9CA0800:
+              0. 00 0000 0010 0000:@TResourceCollection@KeyOf$q7Pointer
+            C47E06:
+              268B4D06E32526C47D0289FBD1E1FCF2AFE318F7:
+                0. 1E 7580 003E 0000:@TCollection@IndexOf$q7Pointer
+              8B5E0E09DB7C17263B5D067D1126C47D02D1E3D1:
+                0. 0E 69EE 0034 0000:@TCollection@AtPut$q7Integer7Pointer
+          C47E06268945:
+            2C268B4524260B4526740EFF760A26C47D240657:
+              0. 01 ABCB 00AB 0000:@TListViewer@FocusItem$q7Integer
+            2E268B4524260B4526743E268B452C3B460A7E06:
+              0. 31 3A78 0059 0000:@TListViewer@SetRange$q7Integer
+            32:
+              268B45302B460A2689453431C02689453631C0:
+                0. 38 7DB8 008C 0000:?
+              C9CA0600:
+                0. 00 0000 0011 0000:@TOutlineViewer@Focused$q7Integer
+          E8....C9CA0600:
+            0. 00 0000 000D 0000:@TView@GetColor$q4Word
+        0C:
+          31D2C47E062603450626135508525026C47D020657268B3DFF5D:
+            0. 48 206C 0068 0000:?
+          C47E06268945:
+            028B460A26894504A1....0B06....74060657FF:
+              0. 01 8709 0027 0000:@TStream@Error$q7Integert1
+            128B460A2689451406579A........C9CA0800:
+              0. 00 0000 001F 0000:@TView@SetCursor$q7Integert1
+            2C8B460A2689452E26FE4530268B4520260B4522:
+              0. 2F A83F 00A3 0000:@TScroller@SetLimit$q7Integert1
+        0E0B4610742C8B460E8B56103B560C75053B460A741CC47E0E0657:
+          0. 01 ABCB 003B 0000:?
+      4E06:
+        BB00004389D8F7E839C87EF789D848C9CA0200:
+          0. 00 0000 0019 0000:?
+        E31C:
+          8CDAC47E0EC5760A8A6608FC08E47407ACABE2FCEB0447A4:
+            0. 08 512B 0028 0000:@MoveBuf$qm3Anyt14Byte4Word
+          C47E0C8A460A8A6608FC08C0740808E47407F3ABEB0688E0:
+            0. 08 BC52 0028 0000:@MoveChar$qm3Any4Char4Byte4Word
+      7E06:
+        36:
+          8A4516240108C074:
+            0E8B460A368945F48B4608368945F6C9CA:
+              0. 02 975B 0022 0000:?
+            1E9A........240308C075138B460A8B7E:
+              0. 1C E43A 005B 0000:?
+          8B:
+            45FA8B7E0636C47D06263B45307F2C8B7E06368B45F88B7E:
+              0. 1F 56DD 0047 0000:?
+            7D0636C47D0626C47D28268B05268B55028B7E06368B7D06:
+              0. 38 47A4 0058 0000:?
+          C47D:
+            06:
+              065726C47D0206579A........8B7E0636C47D060657:
+                0. 19 D1E0 0041 0000:?
+              26:
+                8A4516241008C0750F8B7E06368B45FCC47E082601:
+                  0. 38 F81A 0058 0000:?
+                8B45:
+                  07268B5509C47E082603052613550252508B7E:
+                    0. 57 5DE1 007F 0000:?
+                  1A25400009C074198B460A0B460C74116A408A:
+                    0. 12 6521 0032 0000:?
+                  24260B4526742126C47D24268B451C25010009:
+                    0. 11 788B 0050 0000:?
+                  268B7E06363B45FC7D238B7E0636C47D06268B:
+                    0. 38 0290 0058 0000:?
+                  28260B452A7429807E08007408559A:
+                    0. 04 04C8 0041 0000:?
+                  2A263B452C743026C47D2006578B7E0636C47D:
+                    0. 11 0D8C 0048 0000:?
+                  2E260B4530:
+                    746A8B7E0681C7F8FE16578B7E06:
+                      0. 0E D1A5 0082 0000:?
+                    7503E98B0026C47D2006578B7E06:
+                      0. 0A 40C7 00A6 0000:?
+                FF750426FF75026800026A3606579A........C9CA:
+                  0. 02 F73C 0022 0000:?
+            0A:
+              0657:
+                8B7E0636C47D060657268B3DFF5D3C8B7E0636C4:
+                  0. 0B AF07 0099 0000:?
+                FF760AFF76088B7E0636C47D060657268B3DFF5D:
+                  0. 05 6C40 0025 0000:?
+              268B4504268B55063B560E75313B460C752CC47E0C26:
+                0. 24 DDC7 004C 0000:?
+          FF750C368A450A50C47E080657268B3DFF5D44C9CA0600:
+            0. 00 0000 001E 0000:?
+        81C7E8FE16578B7E0881C7....1E578B7E06368A45FE506A029A:
+          0. 00 0000 0090 0000:?
+    8C:
+      D83B460875128B76068B0409C074098B3E....897C0CEB0CEA:
+        0. 00 0000 0034 0000:@RegisterType$qm10TStreamRec
+      DAC57608FCAC88C130EDE3:
+        14C47E0C8A660608E47407ACABE2FCEB04:
+          0. 0A 0F06 002A 0000:@MoveStr$qm3Any6String4Byte
+        16C47E0C8B5E0688DCAC3C7E7405ABE2F8:
+          0. 0C 583B 002C 0000:@MoveCStr$qm3Any6String4Word
+    9A........:
+      08C07402EBF59A........C9CB:
+        0. 00 0000 0015 0000:@DoneMemory$qv
+      9A........A1....8B16....A3....8916....C9CB:
+        0. 00 0000 001D 0000:?
+      C9CA0400:
+        0. 00 0000 000C 0000:@TStream@Truncate$qv (REF 0004: @Abstract$qv)
+    A1....0B06....74:
+      0CC43E....0657268B3DFF5D58803E....007418C4:
+        0. 0E 3FDB 003B 0000:@TProgram@Idle$qv
+      0FB00150C43E....0657268B3DFF5D08A1....0B06:
+        0. 00 0000 006B 0000:@TProgram@Done$qv
+      26C47E0689F88CC23B16....75063B06....7413FF:
+        0. 01 CDA4 0036 0000:?
+    B00150C47E060657268B3DFF5D08C9CA0400:
+      0. 00 0000 0015 0000:@TObject@Free$qv
+    B4:
+      01CD16B8000089C37408B400CD1693B8100031C989CAE8....C9CA04:
+        0. 01 78F0 0021 0000:@GetKeyEvent$qm6TEvent
+      19CD21:
+        0441C9C20200:
+          0. 00 0000 000D 0000:?
+        88C38A560480EA41B40ECD21B419CD21B9000038D07509B901:
+          0. 0C 2308 002C 0000:?
+    B8:
+      01008B4E0AD3E099C47E0626334520263355222689452026895522C9:
+        0. 03 FCEB 0023 0000:@TCheckBoxes@Press$q7Integer
+      D3009A........C9CB:
+        0. 00 0000 000D 0000:@Abstract$qv (REF 0007: @RunError$q4Byte)
+      D400:
+        2B460C9A........C9CA0800:
+          0. 00 0000 0012 0000:@TCollection@Error$q7Integert1
+        9A........C9CB:
+          0. 00 0000 000D 0000:? (REF 0007: @RunError$q4Byte)
+      ....BA....A3....8916....A1....C1E004A3....9A........C9CB:
+        0. 00 0000 0020 0000:@InitMemory$qv
+    BF....:
+      1E57:
+        9A........:
+          BF....1E579A........:
+            BF....1E579A:
+              0. 00 0000 007D 0000:@RegisterDialogs$qv (003D: BF)
+              1. 00 0000 005F 0000:@RegisterStdDlg$qv (003D: C9)
+              2. 00 0000 004B 0000:@RegisterViews$qv
+            C9CB:
+              0. 00 0000 0019 0000:@RegisterApp$qv
+          C9CB:
+            0. 00 0000 000F 0000:@RegisterOutline$qv (REF 0009: @RegisterType$qm10TStreamRec)
+        C47E:
+          0606579A........C47E0681C76E000657C47E0A0657:
+            0. 04 C27D 002C 0000:@TColorDialog@GetData$qm3Any
+          0A06576A209A........C9CA0800:
+            0. 00 0000 0018 0000:@TView@GetCommands$qm11TCommandSet
+      B8....5057C47E0606579A........C9CA0400:
+        0. 00 0000 0019 0000:@TGroup@Awaken$qv
+    C4:
+      3E....26C60500A1....40A3....C9CB:
+        0. 00 0000 0014 0000:@ClearHistory$qv
+      460A8CC2C47E068B5E0E09DB7C17263B5D067D1126C47D02D1E3D1E3:
+        0. 0D D86B 0033 0000:@TCollection@AtPut$q7Integer7Pointer
+      7E:
+        06:
+          0657:
+            06579A........9A........C9CA0400:
+              0. 00 0000 0018 0000:@TBufStream@GetSize$qv
+            268B3DFF5D:
+              24C9CA0400:
+                0. 00 0000 0012 0000:@TProgram@Run$qv
+              5831C050C47E0606579A........31FF9A:
+                0. 00 0000 0026 0000:@TEditor@Done$qv
+            9A........:
+              08C074:
+                0AC47E0606579A........C9CA0400:
+                  0. 00 0000 001F 0000:?
+                12807E0A00740CC47E0606579A:
+                  0. 00 0000 0061 0000:?
+                15C47E060657268B3DFF5D1CC47E0606:
+                  0. 02 6BAA 002A 0000:@TView@DrawView$qv
+              09D278:
+                11C47E06262B451083DA002603450E83:
+                  0. 06 2066 0026 0000:@TBufStream@GetPos$qv
+                31C47E062B460A1B560C751209C0740E:
+                  0. 19 51C9 0046 0000:@TBufStream@Seek$q7Longint
+              31C050C47E06:
+                06579A........C47E0626FF75:
+                  0. 0A 6A86 0039 0000:@TBufStream@Done$qv
+                81C70F000657268B3DFF5D08B0:
+                  0. 14 AFE5 003C 0000:@TResourceFile@Done$qv
+              50C47E0606579A........C9CA0400:
+                0. 00 0000 001C 0000:@TScrollBar@Draw$qv
+              52506A006A00C47E0606579A........C9CA04:
+                0. 01 78F0 0021 0000:@TGroup@Redraw$qv
+              6A:
+                00C47E060657268B3DFF5D2431FF9A:
+                  0. 00 0000 0025 0000:@TCollection@Done$qv
+                206A01C47E0606579A........6A216A01C4:
+                  0. 05 5383 002D 0000:@TFileEditor@UpdateCommands$qv
+              C47E06:
+                06579A........C9CA0400:
+                  0. 00 0000 001B 0000:@TBufStream@Truncate$qv
+                26:
+                  8B45:
+                    02260B4504740D065726C47D02:
+                      0. 03 39B5 0032 0000:@TView@Done$qv
+                    1A25080009C0:
+                      740F6A01FF760C:
+                        0. 06 958B 002E 0000:?
+                      B00074014050FF:
+                        0. 08 3BDB 0030 0000:?
+                  C6455301C9CA0400:
+                    0. 00 0000 0019 0000:?
+                81C7020006576A02C47E0A0657268B3D:
+                  0. 5C 8F8F 007C 0000:@TStrListMaker@Store$qm7TStream
+          26:
+            80:
+              3D007502EB398A460A50E8....E8....A1....0B06....74:
+                0. 08 C526 004B 0000:@HistoryAdd$q4Byte6String
+              7D:
+                3000751326807D3100740C26C645310006579A:
+                  0. 04 E420 0024 0000:?
+                3700741226FE4D3726807D3700750706579A........C9:
+                  0. 03 4CD8 0023 0000:@TGroup@Unlock$qv
+                5400B000750140268845546A046A0406579A........08:
+                  0. 16 94A8 0036 0000:?
+                5600761226FE4D5626807D5600750706579A........C9:
+                  0. 03 4CD8 0023 0000:?
+                57007503E90301268B453C262B454050268B453E262B45:
+                  0. 05 3EBE 0117 0000:?
+            837D:
+              020075:
+                05B002E8....C9CA0400:
+                  0. 00 0000 0016 0000:@TBufStream@Flush$qv
+                0A268B45:
+                  0A268B550CEB04B8FFFF99C9CA0400:
+                    0. 00 0000 001F 0000:@TEmsStream@GetSize$qv
+                  0E268B5510EB04B8FFFF99C9CA0400:
+                    0. 00 0000 001F 0000:@TEmsStream@GetPos$qv
+                  10268B5512EB04B8FFFF99C9CA0400:
+                    0. 00 0000 001F 0000:@TMemoryStream@GetSize$qv
+                  14268B5516EB04B8FFFF99C9CA0400:
+                    0. 00 0000 001F 0000:@TMemoryStream@GetPos$qv
+                1F8B560A8B4E0C09C9790431D231C9268B5D06B8:
+                  0. 0A DAEB 0030 0000:@TDosStream@Seek$q7Longint
+                211EC5560C8B4E0A268B5D06B4:
+                  3FCD211FBAFFFF:
+                    0. 0C B2D5 003D 0000:@TDosStream@Read$qm3Any4Word
+                  40CD211FBAFFFF:
+                    0. 0C 254C 0032 0000:@TDosStream@Write$qm3Any4Word
+                4EB000E8....754731D28B4E0A29D1743EC47E06:
+                  0. 0F D1DF 005F 0000:@TBufStream@Write$qm3Any4Word
+                6CB001E8....756531DB8B4E0A29D97467C47E06:
+                  0. 57 CBF0 0088 0000:@TBufStream@Read$qm3Any4Word
+              1400743181C712000657C47E06268B450AD1E08BF0D1E0:
+                0. 0D 7D63 0042 0000:?
+            8A:
+              0D4730ED89CBE30AB07EFCF2AE75034BEBF989D8C9CA0400:
+                0. 00 0000 0020 0000:@CStrLen$q6String
+              45:
+                2450C47E0A06579A........C9CA0800:
+                  0. 00 0000 0019 0000:@THistory@RecordHistory$q6String
+                570A460A2688455726807D5600750706579A........C9:
+                  0. 03 FCEB 0023 0000:?
+            8B:
+              45:
+                02260B45047414C47E0A0657C47E0626C47D020657268B:
+                  0. 08 064D 0028 0000:@TView@GetEvent$qm6TEvent
+                  1. 08 46F9 0028 0000:@TView@PutEvent$qm6TEvent
+                  2. 08 D502 0028 0000:@TGroup@EventError$qm6TEvent
+                06260B4508740FB0015026C47D060657268B3DFF5D088B:
+                  0. 14 A4EB 0034 0000:@TStringLookupValidator@NewStringList$q17PStringCollection
+                1A:
+                  25:
+                    000209C074098B460A2689452DEB0DFF760AC47E06:
+                      0. 03 39B5 002B 0000:@TGroup@EndModal$q4Word
+                    010009C0:
+                      740C6A016A000657268B3DFF5D44C9CA04:
+                        0. 01 78F0 0021 0000:@TView@Hide$qv
+                      750C6A016A010657268B3DFF5D44C9CA04:
+                        0. 01 78F0 0021 0000:@TView@Show$qv
+                    400009C074080657268B3DFF5D50C9CA0400:
+                      0. 00 0000 001D 0000:?
+                  F7D0A94300757A268B4514268B551209C07C6E263B45:
+                    0. 7A 750B 00B7 0000:?
+                1C25:
+                  010009C07430268B451C25020009C0740906579A:
+                    0. 00 0000 0045 0000:@TView@Select$qv
+                  400009C07417268B4529260B452B740D26FF752B26:
+                    0. 04 914F 002C 0000:?
+                20:
+                  26:
+                    0B452274:
+                      1526C47D200657C47E0A065768FF009A:
+                        0. 00 0000 0030 0000:@TStaticText@GetText$qm6String
+                      1EC47E0A0657C47E0626C47D200657C47E:
+                        0. 08 E86C 0039 0000:@TParamText@GetText$qm6String
+                    8B5522:
+                      3B560E750E3B460C7509268A45243A460A74:
+                        0. 1C 88B6 0044 0000:@TIndicator@SetValue$q6TPoint7Boolean
+                      C47E0A26890526895502:
+                        C47E0606579A:
+                          0. 00 0000 0026 0000:@TMultiCheckBoxes@GetData$qm3Any
+                        C9CA0800:
+                          0. 00 0000 001C 0000:@TMultiCheckBoxes@GetData$qm3Any
+                  C47E0A268905:
+                    C47E0606579A........C9CA0800:
+                      0. 00 0000 001E 0000:@TCluster@GetData$qm3Any
+                    C9CA0800:
+                      0. 00 0000 0014 0000:@TCluster@GetData$qm3Any
+                2426:
+                  0B4526740C26C47D240657268B3DFF5D50C9CA0400:
+                    0. 00 0000 0020 0000:?
+                  8B55263B560E75053B460C7470C47E0606579A:
+                    0. 00 0000 008C 0000:?
+                29260B452B750726807D37007407C47E0626FE4537C9CA:
+                  0. 02 2768 0022 0000:@TGroup@Lock$qv
+                2C260B452E74:
+                  0D26FF752E26FF752C9A........C9CA04:
+                    0. 01 78F0 0021 0000:@TFileEditor@DoneBuffer$qv
+                  1E26FF752E26FF752C26FF75309A:
+                    0. 00 0000 0032 0000:@TEditor@DoneBuffer$qv
+                2E260B453074:
+                  0B26C47D2E06579A........8B460A8B56:
+                    0. 10 2FB8 0030 0000:@TInputLine@SetValidator$q10PValidator
+                  2026C47D200657C47E0A06576A:
+                    01C47E06:
+                      0. 2B 280C 005F 0000:@TInputLine@SetData$qm3Any
+                    02C47E06:
+                      0. 24 1FF2 006D 0000:@TInputLine@GetData$qm3Any
+                3026:
+                  0B453274:
+                    0FB0015026C47D300657268B3DFF5D088B:
+                      0. 25 B682 0079 0000:@TListBox@NewList$q11PCollection
+                    23FF760C26C47D3006579A........89C7:
+                      0. 0D 238F 003E 0000:@TListBox@GetText$q7Integert1
+                  8B5532C47E0A26890526895502C47E06268B452CC4:
+                    0. 0A 960B 002A 0000:@TListBox@GetData$qm3Any
+                32C47E0A268905C47E0626C47D2C0657C47E0A81C70200:
+                  0. 0A 5A1B 008D 0000:@TMemo@GetData$qm3Any
+                48263B4542742326FF754A268B4542262B45485006579A:
+                  0. 00 0000 004B 0000:@TEditor@Draw$qv
+                49260B454B741426C47D490657C47E0C06576A509A:
+                  0. 00 0000 002F 0000:@TWindow@GetTitle$q7Integer
+              4D06E3:
+                1C26C47D0206575126FF750226FF35FF7600FF5E0A:
+                  0. 0C 8408 002C 0000:@TCollection@ForEach$q7Pointer
+                2026C47D0206575126FF750226FF35FF7600FF5E0A:
+                  0. 1D 894B 003D 0000:@TCollection@FirstThat$q7Pointer
+                2826C47D0289C8D1E0D1E001C783EF0406575126FF:
+                  0. 25 859F 0045 0000:@TCollection@LastThat$q7Pointer
+                2926C47D0289FE1E061FFCAD92AD89C309D3740492:
+                  0. 19 725C 0039 0000:@TCollection@Pack$qv
+              550683FAFF7404B445CD6731C05006579A........31FF9A:
+                0. 00 0000 0028 0000:@TEmsStream@Done$qv
+              5D0683FBFF7404B43ECD2131C05006579A........31FF9A:
+                0. 00 0000 0028 0000:@TDosStream@Done$qv
+            C47D:
+              0206579A........5250C47E0606579A........C9CA04:
+                0. 01 78F0 0021 0000:@TView@MakeFirst$qv
+              20:
+                8B4E0A26C47D06E2FA89F88CC2C9CA0600:
+                  0. 00 0000 001B 0000:?
+                8CC009F8742189F98CC331C04026C47D068CC23B7E0A:
+                  0. 15 74B5 0035 0000:?
+              4D06579A........08C0740CC47E0606579A........EB:
+                0. 07 DC3E 002F 0000:@TEditWindow@Close$qv
+            C645530026FF753A26FF753A6A0006579A........C9CA0400:
+              0. 00 0000 0020 0000:?
+            F7451A0008742D26F7451C40007425268B4529260B452B751B:
+              0. 17 A62B 003F 0000:?
+            FE45:
+              30268B4520260B4522740EFF760C26C47D2006579A:
+                0. 00 0000 004F 0000:@TScroller@ScrollTo$q7Integert1
+              56C9CA0400:
+                0. 00 0000 000E 0000:?
+            FF:
+              75:
+                0426FF75026800026A:
+                  3506579A........C9CA0400:
+                    0. 00 0000 001E 0000:@TScrollBar@ScrollDraw$qv
+                  3806579A........C9CA0600:
+                    0. 00 0000 001E 0000:@TListViewer@SelectItem$q7Integer
+                  47268B4520268B5522250F0081E2:
+                    0. 05 0811 005D 0000:@TMonoSelector@NewColor$qv
+                06FF760CFF760A06579A........C9CA0800:
+                  0. 00 0000 001B 0000:@TCollection@Insert$q7Pointer
+                0826FF75069A........31C050C47E0606579A:
+                  0. 03 ADDE 002B 0000:@TPXPictureValidator@Done$qv
+                0E26FF750C268B450AD1E08BF0D1E001F0509A:
+                  0. 03 ADDE 002B 0000:@TStringList@Done$qv
+                1026FF750E268B450CD1E08BF0D1E001F0509A:
+                  0. 10 635E 003F 0000:@TStrListMaker@Done$qv
+                20:
+                  26FF752226FF7524FF760CFF760A06579A........C9:
+                    0. 03 EC71 0023 0000:@TScrollBar@SetStep$q7Integert1
+                  FF760CFF760A26FF752626FF752806579A........C9:
+                    0. 03 EC71 0023 0000:@TScrollBar@SetRange$q7Integert1
+                2226FF7520268B452440509A........6A006A00C47E06:
+                  0. 03 39B5 003F 0000:@TInputLine@Done$qv
+                2626FF75249A........31C050C47E0606579A:
+                  0. 03 ADDE 002B 0000:@TColorDisplay@Done$qv
+                309A........C47E062689452C2689552EC9CA0400:
+                  0. 00 0000 001E 0000:@TEditor@InitBuffer$qv
+                3626FF7534:
+                  26FF75329A........31C050C47E0606579A:
+                    0. 00 0000 002F 0000:@TTerminal@Done$qv
+                  9A........31C050C47E0606579A:
+                    0. 03 ADDE 002B 0000:@TOutline@Done$qv
+                3C26FF753A9A........31C050C47E0606579A:
+                  0. 03 ADDE 002B 0000:@TMultiCheckBoxes@Done$qv
+              B5A70026FFB5A5009A........31C050C47E0606579A:
+                0. 00 0000 002D 0000:@TFileDialog@Done$qv
+          31:
+            C0:
+              268945:
+                0231C026894504C9CA0400:
+                  0. 00 0000 0016 0000:@TStream@Reset$qv
+                06C9CA0400:
+                  0. 00 0000 0010 0000:@TCollection@DeleteAll$qv
+                2631C02689452831C02689452A807E0A00741226C4:
+                  0. 1F 74A0 0047 0000:@TInputLine@SelectAll$q7Boolean
+              89C22603450A2603550C26C47D028CC609FE75EE:
+                03460E03:
+                  0. 0D 33AE 002D 0000:@TView@MakeGlobal$q6TPointm6TPoint
+                F7D8F7DA:
+                  0. 11 2559 0031 0000:@TView@MakeLocal$q6TPointm6TPoint
+            C9263B4D027510268B5D06B440CD217306BAFFFFE8....C9CA:
+              0. 02 2768 0022 0000:@TDosStream@Truncate$qv
+            D2263B550275:
+              1389D1268B5D06B80142CD21730ABAFFFFE8:
+                0. 00 0000 0029 0000:@TDosStream@GetPos$qv
+              2B89D1268B5D06B80142CD21525031D289D1B8:
+                0. 17 BDA3 0041 0000:@TDosStream@GetSize$qv
+            DB26:
+              395D0275:
+                36803E....40721F268B450E268B551005FF3F:
+                  0. 08 20BB 0048 0000:@TEmsStream@Truncate$qv
+                37268B4514268B551626F7750EF7DA11D85006:
+                  0. 02 6BAA 0049 0000:@TMemoryStream@Truncate$qv
+              3B5D02:
+                7403E9:
+                  8000268B450E268B551003460A11DA05FF:
+                    0. 10 5E6C 0095 0000:@TEmsStream@Write$qm3Any4Word
+                  8E00268B4514268B551603460A11DA26F7:
+                    0. 13 261A 00A3 0000:@TMemoryStream@Write$qm3Any4Word
+                7523268B45:
+                  0E268B551003460A11DA263B550C77:
+                    0. 0F DFDE 0076 0000:@TEmsStream@Read$qm3Any4Word
+                  14268B551603460A11DA263B551277:
+                    0. 0F 2DF8 007B 0000:@TMemoryStream@Read$qm3Any4Word
+          81C7:
+            040006576A02C47E0A0657268B3DFF5D28C9CA0800:
+              0. 00 0000 001D 0000:@TValidator@Store$qm7TStream
+            060006576A06C47E0A0657268B3DFF5D28BF....B8....50:
+              0. 07 5C62 002F 0000:@TCollection@Store$qm7TStream
+            2C0006576800109A........C9CA0400:
+              0. 00 0000 0018 0000:@TFileEditor@InitBuffer$qv
+          89:
+            F88CC2C47E0E26894502268955048B460A0B460C7439C47E0A:
+              0. 03 39B5 00BA 0000:?
+            F98CC389F88CC226C47D0639CF75F48CC639DE75EEC9CA0400:
+              0. 00 0000 0020 0000:@TView@Prev$qv
+          8B:
+            46:
+              0A:
+                263B453A720426034534C9CA0600:
+                  0. 00 0000 0017 0000:@TEditor@BufPtr$q4Word
+                8B560C09D2790331C099268945:
+                  0E26895510C9CA0800:
+                    0. 00 0000 001F 0000:@TEmsStream@Seek$q7Longint
+                  1426895516C9CA0800:
+                    0. 00 0000 001F 0000:@TMemoryStream@Seek$q7Longint
+              0C:
+                26:
+                  0105260145048B460A2601450226014506C9CA0800:
+                    0. 00 0000 001F 0000:@TRect@Move$q7Integert1
+                  2905260145048B460A2629450226014506E8....C9CA:
+                    0. 02 87C1 0022 0000:@TRect@Grow$q7Integert1
+                8B560EF6460AFF750EF7D0F7D22621452626215528EB08:
+                  0. 37 1EE4 0057 0000:@TCluster@SetButtonState$q7Longint7Boolean
+                  1. 37 DE14 0057 0000:@TCluster@SetButtonState$q7Longint7Boolean
+            4E0431D2B00DFCE307F2AE750342EBF789D0C9C20600:
+              0. 00 0000 001D 0000:?
+            5E:
+              0A:
+                09DB7C:
+                  17263B5D067D1126C47D02D1E3D1E3268B01268B:
+                    0. 08 513E 0032 0000:@TCollection@At$q7Integer
+                  2A263B5D067D2426FF4D06268B4D0629D9741EFC:
+                    0. 1B 915C 0041 0000:@TCollection@AtDelete$q7Integer
+                263B5D3A720426035D3426C47D2C268A01C9CA0600:
+                  0. 00 0000 001E 0000:@TEditor@BufChar$q4Word
+              0E09DB7C53268B4D0639CB7F4B263B4D08751A515326034D:
+                0. 4B 8073 0071 0000:@TCollection@AtInsert$q7Integer7Pointer
+          B0:
+            008B560A263B157C16263B55047D108B560C263B55027C0726:
+              0. 0A 11F9 002A 0000:@TRect@Contains$q6TPoint
+            01268B15263B55047D0B268B5502263B55067D0148C9CA0400:
+              0. 00 0000 0020 0000:@TRect@Empty$qv
+          FC8B4610AB8B460EAB8B460CAB8B460AABC9CA0C00:
+            0. 00 0000 001B 0000:@TRect@Assign$q7Integert1t1t1
+        08:
+          0657268B3DFF5D:
+            0CC9CA0600:
+              0. 00 0000 0012 0000:?
+            188B7E06360145FCC9CA0600:
+              0. 00 0000 0019 0000:?
+          268B451A25010009C074166800088B7E06368A450A50C47E0806:
+            0. 0B F995 002B 0000:?
+        0A:
+          0657:
+            6A16C47E0E0657268B3DFF5D28C9CA0C00:
+              0. 00 0000 0019 0000:@TFileCollection@PutItem$qm7TStream7Pointer
+            BF....1E576A089A........C9CA0800:
+              0. 00 0000 0018 0000:@TProgram@PutEvent$qm6TEvent
+            C4:
+              3E....06579A........C9CA0800:
+                0. 00 0000 0017 0000:@TApplication@GetTileRect$qm5TRect
+              7E:
+                06:
+                  0657:
+                    268B3DFF5D2CC47E0A26833D1075E7C9CA0800:
+                      0. 00 0000 0020 0000:@TView@KeyEvent$qm6TEvent
+                    9A........:
+                      6A00C47E0626FF7540268B454426:
+                        0. 05 4038 005C 0000:@TEditor@ChangeBounds$qm5TRect
+                      C47E:
+                        06:
+                          06579A........C9CA0800:
+                            0. 00 0000 0020 0000:@TView@ChangeBounds$qm5TRect
+                          26:
+                            8B45:
+                              02260B4504741426:
+                                0. 0F 3358 0052 0000:@TView@GetClipRect$qm5TRect
+                              2026:
+                                0B4522742026:
+                                  0. 1B FCED 006A 0000:@TListViewer@ChangeBounds$qm5TRect
+                                894524C9CA08:
+                                  0. 01 78F0 0021 0000:@TRadioButtons@SetData$qm3Any
+                            FE453026FF752C26FF75:
+                              0. 04 3AAE 003F 0000:@TScroller@ChangeBounds$qm5TRect
+                            FF75:
+                              0826FF7506C47E0A:
+                                0. 03 39B5 002B 0000:@TPXPictureValidator@Store$qm7TStream (REF 0023: @TStream@WriteStr$q7PString)
+                                1. 03 39B5 002B 0000:@TStringLookupValidator@Store$qm7TStream (REF 0023: @TStream@Put$q7PObject)
+                              2226FF7520C47E0A:
+                                0. 03 39B5 0041 0000:@TButton@Store$qm7TStream (0007: 81)
+                                1. 03 39B5 002B 0000:@TStaticText@Store$qm7TStream (0007: 00)
+                              2626FF7524C47E0A:
+                                0. 03 39B5 002B 0000:@TColorDisplay@Store$qm7TStream
+                              3226FF7530:
+                                559A:
+                                  0. 00 0000 0027 0000:@TColorGroupList@Store$qm7TStream
+                                C47E0A:
+                                  0. 03 39B5 002B 0000:@TListBox@Store$qm7TStream
+                              3626FF7534559A:
+                                0. 00 0000 0027 0000:@TOutline@Store$qm7TStream
+                          81C7:
+                            060006576A20C47E0A:
+                              0. 0C ADB1 002C 0000:@TFilterValidator@Store$qm7TStream
+                            0C0006576A01C47E0A:
+                              0. 0C ADB1 002C 0000:@TSortedCollection@Store$qm7TStream
+                            200006576A:
+                              01C47E0A:
+                                0. 0C ADB1 002C 0000:@TBackground@Store$qm7TStream
+                              02C47E0A:
+                                0. 0C ADB1 002C 0000:@TColorSelector@Store$qm7TStream
+                              0AC47E0A:
+                                0. 17 DF29 003F 0000:@TCluster@Store$qm7TStream
+                              0FC47E0A:
+                                0. 0C ADB1 002C 0000:@TScrollBar@Store$qm7TStream
+                            240006576A:
+                              02C47E0A:
+                                0. 0C ADB1 002C 0000:@TParamText@Store$qm7TStream
+                              0AC47E0A:
+                                0. 19 B474 0056 0000:@TInputLine@Store$qm7TStream
+                            260006576A08C47E0A:
+                              0. 0C ADB1 002C 0000:@TRangeValidator@Store$qm7TStream
+                            320006576A02C47E0A:
+                              0. 51 65F5 0071 0000:@TMemo@Store$qm7TStream
+                              1. 0C ADB1 002C 0000:@TOutlineViewer@Store$qm7TStream
+                            370006576A01C47E0A:
+                              0. 2F 994F 0057 0000:@TMultiCheckBoxes@Store$qm7TStream
+                            380006576A0DC47E0A:
+                              0. 1B F510 0058 0000:@TWindow@Store$qm7TStream
+                            550006576A50C47E0A:
+                              0. 1B 91D8 005A 0000:@TFileDialog@Store$qm7TStream
+                            5A000657C47E06268A:
+                              0. 2B CAF0 004B 0000:@TFileEditor@Store$qm7TStream
+                        0A:
+                          0657C47E0626FF75:
+                            2226FF:
+                              0. 05 7600 0043 0000:@THistory@Store$qm7TStream (001D: 00)
+                              1. 05 7600 0087 0000:@TEditor@Store$qm7TStream (001D: 0A)
+                            2626FF:
+                              0. 05 9A72 002D 0000:@TLabel@Store$qm7TStream
+                            3A26FF:
+                              0. 05 0F26 0043 0000:@TDesktop@Store$qm7TStream
+                            4F26FF:
+                              0. 05 1D12 002D 0000:@TEditWindow@Store$qm7TStream
+                            5026FF:
+                              0. 05 D037 00ED 0000:@TColorDialog@Store$qm7TStream
+                            5326FF:
+                              0. 05 8846 0072 0000:@TChDirDialog@Store$qm7TStream
+                          26:
+                            803D00742706579A:
+                              0. 00 0000 0046 0000:@TFileDialog@SetData$qm3Any
+                            813D00:
+                              0175:
+                                34268B4502:
+                                  0. 2C 84AD 0054 0000:@TFileDialog@HandleEvent$qm6TEvent
+                                56268B4502:
+                                  0. 0D A95A 0076 0000:@TDesktop@HandleEvent$qm6TEvent
+                              0275:
+                                2126837D02:
+                                  0. 19 184E 0041 0000:@TMonoSelector@HandleEvent$qm6TEvent
+                                  1. 19 86A6 0041 0000:@TColorGroupList@HandleEvent$qm6TEvent
+                                2526817D02:
+                                  0. 0E D5C4 0045 0000:@TEditWindow@HandleEvent$qm6TEvent
+                                2826817D02:
+                                  0. 16 CCCC 0048 0000:@TFileInfoPane@HandleEvent$qm6TEvent
+                                4326837D02:
+                                  0. 43 012C 0063 0000:@TScroller@HandleEvent$qm6TEvent
+                            8B05:
+                              2306....09C0744C:
+                                0. 09 C748 00B4 0000:@TGroup@HandleEvent$qm6TEvent
+                              3D:
+                                00:
+                                  0175:
+                                    2A268B45:
+                                      0. 0C 081F 005C 0000:@TFileEditor@HandleEvent$qm6TEvent
+                                    48268B45:
+                                      0. 0C E124 0069 0000:@TApplication@HandleEvent$qm6TEvent
+                                  02756F268B45:
+                                    0. 34 B40F 0090 0000:@TColorDisplay@HandleEvent$qm6TEvent
+                                10007577268B45:
+                                  0. 33 F8B0 00E7 0000:@TDialog@HandleEvent$qm6TEvent
+                      C9CA0800:
+                        0. 00 0000 0016 0000:@TFileDialog@GetData$qm3Any
+                  81C76E00065768FF009A........BF....1E57C47E:
+                    0. 04 B1C4 00AB 0000:@TColorDialog@SetData$qm3Any
+                0A268A450830E405090050C47E0E0657268B3DFF5D28:
+                  0. 04 24EE 0024 0000:@TResourceCollection@PutItem$qm7TStream7Pointer
+          26:
+            833D:
+              007510C47E06268B453248C47E0A268905EB06C47E0A26:
+                0. 06 4B03 0026 0000:@TTerminal@BufDec$qm4Word
+              0175:
+                0726807D03007511C47E0A26833D10752626817D02:
+                  0. 1C 5F83 0095 0000:@THistoryViewer@HandleEvent$qm6TEvent
+                3026807D0300742926C705000126C74502:
+                  0A000657:
+                    0. 16 DAF9 004F 0000:@TFileList@HandleEvent$qm6TEvent
+                  23000657:
+                    0. 16 DAF9 004F 0000:@TDirListBox@HandleEvent$qm6TEvent
+                41C47E06268B451A25200109C07533268B451C2501:
+                  0. 08 A4E4 0051 0000:@TView@HandleEvent$qm6TEvent
+              10750826817D02090F740FC47E0A0657C47E0606579A:
+                0. 00 0000 0027 0000:@TMemo@HandleEvent$qm6TEvent
+            8B05:
+              268B5502C47E06268945202689552206579A........C9:
+                0. 03 EC71 0023 0000:@TMultiCheckBoxes@SetData$qm3Any
+              31D2C47E06268945202689552206579A........C9CA08:
+                0. 01 78F0 0021 0000:@TCluster@SetData$qm3Any
+            C47D040657C47E0E065768FF009A........C9CA0800:
+              0. 00 0000 001D 0000:@TOutline@GetText$q7Pointer
+            FF:
+              05268B05C47E06263B45327208C47E0A31C0268905C9CA08:
+                0. 01 78F0 0021 0000:@TTerminal@BufInc$qm4Word
+              750226FF35:
+                9A........C47E0A26FF750626FF75049A:
+                  0. 00 0000 0033 0000:@TDirCollection@FreeItem$q7Pointer
+                C47E:
+                  060657268B3DFF5D68C47E0A26FF7504C4:
+                    0. 10 DA21 0038 0000:@TListBox@SetData$qm3Any
+                  0E06579A........C47E0A26FF750626FF:
+                    0. 08 3E4D 0030 0000:@TDirCollection@PutItem$qm7TStream7Pointer
+          31C0268905C47E0689F88CC2C47E0A2689450426895506C9CA08:
+            0. 01 78F0 0021 0000:@TView@ClearEvent$qm6TEvent
+          81C702000657C47E06268B4530C47E0A262B05C47E0626C47D2C:
+            0. 0B 297C 0043 0000:@TMemo@SetData$qm3Any
+          89F88CC2C47E06268945:
+            202689552226FF750426FF7502680002:
+              0. 10 9DDA 0042 0000:@TColorDisplay@SetColor$qm4Byte
+            262689552806579A........C9CA0800:
+              0. 00 0000 0020 0000:@TParamText@SetData$qm3Any
+          8CC109F97422268B058B1E....EB083B470274128B5F0C09DB75:
+            0. 08 9AE9 0059 0000:@TStream@Put$q7PObject
+        0C26C60500C9CA0600:
+          0. 00 0000 000E 0000:@TStatusLine@Hint$q4Word
+        0E:
+          0657C47E:
+            0626C47D0281C72F0006579A........C47E0606579A:
+              0. 00 0000 0059 0000:?
+            0A0657C47E0606579A........:
+              A1....C47E0E268905:
+                0. 01 FB44 002B 0000:@TWindow@SizeLimits$qm6TPointt1
+              C47E0E26C7051700C9:
+                0. 03 8C16 0023 0000:@TEditWindow@SizeLimits$qm6TPointt1
+          31C026890526894502C47E06268B4502260B4504741826C47D02:
+            0. 26 CB1B 0046 0000:@TView@SizeLimits$qm6TPointt1
+    C9CA:
+      0A00:
+        0. 00 0000 0007 0000:@TTextDevice@StrWrite$qm7TextBuf4Byte
+      0C00:
+        0. 00 0000 0007 0000:@TMenuView@GetItemRect$q9PMenuItemm5TRect
+    E8....9A........A1....8B16....A3....8916....B8....BA....A3:
+      0. 00 0000 0028 0000:@__DriversInit$qv
+    FCC47E:
+      06B9FFFF30C0F2AE:
+        89F88CC248C9CA0400:
+          0. 00 0000 0017 0000:@StrEnd$q5PChar
+        B8FEFF29C8C9CA0400:
+          0. 00 0000 0017 0000:@StrLen$q5PChar
+      08:
+        89FEB9FFFF30C0F2AEF7D189F78A4606F2AEB8000099750589:
+          0. 08 7EA1 0028 0000:@StrScan$q5PChar4Char
+        B9FFFF30C0F2AEF7D1FD4F8A4606F2AEB8000099750589F88C:
+          0. 07 1DFF 0027 0000:@StrRScan$q5PChar4Char
+    FF:
+      36....:
+        9A........A3....8916....9A........C9CB:
+          0. 00 0000 001A 0000:@InitHistory$qv
+        FF36....FF36....9A........C9CB:
+          0. 00 0000 0016 0000:@DoneHistory$qv
+      76:
+        069A........C47E0826890526895502C9CA0600:
+          0. 00 0000 0019 0000:@NewBuffer$qm7Pointer4Word
+        089A........C9CA0400:
+          0. 00 0000 000F 0000:@DisposeBuffer$q7Pointer
+        0A:
+          C47E06:
+            06579A........C47E0626FF750426FF75026800026826:
+              0. 0B C2C7 003A 0000:@TFileList@FocusItem$q7Integer
+            26FF752226FF752426FF752626FF752806579A:
+              0. 04 5413 0024 0000:@TScrollBar@SetValue$q7Integer
+            81C70F0006579A........89C78EC281C708000657C47E:
+              0. 07 B2E1 002F 0000:@TResourceFile@KeyAt$q7Integer
+          FF7608:
+            8B7E0636C47D0A06579A........C9CA0600:
+              0. 00 0000 001B 0000:?
+            9A........08C074:
+              078B7E0636FF45FAC9CA0600:
+                0. 00 0000 001D 0000:?
+              158B7E0636FF45FE8B46088B560A36:
+                0. 0B FA13 002B 0000:?
+        0C:
+          8A460A50C47E0606579A........:
+            817E0C8000750AC47E060657:
+              0. 01 ABCB 0029 0000:@TIndicator@SetState$q4Word7Boolean
+            837E0C:
+              207414837E0C10751E:
+                0. 18 4CF9 0052 0000:@TInputLine@SetState$q4Word7Boolean
+              40750AC47E0606579A:
+                0. 00 0000 0028 0000:@TCluster@SetState$q4Word7Boolean
+            8B460C:
+              25:
+                300009C074:
+                  0AC47E:
+                    0. 04 B1C4 0044 0000:@TButton@SetState$q4Word7Boolean
+                  22C47E:
+                    0. 0B A080 0044 0000:@TScroller@SetState$q4Word7Boolean
+                310009C0742CC47E:
+                  0. 0B A080 004E 0000:@TListViewer@SetState$q4Word7Boolean
+                400009C074:
+                  0AC47E:
+                    0. 04 B1C4 002C 0000:@TOutlineViewer@SetState$q4Word7Boolean
+                  168A46:
+                    0. 10 61F9 0038 0000:@TDirListBox@SetState$q4Word7Boolean
+                900009C0740AC47E:
+                  0. 04 B1C4 002C 0000:@TFrame@SetState$q4Word7Boolean
+              3D1000:
+                74053D800075:
+                  0. 07 E46A 009A 0000:@TGroup@SetState$q4Word7Boolean
+                756AC47E0626:
+                  0. 77 4563 009F 0000:@TEditor@SetState$q4Word7Boolean
+          C47E0626C47D3006579A........89C78EC226C43D0657C47E0E:
+            0. 06 D72B 002E 0000:@TDirListBox@GetText$q7Integert1
+          FF760A:
+            0EE8....5250FF7608FF76060EE8....8B460A8B560CC9:
+              0. 03 EC71 0023 0000:@StrCat$q5PChart1
+            6A169A........C9CA0800:
+              0. 00 0000 0014 0000:@TFileCollection@FreeItem$q7Pointer
+            9A........C9CA0800:
+              0. 00 0000 0012 0000:@TStrCollection@FreeItem$q7Pointer (REF 000A: @StrDispose$q5PChar)
+              1. 00 0000 0012 0000:@TStringCollection@FreeItem$q7Pointer (REF 000A: @DisposeStr$q7PString)
+            C47E:
+              060657:
+                268B3DFF5D1850C47E0606579A........C9:
+                  0. 03 EC71 0023 0000:@TCollection@Delete$q7Pointer
+                9A........:
+                  5250C47E0606579A........C9:
+                    0. 03 EC71 0023 0000:@TGroup@Insert$q5PView
+                  C47E0631C026894534C9CA0800:
+                    0. 00 0000 0020 0000:@TSortedListBox@NewList$q11PCollection
+                  FF760CFF760AC47E060657268B:
+                    0. 08 E7EE 0028 0000:@TCollection@Free$q7Pointer
+              0A268A450830E4050900509A........C9CA0800:
+                0. 00 0000 001F 0000:@TResourceCollection@FreeItem$q7Pointer
+              0E06579A........C9CA0C00:
+                0. 00 0000 0017 0000:@TCollection@PutItem$qm7TStream7Pointer (REF 000F: @TStream@Put$q7PObject)
+                1. 00 0000 0017 0000:@TStrCollection@PutItem$qm7TStream7Pointer (REF 000F: @TStream@StrWrite$q5PChar)
+                2. 00 0000 0017 0000:@TStringCollection@PutItem$qm7TStream7Pointer (REF 000F: @TStream@WriteStr$q7PString)
+        0EFF760C0EE8....8B4E0C034E0629C1760D5250FF760AFF760851:
+          0. 02 11FE 002E 0000:@StrLCat$q5PChart14Word
+  8BECFF760683EC0C1EC5760AC47E0E47FCAC32E491E34EAC493C257403AAEB:
+    0. FB D4B0 011B 0000:@FormatStr$qm6String6Stringm3Any
+803E....:
+  0074:
+    0750B8:
+      0100CD3358CB:
+        0. 00 0000 000F 0000:@ShowMouse$qv
+      0200CD3358CB:
+        0. 00 0000 000F 0000:@HideMouse$qv
+    1C803E....007415C606....00B80200CD33B80C0031C989CA8E:
+      0. 04 4CCA 0024 0000:@DoneEvents$qv
+  407305B88400EB15268B550689C3B451CD6788E025FF00750426895D:
+    0. 02 1035 0022 0000:?
+89:
+  5EF6897EF88C46FA01D931D2C47E0609C07C1A263B45107D1409DB7D0231DB:
+    0. 94 D7F8 0218 0000:?
+  E736C47D08FCAB93AB91AB92ABC3:
+    0. 00 0000 000F 0000:?
+8E06....:
+  26A01700CB:
+    0. 00 0000 0009 0000:@GetShiftState$qv
+  B3203C077502B3302680261000CF26081E10002680268700FE50B400:
+    0. 01 3E9B 0055 0000:?
+A1....3DFFFF74193B06....7405E8....EB0E9A........B4018B0E....E8:
+  0. 00 0000 0022 0000:@DoneVideo$qv
+B4:
+  03B700E8....51B401B90020E8....B401CD169CB400CD169D75F431D23C0D:
+    0. 0C 93AF 0030 0000:?
+  0FE8....50B83011B700B200E8....5888E680FA1918E4FEC4C3:
+    0. 00 0000 001B 0000:?
+B8:
+  0006B70731C98A16....FECA8A36....FECEE8....B402B70031D2E8....CB:
+    0. 00 0000 0020 0000:@ClearScreen$qv
+  3335CD218CC009D8741331C0CD3309C0740B53B8040031C931D2CD3358A2:
+    0. 00 0000 0022 0000:?
+BE....8EDE89CEB103D3EED3EA881E....8936....8916....A91E00742E833E:
+  0. 00 0000 0052 0000:?
+C8:
+  000100:
+    1E8CD08EC08DBE00FFC5760430E4ACAA89C189C3E35AAC3C6172063C:
+      0. 67 9628 0087 0000:?
+    31FF9A........745E31C050C47E0606579A........C47E0E06579A:
+      0. 00 0000 0074 0000:@TPXPictureValidator@Init$q6String7Boolean
+    8CD38EC38CDBFC8DBE00FFC5760AACAA9130EDF3A48EDBC47E062683:
+      0. 18 4CA3 0090 0000:@TStrListMaker@Put$q4Word6String
+    8DBE00FF1657C47E0626:
+      8A453050FF760C9A........C47E0E065768:
+        0. 03 EC3B 002B 0000:@THistoryViewer@GetText$q7Integert1
+      C47D4D26FF752C68FF00C47E0626C47D4D06:
+        0. 10 6EDA 0038 0000:@THistoryWindow@GetSelection$qv
+    C47E0681C755000657C47E0626C47D5106579A........8DBE00FF16:
+      0. 02 6BAA 003C 0000:?
+  02:
+    0000:
+      31:
+        C08946FE8B46FEC9CA:
+          0400:
+            0. 00 0000 0010 0000:?
+          0E00:
+            0. 00 0000 0010 0000:@TValidator@Transfer$qm6String7Pointer10TVTransfer
+        FF9A........:
+          74:
+            35C47E120657FF76106A006A00FF760EFF760C31:
+              0. 08 5404 004B 0000:@TListBox@Init$qm5TRect4Word10PScrollBar
+            55C47E0C065731C050C47E0606579A........C4:
+              0. 29 FECE 006B 0000:@TWindow@Load$qm7TStream
+            5FC47E1406576A016A006A00FF7612FF761031C0:
+              0. 07 44A5 0075 0000:@TColorGroupList@Init$qm5TRect10PScrollBar11PColorGroup
+            6AC47E1406576A016A006A00FF7612FF761031C0:
+              0. 07 44A5 0080 0000:@TColorItemList@Init$qm5TRect10PScrollBar10PColorItem
+          7503E9:
+            0801C47E0C065731C050C47E0606579A:
+              0. 00 0000 0121 0000:@TColorDialog@Load$qm7TStream
+            7F00C47E0C065731C050C47E0606579A:
+              0. 00 0000 0098 0000:@TMemo@Load$qm7TStream
+            AB00C47E0C89F88CC2C47E06268945022689:
+              0. 6B 430E 00C4 0000:@TStringList@Load$qm7TStream
+      6A33C43E....0657268B3DFF5D4C8846FF8A46FFC9CA0400:
+        0. 00 0000 001C 0000:@TProgram@CanMoveFocus$qv
+      807E:
+        06207410807E060D740A807E060A7404B000EB02B0018846FF8A:
+          0. 06 1490 0026 0000:?
+        0A007410C47E06268B451A0B460C2689451AEB108B460CF7D0C4:
+          0. 53 006E 010D 0000:@TView@SetState$q4Word7Boolean
+      817E0AFF0077198A460AB401BA20009A........8BFA8485....7504:
+        0. 10 3EB7 0030 0000:@TView@CommandEnabled$q4Word
+      837E0A:
+        00:
+          763CFF760AC47E0606579A........50C47E0606579A:
+            0. 00 0000 0095 0000:?
+          7D12C47E0626837D2800B0007E01408846FFEB2D837E0A00:
+            0. 30 B13A 0050 0000:?
+        0B7506C646FF01EB10FF760AC47E0606579A........8846FF:
+          0. 07 C1E3 0027 0000:@TDialog@Valid$q4Word
+      8A46:
+        06:
+          3C:
+            0074083C057404B000EB02B0018846FF8A46FFC9CA0200:
+              0. 00 0000 001F 0000:?
+            0174083C067404B000EB02B0018846FF8A46FFC9CA0200:
+              0. 00 0000 001F 0000:?
+          509A........30E42D410040508A4606509A........5A0BC2:
+            0. 0A 2A29 002A 0000:@GetCtrlCode$q4Char
+        0A240108C075088B460C8946FEEB20C47E06268B453A263B4536:
+          0. 2F 69C7 00DA 0000:?
+      8B:
+        46:
+          0A:
+            0B460C:
+              7409A1....0B06....750731C08946FEEB14FF760CFF:
+                0. 04 4CEB 0046 0000:@TView@PutPeerViewPtr$qm7TStream5PView
+              750731C08946FEEB:
+                0EFF760CFF760A9A........8946:
+                  0. 32 5DF1 0052 0000:@TStream@StrWrite$q5PChar
+                13FF760CFF760AC47E0606579A:
+                  0. 00 0000 003C 0000:@TGroup@PutSubViewPtr$qm7TStream5PView
+            3B4608:
+              7D088B460A8946FEEB068B46088946FE8B46FEC9CA06:
+                0. 01 78F0 0021 0000:?
+              7E088B460A8946FEEB068B46088946FE8B46FEC9CA06:
+                0. 01 78F0 0021 0000:?
+            99C47E06263B55227506263B45207404B000EB02B0018846FF:
+              0. 07 C1E3 0027 0000:@TRadioButtons@Mark$q7Integer
+            C47E06:
+              263B45:
+                2CB0007501408846FF8A46FFC9CA0600:
+                  0. 00 0000 001D 0000:@TListViewer@IsSelected$q7Integer
+                30B0007701408846FF8A46FFC9CA0600:
+                  0. 00 0000 001D 0000:@TEditor@SetBufSize$q4Word
+                32732EFF760A06579A........B401BA20009A:
+                  0. 00 0000 0085 0000:?
+                38744A8B460AC47E0626C47D3403F826803D0A:
+                  0. 19 F14A 0067 0000:@TTerminal@NextLine$q4Word
+              9926F77D10928946FE8B46FEC9CA0600:
+                0. 00 0000 001A 0000:?
+          0C:
+            2B460E50FF76085A58F7EA5250FF760A59585AF7F903460E89:
+              0. 09 8DD2 0029 0000:?
+            3B460A7D088B460A8946FEEB168B460C3B46087E088B460889:
+              0. 11 8131 0031 0000:?
+          0E:
+            0B46107503E9E100C47E0E268B4502260B45047403E9D1008B:
+              0. 85 2070 00F4 0000:@TGroup@InsertBefore$q5PViewt1
+            3B46107D068B461089460E8B46123B46107D068B4610894612:
+              0. 4D BD75 0099 0000:@TScrollBar@SetParams$q7Integert1t1t1t1
+            8B7E06368B7D0636C47D06263B453275:
+              23C646FF018B46108B:
+                0. 26 41CF 0046 0000:?
+              25C646FF018B46108B:
+                0. 28 DA1B 0048 0000:?
+        7E:
+          0636:
+            8B:
+              450A3B460EB0007501408846FF8A46FFC9CA1000:
+                0. 00 0000 001D 0000:?
+              7D06:
+                368A45FE8846FE:
+                  8A4608509A........08C07503E9:
+                    0. 29 AEDF 00AD 0000:?
+                  8D7EFE16578B7E06579A:
+                    0. 0D 8189 002D 0000:?
+                81C7FEFF16578B7E06579A........8B7E06368B7D:
+                  0. 82 FA77 00A2 0000:?
+            C47D0626807D21017507C746FE4700EB05C746FE48008B7E:
+              0. 1E 95FB 0046 0000:?
+            FF750AC47E080657268B3DFF5D4C08C0B0007501408846FF:
+              0. 07 C1E3 0027 0000:?
+          0A8A85....30E431D2C47E06263B55227506263B45207404B000:
+            0. 0E 617F 002E 0000:@TMonoSelector@Mark$q7Integer
+      8D7E:
+        0E16576A00FF760CC47E06268A4551508A460A5006579A:
+          0. 00 0000 002B 0000:@TEditor@InsertText$q7Pointer4Word7Boolean
+        FE16576A02C47E:
+          060657268B3DFF5D1CC43E....0657FF76FEC4:
+            0. 0B 197C 0037 0000:@LoadHistory$qm7TStream
+          0E0657268B3DFF5D1C837EFE00:
+            7409A1....0B:
+              0. 01 4E95 006D 0000:@TView@GetPeerViewPtr$qm7TStreamm3Any
+            7619FF76FEC4:
+              0. 05 5383 0045 0000:@TGroup@GetSubViewPtr$qm7TStreamm3Any
+        FF16576A01C47E060657268B3DFF5D1C807EFF00764CA1....0B:
+          0. 01 4E95 006C 0000:@LoadIndexes$qm7TStream
+      9A........:
+        08C07407C746FE0200EB23803E....007407C746FE0100:
+          0. 03 3136 003E 0000:?
+        8B46FEC9CA:
+          0800:
+            0. 00 0000 0010 0000:@TOutlineViewer@GetNumChildren$q7Pointer
+          0C00:
+            0. 00 0000 0010 0000:@TSortedCollection@Compare$q7Pointert1
+      A1....:
+        0B06....7411C43E....268A450130E440408846FFEB04C646:
+          0. 1C BFF2 0055 0000:@StoreIndexes$qm7TStream
+        2B06....8946FE8D7EFE16576A02C47E060657268B3DFF5D28:
+          0. 02 707A 0038 0000:@StoreHistory$qm7TStream
+      B801008B4E0AD3E099C47E06262345202623552209D0B00074014088:
+        0. 09 036E 0029 0000:@TCheckBoxes@Mark$q7Integer
+      C47E:
+        06:
+          26:
+            807D5A00750C06579A........8846FFEB0DC47E0606579A:
+              0. 00 0000 002E 0000:@TFileEditor@Save$qv
+            837D:
+              1800750731C08946FEEB19C47E06268B4524998BC88B:
+                0. 15 33D0 0035 0000:@TCluster@GetHelpCtx$qv
+              4C00750726837D4E00744DC47E06268B453A262B454E:
+                0. 3E E63C 0066 0000:@TEditor@Undo$qv
+            8A45:
+              26240108C0753B807E0A007407C746FE3D00EB05C746:
+                0. 17 D856 0050 0000:@TButton@MakeDefault$q7Boolean
+              3930E4F7660A:
+                31D28BC88BDA268B4520268B55229A:
+                  0. 00 0000 0040 0000:@TMultiCheckBoxes@MultiMark$q7Integer (001F: 00)
+                  1. 00 0000 00BD 0000:@TMultiCheckBoxes@Press$q7Integer (001F: 37)
+                995250268A453930E4F7660A8BD0268A:
+                  0. 14 BEB0 0042 0000:@TMultiCheckBoxes@MultiMark$q7Integer (000D: 00)
+                  1. 14 BEB0 00AF 0000:@TMultiCheckBoxes@Press$q7Integer (000D: 26)
+              508846FF8A46FFC9CA0600:
+                0. 00 0000 0015 0000:@TEditor@Valid$q4Word
+            8B45:
+              06260B45087433C47E0C0657C47E06268B4504250100:
+                0. 30 359E 0050 0000:@TPXPictureValidator@IsValidInput$qm6String7Boolean
+              158946FE8B46FEC9CA0400:
+                0. 00 0000 0015 0000:@TResourceFile@Count$qv
+              1A:
+                23460A3B460AB0007501408846FF8A46FFC9CA0600:
+                  0. 00 0000 0020 0000:@TView@GetState$q4Word
+                25800009C07407C746FE0100EB0AC47E06268B4518:
+                  0. 0A FA7D 002A 0000:@TView@GetHelpCtx$qv
+                8946FE268B451A258FF72689451A81C70A0006576A:
+                  0. 1A A4B9 003A 0000:@TView@Store$qm7TStream
+              1C25800009C0740EC47E06268B451A25010009C07504:
+                0. 10 8E84 0030 0000:?
+              24C1E0028946FE8B46FEC9CA0400:
+                0. 00 0000 0018 0000:@TParamText@DataSize$qv
+              3040408946FE8B46FEC9CA0400:
+                0. 00 0000 0017 0000:@TMemo@DataSize$qv
+              323B460AB0007501408846FF8A46FFC9CA0600:
+                0. 00 0000 001D 0000:@TOutlineViewer@IsSelected$q7Integer
+              36263B4538B0007401408846FF8A46FFC9CA0400:
+                0. 00 0000 001E 0000:?
+              3A263B4538B0007501408846FF8A46FFC9CA0400:
+                0. 00 0000 001E 0000:@TTerminal@QueEmpty$qv
+              3E263B45427C0E268B454226034510263B453E7F04B0:
+                0. 0F 36D9 002F 0000:@TEditor@CursorVisible$qv
+              7831D28BC88BDA8B460A993BD375043BC17404B000EB:
+                0. 0D B315 002D 0000:@TDirListBox@IsSelected$q7Integer
+          31C02689450831C02689450A31C08946FE8B46FEC9CA0400:
+            0. 00 0000 001F 0000:?
+          89F88CC23B16....75063B06....7404B000EB02B0018846FF:
+            0. 07 71D0 0027 0000:?
+        08268B451A:
+          25010009C0741D8B7E0636C47D0A26FF750626FF75:
+            0. 07 BF16 003F 0000:?
+          8B7E063623450C363B450C7514C47E08268B451C8B:
+            0. 1C E782 003C 0000:?
+        0A:
+          0657C47E060657:
+            268B3DFF5D1C8846FF8A46FFC9CA0800:
+              0. 00 0000 001E 0000:@TLookupValidator@IsValid$q6String
+            9A........C47E0A26833D017509559A:
+              0. 00 0000 00C8 0000:@TLabel@HandleEvent$qm6TEvent
+          26:
+            833D107403E9B200BE40008EC626A01700240308C07416C4:
+              0. 55 B9C2 00C6 0000:@TEditor@ConvertEvent$qm6TEvent
+            8A450C8846FF8A46FFC9CA0800:
+              0. 00 0000 0015 0000:@TOutline@IsExpanded$q7Pointer
+            8B45:
+              08260B450AB0007401408846FF8A46FFC9CA0800:
+                0. 00 0000 001E 0000:@TOutline@HasChildren$q7Pointer
+              1A8946FEC47E0A06579A........FF760CFF760AC47E:
+                0. 04 B1C4 005A 0000:@TGroup@Delete$q5PView
+          81C72C000657C47E0A26FF7536C47E0A06579A........50C4:
+            0. 19 27D2 0052 0000:@TEditor@InsertFrom$q7PEditor
+        0C0657C47E060657268B3DFF5D2C8B460A0D0200C47E0C262305:
+          0. 17 B245 0037 0000:@TView@MouseEvent$qm6TEvent4Word
+      C646:
+        FE01C47E06268B451A25200209C0756E268B4502260B45047464:
+          0. 07 E583 0091 0000:@TView@Focus$qv
+        FF:
+          00:
+            807E0600:
+              7412807E061A770C8A460630E4054100488846FF:
+                0. 07 A184 0027 0000:@GetCtrlChar$q4Word
+              753B8A46073C027506C646FFF0EB2E3C1072143C:
+                0. 0C 7E2B 0050 0000:@GetAltChar$q4Word
+            8A46FFC9CA0600:
+              0. 00 0000 000F 0000:@TCluster@Mark$q7Integer
+            A1....0B06....:
+              74:
+                1BC43E....26C43D26C47D0426FF7502:
+                  0. 04 2D0D 0031 0000:?
+                1DFF36....FF36....FF36....9A:
+                  0. 00 0000 0033 0000:?
+                38C47E0689F88CC23B16....75063B06:
+                  0. 00 0000 0050 0000:?
+              751DFF36....9A........A3....8916:
+                0. 00 0000 0033 0000:@LowMemory$qv
+            C47E0A0657C47E060657268B3DFF5D1408C0750DC47E0606:
+              0. 14 DD66 0034 0000:@TValidator@Valid$q6String
+          01:
+            837E0A337533C47E06268B4524260B4526742426C47D2426:
+              0. 22 A5A8 0064 0000:@TGroup@Valid$q4Word
+            8A46FFC9CA:
+              0600:
+                0. 00 0000 000F 0000:@TView@Valid$q4Word
+              0A00:
+                0. 00 0000 000F 0000:@TValidator@IsValidInput$qm6String7Boolean
+      C746FE:
+        00018B46FEC9CA0400:
+          0. 00 0000 0010 0000:@TColorDialog@DataSize$qv
+        02008B46FEC9CA0400:
+          0. 00 0000 0010 0000:@TCluster@DataSize$qv
+        04008B46FEC9CA0400:
+          0. 00 0000 0010 0000:@TMultiCheckBoxes@DataSize$qv
+        06008B46FEC9CA0400:
+          0. 00 0000 0010 0000:@TListBox@DataSize$qv
+        0B008B46FEC9CA:
+          0400:
+            0. 00 0000 0010 0000:@TView@Execute$qv
+          0600:
+            0. 00 0000 0010 0000:@DefEditorDialog$q7Integer7Pointer
+      FF76:
+        0A:
+          C47E060657:
+            268B3DFF5D543C01B0007501408846FF8A46FFC9:
+              0. 03 FCEB 0023 0000:@TCluster@MultiMark$q7Integer
+            9A........:
+              50C47E0606579A........8946FE8B:
+                0. 06 30FC 0026 0000:?
+              8846FFC47E06268B452E260B453074:
+                0. 3E 54E6 007B 0000:@TInputLine@Valid$q4Word
+                1. 38 573F 0090 0000:@TInputLine@Valid$q4Word
+          FF76069A........09C0B0007501408846FF8A46FFC9CA0600:
+            0. 00 0000 0020 0000:@SetBufferSize$q7Pointer4Word
+        0CFF760A:
+          8D7E0A1657C47E0606579A........6A00FF760AC47E:
+            0. 08 3ABC 0080 0000:?
+          C47E060657268B3DFF5D2C52508D7EFE1657C47E0606:
+            0. 24 1E64 004C 0000:@TSortedCollection@Insert$q7Pointer
+        10:
+          9A........8946FE8B461099F77EFE9209C074148B46FE408B:
+            0. 5D D07A 007D 0000:?
+          FF760EFF760CFF760A9A........8946FE8B46FEC9CA0C00:
+            0. 00 0000 001F 0000:@TStrCollection@Compare$q7Pointert1
+    0100:
+      8CD38EC38CDBFC8DBE00FFC5760AACAA9130EDF3A48EDB8DBE00FF16:
+        0. 28 258D 0068 0000:@TResourceFile@Delete$q6String
+      C47E08268A0530E48946FE8B46FEC47E0803F826803D207505FF4EFE:
+        0. 13 2705 0048 0000:?
+      C646FF006A06C47E0681C75A000657FF1E....3D0B0074618DBEFEFE:
+        0. 0C 834D 0084 0000:@TFileEditor@SaveAs$qv
+      C746FE0100C47E08268A0530E43B46FE7E108B46FE03F826803D2075:
+        0. 18 6675 004D 0000:?
+    0200:
+      680102C47E0606579A........8946FE837E0C007E5B8DBEFEFD1657:
+        0. 15 3214 0079 0000:?
+      8DBEFEFD16578DBEFEFE1657C47E0806578B7E06579A........8B7E:
+        0. 03 39B5 005A 0000:?
+    0400837E0C007F087C57837E0A007651837E0C007F097C0E817E0A000476:
+      0. 47 7EDB 0067 0000:@TStream@CopyFrom$qm7TStream7Longint
+  04:
+    0000:
+      1EFC31DB8B4612885EFDD1E8105EFD885EFED1E8105EFE885EFFD1E8:
+        0. 66 CAD0 0086 0000:@TOutlineViewer@CreateGraph$q7Integer7Longint4Wordt1t16String
+      31:
+        C08946:
+          FC:
+            8946FE:
+              8B46:
+                0A0B460C74519A........08C0741BB00150:
+                  0. 4F 3246 006F 0000:@TProgram@ValidView$q5PView
+                FC8B56FEC9CA0400:
+                  0. 00 0000 0016 0000:@TView@GetPalette$qv
+              FF760CFF760AC47E0606579A........09D0743B:
+                0. 06 74AC 0065 0000:@TProgram@InsertWindow$q7PWindow
+            8B46:
+              0C3B460A7322FF760CC47E0606579A........3C09:
+                0. 20 BC6D 0040 0000:?
+              FC3B460A7D3C8B460CC47E06263B45327330FF760C:
+                0. 03 39B5 0065 0000:?
+            BF....B8....5057C47E0606579A........8B46FC8946:
+              0. 08 7538 0028 0000:@TGroup@DataSize$qv
+            C47E06268B45:
+              24260B4526740F26C47D240657268B3DFF:
+                0. 11 81C3 0045 0000:@TGroup@GetHelpCtx$qv
+              2E260B4530741E26C47D2006576A006A00:
+                0. 34 E282 0054 0000:@TInputLine@DataSize$qv
+          FE:
+            31C08946FC:
+              BF....B8....5057C47E0606579A:
+                0. 0C 72B3 0042 0000:@TOutlineViewer@Update$qv
+              C47E08268A058B7E06363A45087503E9AA00:
+                0. 74 446A 00CE 0000:?
+            807E06007502EB688A4606509A........884606807E06:
+              0. 19 BA1B 0080 0000:@GetAltCode$q4Char
+        FF9A........7503E9C100C47E16065731C050C47E0606579A:
+          0. 00 0000 00DA 0000:@TListViewer@Init$qm5TRect4Word10PScrollBart3
+      6A016A006A016A01C47E0A06579A........C47E0626C47D24268B05:
+        0. 2B 60F5 0080 0000:@TMenuBar@GetItemRect$q9PMenuItemm5TRect
+      83:
+        46060831C08946FC6A00FF76066A046A006A008D7EFE16579A:
+          0. 00 0000 00AB 0000:@NewCache$qm7Pointer4Word
+        7E0A00750CC47E06268A45508846FFEB5DC646FF01C47E0626807D:
+          0. 25 DAB2 007A 0000:@TFileEditor@Valid$q4Word
+      8A46:
+        0650E8....31C08946FCE8....A1....0B06....7408FF46FCE8:
+          0. 00 0000 0031 0000:@HistoryCount$q4Byte
+        0850E8....8B46068946FC31C03B46FC7F138946FEEB03FF46FE:
+          0. 01 3E9B 0054 0000:@HistoryStr$q4Byte7Integer
+        0A50C47E0606579A........8946FC8956FE8B46FC0B46FE740A:
+          0. 06 F107 002E 0000:@TGroup@SelectNext$q7Boolean
+        0C50C47E0606579A........8946FC8956FE8B46FC0B46FE740A:
+          0. 0E 9D33 002E 0000:@TColorGroupList@SetGroupIndex$q4Bytet1
+      8B:
+        3E....C1E7078D85....8CDA8946FC8956FE8B46FC8B56FEC9CA04:
+          0. 01 78F0 0021 0000:@TProgram@GetPalette$qv
+        46:
+          06:
+            0B460874:
+              38C47E06897EFC8C46FE268B4508260B450A740D26:
+                0. 08 166B 0055 0000:@DisposeNode$q5PNode
+              42C47E06897EFC8C46FE26FF750A26FF75089A:
+                0. 00 0000 0052 0000:@DisposeNode$q5PNode
+            8946FE31C08946FCEB03FF46FC8A46068B7EFC3A85....750E:
+              0. 07 7CB2 003B 0000:@CtrlToArrow$q4Word
+          080B460A74:
+            3B8B46088B560A8946FC8956FEC47E0826:
+              8B05268B:
+                0. 14 4312 004B 0000:?
+              FF750226:
+                0. 03 F6F3 004B 0000:?
+            4F8B46088B560A8946FC8956FEC47E0826FF750726:
+              0. 08 79CE 005F 0000:?
+          0A:
+            25020009C0750CC47E06268B45288946FCEB0AC47E06268B45:
+              0. 25 F8E3 0045 0000:@TScrollBar@ScrollStep$q7Integer
+            8B560C8946FC8956FE8B46FC8B56FEC9CA0800:
+              0. 00 0000 001A 0000:@TSortedCollection@KeyOf$q7Pointer
+            C47E06263B45067D07268B450689460A817E0AFC3F7E05C746:
+              0. 2A CC48 00BE 0000:@TCollection@SetLimit$q7Integer
+        7E06:
+          36:
+            8B7D0636C47D06268B4528268B552A8946FC8956FE8B46FC:
+              0. 1F 0A20 0067 0000:?
+            C47D06268A4526240208C07407C746FE0100EB328B7E0636:
+              0. 0A 7467 00EC 0000:?
+          579A........8846FD8B7E06368B7D0636FE45FE8A46FD30E4:
+            0. 04 7E29 0053 0000:?
+      9A........8B46FC8B56FEC9CA0A00:
+        0. 00 0000 0013 0000:@TOutlineViewer@GetChild$q7Pointer7Integer
+      BF....B8....5057C47E0606579A........8946FC8956FE8B46FC8B:
+        0. 06 9024 0026 0000:?
+      C47E:
+        06:
+          06579A........8946FC8956FEC47E0606579A........09D0:
+            0. 0B 4203 003F 0000:@TView@EndModal$q4Word
+          26:
+            6B7D43:
+              098D85....8CDA8946FC8956FE8B46FC8B56FEC9CA:
+                0. 02 2768 0022 0000:@TWindow@GetPalette$qv
+              218D85....8CDA8946FC8956FE8B46FC8B56FEC9CA:
+                0. 02 2768 0022 0000:@TDialog@GetPalette$qv
+            837D0E017509268B45108946FCEB0AC47E06268B450E8946:
+              0. 1B 8A5D 003B 0000:?
+            8A4536240308C07510C47E0A26803D00740E26807D012E75:
+              0. 03 85B1 005E 0000:@TFileList@GetKey$qm6String
+            8B45:
+              06488946FC31C03B46FC7F2A8946FEEB03FF46FEFF76:
+                0. 07 FBC6 004D 0000:@TCollection@FreeAll$qv
+              20260B4522:
+                740D26C47D20268B45208946FCEB0531C0:
+                  0. 55 53B4 00A6 0000:@TScroller@ScrollDraw$qv
+                750A31C08946FC8946FEEB15C47E0626C4:
+                  0. 1A CB3E 003A 0000:@TGroup@First$qv
+              2426:
+                0B45267444268B4524268B55268946FC8956FE26:
+                  0. 22 FD03 006D 0000:@TStatusLine@Done$qv
+                2B45228946FC837EFC007507C746FE0100EB37C4:
+                  0. 0E E7DB 005D 0000:?
+                8B55268946FC8956FE8B46FC0B46FE7432C47E06:
+                  0. 60 06D2 0080 0000:?
+              30268B55328946FC8956FE837E0C007E16C47EFC268B:
+                0. 22 1532 004A 0000:@TColorItemList@GetText$q7Integert1
+              34268B55368946FC8956FE8B46FC8B56FEC9CA0400:
+                0. 00 0000 001F 0000:@TOutline@GetRoot$qv
+            C47D:
+              0206579A........8BC88BDAC47E0689F88CC23BD375:
+                0. 15 5B8B 0049 0000:@TView@PrevView$qv
+              208CC009F874:
+                2C8C46FE897EFC26C47D0606570657FF:
+                  0. 25 106F 0045 0000:@TGroup@FirstThat$q7Pointer
+                308C46FE897EFC26C47D063B7EFC7507:
+                  0. 25 E708 0045 0000:@TGroup@ForEach$q7Pointer
+              2426FF750226FF35559A........8946FC8956FE8B46:
+                0. 08 1A42 0028 0000:@TMenuView@HotKey$q4Word
+              5206579A........8846FFC47E0A268B05260B4502:
+                74:
+                  0. 24 1D22 00F0 0000:@TColorDialog@SetIndexes$qm11PColorIndex
+                75:
+                  0. 0A 779B 00B2 0000:@TColorDialog@GetIndexes$qm11PColorIndex
+            F7451A0008742531C0263B450E7D1D263B45107D1731DB26:
+              0. 05 5C37 0105 0000:@TView@Exposed$qv
+            FF753A06579A........8946FC8B46FC8946FE8B46FEC47E:
+              0. 2E 0FEB 008C 0000:?
+          89F88CC226C47D02263B55227510263B4520750A31C08946FC:
+            0. 20 E28F 0040 0000:@TView@NextView$qv
+        08268A0530E48946FCB801003B46FC7F2E8946FEEB03FF46FE8B:
+          0. 0C 0CDC 0049 0000:?
+        0A:
+          0657:
+            9A........8946FC8956FE8B46FC8B56FEC9CA0800:
+              0. 00 0000 001E 0000:@TCollection@GetItem$qm7TStream (REF 000A: @TStream@Get$qv)
+              1. 00 0000 001E 0000:@TStrCollection@GetItem$qm7TStream (REF 000A: @TStream@StrRead$qv)
+              2. 00 0000 001E 0000:@TStringCollection@GetItem$qm7TStream (REF 000A: @TStream@ReadStr$qv)
+            C47E0606579A........C47E0A26833D017403E9B40226:
+              0. 12 442B 02D7 0000:@TFrame@HandleEvent$qm6TEvent
+          26:
+            833D10754826FF75029A........8846FD807EFD31723680:
+              0. 07 6B4B 0095 0000:@TProgram@HandleEvent$qm6TEvent
+            8B:
+              053D10007403E9B30026FF75029A........50C47E0606:
+                0. 02 6BAA 00D8 0000:@TMenuPopup@HandleEvent$qm6TEvent
+              4504262B05C47E06262B450E8946FCC47E0A268B450626:
+                0. 20 B63E 00B0 0000:@TGroup@ChangeBounds$qm5TRect
+            C705FFFF26C74502B0D726C745048000268D8580008CC226:
+              0. 08 4A74 0055 0000:@AssignDevice$qm4Text11PTextDevice
+          89F88CC28946FC8956FE8B46FC8B56FEC9CA0800:
+            0. 00 0000 001B 0000:@TSortedListBox@GetKey$qm6String
+        120657FF7610FF760EFF760CFF760AB8....5031C050509A:
+          0. 00 0000 0032 0000:@TMenuView@NewSubView$qm5TRect5PMenu9PMenuView
+      C646FF:
+        00837E0A007507C7460A0010EB1A817E0A00F07607C7460AF0:
+          0. 33 D13E 00D4 0000:@TFileEditor@SetBufSize$q4Word
+        03C646FD028B7E06368B7D06368A45FE8B7E06363A45087503:
+          0. 4E 63B9 02D0 0000:?
+      C746:
+        FC01008B46FCC47E:
+          0A03F8268A05B401BA20009A........C47E:
+            0. 28 ED85 0048 0000:@TFilterValidator@IsValid$q6String
+          0C03F8268A05B401BA20009A........C47E:
+            0. 28 D465 0048 0000:@TFilterValidator@IsValidInput$qm6String7Boolean
+        FE:
+          0B00FF7610FF760EC47E0606579A........09D0745E8B460A:
+            0. 1D 972A 0082 0000:@TProgram@ExecuteDialog$q7PDialog7Pointer
+          FFFFFF760CFF760AC47E060657268B3DFF5D2C52508D7EFC16:
+            0. 61 A31D 0081 0000:@TSortedCollection@IndexOf$q7Pointer
+      FF76:
+        0AC47E0606579A........:
+          8946FC8956FEFF760AC47E0606579A:
+            0. 00 0000 0039 0000:@TCollection@AtFree$q7Integer
+          C47E0626:
+            8B4530268B55328946FC89:
+              0. 35 9A83 005D 0000:@TColorGroupList@FocusItem$q7Integer
+            FF750426FF75026800026A:
+              0. 08 2FB2 007F 0000:@TColorItemList@FocusItem$q7Integer
+        0CFF760A8B4600506A:
+          00C47E0606579A........8B46FC8B56FE:
+            0. 04 4489 0024 0000:@TOutlineViewer@ForEach$q7Pointer
+          01C47E0606579A........8946FC8956FE:
+            0. 0A CBC5 002A 0000:@TOutlineViewer@FirstThat$q7Pointer
+    0100:
+      8B7E0636C47D06268B452E260B45307503E94F01C646FF0026C47D20:
+        0. 56 A355 0172 0000:?
+      C47E:
+        0626C47D02897EFC8C46FE8DBEFCFE1657C47EFC26C4BDA50006:
+          0. 02 6BAA 0042 0000:@TFileList@SetData$qm3Any
+        0A06578DBEFEFE165768FF009A........8DBEFEFE16576A00C4:
+          0. 39 50D2 0059 0000:@TPXPictureValidator@IsValid$q6String
+      FF760CC47E0626C47D3006579A........8986FCFE8996FEFEC4BEFC:
+        0. 11 8871 006B 0000:@TFileList@GetText$q7Integert1
+    02008B7E0636FF45FE8DBEFCFD1657FF7610FF760CFF760AFF76088B7E06:
+      0. 5A BD1A 007A 0000:?
+  06:
+    0000:
+      31:
+        C08946:
+          FA:
+            837E0600742D6A00FF76066A026A006A008D7EFA16579A:
+              0. 00 0000 0051 0000:@MemAllocSeg$q4Word
+            8B46088B560A8946FC8956FE8B46FC0B46FE7415FF46FA:
+              0. 45 468B 0099 0000:?
+          FEC47E06268B4520260B45227456268B4520268B55228946:
+            0. 2D 267C 0070 0000:@TGroup@SetData$qm3Any
+            1. 2D 6CA1 0070 0000:@TGroup@GetData$qm3Any
+        FF9A........7503E9:
+          8F00C47E0681C7060006576A06C47E0C0657:
+            0. 73 09A7 00A8 0000:@TCollection@Load$qm7TStream
+          D200C47E0C065731C050C47E0606579A:
+            0. 00 0000 00EB 0000:@TFileEditor@Load$qm7TStream
+          F000C47E10065731C050C47E0606579A:
+            0. 00 0000 0109 0000:@TCluster@Init$qm5TRect6PSItem
+      807E0A0074088B460E8946FCEB068B460C8946FCC646FF018B460EC4:
+        0. 6F CACA 0175 0000:@TEditor@SetSelect$q4Wordt17Boolean
+      8A460A50C47E0606579A........8946FA8956FC:
+        8B46FA0B46FC740C:
+          0. 17 DAEA 0037 0000:@TColorGroupList@GetGroupIndex$q4Byte
+        C646FF018B46FA0B:
+          0. 0A EBBB 0038 0000:@TGroup@FocusNext$q7Boolean
+      8B:
+        46:
+          080B460AB0007401408846FF8D7EFF16576A018B7E0636C47D0A:
+            0. 43 BEEB 0092 0000:?
+          0C8946FAFF760CC47E0606579A........89460CFF760CFF76FA:
+            0. 06 74AC 0091 0000:?
+        7E0636:
+          8B45FE362B45F836F765FC8946FA8B460C3B46FA7D198B46:
+            0. 67 B042 0166 0000:?
+          C47D:
+            06268B4520268B55228946FA8956FC8B46FA0B46FC74:
+              0. 12 72C5 0062 0000:?
+            0A26FF750626FF75048D7EFA16578B7E0636C47D0606:
+              0. 02 6BAA 0057 0000:?
+      C47E:
+        06:
+          06579A........8946FA8956FC8B46FA0B46FC7410C47EFA06:
+            0. 27 8041 0059 0000:@TStatusLine@Update$qv
+          268B45:
+            24260B45267503E9FC00C47E0A268B053D0100750955:
+              0. 01 ABCB 0114 0000:@TMenuView@HandleEvent$qm6TEvent
+            30268B55328946FC8956FE837E0C007E16C47EFC268B:
+              0. 22 BA25 004A 0000:@TColorGroupList@GetText$q7Integert1
+            38263B453A7311268B453803460A31D28946FA8956FC:
+              0. 51 BD03 0071 0000:@TTerminal@CanInsert$q4Word
+          89:
+            7EFA8C46FC:
+              26:
+                817D02B1D7751EB8....BA....2689451426:
+                  0. 04 0F6A 005E 0000:?
+                C47D0C0657C47EFA268A45085026C47D2006:
+                  0. 1C 6E5A 003C 0000:?
+              31C02689450826C47D0C0657C47E0626C47D20:
+                0. 1D ADD0 003D 0000:?
+            F88CC28946FA8956FC8B46FA0B46FC743FC47EFA268B4528:
+              0. 5C 8A47 007C 0000:@TMenuView@GetHelpCtx$qv
+        08268B05268B55028946FC8956FE8B46FC0B46FE747CC47EFC26:
+          0. 23 C9EC 009C 0000:?
+        0A:
+          0657C47E0606579A........A1....8B16....8946FA8956FC:
+            0. 08 2F3A 008C 0000:@TGroup@Store$qm7TStream
+          26813D0002751926837D024A7512C47E0626C47D52268A452C:
+            0. 12 B3F0 006B 0000:@TColorDialog@HandleEvent$qm6TEvent
+      C646:
+        FE00C47E06268B4530268B55328946FA8956FC8B46FA0B46FC74:
+          0. 24 BF09 0044 0000:@TColorGroupList@GetNumGroups$qv
+        FF00C47E:
+          06268B453A8946FA8B460A25010009C07430FF76FAC4:
+            0. 05 5383 0163 0000:@TEditor@Search$q6String4Word
+          08897EFA8C46FC268B450425040009C074438B7E0636:
+            0. 46 7020 0066 0000:?
+          0E268A0530E43B4608720DC47E0A268A0530E43B4608:
+            0. 27 2AAD 0077 0000:?
+      C746:
+        FAFFFF:
+          8B7E0636FF75F436FF75F281C7EAFF16579A........08:
+            0. 94 733A 00B4 0000:?
+          FE4E0AF6560AC47E060657268B3DFF5D6C52506A006A00:
+            0. 06 3AD0 003A 0000:?
+        FE:
+          0100C47E0626C47D24268B05268B55028946FA8956FC8B46FA:
+            0. 3C EC49 0064 0000:@TMenuBox@GetItemRect$q9PMenuItemm5TRect
+          0B00BF....1E57FF36....C47E0606579A........08C07518:
+            0. 01 FB44 00CE 0000:?
+      FF76:
+        088D7EFA16579A........09C0740831C08946FA8946FC8B46FA:
+          0. 0A FA7D 002A 0000:@GetBufferSize$q7Pointer
+        0CFF760AC47E060657268B3DFF5D7408C07465FF760CFF760A6A:
+          0. 52 D682 0082 0000:@TOutlineViewer@ExpandAll$q7Pointer
+    01008CD38EC38CDBFC8DBE:
+      00FFC5760AACAA9130EDF3A48EDB8DBE00FF16:
+        0. 28 F5DA 0137 0000:@TResourceFile@Put$q7PObject6String
+      FCFEC5760AACAA9130EDF3A48EDB8DBEFCFE16:
+        0. 32 DAFE 0098 0000:@TResourceFile@Get$q6String
+  08:
+    0000:
+      31:
+        C08946FC8946FEC47E06268B4524260B45267503E98A00268B4524:
+          0. 29 8435 00B0 0000:?
+        FF9A........:
+          74:
+            1AC47E0C065731C050C47E0606579A........C4:
+              0. 10 DE64 0030 0000:@TIndicator@Init$qm5TRect
+            33C47E10065731C050C47E0606579A........C4:
+              0. 29 E793 0049 0000:@TMenuBar@Init$qm5TRect5PMenu
+          7503E9CF00C47E0689F88CC2A3....8916....0657:
+            0. 0B 72A5 00E8 0000:@TProgram@Init$qv
+      6A:
+        089A........8946F88956FA:
+          8B46068B5608C47EF8268905268955:
+            0. 28 D2EB 0048 0000:@NewMenu$q9PMenuItem
+          C47E0A06579A........C47EF82689:
+            0. 0B 0BE4 0050 0000:@TDirCollection@GetItem$qm7TStream
+            1. 2C 1B2D 004C 0000:@NewSItem$q6String6PSItem
+            2. 0B 3F73 0050 0000:?
+        099A........8946F88956FAC47E0C06579A........C47EF82689:
+          0. 36 F300 0056 0000:@ColorItem$q6String4Byte10PColorItem
+        0C9A........8946F88956FAC47E0E06579A........C47EF82689:
+          0. 40 D2FF 0060 0000:@NewStatusKey$q6String4Wordt211PStatusItem
+        0D9A........8946F88956FAC47E0E06579A........C47EF82689:
+          0. 3D 1A92 005D 0000:@ColorGroup$q6String10PColorItem11PColorGroup
+        139A........8946F88956FA8B46068B5608C47EF8268905268955:
+          0. 2D CB71 004D 0000:@NewLine$q9PMenuItem
+        169A........8946F88956FAC47EF806576A16C47E0A0657268B3D:
+          0. 19 3496 0039 0000:@TFileCollection@GetItem$qm7TStream
+      807E0A007505E9E201EB168A460A30E4C47E06263B45327208268B45:
+        0. 7E F725 01F3 0000:@TTerminal@StrWrite$qm7TextBuf4Byte
+      833E....007418BF....1E57C47E0A06576A089A........31C0A3:
+        0. 00 0000 00A4 0000:@TProgram@GetEvent$qm6TEvent
+      8B:
+        46:
+          06:
+            0B46087503E99900C47E06268B05268B55028946FC8956FE8B:
+              0. 20 9B55 00AC 0000:@DisposeMenu$q5PMenu
+            2D08008946FC8B46088946FEA1....8B16....8946F88956FA:
+              0. 20 AED4 00D8 0000:@DisposeCache$q7Pointer
+          080B460A7503E99100C47E08268B4504260B45067471C47E0826:
+            0. 19 28F0 00B2 0000:?
+        7E0636C47D:
+          0689F88CC28946F88956FAC47EF8268B4520260B4522:
+            0. 2B D231 004B 0000:?
+          0A26FF750626FF75048D7EF816578B7E0636C47D0606:
+            0. 02 6BAA 0083 0000:?
+      8D7EF81657:
+        8B7E0636FF75FE36FF75FCC47E080657268B3DFF5D108D:
+          0. 13 CD1B 0033 0000:?
+        C47E060657:
+          268B3DFF5D74A1....0B06....74108D7EF8:
+            0. 04 340E 0031 0000:@TApplication@Cascade$qv (REF 0029: @TDesktop@Cascade$qm5TRect)
+            1. 04 340E 0031 0000:@TApplication@Tile$qv (REF 0029: @TDesktop@Tile$qm5TRect)
+          9A........:
+            6AFF6AFF8D7EF816579A:
+              0. 00 0000 0070 0000:@THistoryWindow@InitViewer$q4Word
+            807E0E00740CA1....0146FCA1:
+              0. 00 0000 003E 0000:?
+            8B46FA408946FE8D7EF816576A:
+              0. 04 2AB3 003B 0000:@TProgram@InitMenuBar$qv
+            8D7EF81657:
+              6AB0B8....5031C0:
+                0. 03 0BAD 0036 0000:@TDesktop@InitBackground$qv
+              B8....5031C05050:
+                0. 01 ABCB 0034 0000:@TWindow@InitFrame$qv
+            FF46FAFF4EFE8D7EF81657B8:
+              0. 00 0000 0036 0000:@TProgram@InitDesktop$qv
+      9A........FF760A9A........9A........9A........C47E060657:
+        0. 07 E438 006B 0000:@TProgram@SetScreenMode$q4Word
+      A1....0B06....7544C47E0689F88CC28946F88956FA8B46F80B46FA:
+        0. 32 45E9 0068 0000:@TView@TopView$qv
+      BF....B8....5057C47E0606579A........8946FC8956FE8B46FC8B:
+        0. 06 80BE 0026 0000:@TOutlineViewer@GetNode$q7Integer
+      C47E:
+        06:
+          06579A........C47E06268B4520268B55228946FC8956FE8B:
+            0. 0D EBE1 00AF 0000:@TGroup@Done$qv
+          26:
+            80:
+              3D00750A31C08946F88946FAEB27C47E06268A0530E440:
+                0. 02 63E7 0054 0000:@NewStr$q6String
+              7D06007503E90701268B4507268B55092603450B261355:
+                0. 22 2D1D 011C 0000:@TResourceFile@Flush$qv
+            8B45:
+              0226:
+                0B45047503E9500189F88CC23B560C75083B460A:
+                  0. 0B 1D51 0168 0000:@TView@PutInFrontOf$q5PView
+                8B55048946FC8956FEC47E0C0657268B3DFF5D14:
+                  0. 26 E62A 00DC 0000:@TResourceFile@SwitchTo$q7PStream7Boolean
+              0425020009C07452C746FE04008A460A3C027527C47E:
+                0. 09 B0C6 0070 0000:@TRangeValidator@Transfer$qm6String7Pointer10TVTransfer
+              29260B452B752606579A........C47E06268B452926:
+                0. 0C CB56 0096 0000:@TGroup@Draw$qv
+              30268B55328946F88956FA807E0A007616C47EF8268B:
+                0. 27 DAA7 0047 0000:@TColorGroupList@GetGroup$q4Byte
+            FF75:
+              0426FF75026800026A3C6A006A009A........C47E06:
+                0. 1C DA14 006F 0000:@TButton@Press$qv
+              0A26FF750C268B450A03460C50268B450C03460A508D:
+                0. 05 AFDF 003C 0000:@TView@GrowTo$q7Integert1
+        0A:
+          0657C47E06:
+            06579A........C47E0A268B053D01007403E9:
+              8B:
+                0. 1C 4E4D 0212 0000:@TColorSelector@HandleEvent$qm6TEvent
+              C9:
+                0. 1F D6CB 0180 0000:@TStatusLine@HandleEvent$qm6TEvent
+            26FF7524B8....5031C050509A........8946F8:
+              0. 2B 6C70 004B 0000:@THistory@InitHistoryWindow$qm5TRect
+          268B4508268B550A8946F88956FA31C08946FC8B46F80B46FA:
+            0. 24 14B6 0044 0000:@TOutline@GetNumChildren$q7Pointer
+          897EF88C46FAC646FF00C47E06268B4506260B4508741DFF76:
+            0. 22 7066 0042 0000:@TStringLookupValidator@Lookup$q6String
+        0C268B4508268B550A8946F88956FA837E0A00741D8B46F80B46:
+          0. 2E 3743 004E 0000:@TOutline@GetChild$q7Pointer7Integer
+      C6:
+        06....01FF76069A........8946F88956FAC606....008B46F88B:
+          0. 12 24C7 0032 0000:@MemAlloc$q4Word
+        46:
+          FD008B7E06368A45FE8846FC368A45FD8846FB559A........88:
+            0. 70 257A 00F0 0000:?
+          FF00:
+            8B7E0636C47D0626C47D0626803D007503E9E8008B7E0636:
+              0. EB C422 010B 0000:?
+            C47E0A0657C47E0606579A........08C0744DC47E0A0657:
+              0. 06 2AD7 006F 0000:@TRangeValidator@IsValid$q6String
+      FF76:
+        088B7E0636FF750E579A........508B7E0636FF750A579A:
+          0. 00 0000 0189 0000:?
+        0AFF76089A........08C074:
+          2B8B7E0636FF75F68D7EF816578B:
+            0. 04 2C7B 0042 0000:?
+          448B7E0636837DFE007C3A8B7E06:
+            0. 0C CDEE 005B 0000:?
+        0CFF760A8B460CC47E062603450E508B460A26034510508D7EF8:
+          0. 03 AC30 003A 0000:@TView@MoveTo$q7Integert1
+    01008DBEF8FE1657:
+      6A206A01C47E0606579A........50C47E0626FF750E:
+        0. 01 ABCB 0048 0000:@TView@Draw$qv
+      C47E06268A4520506A0106579A........50C47E0626:
+        0. 04 AA21 004B 0000:@TBackground@Draw$qv
+  0A:
+    0000:
+      31C08946:
+        FA:
+          8B46088B560A8946FC8956FE8B46FC0B46FE7416C47EFC:
+            0. 57 0ABF 00A6 0000:?
+            1. 57 EE6C 00AC 0000:?
+          BF....B8....5057C47E0606579A........837EFA007F:
+            0. 20 80D5 00AF 0000:@TDesktop@Tile$qm5TRect
+        FC8946FE8B46060B46087448C47E0626803D00743FFF7608:
+          0. 04 0E00 0066 0000:@StrNew$q5PChar
+        FE8B46088B560A8946FA8956FC8B46FA0B46FC7415FF46FE:
+          0. 60 7E4E 009A 0000:?
+      6A006A006A:
+        286A098D7EF616579A........8B460625800009C07530:
+          0. 02 707A 00A0 0000:@MessageBox$q6String7Pointer4Word
+        3C6A088D7EF616579A........C43E....268B450E2B46:
+          0. 0A 35BC 006B 0000:@InputBox$q6Stringt1m6String4Byte
+      837E0E007E:
+        178B46128B5E148B4E10C47E0AE8....FF4612FF4E0E75:
+          0. 05 3E9B 0025 0000:@TView@WriteLine$q7Integert1t1t1m3Any
+        1F8B46128B5E148B4E10C47E0AE8....8B4610D1E00146:
+          0. 0D 08A4 002D 0000:@TView@WriteBuf$q7Integert1t1t1m3Any
+      8A46:
+        0AE8....88C48CDBC5760CFCAC88C130EDE32189CFD1E729FC89:
+          0. 16 36D6 0040 0000:@TView@WriteStr$q7Integert16String4Byte
+        0CE8....88C48A460E8B4E0A09C97E2581F900017E03B9000189:
+          0. 19 2E2F 003F 0000:@TView@WriteChar$q7Integert14Char4Bytet1
+      8D7E:
+        F61657C47E060657268B3DFF5D2C837EF60074108D7EF61657C4:
+          0. 1D 58D0 003D 0000:@TView@EventAvail$qv
+        FA16576A02C47E060657268B3DFF5D1C837EFA00750A31C08946:
+          0. 0C 6413 006B 0000:@TStream@StrRead$qv
+        FB16576A01C47E060657268B3DFF5D1C807EFB0076438A46FB30:
+          0. 04 EAD4 0071 0000:@TStream@ReadStr$qv
+      C47E:
+        0631C02689452D8D7EF61657C47E060657268B3DFF5D2C8D7EF6:
+          0. 4E BBD6 006E 0000:@TGroup@Execute$qv
+        0A0657C47E0606579A........C47E0A26813D00027403E98D00:
+          0. 6A 09B2 00B1 0000:@TColorItemList@HandleEvent$qm6TEvent
+      C646:
+        FBFFC47E08268B05268B55028946FC8956FE8B46FC0B46FE7503:
+          0. 37 AE66 00E6 0000:?
+        FF0031C08946FCC47E06268B4506488946FA8B46FC3B46FA7F74:
+          0. 84 9976 00A4 0000:@TSortedCollection@Search$q7Pointerm7Integer
+      FF760CFF760A8D7E0A1657C47E0606579A........8D7EF61657C47E:
+        0. 04 B1C4 0042 0000:@TView@MouseInView$q6TPoint
+    0100:
+      C47E0606579A........488946FE8DBEF6FE1657C47E06268A452A50:
+        0. 05 EF68 00EF 0000:?
+      C686FDFE00C646FF038B7E06368B7D0636FE45FE8B7E06368B7D0636:
+        0. 1B E01E 0199 0000:?
+  0C:
+    0000:
+      31C08946FC8946FE8B:
+        460E0B4610743A8B460C8946F48B460A8946F6:
+          0. 38 B6B1 0058 0000:@Message$q5PView4Wordt27Pointer
+        7E0636837DFE007403E9B40031C08946FA8B7E:
+          0. 35 2E8B 00D7 0000:?
+      6A:
+        0C9A........8946F88956FAC47EF88B46068B5608268905268955:
+          0. 33 64B4 0053 0000:@NewStatusDef$q4Wordt111PStatusItem10PStatusDef
+        0D9A........8946F88956FAC47EF8897EF48C46F6C47E0E06579A:
+          0. 00 0000 0065 0000:@NewNode$q6String5PNodet2
+      8B:
+        460AC47E06263B45107D0831C08946FEE9810031C08946F8C746FA:
+          0. 4B B3C9 00A0 0000:?
+        7E0636FF75E236FF75E08D7EFC16578B7E0636C47D0606579A:
+          0. 00 0000 00B5 0000:?
+      C47E:
+        0A0657C47E0606579A........C47E:
+          06268B451C25010009C075:
+            0. 23 276B 04A1 0000:@TCluster@HandleEvent$qm6TEvent
+            1. 23 32D7 048F 0000:@TCluster@HandleEvent$qm6TEvent
+          0A26833D017403E97302C4:
+            0. 2C 7F43 04C0 0000:@TListViewer@HandleEvent$qm6TEvent
+        0E0657C47E0606579A........C47E0626C47D02268B450E8946:
+          0. 1B DF03 011A 0000:@TView@CalcBounds$qm5TRect6TPoint
+    0100:
+      31C08946FCC47E06268A4530509A........8946F88B46F8488946F4:
+        0. 21 1100 0072 0000:@THistoryViewer@HistoryWidth$qv
+      BF....B8....50578B7E0636C47D0606579A........8946FC8956FE:
+        0. 2A 9012 0058 0000:?
+      C47E0626807D2800741468020406579A........8946FEC686F5FE00:
+        0. 0B 0AA2 00AB 0000:@TLabel@Draw$qv
+    0200C47E06268B45102603452A8986F4FE8B86F4FE31D28BC88BDA268B45:
+      0. 2A 2C40 022C 0000:@TTerminal@Draw$qv
+  0E:
+    0000:
+      31C08946:
+        F8C47E06268B453A8946F6268B452E8946F2B801003B46F2:
+          0. 16 2DC3 00BB 0000:@TTerminal@CalcWidth$qv
+        FEBF....B8....5057C47E0606579A........837EFE007E:
+          0. 4E 0D64 0092 0000:@TDesktop@Cascade$qm5TRect
+      8D7E:
+        F21657C47E0606579A........FF:
+          46F2FF4EF6FF4EF8C47E0A26:
+            0. 18 B780 0256 0000:@TButton@HandleEvent$qm6TEvent
+          760CFF760A8D7EF216579A:
+            0. 00 0000 007F 0000:?
+        FB16576A018B7E0636C47D0C0657268B3DFF5D1C807EFB00747B:
+          0. 03 503B 00AD 0000:?
+      C47E0A0657C47E0606579A........C47E0A0657C47E060657268B3D:
+        0. 09 C0CF 0647 0000:@TEditor@HandleEvent$qm6TEvent
+      C646FF:
+        00:
+          817E0A00407605C7460A0040C47E06268B4506998BC88BDA:
+            0. 28 2C63 01DE 0000:?
+            1. 28 F031 01AA 0000:?
+          8B7E0636C47D06268B4520260B4522746B26C47D2026837D:
+            0. 22 22D6 008B 0000:?
+        01C47E0626C6455300268B4538262B45368946FC837EFC0075:
+          0. A4 5B62 02C8 0000:@TEditor@InsertBuffer$qm11PEditBuffer4Wordt27Booleant4
+    0100C47E:
+      0626C47D20268A058886F5FE80BEF5FE007507A0....8886F5FE:
+        0. 57 96E2 00A8 0000:@TColorDisplay@Draw$qv
+      0A0657C47E0606579A........C47E0A268B053D01007403E93F:
+        0. 2C 46A0 02B6 0000:@TOutlineViewer@HandleEvent$qm6TEvent
+    0200C47E06268B451A25400009C0750E6A0106579A........8846FFEB0F:
+      0. 08 E11A 0191 0000:@TInputLine@Draw$qv
+  10:
+    0000:
+      8D7E:
+        F016578D7EF41657C47E060657268B3DFF5D48C47E06268B450E:
+          0. 1D 41DA 007D 0000:@TWindow@Zoom$qv
+        F41657:
+          8D7EF01657C47E060657268B3DFF5D48C47E0A268B4504:
+            0. 0C F6FC 00E1 0000:@TView@Locate$qm5TRect
+          C47E0606579A........8B460A25010009C075208B46F4:
+            0. 17 89D4 00B2 0000:@TWindow@StandardScrollBar$q4Word
+        F816578B7E0636C47D0626C47D0226C47D0206579A........8D:
+          0. 57 E759 0096 0000:?
+      C47E:
+        06268B4502260B45047503E9500189F88CC23B560C75083B460A:
+          0. 0B 1D51 0168 0000:@TView@PutInFrontOf$q5PView
+        0A0657C47E0606579A........C47E0A26813D00017403E95B01:
+          0. 25 21E2 020F 0000:@TWindow@HandleEvent$qm6TEvent
+    0100:
+      680104C47E0606579A........8946FE680202C47E0606579A:
+        0. 00 0000 0092 0000:@TOutlineViewer@Draw$qv
+      8DBEF8FE16576A206A70C47E0626FF750E9A........C47E06268B45:
+        0. 5D 9921 00F6 0000:@TColorSelector@Draw$qv
+  12:
+    0000:
+      31:
+        C08946F68946F88D46F28CD28946EE8956F08D7EFA16576A028B7E:
+          0. 16 0D7F 00B7 0000:?
+        FF9A........7503E93501C746FE0A00C746FC02008B46100B4612:
+          0. 34 AE7E 014E 0000:@TMenuBox@Init$qm5TRect5PMenu9PMenuView
+      8B46108B56128946FC8956FE8B46100B46127503E97601FF7612FF76:
+        0. FF E44F 019B 0000:?
+      8D7EF816576A04C47E0A0657268B3DFF5D1C8D7EF416576A04C47E0A:
+        0. 24 C06F 00A9 0000:@TResourceCollection@GetItem$qm7TStream
+    0200C47E0A0657C47E0606579A........C47E06268B451A25200009C075:
+      0. 14 2FEA 03F5 0000:@TInputLine@HandleEvent$qm6TEvent
+  14:
+    0000:
+      8B46108B56128946FC8956FE8B46100B46127503E97601FF7612FF76:
+        0. FF 9E1E 019B 0000:?
+      8D46F28CD28946EE8956F08D7EEC16576A028B7E0636C47D0C065726:
+        0. 0E AD2A 00AA 0000:?
+    02006A01C47E0606579A........8846FF8DBEECFD1657C47E060657268B:
+      0. 3E 5CD3 01C3 0000:@TStaticText@Draw$qv
+  16:
+    0000:
+      6A089A........8946F08956F2C47EF089F88CC28946F48956F631C0:
+        0. 28 9EC5 013B 0000:?
+      8D7EF216576A028B7E0636C47D0C0657268B3DFF5D1C31C08946F889:
+        0. 26 0695 00CB 0000:?
+        1. 26 4572 00C8 0000:?
+      C47E0A0657C47E0606579A........C47E0A268B053D01007403E9C6:
+        0. 03 8C0A 0313 0000:@TScrollBar@HandleEvent$qm6TEvent
+    0200C47E0A0657C47E0606579A........C47E0A26833D01742F26833D10:
+      0. 0A 0422 01F1 0000:@THistory@HandleEvent$qm6TEvent
+  18:
+    00008CD38EC38CDBFC8D7EF8C57618B90800F3A48EDB6880006A01C47E06:
+      0. 50 349C 0238 0000:@TView@DragView$q6TEvent4Bytem5TRect6TPointt4
+    0100:
+      680103C47E0606579A........8946FE680406C47E0606579A:
+        0. 00 0000 01B1 0000:@TMenuBox@Draw$qv
+      C47E06268B451A25000109C0740F68040406579A........8946FEEB:
+        0. 0A A8DB 01DE 0000:@TButton@DrawState$q7Boolean
+  1A:
+    000031FF9A........7503E9A701C47E0C065731C050C47E0606579A:
+      0. 00 0000 01C0 0000:@TGroup@Load$qm7TStream
+    0100680103C47E0606579A........8946FA680406C47E0606579A:
+      0. 00 0000 01A3 0000:@TMenuBar@Draw$qv
+    0300680103C47E0606579A........8986ECFE680406C47E0606579A:
+      0. 00 0000 0253 0000:?
+  1E0100680103C47E0606579A........8946F6680204C47E0606579A:
+    0. 00 0000 0269 0000:@TCluster@DrawMultiBox$q6Stringt1
+  2000008CD38EC38CDBFC8D7EE0C576:
+    0AB92000F3A48EDB803E....007515BF:
+      0. 00 0000 004E 0000:@TView@SetCommands$q11TCommandSet
+    0CB92000F3A48EDB:
+      31FF9A........74:
+        0. 0A F455 004C 0000:@TFilterValidator@Init$q8TCharSet
+      807E0A0074118D7E:
+        0. 09 8FCC 0042 0000:@TView@SetCmdState$q11TCommandSet7Boolean
+  220300C47E06268B451A2530003D3000752C6A0106579A........8946F86A:
+    0. 07 E57F 027C 0000:@TListViewer@Draw$qv
+  2800008CD38EC38CDBFC8D7EDCC57610AC3C1F7202B01FAA9130EDF3A48EDB:
+    0. 11 ED56 00B0 0000:@NewSubMenu$q8TMenuStr4Word5PMenu9PMenuItem
+  2A0000C646FD0031C08946F831C08946F48946F6C47E0626C47D24268B4504:
+    0. 3B EF91 0596 0000:@TMenuView@Execute$qv
+  2C0000C47E0606576A108D7ED416579A........833E....0075118A46E924:
+    0. 18 70D7 0038 0000:?
+  3000008B460A0B460C7503E91001C47E0A268B451C8946FCC47E0A268B4502:
+    0. 0B EB76 012B 0000:@TGroup@ExecView$q5PView
+  320100C47E1006578B46062503006BF80C81C7....1E57B8....5031C05050:
+    0. 01 ABCB 01FD 0000:@MessageBoxRect$qm5TRect6String7Pointer4Word
+  400000:
+    31FF9A........7503E9120231C050C47E0606579A........8B460C:
+      0. FF A6DC 022B 0000:@TResourceFile@Init$q7PStream
+    8CD38EC38CDBFC8D7EE0C5760AB92000F3A48EDB803E....00752B8D:
+      0. 05 2A00 007A 0000:@TView@EnableCommands$q11TCommandSet
+    8D7EC016576A009A........8A460C509A........8D7EE016576A20:
+      0. 01 ABCB 005D 0000:@TEditor@SetCmdState$q4Word7Boolean
+  44:
+    0000:
+      31FF9A........747CC47E0C065731C050C47E0606579A........C4:
+        0. 13 F9E5 0092 0000:@TChDirDialog@Load$qm7TStream
+      6A008D7EBC16576A439A........807EBC03760EFE46BC8A46BC30E4:
+        0. 13 7716 0039 0000:?
+    0100C47E06268B4551260B45537503E997008DBEBCFE16579A........8D:
+      0. 07 9EC4 00AF 0000:?
+  46000031FF9A........7462C47E0C065731C050C47E0606579A........C4:
+    0. 29 217F 0078 0000:@TFileDialog@Load$qm7TStream
+  48:
+    00008CD38EC38CDBFC8D7EDCC57614AC3C1F7202B01FAA9130EDF3A48D7E:
+      0. 28 F281 00EA 0000:@NewItem$q8TMenuStrt14Wordt3t39PMenuItem
+    0100C47E0A0657C47E0606579A........C47E0A268B053D00017403E919:
+      0. 14 7E36 013E 0000:@TChDirDialog@HandleEvent$qm6TEvent
+  50:
+    0000:
+      31FF9A........744531C050C47E0606579A........1EC5760E8D7E:
+        0. 26 C1B9 005B 0000:@TDosStream@Init$q8FNameStr4Word
+      8CD38EC38CDBFC8D7EB0C57610AC3C4F7202B04FAA9130EDF3A48EDB:
+        0. 03 ADDE 0087 0000:@TBufStream@Init$q8FNameStr4Wordt2
+    01008CD38EC38CDBFC8D7EB0C5760CAC3C4F7202B04FAA9130EDF3A48EDB:
+      0. 03 ADDE 0096 0000:@TFileEditor@Init$qm5TRect10PScrollBart210PIndicator8FNameStr
+  5200008CD38EC38CDBFC8D7EAEC576:
+    0CAC3C507202B050AA9130EDF3A48EDB:
+      0. 03 ADDE 0069 0000:@TDialog@Init$qm5TRect9TTitleStr
+    0EAC3C507202B050AA9130EDF3A48EDB:
+      0. 03 ADDE 00C3 0000:@TWindow@Init$qm5TRect9TTitleStr7Integer
+    10AC3C507202B050AA9130EDF3A48EDB:
+      0. 03 ADDE 00BB 0000:@TButton@Init$qm5TRect9TTitleStr4Wordt3
+  540000BF....1E578D7EAC16576A509A........A1....8946FD6A078D7EAC:
+    0. 04 3C7D 0053 0000:?
+  5602008DBEAAFD16578DBEAAFE1657C47E0806578B7E06579A........8B7E:
+    0. 03 39B5 005B 0000:?
+  600000:
+    8CD38EC38CDBFC8D7EE0C5760AB92000F3A48EDB803E....0075328D:
+      0. 05 2A00 0081 0000:@TView@DisableCommands$q11TCommandSet
+    FF760C8A460A50C47E0606579A........837E0C2075116A108A460A:
+      0. 36 363F 0141 0000:@TWindow@SetState$q4Word7Boolean
+      1. 36 D02F 0144 0000:@TWindow@SetState$q4Word7Boolean
+  7E01008DBE82FE1657C47E0606579A........8D7EAE16576A4F9A:
+    0. 0B 92D0 0073 0000:?
+  840000C45E06268B570E89D14949BE....03760C8DBE7CFF1607FCA4ACF3AA:
+    0. 88 664D 00BD 0000:?
+  880000C646FF0031C08946FC8DBE78FF1657C47E0681C75A0006579A:
+    0. 00 0000 00ED 0000:@TFileEditor@LoadFile$qv
+  A40000BF....1E578DBE5CFF16576A509A........BF....1E578D7EAD1657:
+    0. 03 DF58 0078 0000:?
+  C40200C47E0626C47D4D26C47D200657C47E0A06576A4F9A........C47E0A:
+    0. 04 3E2E 01DA 0000:@TFileDialog@GetFileName$qm7PathStr
+  E80000803E....:
+    007408C746FE0100E9AC00803E....077508A1....8946FC:
+      0. 03 9806 00C6 0000:@SystemError$q7Integer4Byte
+    077508A1....8946FCEB06A1....8946FC8A460630E40541:
+      0. 18 4C9E 00B7 0000:@SystemError$q7Integer4Byte
+  FE01008DBE02FE1657C47E0606579A........8D7EAE16576A4F9A:
+    0. 0B 92D0 0075 0000:?
+E8....:
+  A3....3B06....7406A1....E8....E8....CB:
+    0. 00 0000 0016 0000:@InitVideo$qv
+  B10108D27504B100B218FEC2A3....8836....8816....880E....80F1:
+    0. 03 8B0D 0073 0000:?
+  E8....A3....CB:
+    0. 00 0000 000A 0000:?
+FA833E....0075178A1E....8B0E....8B16....8E06....268B3E6C00EB1E8B:
+  0. 01 CDA4 0055 0000:?

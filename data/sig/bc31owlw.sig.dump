@@ -1,0 +1,797 @@
+45558BEC:
+  33C0EB005D4DCB:
+    0. 00 0000 000B (!)0000:?
+  56:
+    578B7606:
+      0BF6750E6A04..........598BF00BC0743D6A12:
+        0. 00 0000 0590 0000:@TComboBoxData@$bctr$qv 0061:@TComboBoxData@$bdtr$qv 00AB:@TComboBoxData@AddString$qpzci 00F8:@TComboBox@$bctr$qp14TWindowsObjectiiiiiulusp7TModule 0159:@TComboBox@$bctr$qp14TWindowsObjectiusp7TModule 01BA:@TComboBox@SetText$qnzc 0216:@TComboBox@GetEditSel$qrit1 0253:@TComboBox@ShowList$qv 0289:@TComboBox@HideList$qv (l)02BF:@DoAddForCB$qr6Objectpv 0310:@TComboBox@Transfer$qpvus 045F:@TComboBox@GetMsgID$qus 048B:@TComboBox@SetupWindow$qv 04B8:@TComboBox@read$qr8ipstream 04E6:@TComboBox@write$qr8opstream 050D:@TComboBox@build$qv (l)0573:@_STCON_$qv
+      8B7E:
+        08:
+          0BF6:
+            74:
+              11C704....F7C70100740756:
+                0. 06 0A04 0026 (!)0000:?
+              1C6A0056..........83C404F7C7010074:
+                0. 02 ECEF 0033 (!)0000:? (REF 0014: @TDialog@$bdtr$qv)
+                1. 02 ECEF 0033 0000:@Array@$bdtr$qv (REF 0014: @AbstractArray@$bdtr$qv)
+              29F7C7020074126A008BC605080050:
+                0. 00 0000 0040 0000:@TNSSortedCollection@$bdtr$qv
+              2EC74402....8B1CC707....6A028BC605:
+                0. 03 28F7 0043 0000:@fpbase@$bdtr$qv
+              35C74402....8B1CC707....8B1CC7470A:
+                0. 10 C2E1 004A 0000:@TStreamableTypes@$bdtr$qv
+              38C74402....8B1CC707....C74404:
+                0. 0D 999B 004D 0000:@ipstream@$bdtr$qv
+              41C74402....8B1CC707....8B1CC7470A:
+                0. 1C 8608 0056 0000:@TPWrittenObjects@$bdtr$qv
+              4DC74402....C7442A....8B1CC707:
+                0. 03 3B8A 0062 0000:@ifpstream@$bdtr$qv
+              50C74402....8B1CC707....C74406:
+                0. 05 90D0 0065 0000:@opstream@$bdtr$qv
+              65C74402....C7442A....8B1CC707:
+                0. 03 29A9 007A 0000:@ofpstream@$bdtr$qv
+              6FC74402....C74414....8B1CC707:
+                0. 03 9CFD 0084 0000:@iopstream@$bdtr$qv
+            75:
+              03E98400C74402....C7442A....C7443C:
+                0. 00 0000 009C 0000:@fpstream@$bdtr$qv
+              116A42..........598BF00BC07503E9CA:
+                0. 06 5DAA 0E5F 0000:@TWindow@$bctr$qp14TWindowsObjectnzcp7TModule 00F4:@TWindow@$bctr$qpx6HWND__p7TModule 025A:@TWindow@$bdtr$qv 02C6:@TWindow@AssignMenu$qnzc 0378:@TWindow@AssignMenu$qi 0395:@TWindow@GetWindowClass$qr11tagWNDCLASS 0401:@TWindow@Create$qv 06D2:@TWindow@WMMDIActivate$qr8TMessage 0725:@TWindow@ActivationResponse$qusi (l)07A6:@HasStyle$qpvt1 07DE:@TWindow@SetupWindow$qv 088E:@TWindow@WMCreate$qr8TMessage 08AE:@TWindow@WMHScroll$qr8TMessage 0905:@TWindow@WMVScroll$qr8TMessage 095C:@TWindow@WMPaint$qr8TMessage 09E7:@TWindow@Paint$qpx5HDC__r14tagPAINTSTRUCT 09F1:@TWindow@Paint$quir14tagPAINTSTRUCT 09FB:@TWindow@WMSize$qr8TMessage 0A62:@TWindow@WMMove$qr8TMessage 0AE8:@TWindow@WMLButtonDown$qr8TMessage 0B63:@TWindow@read$qr8ipstream 0CB9:@TWindow@write$qr8opstream 0DF7:@TWindow@build$qv (l)0E42:@_STCON_$qv
+          5756..........83C404837C4600741D8B5C46FF:
+            0. 02 BDD7 003E 0000:@TMDIFrame@WMActivate$qr8TMessage
+          8B44023B45027505B80100EB0233C0EB005F5E5D:
+            0. 02 8681 0022 0000:@TModule@isEqual$xqrx6Object
+        0A0BF675116A:
+          24..........598BF00BC07503E99B:
+            0. 03 4A07 111F 0000:@TWindowsObject@$bctr$qp14TWindowsObjectp7TModule (l)00C5:@FreeChild$qpvt1 00D8:@TWindowsObject@$bdtr$qv 0173:@TWindowsObject@AssignCreateOrder$qv 01EC:@TWindowsObject@OrderIsI$qpvt1 0295:@TWindowsObject@CreateZeroChild$qpvt1 02BF:@TWindowsObject@CreateChildren$qv 033B:@TWindowsObject@Transfer$qpvus 0349:@TWindowsObject@EnableKBHandler$qv 0362:@TWindowsObject@EnableAutoCreate$qv 037B:@TWindowsObject@EnableTransfer$qv 0395:@TWindowsObject@DisableAutoCreate$qv 03AE:@TWindowsObject@DisableTransfer$qv 03C8:@TWindowsObject@SetFlags$qusi 03E9:@TWindowsObject@AddChild$qp14TWindowsObject 041E:@TWindowsObject@Previous$qv 0448:@TWindowsObject@RemoveChild$qp14TWindowsObject 0498:@TWindowsObject@SetParent$qp14TWindowsObject 04DE:@TWindowsObject@FirstThat$qnqpvt1$ipv 053E:@TWindowsObject@ForEach$qnqpvt1$vpv 057B:@TWindowsObject@FirstThat$qM14TWindowsObjectqpvt1$ipv 05E1:@TWindowsObject@ForEach$qM14TWindowsObjectqpvt1$vpv (l)0624:@IsItThisChild1$qpvt1 0640:@TWindowsObject@IndexOf$qp14TWindowsObject 0673:@TWindowsObject@At$qi (l)06A8:@IsItThisChild2$qpvt1 06CD:@TWindowsObject@ChildWithId$qi 06ED:@TWindowsObject@DefWndProc$qr8TMessage 078D:@TWindowsObject@DispatchAMessage$qusr8TMessageM14TWindowsObjedX 0878:@TWindowsObject@WMCommand$qr8TMessage 09F8:@TWindowsObject@DrawItem$qm17tagDRAWITEMSTRUCT 0A02:@TWindowsObject@WMDrawItem$qr8TMessage 0A7D:@TWindowsObject@DispatchScroll$qr8TMessage 0B18:@TWindowsObject@WMVScroll$qr8TMessage 0B4F:@TWindowsObject@WMHScroll$qr8TMessage 0B86:@TWindowsObject@DefCommandProc$qr8TMessage 0BF3:@TWindowsObject@DefChildProc$qr8TMessage 0C0B:@TWindowsObject@DefNotificationProc$qr8TMessage (l)0C8B:@DoEnableAutoCreate$qpvt1 0CA3:@TWindowsObject@Destroy$qv 0D15:@TWindowsObject@GetWindowClass$qr11tagWNDCLASS 0D1F:@TWindowsObject@SetupWindow$qv (l)0D47:@TransferDataChild$qpvt1 0D81:@TWindowsObject@TransferData$qus 0DAB:@TWindowsObject@Register$qv 0E0E:@TWindowsObject@Show$qi 0E2B:@TWindowsObject@SetCaption$qnzc (l)0E94:@CannotCloseChild$qpvt1 0EBA:@TWindowsObject@CanClose$qv 0EE3:@TWindowsObject@CloseWindow$qv 0F20:@TWindowsObject@ShutDownWindow$qv 0F43:@TWindowsObject@WMClose$qr8TMessage 0F79:@TWindowsObject@WMDestroy$qr8TMessage 0FB2:@TWindowsObject@WMNCDestroy$qr8TMessage 100B:@TWindowsObject@WMActivate$qr8TMessage 1040:@TWindowsObject@ActivationResponse$qusi 1087:@TWindowsObject@WMQueryEndSession$qr8TMessage 10E3:@TWindowsObject@CMExit$qr8TMessage 1111:@TWindowsObject@GetClient$qv
+          2E..........598BF00BC07503E984:
+            0. 09 F31C 04C0 0000:@TSearchDialog@$bctr$qp14TWindowsObjectir13TSearchStructp7TMotM 00AE:@TEditWindow@$bctr$qp14TWindowsObjectnzcp7TModule 0138:@TEditWindow@WMSize$qr8TMessage 0174:@TEditWindow@WMSetFocus$qr8TMessage 018B:@TEditWindow@DoSearch$qv 0283:@TEditWindow@CMEditFind$qr8TMessage 02C5:@TEditWindow@CMEditFindNext$qr8TMessage 02D7:@TEditWindow@CMEditReplace$qr8TMessage 0319:@TEditWindow@read$qr8ipstream 03BB:@TEditWindow@write$qr8opstream 044E:@TEditWindow@build$qv (l)04A3:@_STCON_$qv
+        1A0BF6750E6A42..........598BF00BC07459FF76:
+          0. 1A BFAA 013E 0000:@TBDivider@$bctr$qp14TWindowsObjectinzciiiiiip7TModule 0080:@TBDivider@$bctr$qp14TWindowsObjectip7TModule 00C4:@TBDivider@build$qv (l)0121:@_STCON_$qv
+    8B:
+      56068B76088B04EB005E5D4DCB:
+        0. 00 0000 0013 0000:@TPWrittenObjects@keyOf$qpv
+      76:
+        06:
+          0BF675:
+            0E6A:
+              0C..........598BF00BC0742AC704....C744:
+                0. 3A ECC9 0470 0000:@TNSCollection@$bctr$qii 004C:@TNSCollection@$bctr$qv 0090:@TNSCollection@$bdtr$qv 00CE:@TNSCollection@at$qi 00E8:@TNSCollection@atRemove$qi 0132:@TNSCollection@atFree$qi 0167:@TNSCollection@atInsert$qipv 01D6:@TNSCollection@atPut$qipv 0206:@TNSCollection@remove$qpv 0226:@TNSCollection@removeAll$qv 0237:@TNSCollection@error$qii 024B:@TNSCollection@firstThat$qnqpvt1$7Booleanpv 028D:@TNSCollection@lastThat$qnqpvt1$7Booleanpv 02D1:@TNSCollection@forEach$qnqpvt1$vpv 02FD:@TNSCollection@free$qpv 0321:@TNSCollection@freeAll$qv 0351:@TNSCollection@freeItem$qpv 0366:@TNSCollection@indexOf$qpv 039D:@TNSCollection@insert$qpv 03C5:@TNSCollection@pack$qv 0401:@TNSCollection@setLimit$qi
+              2E..........598BF00BC07460FF760EFF7608:
+                0. 01 CBC7 06A2 0000:@TDialog@$bctr$qp14TWindowsObjectnzcp7TModule 0082:@TDialog@$bctr$qp14TWindowsObjectip7TModule 00E7:@TDialog@$bdtr$qv (l)0131:@RegisterFails$qpvt1 014B:@TDialog@Create$qv 01EE:@TDialog@Execute$qv 02DC:@TDialog@WMInitDialog$qr8TMessage 02F0:@TDialog@SetupWindow$qv 0312:@TDialog@WMQueryEndSession$qr8TMessage 0351:@TDialog@CloseWindow$qi 038F:@TDialog@CloseWindow$qv 03B6:@TDialog@ShutDownWindow$qi 03DE:@TDialog@ShutDownWindow$qv (l)0405:@DoEnableAutoCreate$qpvt1 041E:@TDialog@Destroy$qi 045B:@TDialog@Destroy$qv 0482:@TDialog@SetCaption$qnzc 04A3:@TDialog@Ok$qr8TMessage 04BB:@TDialog@Cancel$qr8TMessage 04CE:@TDialog@WMClose$qr8TMessage 04E1:@TDialog@GetClassName$qv 0503:@TDialog@GetWindowClass$qr11tagWNDCLASS 056F:@TDialog@read$qr8ipstream 05D1:@TDialog@write$qr8opstream 063A:@TDialog@build$qv (l)0685:@_STCON_$qv
+              38..........598BF00BC07461FF761868027F:
+                0. 04 7E96 01C6 0000:@TInputDialog@$bctr$qp14TWindowsObjectnzct2t2usp7TModule 0083:@TInputDialog@TransferData$qus 00D5:@TInputDialog@SetupWindow$qv 00FF:@TInputDialog@read$qr8ipstream 012B:@TInputDialog@write$qr8opstream 0155:@TInputDialog@build$qv (l)01A9:@_STCON_$qv
+              42..........598BF00BC074:
+                1EFF760EFF760C:
+                  0. 07 26F9 00D6 0000:@TBWindow@$bctr$qp14TWindowsObjectnzcp7TModule 0040:@TBWindow@GetWindowClass$qr11tagWNDCLASS 0065:@TBWindow@build$qv (l)00B9:@_STCON_$qv
+                3DFF7618FF7616:
+                  0. 16 4515 011D 0000:@TBStaticBmp@$bctr$qp14TWindowsObjectinzciiiip7TModule 005F:@TBStaticBmp@$bctr$qp14TWindowsObjectip7TModule 00A3:@TBStaticBmp@build$qv (l)0100:@_STCON_$qv
+                53FF7618FF760E:
+                  0. 07 BEC2 020C 0000:@TControl@$bctr$qp14TWindowsObjectinzciiiip7TModule 0075:@TControl@$bctr$qp14TWindowsObjectip7TModule 0107:@TControl@WMPaint$qr8TMessage 0141:@TControl@WMDrawItem$qr8TMessage 019A:@TControl@ODADrawEntire$qm17tagDRAWITEMSTRUCT 01C0:@TControl@ODAFocus$qm17tagDRAWITEMSTRUCT 01E6:@TControl@ODASelect$qm17tagDRAWITEMSTRUCT
+              44..........598BF00BC074:
+                30FF761AFF7618:
+                  0. 19 8B99 0115 0000:@TBStatic@$bctr$qp14TWindowsObjectinzciiiiusp7TModule 0052:@TBStatic@$bctr$qp14TWindowsObjectiusp7TModule 0092:@TBStatic@build$qv (l)00F8:@_STCON_$qv
+                45FF76:
+                  18FF7616:
+                    0. 16 4515 0127 0000:@TBGroupBox@$bctr$qp14TWindowsObjectinzciiiip7TModule 0067:@TBGroupBox@$bctr$qp14TWindowsObjectip7TModule 00A4:@TBGroupBox@build$qv (l)010A:@_STCON_$qv
+                  1AFF7616:
+                    0. 16 4515 01D8 0000:@TStatic@$bctr$qp14TWindowsObjectinzciiiiusp7TModule 0067:@TStatic@$bctr$qp14TWindowsObjectiusp7TModule 00B1:@TStatic@Transfer$qpvus 0109:@TStatic@read$qr8ipstream 0137:@TStatic@write$qr8opstream 015E:@TStatic@build$qv (l)01BB:@_STCON_$qv
+                4AFF7618FF7616:
+                  0. 16 4515 01B4 0000:@TGroupBox@$bctr$qp14TWindowsObjectinzciiiip7TModule 006C:@TGroupBox@$bctr$qp14TWindowsObjectip7TModule 00B5:@TGroupBox@SelectionChanged$qi 00E5:@TGroupBox@read$qr8ipstream 0113:@TGroupBox@write$qr8opstream 013A:@TGroupBox@build$qv (l)0197:@_STCON_$qv
+                60FF761CFF7618:
+                  0. 19 8B99 08CE 0000:@TEdit@$bctr$qp14TWindowsObjectinzciiiiusip7TModule 0082:@TEdit@$bctr$qp14TWindowsObjectiusp7TModule 00C9:@TEdit@CanUndo$qv 00F3:@TEdit@Undo$qv 0110:@TEdit@Paste$qv 012D:@TEdit@Copy$qv 014A:@TEdit@Cut$qv 0167:@TEdit@CMEditCut$qr8TMessage 0179:@TEdit@CMEditCopy$qr8TMessage 018B:@TEdit@CMEditPaste$qr8TMessage 019D:@TEdit@CMEditDelete$qr8TMessage 01B0:@TEdit@CMEditClear$qr8TMessage 01C8:@TEdit@CMEditUndo$qr8TMessage 01DA:@TEdit@ENErrSpace$qr8TMessage 01F9:@TEdit@GetNumLines$qv 0218:@TEdit@GetLineLength$qi 0257:@TEdit@GetLine$qnzcii 02CD:@TEdit@SetSelection$qii 0300:@TEdit@GetSelection$qrit1 0338:@TEdit@IsModified$qv 0362:@TEdit@ClearModify$qv 037F:@TEdit@GetLineFromPos$qi 039F:@TEdit@GetLineIndex$qi 03BF:@TEdit@Scroll$qii 03E5:@TEdit@Insert$qnzc 0404:@TEdit@Search$qinzci 05BA:@TEdit@DeleteSelection$qv 05FB:@TEdit@DeleteSubText$qii 0627:@TEdit@DeleteLine$qi 06C2:@TEdit@GetSubText$qnzcii 081E:@TEdit@SetupWindow$qv 084B:@TEdit@build$qv (l)08B1:@_STCON_$qv
+              46..........598BF00BC074:
+                30FF761AFF7618:
+                  0. 19 8B99 0112 0000:@TBButton@$bctr$qp14TWindowsObjectinzciiiiip7TModule 0052:@TBButton@$bctr$qp14TWindowsObjectip7TModule 008F:@TBButton@build$qv (l)00F5:@_STCON_$qv
+                4BFF761AFF7616:
+                  0. 16 4515 0286 0000:@TButton@$bctr$qp14TWindowsObjectinzciiiiip7TModule 006D:@TButton@$bctr$qp14TWindowsObjectip7TModule 00BB:@TButton@SetupWindow$qv 00F7:@TButton@WMGetDlgCode$qr8TMessage 0145:@TButton@BMSetStyle$qr8TMessage 01B7:@TButton@read$qr8ipstream 01E5:@TButton@write$qr8opstream 020C:@TButton@build$qv (l)0269:@_STCON_$qv
+                6DFF7616FF7612:
+                  0. 14 A0F3 03F5 0000:@TScrollBar@$bctr$qp14TWindowsObjectiiiiiip7TModule 008F:@TScrollBar@$bctr$qp14TWindowsObjectip7TModule 00D6:@TScrollBar@Transfer$qpvus 012E:@TScrollBar@SetupWindow$qv 014E:@TScrollBar@GetRange$qrit1 016C:@TScrollBar@GetPosition$qv 0184:@TScrollBar@SetRange$qii 01A2:@TScrollBar@SetPosition$qi 01EF:@TScrollBar@DeltaPos$qi 021D:@TScrollBar@SBLineUp$qr8TMessage 0237:@TScrollBar@SBLineDown$qr8TMessage 024E:@TScrollBar@SBPageUp$qr8TMessage 0268:@TScrollBar@SBPageDown$qr8TMessage 027F:@TScrollBar@SBThumbPosition$qr8TMessage 029B:@TScrollBar@SBThumbTrack$qr8TMessage 02B7:@TScrollBar@SBTop$qr8TMessage 02E1:@TScrollBar@SBBottom$qr8TMessage 030B:@TScrollBar@read$qr8ipstream 0348:@TScrollBar@write$qr8opstream 037B:@TScrollBar@build$qv (l)03D8:@_STCON_$qv
+                7BFF760A6A006A:
+                  0. 05 D7A5 0231 0000:@TMDIClient@$bctr$qp9TMDIFramep7TModule 009D:@TMDIClient@$bctr$qp9TMDIFramepx6HWND__p7TModule 00EA:@TMDIClient@$bdtr$qv 0136:@TMDIClient@read$qr8ipstream 0195:@TMDIClient@write$qr8opstream 01C0:@TMDIClient@build$qv (l)0214:@_STCON_$qv
+              48..........598BF00BC074:
+                30FF761AFF7618:
+                  0. 19 8B99 00E7 0000:@TBRadioButton@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TqL 0052:@TBRadioButton@build$qv (l)00CA:@_STCON_$qv (00AD: CB)
+                  1. 19 8B99 011E 0000:@TBCheckBox@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TModuo 0052:@TBCheckBox@$bctr$qp14TWindowsObjectip9TGroupBoxp7TModule 0092:@TBCheckBox@build$qv (l)0101:@_STCON_$qv (00AD: C6)
+                3AFF761AFF7618:
+                  0. 19 8B99 0117 0000:@TRadioButton@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TMr7 005C:@TRadioButton@BNClicked$qr8TMessage 008B:@TRadioButton@build$qv (l)00FA:@_STCON_$qv
+                3FFF761A6A00FF:
+                  0. 18 0786 02D9 0000:@TCheckBox@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TModuwf 0061:@TCheckBox@$bctr$qp14TWindowsObjectip9TGroupBoxp7TModule 00AB:@TCheckBox@Transfer$qpvus 00F8:@TCheckBox@GetCheck$qv 0117:@TCheckBox@SetCheck$qus 014D:@TCheckBox@Check$qv 0163:@TCheckBox@Uncheck$qv 0179:@TCheckBox@Toggle$qv 01C2:@TCheckBox@BNClicked$qr8TMessage 01FF:@TCheckBox@read$qr8ipstream 022E:@TCheckBox@write$qr8opstream 0256:@TCheckBox@build$qv (l)02BC:@_STCON_$qv
+                49FF7610FF760A:
+                  0. 06 9280 046D 0000:@TMDIFrame@$bctr$qnzct1p7TModule 006B:@TMDIFrame@$bctr$qnzcip7TModule 00D3:@TMDIFrame@$bctr$qpx6HWND__t1p7TModule 0148:@TMDIFrame@$bdtr$qv 01A0:@TMDIFrame@SetupWindow$qv 025B:@TMDIFrame@GetWindowClass$qr11tagWNDCLASS 027A:@TMDIFrame@CreateChild$qv (l)029F:@CannotClose$qpvt1 (l)02D5:@CloseChild$qpvt1 02FE:@TMDIFrame@CloseChildren$qv 0339:@TMDIFrame@read$qr8ipstream 039F:@TMDIFrame@write$qr8opstream 03FC:@TMDIFrame@build$qv (l)0450:@_STCON_$qv
+            0F68F400..........598BF00BC0744BFF7612FF76:
+              0. 08 47CD 0959 0000:@TFileWindow@$bctr$qp14TWindowsObjectnzct2p7TModule 006E:@TFileWindow@$bdtr$qv 00BE:@TFileWindow@SetupWindow$qv 0104:@TFileWindow@SetFileName$qnzc 01C4:@TFileWindow@NewFile$qv 0217:@TFileWindow@ReplaceWith$qnzc 0274:@TFileWindow@Open$qv 0340:@TFileWindow@Read$qv 04D3:@TFileWindow@Save$qv 0518:@TFileWindow@SaveAs$qv 060A:@TFileWindow@Write$qv 077C:@TFileWindow@CanClear$qv 0811:@TFileWindow@CanClose$qv 0827:@TFileWindow@CMFileNew$qr8TMessage 0839:@TFileWindow@CMFileOpen$qr8TMessage 084B:@TFileWindow@CMFileSave$qr8TMessage 085D:@TFileWindow@CMFileSaveAs$qr8TMessage 086F:@TFileWindow@read$qr8ipstream 08B2:@TFileWindow@write$qr8opstream 08DE:@TFileWindow@build$qv (l)093C:@_STCON_$qv
+            116A2E..........598BF00BC07503E9C900C704:
+              0. 00 0000 0E19 0000:@TScroller@$bctr$qp7TWindowiill 00EE:@TScroller@$bdtr$qv 0130:@TScroller@SetPageSize$qv 01BA:@TScroller@SetRange$qll 01FA:@TScroller@SetUnits$qii 0219:@TScroller@SetSBarRange$qv 02CA:@TScroller@BeginView$qpx5HDC__r14tagPAINTSTRUCT 034B:@TScroller@BeginView$quir14tagPAINTSTRUCT 03CC:@TScroller@EndView$qv 04AA:@TScroller@VScroll$qusi 060C:@TScroller@HScroll$qusi 0799:@TScroller@ScrollTo$qll 099E:@TScroller@AutoScroll$qv 0BEA:@TScroller@read$qr8ipstream 0CEC:@TScroller@write$qr8opstream 0DBA:@TScroller@build$qv (l)0DFC:@_STCON_$qv
+          568B1CFF9F:
+            A800595E5D4DCB:
+              0. 00 0000 0014 0000:@TMDIFrame@CMCreateChild$qr8TMessage
+            AC00595E5D4DCB:
+              0. 00 0000 0014 0000:@TMDIFrame@CMTileChildren$qr8TMessage
+            B000595E5D4DCB:
+              0. 00 0000 0014 0000:@TMDIFrame@CMCascadeChildren$qr8TMessage
+            B400595E5D4DCB:
+              0. 00 0000 0014 0000:@TMDIFrame@CMArrangeIcons$qr8TMessage
+            B800595E5D4DCB:
+              0. 00 0000 0014 0000:@TMDIFrame@CMCloseChildren$qr8TMessage
+          6A00:
+            1E68....566A00..........83C40AEB005E5D4DCB:
+              0. 00 0000 001F 0000:@TMDIFrame@InitChild$qv
+            566A00..........83C4068944425E5D4DCB:
+              0. 00 0000 001C 0000:@TMDIFrame@InitClientWindow$qv
+          837C:
+            04007505B80100EB0233C0EB005E5D4DCB:
+              0. 00 0000 001B 0000:@Container@isEmpty$xqv
+            1400741D8B5C12FF7706FF7414FF760AFF7608:
+              0. 00 0000 0033 0000:@TApplication@ProcessAccels$qn6tagMSG
+            1600:
+              741E8B5C16837F060074158B5C16FF7706FF760A:
+                0. 03 6328 0034 0000:@TApplication@ProcessDlgMsg$qn6tagMSG
+              7503E9A1008B5C168B471C2510003D10007505B8:
+                0. C5 E886 00E5 0000:@TApplication@ProcessAppMsg$qn6tagMSG
+          8B44:
+            02EB005E5D4DCB:
+              0. 00 0000 0011 0000:@TModule@hashValue$xqv
+            04EB005E5D4DCB:
+              0. 00 0000 0011 0000:@Container@getItemsInContainer$xqv
+            06EB005E5D4DCB:
+              0. 00 0000 0011 0000:@TWindowsObject@hashValue$xqv
+            2CEB005E5D4DCB:
+              0. 00 0000 0011 0000:@TScroller@hashValue$xqv
+            38EB005E5D4DCB:
+              0. 00 0000 0011 0000:@TControl@GetId$qv
+            42EB005E5D4DCB:
+              0. 00 0000 0011 0000:@TMDIFrame@GetClient$qv
+          FF:
+            74:
+              0668:
+                26026A006A006A00..........5E5D4DCB:
+                  0. 00 0000 001D 0000:@TMDIClient@TileChildren$qv
+                27026A006A006A00..........5E5D4DCB:
+                  0. 00 0000 001D 0000:@TMDIClient@CascadeChildren$qv
+                28026A006A006A00..........5E5D4DCB:
+                  0. 00 0000 001D 0000:@TMDIClient@ArrangeIcons$qv
+              128B5C128B1FFF5F3C590BC07425FF74128B5C128B1F:
+                0. 0F 0C4C 0045 0000:@TApplication@ProcessMDIAccels$qn6tagMSG
+              428B5C428B1FFF9F:
+                A000595E5D4DCB:
+                  0. 00 0000 0019 0000:@TMDIFrame@ArrangeIcons$qv
+                A400595E5D4DCB:
+                  0. 00 0000 0019 0000:@TMDIFrame@CascadeChildren$qv
+                A800595E5D4DCB:
+                  0. 00 0000 0019 0000:@TMDIFrame@TileChildren$qv
+            76:
+              08568B1CFF5F5083C4045E5D4DCB:
+                0. 00 0000 0018 (!)0000:?
+              0C56FF5E0883C404:
+                0BC07505A1....EB028BC6EB005E:
+                  0. 03 9134 0023 0000:@Object@firstThat$xqnqrx6Objectpv$ipv
+                5E5D4DCB:
+                  0. 00 0000 0016 0000:@Object@forEach$qnqr6Objectpv$vpv
+        0A8B46060B4608:
+          74:
+            1CC45E0626C707....F7C60100740EFF76:
+              0. 04 D71E 0030 (!)0000:?
+            286A00FF7608FF7606..........83C406:
+              0. 0C E6B9 003E (!)0000:? (REF 0019: @TDialog@$bdtr$qv)
+              1. 0C E6B9 003E 0000:@Array@$bdtr$qv (REF 0019: @AbstractArray@$bdtr$qv)
+            34F7C6020074166A008B4606050800FF76:
+              0. 02 0293 004A 0000:@TNSSortedCollection@$bdtr$qv
+            42C45E0626C74702....C45E06268B1F26:
+              0. 02 5AFC 0056 0000:@fpbase@$bdtr$qv
+            4EC45E0626C74702....C45E06268B1F26:
+              0. 02 5AFC 0062 0000:@TStreamableTypes@$bdtr$qv
+            54C45E0626C74702....C45E06268B1F26:
+              0. 02 5AFC 0068 0000:@ipstream@$bdtr$qv
+            64C45E0626C74702....C45E06268B1F26:
+              0. 02 5AFC 0078 0000:@TPWrittenObjects@$bdtr$qv
+            71C45E0626C74702....C45E0626C7473C:
+              0. 00 0000 0085 0000:@ifpstream@$bdtr$qv
+            7CC45E0626C74702....C45E06268B1F26:
+              0. 02 5AFC 0090 0000:@opstream@$bdtr$qv
+          7503E9:
+            9900C45E0626C74702....C45E0626:
+              0. 03 D2B0 00B0 0000:@ofpstream@$bdtr$qv
+            AB00C45E0626C74702....C45E0626:
+              0. 03 8A3E 00C2 0000:@iopstream@$bdtr$qv
+            C800C45E0626C74702....C45E0626:
+              0. 03 D2B0 00DF 0000:@fpstream@$bdtr$qv
+        0E8B46060B460875156A3A..........598956088946060BC2:
+          0. 18 6179 0700 0000:@TSearchDialog@$bctr$qn14TWindowsObjectim13TSearchStructn7TMotM 0124:@TEditWindow@$bctr$qn14TWindowsObjectnzcn7TModule 01F0:@TEditWindow@WMSize$qm8TMessage 0239:@TEditWindow@WMSetFocus$qm8TMessage 0250:@TEditWindow@DoSearch$qv 0384:@TEditWindow@CMEditFind$qm8TMessage 03ED:@TEditWindow@CMEditFindNext$qm8TMessage 0401:@TEditWindow@CMEditReplace$qm8TMessage 046A:@TEditWindow@read$qm8ipstream 0565:@TEditWindow@write$qm8opstream 0651:@TEditWindow@build$qv (l)06E1:@_STCON_$qv
+        1E8B46060B460875126A50..........598956088946060BC2:
+          0. 29 7115 01D0 0000:@TBDivider@$bctr$qn14TWindowsObjectinzciiiiiin7TModule 00AC:@TBDivider@$bctr$qn14TWindowsObjectin7TModule 0111:@TBDivider@build$qv (l)01B1:@_STCON_$qv
+  5D4DCB:
+    0. 00 0000 0007 (!)0000:?
+  6A006A00:
+    1E68....FF7608FF76066A006A00..........83C410EB00:
+      0. 03 9134 0023 0000:@TMDIFrame@InitChild$qv
+    FF7608FF76066A006A00..........83C40CC45E06268957:
+      0. 08 BF7B 0028 0000:@TMDIFrame@InitClientWindow$qv
+  83EC:
+    02:
+      168D46FE50FF760CFF760AFF7608FF7606C45E06268B5F02FF:
+        0. D7 F2A7 01BB 0000:@TNSSortedCollection@indexOf$qnv 00A0:@TNSSortedCollection@insert$qnv 0107:@TNSSortedCollection@search$qnvmi
+      56:
+        578B7606:
+          0BF675116A06..........598BF00BC07503E985:
+            0. 08 AB91 0D88 0000:@TListBoxData@$bctr$qv 00AF:@TListBoxData@$bdtr$qv 0107:@TListBoxData@AddString$qpzci 0154:@TListBoxData@SelectString$qnzc 01AF:@TListBoxData@ResetSelections$qv 01D0:@TListBoxData@GetSelStringLength$qi 0249:@TListBoxData@GetSelString$qnzcii 02E6:@TListBox@$bctr$qp14TWindowsObjectiiiiip7TModule (l)033C:@DoAddForLB$qr6Objectpv 038D:@TListBox@Transfer$qpvus 06A9:@TListBox@AddString$qnzc 06D4:@TListBox@InsertString$qnzci 0700:@TListBox@DeleteString$qi 072A:@TListBox@ClearList$qv 0751:@TListBox@GetCount$qv 077A:@TListBox@FindString$qnzci 07A6:@TListBox@FindExactString$qnzci 0865:@TListBox@GetString$qnzci 0891:@TListBox@GetStringLen$qi 08BB:@TListBox@GetSelCount$qv 0904:@TListBox@GetSelString$qnzci 09A7:@TListBox@GetSelStrings$qpnzcii 0AC4:@TListBox@SetSelString$qnzci 0B0B:@TListBox@SetSelStrings$qpnzcii 0BA2:@TListBox@GetSelIndex$qv 0BE6:@TListBox@GetSelIndexes$qpii 0C1F:@TListBox@SetSelIndex$qi 0C64:@TListBox@SetSelIndexes$qpiii 0CE2:@TListBox@GetMsgID$qus 0D0E:@TListBox@build$qv (l)0D6B:@_STCON_$qv
+          8B7E088D46FE5057568B5C02FF5F0C83C4045056:
+            0. 88 2E2E 0148 0000:@TNSSortedCollection@indexOf$qpv 0070:@TNSSortedCollection@insert$qpv 00BA:@TNSSortedCollection@search$qpvri
+          FF7608568B1CFF5F5483C4048BF8A1....8946FE:
+            0. 37 4445 0057 0000:@Collection@hasMember$xqr6Object
+        8B76060BF6750E6A08..........598BF00BC074338B4608:
+          0. 14 5866 16BC 0000:@TStreamableClass@$bctr$qpxzcnqv$p11TStreamablei 0058:@TStreamableTypes@search$qpvri 00E9:@TStreamableTypes@lookup$qpxzc 011F:@TStreamableTypes@keyOf$qpv 0132:@TStreamableTypes@compare$qpvt1 014E:@TPWrittenObjects@registerObject$qpxv 019D:@TPWrittenObjects@find$qpxv 01DA:@TPWrittenObjects@compare$qpvt1 0215:@TPReadObjects@registerObject$qpxv 0254:@pstream@error$q15StreamableError 02D7:@pstream@error$q15StreamableErrorrx11TStreamable 02EE:@pstream@initTypes$qv 035D:@ipstream@seekg$ql 03C9:@ipstream@seekg$ql8seek_dir 0436:@ipstream@readWord$qv 045D:@ipstream@freadBytes$qnvui 04AF:@ipstream@readString$qv 0547:@ipstream@readString$qpzcui 05F8:@ipstream@freadString$qnzcui 06A2:@ipstream@freadString$qv 0732:@$brsh$qr8ipstreamrzc 0784:@$brsh$qr8ipstreamruc 07D6:@$brsh$qr8ipstreamrs 07F3:@$brsh$qr8ipstreamrus 0810:@$brsh$qr8ipstreamri 082D:@$brsh$qr8ipstreamrui 084A:@$brsh$qr8ipstreamrl 0875:@$brsh$qr8ipstreamrul 08A0:@$brsh$qr8ipstreamrf 08CB:@$brsh$qr8ipstreamrd 08F6:@$brsh$qr8ipstreamrg 0921:@$brsh$qr8ipstreamr11TStreamable 0964:@$brsh$qr8ipstreamrpv 0A5F:@ipstream@readPrefix$qv 0AEA:@ipstream@readData$qpx16TStreamableClassp11TStreamable 0B31:@ipstream@readSuffix$qv 0B9C:@opstream@seekp$ql 0C05:@opstream@seekp$ql8seek_dir 0C6F:@opstream@flush$qv 0C8F:@opstream@fwriteBytes$qnxvui 0CE0:@opstream@writeString$qpxzc 0D68:@opstream@fwriteString$qnxzc 0DE7:@$blsh$qr8opstreamzc 0E48:@$blsh$qr8opstreamuc 0EA9:@$blsh$qr8opstreams 0ED5:@$blsh$qr8opstreamus 0F01:@$blsh$qr8opstreami 0F2D:@$blsh$qr8opstreamui 0F59:@$blsh$qr8opstreaml 0F7C:@$blsh$qr8opstreamul 0F9F:@$blsh$qr8opstreamf 0FC2:@$blsh$qr8opstreamd 0FE5:@$blsh$qr8opstreamg 1008:@$blsh$qr8opstreamr11TStreamable 106B:@$blsh$qr8opstreamp11TStreamable 1177:@opstream@writePrefix$qrx11TStreamable 11D2:@opstream@writeData$qr11TStreamable 1228:@fpbase@$bctr$qpxzcii 12A2:@fpbase@open$qpxzcii 1301:@fpbase@attach$qi 134E:@fpbase@close$qv 1383:@fpbase@setbuf$qpzci 13C1:@ifpstream@$bctr$qpxzcii 1460:@ifpstream@open$qpxzcii 1481:@ofpstream@$bctr$qpxzcii 1552:@ofpstream@open$qpxzcii 1573:@fpstream@$bctr$qpxzcii 169B:@fpstream@open$qpxzcii
+    04:
+      56:
+        578B76068B7E08FF74:
+          02568B1CFF5F08598946FE6A00FF76:
+            0. 02 65CF 0059 0000:@TModule@printOn$xqr7ostream
+          04568B1CFF5F08598946FE6A00FF76:
+            0. 02 65CF 0059 0000:@TScroller@printOn$xqr7ostream
+          06568B1CFF5F08598946FE6A00FF76:
+            0. 02 65CF 0059 0000:@TWindowsObject@printOn$xqr7ostream
+        8B7606:
+          0BF6750E6A18..........598BF00BC07447FF7612:
+            0. 0D 908B 025C 0000:@TApplication@$bctr$qnzcuiuit1i 006C:@TApplication@$bctr$qnzcpx11HINSTANCE__t2t1i 00D8:@TApplication@$bdtr$qv 0126:@TApplication@InitApplication$qv 0130:@TApplication@InitInstance$qv 016D:@TApplication@InitMainWindow$qv 0190:@TApplication@Run$qv 01D1:@TApplication@MessageLoop$qv 0235:@TApplication@CanClose$qv
+          56..........0BC07503E9:
+            8A00566AFC:
+              0. 36 CEC8 03A6 0000:@GetObjectPtr$qpx6HWND__ 00AA:@STDWNDPROC$QPX6HWND__USUSL 012C:@INITWNDPROC$QPX6HWND__UIUIL 01AA:@INITWNDPROC$QUIUSUSL 0228:@MakeObjectInstance$qp14TWindowsObject 0358:@FreeObjectInstance$qnqpx6HWND__uiuil$l 039A:@OWLGetVersion$qv
+            8E00566AFC:
+              0. 3A 473D 03FC 0000:@GetObjectPtr$qpx6HWND__ 00B0:@STDWNDPROC$QPX6HWND__USUSL 014B:@INITWNDPROC$QPX6HWND__UIUIL 01E3:@INITWNDPROC$QUIUSUSL 027B:@MakeObjectInstance$qn14TWindowsObject 03AE:@FreeObjectInstance$qnqpx6HWND__uiuil$l 03F0:@OWLGetVersion$qv
+      6A5CFF7608FF7606..........83C4068956FE8946FC8B46FC:
+        0. 0D FE2A 06C1 0000:@GetFileName$qnzc 0059:@GetExtension$qnzc 00A6:@HasWildCards$qnzc 00DE:@TFileDialog@$bctr$qp14TWindowsObjectinzcp7TModule 012D:@TFileDialog@CanClose$qv 0348:@TFileDialog@SetupWindow$qv 03B7:@TFileDialog@HandleFName$qr8TMessage 03FB:@TFileDialog@HandleFList$qr8TMessage 0460:@TFileDialog@HandleDList$qr8TMessage 04D7:@TFileDialog@SelectFileName$qv 050A:@TFileDialog@UpdateFileName$qv 0544:@TFileDialog@UpdateListBoxes$qv 064F:@TFileDialog@build$qv (l)06A4:@_STCON_$qv (0693: CB)
+        1. 0D FE2A 0830 0000:@GetFileName$qnzc 0059:@GetExtension$qnzc 00A6:@HasWildCards$qnzc 00DE:@TFileDialog@$bctr$qn14TWindowsObjectinzcn7TModule 0150:@TFileDialog@CanClose$qv 03E6:@TFileDialog@SetupWindow$qv 047F:@TFileDialog@HandleFName$qm8TMessage 04C5:@TFileDialog@HandleFList$qm8TMessage 0543:@TFileDialog@HandleDList$qm8TMessage 05D5:@TFileDialog@SelectFileName$qv 060B:@TFileDialog@UpdateFileName$qv 064B:@TFileDialog@UpdateListBoxes$qv 0781:@TFileDialog@build$qv (l)0811:@_STCON_$qv (0693: 3E)
+      8B46060B460875126A:
+        08..........598956088946060BC274:
+          0. 03 7EF2 07D8 0000:@TComboBoxData@$bctr$qv 0099:@TComboBoxData@$bdtr$qv 0115:@TComboBoxData@AddString$qnzci 019D:@TComboBox@$bctr$qn14TWindowsObjectiiiiiulusn7TModule 0221:@TComboBox@$bctr$qn14TWindowsObjectiusn7TModule 02B4:@TComboBox@SetText$qnzc 0318:@TComboBox@GetEditSel$qmit1 0354:@TComboBox@ShowList$qv 038D:@TComboBox@HideList$qv (l)03C6:@DoAddForCB$qm6Objectnv 0453:@TComboBox@Transfer$qnvus 0638:@TComboBox@GetMsgID$qus 0662:@TComboBox@SetupWindow$qv 069D:@TComboBox@read$qm8ipstream 06D8:@TComboBox@write$qm8opstream 0708:@TComboBox@build$qv (l)07B9:@_STCON_$qv
+        0A..........598956088946060BC274:
+          0. 2C 784B 1FE0 0000:@TStreamableClass@$bctr$qnxzcnqv$n11TStreamablei 0084:@TStreamableTypes@search$qnvmi 012B:@TStreamableTypes@lookup$qnxzc 0170:@TStreamableTypes@keyOf$qnv 0183:@TStreamableTypes@compare$qnvt1 01A0:@TPWrittenObjects@registerObject$qnxv 021D:@TPWrittenObjects@find$qnxv 026A:@TPWrittenObjects@compare$qnvt1 02A9:@TPReadObjects@registerObject$qnxv 02F7:@pstream@error$q15StreamableError 038C:@pstream@error$q15StreamableErrormx11TStreamable 03A3:@pstream@initTypes$qv 045F:@ipstream@seekg$ql 0507:@ipstream@seekg$ql8seek_dir 05B0:@ipstream@readWord$qv 05DC:@ipstream@freadBytes$qnvui 063F:@ipstream@readString$qv 0718:@ipstream@readString$qnzcui 080A:@ipstream@freadString$qnzcui 08E2:@ipstream@freadString$qv 099D:@$brsh$qm8ipstreammzc 0A1A:@$brsh$qm8ipstreammuc 0A97:@$brsh$qm8ipstreamms 0AB9:@$brsh$qm8ipstreammus 0ADB:@$brsh$qm8ipstreammi 0AFD:@$brsh$qm8ipstreammui 0B1F:@$brsh$qm8ipstreamml 0B5B:@$brsh$qm8ipstreammul 0B97:@$brsh$qm8ipstreammf 0BD3:@$brsh$qm8ipstreammd 0C0F:@$brsh$qm8ipstreammg 0C4B:@$brsh$qm8ipstreamm11TStreamable 0CAE:@$brsh$qm8ipstreammnv 0E1B:@ipstream@readPrefix$qv 0EDA:@ipstream@readData$qnx16TStreamableClassn11TStreamable 0F3D:@ipstream@readSuffix$qv 0FD1:@opstream@seekp$ql 1077:@opstream@seekp$ql8seek_dir 111E:@opstream@flush$qv 114E:@opstream@fwriteBytes$qnxvui 11B0:@opstream@writeString$qnxzc 1275:@opstream@fwriteString$qnxzc 131F:@$blsh$qm8opstreamzc 13AA:@$blsh$qm8opstreamuc 1435:@$blsh$qm8opstreams 146A:@$blsh$qm8opstreamus 149F:@$blsh$qm8opstreami 14D4:@$blsh$qm8opstreamui 1509:@$blsh$qm8opstreaml 1535:@$blsh$qm8opstreamul 1561:@$blsh$qm8opstreamf 158D:@$blsh$qm8opstreamd 15B9:@$blsh$qm8opstreamg 15E5:@$blsh$qm8opstreamm11TStreamable 1682:@$blsh$qm8opstreamn11TStreamable 1832:@opstream@writePrefix$qmx11TStreamable 18BF:@opstream@writeData$qm11TStreamable 1943:@fpbase@$bctr$qnxzcii 19FF:@fpbase@open$qnxzcii 1A7D:@fpbase@attach$qi 1AE1:@fpbase@close$qv 1B26:@fpbase@setbuf$qnzci 1B79:@ifpstream@$bctr$qnxzcii 1C64:@ifpstream@open$qnxzcii 1C88:@ofpstream@$bctr$qnxzcii 1DCA:@ofpstream@open$qnxzcii 1DEE:@fpstream@$bctr$qnxzcii 1FBC:@fpstream@open$qnxzcii
+        1C..........598956088946060BC274:
+          0. 16 F8AE 0392 0000:@TApplication@$bctr$qnzcuiuit1i 00A5:@TApplication@$bctr$qnzcpx11HINSTANCE__t2t1i 014A:@TApplication@$bdtr$qv 01C2:@TApplication@InitApplication$qv 01C9:@TApplication@InitInstance$qv 023C:@TApplication@InitMainWindow$qv 026D:@TApplication@Run$qv 02E3:@TApplication@MessageLoop$qv 035A:@TApplication@CanClose$qv
+      A1....8B16....8946FE8956FC8B46088B5606A3....8916:
+        0. 00 0000 0139 0000:@set_new_handler$qnqv$v 006A:@$bnew$qui 00BE:@$bdele$qpv 00F0:@SafetyPool@Allocate$qui (l)0127:@_STCON_$qv (0118: CB)
+        1. 00 0000 017C 0000:@set_new_handler$qnqv$v 0070:@$bnew$qui 00E9:@$bdele$qnv 0123:@SafetyPool@Allocate$qui (l)0166:@_STCON_$qv (0118: C4)
+    06568B76068B460A8B56088946FE8956FC8B460C8946FAFF76FA:
+      0. 0C 4AED 0038 0000:@Object@lastThat$xqnqrx6Objectpv$ipv
+    08:
+      1EC45E0626FF77:
+        02FF7608FF7606C45E06268B1FFF5F0883C4:
+          0. 17 77AF 0082 0000:@TModule@printOn$xqm7ostream
+        06FF7608FF7606C45E06268B1FFF5F0883C4:
+          0. 17 77AF 0082 0000:@TWindowsObject@printOn$xqm7ostream
+      8B46:
+        060B460875156A0A..........598956088946060BC275:
+          0. 0F 0DAD 1137 0000:@TListBoxData@$bctr$qv 00F5:@TListBoxData@$bdtr$qv 018C:@TListBoxData@AddString$qnzci 01F9:@TListBoxData@SelectString$qnzc 0274:@TListBoxData@ResetSelections$qv 02A1:@TListBoxData@GetSelStringLength$qi 033D:@TListBoxData@GetSelString$qnzcii 0400:@TListBox@$bctr$qn14TWindowsObjectiiiiin7TModule (l)0475:@DoAddForLB$qm6Objectnv 0502:@TListBox@Transfer$qnvus 0915:@TListBox@AddString$qnzc 0948:@TListBox@InsertString$qnzci 097C:@TListBox@DeleteString$qi 09AE:@TListBox@ClearList$qv 09DD:@TListBox@GetCount$qv 0A0E:@TListBox@FindString$qnzci 0A42:@TListBox@FindExactString$qnzci 0B2B:@TListBox@GetString$qnzci 0B5F:@TListBox@GetStringLen$qi 0B91:@TListBox@GetSelCount$qv 0BE4:@TListBox@GetSelString$qnzci 0CAF:@TListBox@GetSelStrings$qnnzcii 0DFC:@TListBox@SetSelString$qnzci 0E4F:@TListBox@SetSelStrings$qnnzcii 0EF0:@TListBox@GetSelIndex$qv 0F40:@TListBox@GetSelIndexes$qnii 0F7E:@TListBox@SetSelIndex$qi 0FCF:@TListBox@SetSelIndexes$qniii 104E:@TListBox@GetMsgID$qus 1078:@TListBox@build$qv (l)1118:@_STCON_$qv
+        0C8B560A8946FE8956FC8B46108B560E8946FA8956F8FF:
+          0. 17 5E7B 0049 0000:@Object@lastThat$xqnqmx6Objectnv$inv
+      C45E0626FF770626FF7704FF7608FF7606C45E06268B1FFF5F:
+        0. 1A 4A09 0085 0000:@TScroller@printOn$xqm7ostream
+      FF760CFF760AFF7608FF7606C45E06268B1FFF5F5483C40889:
+        0. 06 8334 0084 0000:@Collection@hasMember$xqm6Object
+    0A:
+      568B76060BF675116A0E..........598BF00BC07503E99F00:
+        0. 02 C1CE 0499 0000:@TModule@$bctr$qnzcpx11HINSTANCE__t1 00C7:@TModule@$bctr$qnzcuit1 018E:@TModule@$bdtr$qv 01DB:@TModule@LowMemory$qv 01F5:@TModule@RestoreMemory$qv 0214:@TModule@ValidWindow$qp14TWindowsObject 0282:@TModule@MakeWindow$qp14TWindowsObject 02CD:@TModule@ExecDialog$qp14TWindowsObject 0326:@TModule@GetClientHandle$qpx6HWND__ 0387:@TModule@GetParentObject$qpx6HWND__ 03DD:@TModule@GetParentObject$qui 0433:@TModule@Error$qi
+      8B46060B460875156A0E..........598956088946060BC275:
+        0. 0A BA0B 05EA 0000:@TModule@$bctr$qnzcpx11HINSTANCE__t1 00FB:@TModule@$bctr$qnzcuit1 01F6:@TModule@$bdtr$qv 0262:@TModule@LowMemory$qv 027B:@TModule@RestoreMemory$qv 029C:@TModule@ValidWindow$qn14TWindowsObject 034F:@TModule@MakeWindow$qn14TWindowsObject 03CB:@TModule@ExecDialog$qn14TWindowsObject 0448:@TModule@GetClientHandle$qpx6HWND__ 04A5:@TModule@GetParentObject$qpx6HWND__ 050F:@TModule@GetParentObject$qui 0579:@TModule@Error$qi
+    0C56578B56088B46068B4E0C8B5E0A8BFA8BF0F7E38946F88956:
+      0. 8F B7DA 00AF 0000:@LongMulDiv$qlll
+    1656578B7606A1....8B16....8946FA8956F88D46FE50FF7608:
+      0. 00 0000 03EA 0000:@TWindowsObject@GetChildren$qr8ipstream 0119:@TWindowsObject@PutChildPtr$qr8opstreamp14TWindowsObject 0145:@TWindowsObject@GetChildPtr$qr8ipstreamrp14TWindowsObject 0176:@TWindowsObject@GetSiblingPtr$qr8ipstreamrp14TWindowsObject 01D2:@TWindowsObject@PutSiblingPtr$qr8opstreamp14TWindowsObject (l)0200:@DoPutChildren$qpvt1 022E:@TWindowsObject@PutChildren$qr8opstream 0275:@TWindowsObject@read$qr8ipstream 0332:@TWindowsObject@write$qr8opstream 03C2:@TWindowsObject@build$qv (l)03CD:@_STCON_$qv
+    1A5657A1....8B16....8946FC8956FA168D46FE50FF760CFF76:
+      0. 01 225F 0545 0000:@TWindowsObject@GetChildren$qm8ipstream 015D:@TWindowsObject@PutChildPtr$qm8opstreamn14TWindowsObject 018F:@TWindowsObject@GetChildPtr$qm8ipstreammn14TWindowsObject 01C7:@TWindowsObject@GetSiblingPtr$qm8ipstreammn14TWindowsObject 0239:@TWindowsObject@PutSiblingPtr$qm8opstreamn14TWindowsObject (l)0270:@DoPutChildren$qnvt1 02BB:@TWindowsObject@PutChildren$qm8opstream 031B:@TWindowsObject@read$qm8ipstream 045F:@TWindowsObject@write$qm8opstream 0519:@TWindowsObject@build$qv (l)0526:@_STCON_$qv
+  8B:
+    16....A1....EB005D4DCB:
+      0. 00 0000 0010 0000:@GetApplicationObject$qv
+    46:
+      06:
+        0B460875:
+          126A:
+            0E..........598956088946060BC27451C45E:
+              0. 04 BB91 0665 0000:@TNSCollection@$bctr$qii 007A:@TNSCollection@$bctr$qv 00ED:@TNSCollection@$bdtr$qv 0149:@TNSCollection@at$qi 0168:@TNSCollection@atRemove$qi 01CC:@TNSCollection@atFree$qi 0215:@TNSCollection@atInsert$qinv 02C0:@TNSCollection@atPut$qinv 02FC:@TNSCollection@remove$qnv 0328:@TNSCollection@removeAll$qv 0338:@TNSCollection@error$qii 034C:@TNSCollection@firstThat$qnqnvt1$7Booleannv 03A6:@TNSCollection@lastThat$qnqnvt1$7Booleannv 0402:@TNSCollection@forEach$qnqnvt1$vnv 043A:@TNSCollection@free$qnv 046C:@TNSCollection@freeAll$qv 04AE:@TNSCollection@freeItem$qnv 04C3:@TNSCollection@indexOf$qnv 0508:@TNSCollection@insert$qnv 053B:@TNSCollection@pack$qv 05B9:@TNSCollection@setLimit$qi
+            50..........598956088946060BC274:
+              31FF76:
+                0. 16 C438 0131 0000:@TBWindow@$bctr$qn14TWindowsObjectnzcn7TModule 005A:@TBWindow@GetWindowClass$qm11tagWNDCLASS 0083:@TBWindow@build$qv (l)0112:@_STCON_$qv
+              5CFF76:
+                0. 25 120F 01A9 0000:@TBStaticBmp@$bctr$qn14TWindowsObjectinzciiiin7TModule 0085:@TBStaticBmp@$bctr$qn14TWindowsObjectin7TModule 00EA:@TBStaticBmp@build$qv (l)018A:@_STCON_$qv
+            52..........598956088946060BC274:
+              43FF76:
+                0. 28 5A93 0196 0000:@TBStatic@$bctr$qn14TWindowsObjectinzciiiiusn7TModule 006C:@TBStatic@$bctr$qn14TWindowsObjectiusn7TModule 00C6:@TBStatic@build$qv (l)0177:@_STCON_$qv
+              62FF76:
+                0. 25 120F 01B2 0000:@TBGroupBox@$bctr$qn14TWindowsObjectinzciiiin7TModule 008B:@TBGroupBox@$bctr$qn14TWindowsObjectin7TModule 00E2:@TBGroupBox@build$qv (l)0193:@_STCON_$qv
+              66FF76:
+                0. 25 38DC 0294 0000:@TStatic@$bctr$qn14TWindowsObjectinzciiiiusn7TModule 008F:@TStatic@$bctr$qn14TWindowsObjectiusn7TModule 00FE:@TStatic@Transfer$qnvus 016A:@TStatic@read$qm8ipstream 01A5:@TStatic@write$qm8opstream 01D5:@TStatic@build$qv (l)0275:@_STCON_$qv
+              6BFF76:
+                0. 25 120F 0268 0000:@TGroupBox@$bctr$qn14TWindowsObjectinzciiiin7TModule 0094:@TGroupBox@$bctr$qn14TWindowsObjectin7TModule 0102:@TGroupBox@SelectionChanged$qi 013E:@TGroupBox@read$qm8ipstream 0179:@TGroupBox@write$qm8opstream 01A9:@TGroupBox@build$qv (l)0249:@_STCON_$qv
+            54..........598956088946060BC274:
+              43FF76:
+                0. 28 5A93 0193 0000:@TBButton@$bctr$qn14TWindowsObjectinzciiiiin7TModule 006C:@TBButton@$bctr$qn14TWindowsObjectin7TModule 00C3:@TBButton@build$qv (l)0174:@_STCON_$qv
+              6FFF76:
+                0. 25 38DC 0388 0000:@TButton@$bctr$qn14TWindowsObjectinzciiiiin7TModule 0098:@TButton@$bctr$qn14TWindowsObjectin7TModule 010F:@TButton@SetupWindow$qv 0158:@TButton@WMGetDlgCode$qm8TMessage 01BD:@TButton@BMSetStyle$qm8TMessage 025E:@TButton@read$qm8ipstream 0299:@TButton@write$qm8opstream 02C9:@TButton@build$qv (l)0369:@_STCON_$qv
+            58..........598956088946060BC274:
+              46FF76:
+                0. 2B 9B3C 0164 0000:@TBRadioButton@$bctr$qn14TWindowsObjectinzciiiin9TGroupBoxn7TqL 006F:@TBRadioButton@build$qv (l)0145:@_STCON_$qv (0118: CB)
+                1. 2B 9B3C 01B0 0000:@TBCheckBox@$bctr$qn14TWindowsObjectinzciiiin9TGroupBoxn7TModuo 006F:@TBCheckBox@$bctr$qn14TWindowsObjectin9TGroupBoxn7TModule 00CC:@TBCheckBox@build$qv (l)0191:@_STCON_$qv (0118: 46)
+              55FF76:
+                0. 2B 9B3C 01A6 0000:@TRadioButton@$bctr$qn14TWindowsObjectinzciiiin9TGroupBoxn7TMr7 007E:@TRadioButton@BNClicked$qm8TMessage 00C2:@TRadioButton@build$qv (l)0187:@_STCON_$qv
+              62FF76:
+                0. 27 8C8A 03FE 0000:@TCheckBox@$bctr$qn14TWindowsObjectinzciiiin9TGroupBoxn7TModuwf 008B:@TCheckBox@$bctr$qn14TWindowsObjectin9TGroupBoxn7TModule 0101:@TCheckBox@Transfer$qnvus 015A:@TCheckBox@GetCheck$qv 0178:@TCheckBox@SetCheck$qus 01C5:@TCheckBox@Check$qv 01DB:@TCheckBox@Uncheck$qv 01F1:@TCheckBox@Toggle$qv 024C:@TCheckBox@BNClicked$qm8TMessage 02B3:@TCheckBox@read$qm8ipstream 02F4:@TCheckBox@write$qm8opstream 032E:@TCheckBox@build$qv (l)03DF:@_STCON_$qv
+          13680401..........598956088946060BC27467FF:
+            0. 17 5CDD 0BBF 0000:@TFileWindow@$bctr$qn14TWindowsObjectnzct2n7TModule 0091:@TFileWindow@$bdtr$qv 00FE:@TFileWindow@SetupWindow$qv 0160:@TFileWindow@SetFileName$qnzc 0244:@TFileWindow@NewFile$qv 02BA:@TFileWindow@ReplaceWith$qnzc 032D:@TFileWindow@Open$qv 0421:@TFileWindow@Read$qv 05EF:@TFileWindow@Save$qv 064B:@TFileWindow@SaveAs$qv 077C:@TFileWindow@Write$qv 094C:@TFileWindow@CanClear$qv 0A02:@TFileWindow@CanClose$qv 0A1E:@TFileWindow@CMFileNew$qm8TMessage 0A32:@TFileWindow@CMFileOpen$qm8TMessage 0A46:@TFileWindow@CMFileSave$qm8TMessage 0A5A:@TFileWindow@CMFileSaveAs$qm8TMessage 0A6E:@TFileWindow@read$qm8ipstream 0AC9:@TFileWindow@write$qm8opstream 0AFF:@TFileWindow@build$qv (l)0BA0:@_STCON_$qv
+          156A:
+            30..........598956088946060BC27503E9:
+              42:
+                0. 07 C57D 12FA 0000:@TScroller@$bctr$qn7TWindowiill 016E:@TScroller@$bdtr$qv 01D8:@TScroller@SetPageSize$qv 0289:@TScroller@SetRange$qll 02EC:@TScroller@SetUnits$qii 0319:@TScroller@SetSBarRange$qv 0402:@TScroller@BeginView$qpx5HDC__m14tagPAINTSTRUCT 0494:@TScroller@BeginView$quim14tagPAINTSTRUCT 0526:@TScroller@EndView$qv 0648:@TScroller@VScroll$qusi 0824:@TScroller@HScroll$qusi 0A4D:@TScroller@ScrollTo$qll 0CDB:@TScroller@AutoScroll$qv 0FF8:@TScroller@read$qm8ipstream 1154:@TScroller@write$qm8opstream 126E:@TScroller@build$qv (l)12DB:@_STCON_$qv
+              4A:
+                0. 07 C57D 194B 0000:@TWindowsObject@$bctr$qn14TWindowsObjectn7TModule (l)0176:@FreeChild$qnvt1 018F:@TWindowsObject@$bdtr$qv 0293:@TWindowsObject@AssignCreateOrder$qv 0319:@TWindowsObject@OrderIsI$qnvt1 03EB:@TWindowsObject@CreateZeroChild$qnvt1 0416:@TWindowsObject@CreateChildren$qv 04A5:@TWindowsObject@Transfer$qnvus 04B0:@TWindowsObject@EnableKBHandler$qv 04C9:@TWindowsObject@EnableAutoCreate$qv 04E2:@TWindowsObject@EnableTransfer$qv 04FC:@TWindowsObject@DisableAutoCreate$qv 0515:@TWindowsObject@DisableTransfer$qv 052F:@TWindowsObject@SetFlags$qusi 0553:@TWindowsObject@AddChild$qn14TWindowsObject 05D3:@TWindowsObject@Previous$qv 0628:@TWindowsObject@RemoveChild$qn14TWindowsObject 0716:@TWindowsObject@SetParent$qn14TWindowsObject 079A:@TWindowsObject@FirstThat$qnqnvt1$inv 0838:@TWindowsObject@ForEach$qnqnvt1$vnv 08B5:@TWindowsObject@FirstThat$qM14TWindowsObjectqnvt1$inv 0960:@TWindowsObject@ForEach$qM14TWindowsObjectqnvt1$vnv (l)09E7:@IsItThisChild1$qnvt1 0A0B:@TWindowsObject@IndexOf$qn14TWindowsObject 0A41:@TWindowsObject@At$qi (l)0AA7:@IsItThisChild2$qnvt1 0AD1:@TWindowsObject@ChildWithId$qi 0AF2:@TWindowsObject@DefWndProc$qm8TMessage 0BD7:@TWindowsObject@DispatchAMessage$qusm8TMessageM14TWindowsObjedS 0CF1:@TWindowsObject@WMCommand$qm8TMessage 0F07:@TWindowsObject@DrawItem$qm17tagDRAWITEMSTRUCT 0F0E:@TWindowsObject@WMDrawItem$qm8TMessage 0FAE:@TWindowsObject@DispatchScroll$qm8TMessage 1089:@TWindowsObject@WMVScroll$qm8TMessage 10D2:@TWindowsObject@WMHScroll$qm8TMessage 111B:@TWindowsObject@DefCommandProc$qm8TMessage 11C4:@TWindowsObject@DefChildProc$qm8TMessage 11E3:@TWindowsObject@DefNotificationProc$qm8TMessage (l)1299:@DoEnableAutoCreate$qnvt1 12B7:@TWindowsObject@Destroy$qv 135F:@TWindowsObject@GetWindowClass$qm11tagWNDCLASS 1366:@TWindowsObject@SetupWindow$qv (l)139D:@TransferDataChild$qnvt1 13E2:@TWindowsObject@TransferData$qus 1420:@TWindowsObject@Register$qv 14A3:@TWindowsObject@Show$qi 14C3:@TWindowsObject@SetCaption$qnzc (l)1547:@CannotCloseChild$qnvt1 1577:@TWindowsObject@CanClose$qv 15A2:@TWindowsObject@CloseWindow$qv 1615:@TWindowsObject@ShutDownWindow$qv 164B:@TWindowsObject@WMClose$qm8TMessage 1693:@TWindowsObject@WMDestroy$qm8TMessage 16FE:@TWindowsObject@WMNCDestroy$qm8TMessage 1796:@TWindowsObject@WMActivate$qm8TMessage 17E4:@TWindowsObject@ActivationResponse$qusi 1851:@TWindowsObject@WMQueryEndSession$qm8TMessage 18EA:@TWindowsObject@CMExit$qm8TMessage 193E:@TWindowsObject@GetClient$qv
+            3A..........598956088946060BC27503E992:
+              0. 13 F8BB 09A5 0000:@TDialog@$bctr$qn14TWindowsObjectnzcn7TModule 00BE:@TDialog@$bctr$qn14TWindowsObjectin7TModule 0157:@TDialog@$bdtr$qv (l)01BD:@RegisterFails$qnvt1 01DD:@TDialog@Create$qv 02EC:@TDialog@Execute$qv 046B:@TDialog@WMInitDialog$qm8TMessage 0485:@TDialog@SetupWindow$qv 04B3:@TDialog@WMQueryEndSession$qm8TMessage 051D:@TDialog@CloseWindow$qi 057E:@TDialog@CloseWindow$qv 05B4:@TDialog@ShutDownWindow$qi 05EB:@TDialog@ShutDownWindow$qv (l)0621:@DoEnableAutoCreate$qnvt1 0640:@TDialog@Destroy$qi 0692:@TDialog@Destroy$qv 06C8:@TDialog@SetCaption$qnzc 06E9:@TDialog@Ok$qm8TMessage 0705:@TDialog@Cancel$qm8TMessage 071E:@TDialog@WMClose$qm8TMessage 0737:@TDialog@GetClassName$qv 0758:@TDialog@GetWindowClass$qm11tagWNDCLASS 07F5:@TDialog@read$qm8ipstream 087F:@TDialog@write$qm8opstream 0908:@TDialog@build$qv (l)0986:@_STCON_$qv
+            44..........598956088946060BC27503E987:
+              0. 16 20F0 0271 0000:@TInputDialog@$bctr$qn14TWindowsObjectnzct2t2usn7TModule 00B3:@TInputDialog@TransferData$qus 011F:@TInputDialog@SetupWindow$qv 0153:@TInputDialog@read$qm8ipstream 018F:@TInputDialog@write$qm8opstream 01C3:@TInputDialog@build$qv (l)0252:@_STCON_$qv
+            50..........598956088946060BC27503E9:
+              35:
+                0. 13 B128 1477 0000:@TWindow@$bctr$qn14TWindowsObjectnzcn7TModule 0161:@TWindow@$bctr$qpx6HWND__n7TModule 0342:@TWindow@$bdtr$qv 03F2:@TWindow@AssignMenu$qnzc 04C5:@TWindow@AssignMenu$qi 04E6:@TWindow@GetWindowClass$qm11tagWNDCLASS 0583:@TWindow@Create$qv 09B7:@TWindow@WMMDIActivate$qm8TMessage 0A3D:@TWindow@ActivationResponse$qusi (l)0ADF:@HasStyle$qnvt1 0B1F:@TWindow@SetupWindow$qv 0C19:@TWindow@WMCreate$qm8TMessage 0C4B:@TWindow@WMHScroll$qm8TMessage 0CCD:@TWindow@WMVScroll$qm8TMessage 0D4F:@TWindow@WMPaint$qm8TMessage 0E23:@TWindow@Paint$qpx5HDC__m14tagPAINTSTRUCT 0E2A:@TWindow@Paint$quim14tagPAINTSTRUCT 0E31:@TWindow@WMSize$qm8TMessage 0ED5:@TWindow@WMMove$qm8TMessage 0F8E:@TWindow@WMLButtonDown$qm8TMessage 102F:@TWindow@read$qm8ipstream 121F:@TWindow@write$qm8opstream 13DA:@TWindow@build$qv (l)1458:@_STCON_$qv
+              84:
+                0. 19 307F 02F7 0000:@TControl@$bctr$qn14TWindowsObjectinzciiiin7TModule 00B0:@TControl@$bctr$qn14TWindowsObjectin7TModule 018F:@TControl@WMPaint$qm8TMessage 01DB:@TControl@WMDrawItem$qm8TMessage 0258:@TControl@ODADrawEntire$qm17tagDRAWITEMSTRUCT 028D:@TControl@ODAFocus$qm17tagDRAWITEMSTRUCT 02C2:@TControl@ODASelect$qm17tagDRAWITEMSTRUCT
+            52..........598956088946060BC27503E987:
+              0. 2B AA1F 09CE 0000:@TEdit@$bctr$qn14TWindowsObjectinzciiiiusin7TModule 00B3:@TEdit@$bctr$qn14TWindowsObjectiusn7TModule 011B:@TEdit@CanUndo$qv 0144:@TEdit@Undo$qv 0160:@TEdit@Paste$qv 017C:@TEdit@Copy$qv 0198:@TEdit@Cut$qv 01B4:@TEdit@CMEditCut$qm8TMessage 01C8:@TEdit@CMEditCopy$qm8TMessage 01DC:@TEdit@CMEditPaste$qm8TMessage 01F0:@TEdit@CMEditDelete$qm8TMessage 0205:@TEdit@CMEditClear$qm8TMessage 021C:@TEdit@CMEditUndo$qm8TMessage 0230:@TEdit@ENErrSpace$qm8TMessage 0256:@TEdit@GetNumLines$qv 0274:@TEdit@GetLineLength$qi 02B1:@TEdit@GetLine$qnzcii 0327:@TEdit@SetSelection$qii 0359:@TEdit@GetSelection$qmit1 0390:@TEdit@IsModified$qv 03B9:@TEdit@ClearModify$qv 03D5:@TEdit@GetLineFromPos$qi 03F4:@TEdit@GetLineIndex$qi 0413:@TEdit@Scroll$qii 0438:@TEdit@Insert$qnzc 0456:@TEdit@Search$qinzci 062B:@TEdit@DeleteSelection$qv 0672:@TEdit@DeleteSubText$qii 06A5:@TEdit@DeleteLine$qi 0755:@TEdit@GetSubText$qnzcii 08C3:@TEdit@SetupWindow$qv 08FE:@TEdit@build$qv (l)09AF:@_STCON_$qv
+            54..........598956088946060BC27503E9:
+              A2:
+                0. 26 7695 0530 0000:@TScrollBar@$bctr$qn14TWindowsObjectiiiiiin7TModule 00CE:@TScrollBar@$bctr$qn14TWindowsObjectin7TModule 0137:@TScrollBar@Transfer$qnvus 01C5:@TScrollBar@SetupWindow$qv 01EC:@TScrollBar@GetRange$qmit1 020D:@TScrollBar@GetPosition$qv 0224:@TScrollBar@SetRange$qii 0241:@TScrollBar@SetPosition$qi 029B:@TScrollBar@DeltaPos$qi 02D7:@TScrollBar@SBLineUp$qm8TMessage 02F5:@TScrollBar@SBLineDown$qm8TMessage 0310:@TScrollBar@SBPageUp$qm8TMessage 032E:@TScrollBar@SBPageDown$qm8TMessage 0349:@TScrollBar@SBThumbPosition$qm8TMessage 0364:@TScrollBar@SBThumbTrack$qm8TMessage 037F:@TScrollBar@SBTop$qm8TMessage 03B0:@TScrollBar@SBBottom$qm8TMessage 03E1:@TScrollBar@read$qm8ipstream 0430:@TScrollBar@write$qm8opstream 0471:@TScrollBar@build$qv (l)0511:@_STCON_$qv
+              C3:
+                0. 17 9D82 032E 0000:@TMDIClient@$bctr$qn9TMDIFramen7TModule 00EF:@TMDIClient@$bctr$qn9TMDIFramepx6HWND__n7TModule 0163:@TMDIClient@$bdtr$qv 01CC:@TMDIClient@read$qm8ipstream 024C:@TMDIClient@write$qm8opstream 0280:@TMDIClient@build$qv (l)030F:@_STCON_$qv
+            5A..........598956088946060BC27503E981:
+              0. 17 E7EA 06CF 0000:@TMDIFrame@$bctr$qnzct1n7TModule 00AD:@TMDIFrame@$bctr$qnzcin7TModule 0154:@TMDIFrame@$bctr$qpx6HWND__t1n7TModule 0218:@TMDIFrame@$bdtr$qv 02A8:@TMDIFrame@SetupWindow$qv 03C9:@TMDIFrame@GetWindowClass$qm11tagWNDCLASS 03EC:@TMDIFrame@CreateChild$qv (l)0425:@CannotClose$qnvt1 (l)0465:@CloseChild$qnvt1 0498:@TMDIFrame@CloseChildren$qv 04DC:@TMDIFrame@read$qm8ipstream 0589:@TMDIFrame@write$qm8opstream 0621:@TMDIFrame@build$qv (l)06B0:@_STCON_$qv
+        5D4DCB:
+          0. 00 0000 000A (!)0000:?
+      088B56063B460C750A3B560A7505B80100EB0233C0EB005D4DCB:
+        0. 00 0000 0020 (!)0000:?
+    56:
+      06:
+        33C0EB005D4DCB:
+          0. 00 0000 000E (!)0000:?
+        3B56087505B80100EB0233C0EB005D4DCB:
+          0. 00 0000 0018 (!)0000:?
+        8B4608EB005D4DCB:
+          0. 00 0000 000F 0000:@TNSSortedCollection@keyOf$qpv
+        B8:
+          1000EB005D4DCB:
+            0. 00 0000 000F 0000:@Array@isA$xqv
+          6400EB005D4DCB:
+            0. 00 0000 000F 0000:@TModule@isA$xqv
+          6500EB005D4DCB:
+            0. 00 0000 000F 0000:@TApplication@isA$xqv
+          6600EB005D4DCB:
+            0. 00 0000 000F 0000:@TScroller@isA$xqv
+          6700EB005D4DCB:
+            0. 00 0000 000F 0000:@TWindow@isA$xqv
+          6800EB005D4DCB:
+            0. 00 0000 000F 0000:@TDialog@isA$xqv
+          ....EB005D4DCB:
+            0. 00 0000 000F (!)0000:?
+      0C8B460AEB005D4DCB:
+        0. 00 0000 000F 0000:@TNSSortedCollection@keyOf$qnv
+    5E068CDAB8....EB005D4DCB:
+      0. 00 0000 0011 (!)0000:?
+  8CDAB8....EB005D4DCB:
+    0. 00 0000 000E (!)0000:?
+  A1....EB005D4DCB:
+    0. 00 0000 000C 0000:@GetApplicationObject$qv
+  B8:
+    1000EB005D4DCB:
+      0. 00 0000 000C 0000:@Array@isA$xqv
+    6400EB005D4DCB:
+      0. 00 0000 000C 0000:@TModule@isA$xqv
+    6500EB005D4DCB:
+      0. 00 0000 000C 0000:@TApplication@isA$xqv
+    6600EB005D4DCB:
+      0. 00 0000 000C 0000:@TScroller@isA$xqv
+    6700EB005D4DCB:
+      0. 00 0000 000C 0000:@TWindow@isA$xqv
+    6800EB005D4DCB:
+      0. 00 0000 000C 0000:@TDialog@isA$xqv
+  C45E:
+    0626:
+      837F:
+        04007505B80100EB0233C0EB005D4DCB:
+          0. 00 0000 001A 0000:@Container@isEmpty$xqv
+        16007426C45E0626C45F1226FF7706C45E0626FF7716:
+          0. 06 477E 003B 0000:@TApplication@ProcessAccels$qn6tagMSG
+      8B:
+        47:
+          02:
+            C45E0A263B47027505B80100EB0233C0EB005D4DCB:
+              0. 00 0000 0020 0000:@TModule@isEqual$xqmx6Object
+            EB005D4DCB:
+              0. 00 0000 0010 0000:@TModule@hashValue$xqv
+          04EB005D4DCB:
+            0. 00 0000 0010 0000:@Container@getItemsInContainer$xqv
+          06EB005D4DCB:
+            0. 00 0000 0010 0000:@TWindowsObject@hashValue$xqv
+          18260B471A:
+            7428C45E0626C45F1826837F0600741AC4:
+              0. 10 CB6E 0040 0000:@TApplication@ProcessDlgMsg$qn6tagMSG
+            7503E9DD00C45E0626C45F18268B472425:
+              0. FF CFC6 0136 0000:@TApplication@ProcessAppMsg$qn6tagMSG
+          2EEB005D4DCB:
+            0. 00 0000 0010 0000:@TScroller@hashValue$xqv
+          44EB005D4DCB:
+            0. 00 0000 0010 0000:@TControl@GetId$qv
+        5752268B4750EB005D4DCB:
+          0. 00 0000 0014 0000:@TMDIFrame@GetClient$qv
+      FF77:
+        0668:
+          26026A006A006A00..........5D4DCB:
+            0. 00 0000 001C 0000:@TMDIClient@TileChildren$qv
+          27026A006A006A00..........5D4DCB:
+            0. 00 0000 001C 0000:@TMDIClient@CascadeChildren$qv
+          28026A006A006A00..........5D4DCB:
+            0. 00 0000 001C 0000:@TMDIClient@ArrangeIcons$qv
+        1426FF7712C45E0626C45F12268B1FFF5F3C83C4040B:
+          0. 2C A1B8 0061 0000:@TApplication@ProcessMDIAccels$qn6tagMSG
+        5226FF7750C45E0626C45F50268B1FFF9F:
+          A00083C404:
+            0. 03 9134 0023 0000:@TMDIFrame@ArrangeIcons$qv
+          A40083C404:
+            0. 03 9134 0023 0000:@TMDIFrame@CascadeChildren$qv
+          A80083C404:
+            0. 03 9134 0023 0000:@TMDIFrame@TileChildren$qv
+    0A268B5702268B07EB005D4DCB:
+      0. 00 0000 0013 0000:@TPWrittenObjects@keyOf$qnv
+  FF76:
+    08FF7606C45E06268B1FFF9F:
+      A80083C4045D4DCB:
+        0. 00 0000 001A 0000:@TMDIFrame@CMCreateChild$qm8TMessage
+      AC0083C4045D4DCB:
+        0. 00 0000 001A 0000:@TMDIFrame@CMTileChildren$qm8TMessage
+      B00083C4045D4DCB:
+        0. 00 0000 001A 0000:@TMDIFrame@CMCascadeChildren$qm8TMessage
+      B40083C4045D4DCB:
+        0. 00 0000 001A 0000:@TMDIFrame@CMArrangeIcons$qm8TMessage
+      B80083C4045D4DCB:
+        0. 00 0000 001A 0000:@TMDIFrame@CMCloseChildren$qm8TMessage
+    0CFF760AFF7608FF7606:
+      C45E06268B1FFF5F5083C4085D4DCB:
+        0. 00 0000 001F (!)0000:?
+      ..........83C408C45E06268B475626:
+        0. 10 899C 005B 0000:@TMDIFrame@WMActivate$qm8TMessage
+    10FF760EFF7608FF7606FF5E0A83C408:
+      0BC075098B16....A1:
+        0. 00 0000 002E 0000:@Object@firstThat$xqnqmx6Objectnv$inv
+      5D4DCB:
+        0. 00 0000 0019 0000:@Object@forEach$qnqm6Objectnv$vnv
+558BEC:
+  56:
+    578B7604:
+      0BF6750C6A04E8....598BF00BC074396A12E8....598BF8:
+        0. 1B E26A 0525 0000:@TComboBoxData@$bctr$qv 0059:@TComboBoxData@$bdtr$qv 009D:@TComboBoxData@AddString$qpzci 00E2:@TComboBox@$bctr$qp14TWindowsObjectiiiiiulusp7TModule 013D:@TComboBox@$bctr$qp14TWindowsObjectiusp7TModule 0198:@TComboBox@SetText$qnzc 01F0:@TComboBox@GetEditSel$qrit1 022B:@TComboBox@ShowList$qv 025F:@TComboBox@HideList$qv 02E0:@TComboBox@Transfer$qpvus 0413:@TComboBox@GetMsgID$qus 043B:@TComboBox@SetupWindow$qv 0464:@TComboBox@read$qr8ipstream 048C:@TComboBox@write$qr8opstream 04AD:@TComboBox@build$qv
+      8B7E:
+        06:
+          0BF6:
+            74:
+              0FC704....F7C70100740556E8....595F5E:
+                0. 02 5F98 0022 (!)0000:?
+              186A0056E8....83C404F7C70100740756E8:
+                0. 00 0000 002D (!)0000:? (REF 0013: @TDialog@$bdtr$qv)
+                1. 00 0000 002D 0000:@Array@$bdtr$qv (REF 0013: @AbstractArray@$bdtr$qv)
+              25F7C7020074106A008BC605080050E8:
+                0. 0D 35F2 003A 0000:@TNSSortedCollection@$bdtr$qv
+              2AC74402....8B1CC707....6A028BC60504:
+                0. 03 7D7E 003D 0000:@fpbase@$bdtr$qv
+              31C74402....8B1CC707....8B1CC7470A00:
+                0. 10 DD4A 0044 0000:@TStreamableTypes@$bdtr$qv
+              34C74402....8B1CC707....C74404....C7:
+                0. 0D 5A41 0047 0000:@ipstream@$bdtr$qv
+              3DC74402....8B1CC707....8B1CC7470A00:
+                0. 1C 43B6 0050 0000:@TPWrittenObjects@$bdtr$qv
+              47C74402....C7442A....8B1CC707....C7:
+                0. 02 2FC5 005A 0000:@ifpstream@$bdtr$qv
+              4CC74402....8B1CC707....C74406....8B:
+                0. 04 802E 005F 0000:@opstream@$bdtr$qv
+              5FC74402....C7442A....8B1CC707....C7:
+                0. 02 3DE6 0072 0000:@ofpstream@$bdtr$qv
+              69C74402....C74414....8B1CC707....C7:
+                0. 02 88B2 007C 0000:@iopstream@$bdtr$qv
+              7CC74402....C7442A....C7443C....8B1C:
+                0. 02 5AFC 008F 0000:@fpstream@$bdtr$qv
+            750F6A42E8....598BF00BC07503E9C600FF76:
+              0. 04 6D88 0DBE 0000:@TWindow@$bctr$qp14TWindowsObjectnzcp7TModule 00EC:@TWindow@$bctr$qpx6HWND__p7TModule 0248:@TWindow@$bdtr$qv 02AC:@TWindow@AssignMenu$qnzc 035A:@TWindow@AssignMenu$qi 0374:@TWindow@GetWindowClass$qr11tagWNDCLASS 03DE:@TWindow@Create$qv 06A4:@TWindow@WMMDIActivate$qr8TMessage 06F5:@TWindow@ActivationResponse$qusi 07A8:@TWindow@SetupWindow$qv 084A:@TWindow@WMCreate$qr8TMessage 0867:@TWindow@WMHScroll$qr8TMessage 08BA:@TWindow@WMVScroll$qr8TMessage 090D:@TWindow@WMPaint$qr8TMessage 0995:@TWindow@Paint$qpx5HDC__r14tagPAINTSTRUCT 099D:@TWindow@Paint$quir14tagPAINTSTRUCT 09A5:@TWindow@WMSize$qr8TMessage 0A0A:@TWindow@WMMove$qr8TMessage 0A8E:@TWindow@WMLButtonDown$qr8TMessage 0B07:@TWindow@read$qr8ipstream 0C3F:@TWindow@write$qr8opstream 0D61:@TWindow@build$qv
+          5756E8....83C404837C4600741D8B5C46FF7706:
+            0. 00 0000 003A 0000:@TMDIFrame@WMActivate$qr8TMessage
+          8B44023B45027505B80100EB0233C0EB005F5E5DC3:
+            0. 00 0000 0020 0000:@TModule@isEqual$xqrx6Object
+        080BF675:
+          0C6A2EE8....598BF00BC07478FF760C57FF:
+            0. 04 B9D7 045B 0000:@TSearchDialog@$bctr$qp14TWindowsObjectir13TSearchStructp7TMotM 009B:@TEditWindow@$bctr$qp14TWindowsObjectnzcp7TModule 011B:@TEditWindow@WMSize$qr8TMessage 0153:@TEditWindow@WMSetFocus$qr8TMessage 0168:@TEditWindow@DoSearch$qv 0258:@TEditWindow@CMEditFind$qr8TMessage 0296:@TEditWindow@CMEditFindNext$qr8TMessage 02A5:@TEditWindow@CMEditReplace$qr8TMessage 02E3:@TEditWindow@read$qr8ipstream 0373:@TEditWindow@write$qr8opstream 03F4:@TEditWindow@build$qv
+          0F6A24E8....598BF00BC07503E99300C704:
+            0. 00 0000 1016 0000:@TWindowsObject@$bctr$qp14TWindowsObjectp7TModule 00CA:@TWindowsObject@$bdtr$qv 0153:@TWindowsObject@AssignCreateOrder$qv 01C8:@TWindowsObject@OrderIsI$qpvt1 0269:@TWindowsObject@CreateZeroChild$qpvt1 0290:@TWindowsObject@CreateChildren$qv 0301:@TWindowsObject@Transfer$qpvus 030D:@TWindowsObject@EnableKBHandler$qv 0322:@TWindowsObject@EnableAutoCreate$qv 0337:@TWindowsObject@EnableTransfer$qv 034D:@TWindowsObject@DisableAutoCreate$qv 0362:@TWindowsObject@DisableTransfer$qv 0378:@TWindowsObject@SetFlags$qusi 0397:@TWindowsObject@AddChild$qp14TWindowsObject 03CA:@TWindowsObject@Previous$qv 03F2:@TWindowsObject@RemoveChild$qp14TWindowsObject 0440:@TWindowsObject@SetParent$qp14TWindowsObject 0482:@TWindowsObject@FirstThat$qpqpvt1$ipv 04E0:@TWindowsObject@ForEach$qpqpvt1$vpv 051B:@TWindowsObject@FirstThat$qM14TWindowsObjectqpvt1$ipv 057F:@TWindowsObject@ForEach$qM14TWindowsObjectqpvt1$vpv 05DA:@TWindowsObject@IndexOf$qp14TWindowsObject 0607:@TWindowsObject@At$qi 065D:@TWindowsObject@ChildWithId$qi 0677:@TWindowsObject@DefWndProc$qr8TMessage 0715:@TWindowsObject@DispatchAMessage$qusr8TMessageM14TWindowsObjedX 07DB:@TWindowsObject@WMCommand$qr8TMessage 094F:@TWindowsObject@DrawItem$qm17tagDRAWITEMSTRUCT 0957:@TWindowsObject@WMDrawItem$qr8TMessage 09CC:@TWindowsObject@DispatchScroll$qr8TMessage 0A5F:@TWindowsObject@WMVScroll$qr8TMessage 0A93:@TWindowsObject@WMHScroll$qr8TMessage 0AC7:@TWindowsObject@DefCommandProc$qr8TMessage 0B2E:@TWindowsObject@DefChildProc$qr8TMessage 0B44:@TWindowsObject@DefNotificationProc$qr8TMessage 0BD3:@TWindowsObject@Destroy$qv 0C3F:@TWindowsObject@GetWindowClass$qr11tagWNDCLASS 0C47:@TWindowsObject@SetupWindow$qv 0CA4:@TWindowsObject@TransferData$qus 0CC8:@TWindowsObject@Register$qv 0D29:@TWindowsObject@Show$qi 0D44:@TWindowsObject@SetCaption$qnzc 0DCD:@TWindowsObject@CanClose$qv 0DF0:@TWindowsObject@CloseWindow$qv 0E2B:@TWindowsObject@ShutDownWindow$qv 0E4C:@TWindowsObject@WMClose$qr8TMessage 0E7F:@TWindowsObject@WMDestroy$qr8TMessage 0EB6:@TWindowsObject@WMNCDestroy$qr8TMessage 0F0D:@TWindowsObject@WMActivate$qr8TMessage 0F40:@TWindowsObject@ActivationResponse$qusi 0F85:@TWindowsObject@WMQueryEndSession$qr8TMessage 0FDF:@TWindowsObject@CMExit$qr8TMessage 100A:@TWindowsObject@GetClient$qv
+        180BF6750C6A42E8....598BF00BC07457FF761AFF76:
+          0. 18 27F3 0125 0000:@TBDivider@$bctr$qp14TWindowsObjectinzciiiiiip7TModule 007A:@TBDivider@$bctr$qp14TWindowsObjectip7TModule 00B6:@TBDivider@build$qv
+    8B:
+      56048B76068B04EB005E5DC3:
+        0. 00 0000 0011 0000:@TPWrittenObjects@keyOf$qpv
+      7604:
+        0BF675:
+          0C6A:
+            0CE8....598BF00BC0742AC704....C744020000:
+              0. 36 6516 0423 0000:@TNSCollection@$bctr$qii 0048:@TNSCollection@$bctr$qv 0088:@TNSCollection@$bdtr$qv 00C0:@TNSCollection@at$qi 00D8:@TNSCollection@atRemove$qi 011C:@TNSCollection@atFree$qi 014D:@TNSCollection@atInsert$qipv 01B6:@TNSCollection@atPut$qipv 01E2:@TNSCollection@remove$qpv 01FF:@TNSCollection@removeAll$qv 020E:@TNSCollection@error$qii 021E:@TNSCollection@firstThat$qpqpvt1$7Booleanpv 025E:@TNSCollection@lastThat$qpqpvt1$7Booleanpv 02A0:@TNSCollection@forEach$qpqpvt1$vpv 02CA:@TNSCollection@free$qpv 02EB:@TNSCollection@freeAll$qv 0318:@TNSCollection@freeItem$qpv 0329:@TNSCollection@indexOf$qpv 035D:@TNSCollection@insert$qpv 0382:@TNSCollection@pack$qv 03BC:@TNSCollection@setLimit$qi
+            2EE8....598BF00BC0745CFF760CFF760656E8:
+              0. 00 0000 060F 0000:@TDialog@$bctr$qp14TWindowsObjectnzcp7TModule 007A:@TDialog@$bctr$qp14TWindowsObjectip7TModule 00D7:@TDialog@$bdtr$qv 0131:@TDialog@Create$qv 01C9:@TDialog@Execute$qv 02AC:@TDialog@WMInitDialog$qr8TMessage 02BD:@TDialog@SetupWindow$qv 02D9:@TDialog@WMQueryEndSession$qr8TMessage 0316:@TDialog@CloseWindow$qi 034F:@TDialog@CloseWindow$qv 0371:@TDialog@ShutDownWindow$qi 0394:@TDialog@ShutDownWindow$qv 03CB:@TDialog@Destroy$qi 03FF:@TDialog@Destroy$qv 0421:@TDialog@SetCaption$qnzc 043E:@TDialog@Ok$qr8TMessage 0453:@TDialog@Cancel$qr8TMessage 0464:@TDialog@WMClose$qr8TMessage 0475:@TDialog@GetClassName$qv 0495:@TDialog@GetWindowClass$qr11tagWNDCLASS 04FF:@TDialog@read$qr8ipstream 0555:@TDialog@write$qr8opstream 05B2:@TDialog@build$qv
+            38E8....598BF00BC0745DFF761668027FFF7606:
+              0. 02 26E3 01A1 0000:@TInputDialog@$bctr$qp14TWindowsObjectnzct2t2usp7TModule 007B:@TInputDialog@TransferData$qus 00CB:@TInputDialog@SetupWindow$qv 00F1:@TInputDialog@read$qr8ipstream 0117:@TInputDialog@write$qr8opstream 013B:@TInputDialog@build$qv
+            42E8....598BF00BC074:
+              1CFF760CFF760AFF7608:
+                0. 05 4A11 00C1 0000:@TBWindow@$bctr$qp14TWindowsObjectnzcp7TModule 003A:@TBWindow@GetWindowClass$qr11tagWNDCLASS 005B:@TBWindow@build$qv
+              39FF7616FF7614FF7612:
+                0. 14 B5FC 0102 0000:@TBStaticBmp@$bctr$qp14TWindowsObjectinzciiiip7TModule 0057:@TBStaticBmp@$bctr$qp14TWindowsObjectip7TModule 0093:@TBStaticBmp@build$qv
+              4FFF7616FF760CFF760A:
+                0. 05 4A11 01E7 0000:@TControl@$bctr$qp14TWindowsObjectinzciiiip7TModule 006D:@TControl@$bctr$qp14TWindowsObjectip7TModule 00F1:@TControl@WMPaint$qr8TMessage 0127:@TControl@WMDrawItem$qr8TMessage 017B:@TControl@ODADrawEntire$qm17tagDRAWITEMSTRUCT 019F:@TControl@ODAFocus$qm17tagDRAWITEMSTRUCT 01C3:@TControl@ODASelect$qm17tagDRAWITEMSTRUCT
+            44E8....598BF00BC074:
+              2EFF7618FF7616FF7614:
+                0. 17 A731 00FE 0000:@TBStatic@$bctr$qp14TWindowsObjectinzciiiiusp7TModule 004C:@TBStatic@$bctr$qp14TWindowsObjectiusp7TModule 0086:@TBStatic@build$qv
+              43FF76:
+                16FF7614FF7612:
+                  0. 14 B5FC 0110 0000:@TBGroupBox@$bctr$qp14TWindowsObjectinzciiiip7TModule 0061:@TBGroupBox@$bctr$qp14TWindowsObjectip7TModule 0098:@TBGroupBox@build$qv
+                18FF7614FF7612:
+                  0. 14 B5FC 01B1 0000:@TStatic@$bctr$qp14TWindowsObjectinzciiiiusp7TModule 0061:@TStatic@$bctr$qp14TWindowsObjectiusp7TModule 00A3:@TStatic@Transfer$qpvus 00F9:@TStatic@read$qr8ipstream 0121:@TStatic@write$qr8opstream 0142:@TStatic@build$qv
+              48FF7616FF7614FF7612:
+                0. 14 B5FC 018D 0000:@TGroupBox@$bctr$qp14TWindowsObjectinzciiiip7TModule 0066:@TGroupBox@$bctr$qp14TWindowsObjectip7TModule 00A7:@TGroupBox@SelectionChanged$qi 00D5:@TGroupBox@read$qr8ipstream 00FD:@TGroupBox@write$qr8opstream 011E:@TGroupBox@build$qv
+              5EFF761AFF7616FF7614:
+                0. 17 A731 084D 0000:@TEdit@$bctr$qp14TWindowsObjectinzciiiiusip7TModule 007C:@TEdit@$bctr$qp14TWindowsObjectiusp7TModule 00BB:@TEdit@CanUndo$qv 00E3:@TEdit@Undo$qv 00FE:@TEdit@Paste$qv 0119:@TEdit@Copy$qv 0134:@TEdit@Cut$qv 014F:@TEdit@CMEditCut$qr8TMessage 015E:@TEdit@CMEditCopy$qr8TMessage 016D:@TEdit@CMEditPaste$qr8TMessage 017C:@TEdit@CMEditDelete$qr8TMessage 018B:@TEdit@CMEditClear$qr8TMessage 01A1:@TEdit@CMEditUndo$qr8TMessage 01B0:@TEdit@ENErrSpace$qr8TMessage 01CD:@TEdit@GetNumLines$qv 01EA:@TEdit@GetLineLength$qi 0225:@TEdit@GetLine$qnzcii 0298:@TEdit@SetSelection$qii 02C9:@TEdit@GetSelection$qrit1 02FF:@TEdit@IsModified$qv 0327:@TEdit@ClearModify$qv 0342:@TEdit@GetLineFromPos$qi 0360:@TEdit@GetLineIndex$qi 037E:@TEdit@Scroll$qii 03A2:@TEdit@Insert$qnzc 03BF:@TEdit@Search$qinzci 0565:@TEdit@DeleteSelection$qv 05A3:@TEdit@DeleteSubText$qii 05CB:@TEdit@DeleteLine$qi 065E:@TEdit@GetSubText$qnzcii 07AC:@TEdit@SetupWindow$qv 07D5:@TEdit@build$qv
+            46E8....598BF00BC074:
+              2EFF7618FF7616FF7614:
+                0. 17 A731 00FB 0000:@TBButton@$bctr$qp14TWindowsObjectinzciiiiip7TModule 004C:@TBButton@$bctr$qp14TWindowsObjectip7TModule 0083:@TBButton@build$qv
+              49FF7618FF7614FF7612:
+                0. 14 B5FC 025B 0000:@TButton@$bctr$qp14TWindowsObjectinzciiiiip7TModule 0067:@TButton@$bctr$qp14TWindowsObjectip7TModule 00AD:@TButton@SetupWindow$qv 00E7:@TButton@WMGetDlgCode$qr8TMessage 0133:@TButton@BMSetStyle$qr8TMessage 01A3:@TButton@read$qr8ipstream 01CB:@TButton@write$qr8opstream 01EC:@TButton@build$qv
+              6BFF7614FF7610FF760E:
+                0. 12 D25E 0395 0000:@TScrollBar@$bctr$qp14TWindowsObjectiiiiiip7TModule 0089:@TScrollBar@$bctr$qp14TWindowsObjectip7TModule 00CA:@TScrollBar@Transfer$qpvus 0118:@TScrollBar@SetupWindow$qv 0132:@TScrollBar@GetRange$qrit1 014E:@TScrollBar@GetPosition$qv 0164:@TScrollBar@SetRange$qii 0180:@TScrollBar@SetPosition$qi 01C9:@TScrollBar@DeltaPos$qi 01F2:@TScrollBar@SBLineUp$qr8TMessage 0209:@TScrollBar@SBLineDown$qr8TMessage 021D:@TScrollBar@SBPageUp$qr8TMessage 0234:@TScrollBar@SBPageDown$qr8TMessage 0248:@TScrollBar@SBThumbPosition$qr8TMessage 0261:@TScrollBar@SBThumbTrack$qr8TMessage 027A:@TScrollBar@SBTop$qr8TMessage 02A0:@TScrollBar@SBBottom$qr8TMessage 02C6:@TScrollBar@read$qr8ipstream 02FB:@TScrollBar@write$qr8opstream 0326:@TScrollBar@build$qv
+              75FF76086A006A00FF76:
+                0. 03 74FC 01FE 0000:@TMDIClient@$bctr$qp9TMDIFramep7TModule 0093:@TMDIClient@$bctr$qp9TMDIFramepx6HWND__p7TModule 00D8:@TMDIClient@$bdtr$qv 011C:@TMDIClient@read$qr8ipstream 0173:@TMDIClient@write$qr8opstream 0198:@TMDIClient@build$qv
+            48E8....598BF00BC074:
+              2EFF7618FF7616FF7614:
+                0. 17 A731 00D6 0000:@TBRadioButton@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TqL 004C:@TBRadioButton@build$qv (009C: 08)
+                1. 17 A731 0107 0000:@TBCheckBox@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TModuo 004C:@TBCheckBox@$bctr$qp14TWindowsObjectip9TGroupBoxp7TModule 0086:@TBCheckBox@build$qv (009C: 02)
+              38FF7618FF7616FF7614:
+                0. 17 A731 0100 0000:@TRadioButton@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TMr7 0056:@TRadioButton@BNClicked$qr8TMessage 007F:@TRadioButton@build$qv
+              3DFF76186A00FF7614FF:
+                0. 16 B169 029B 0000:@TCheckBox@$bctr$qp14TWindowsObjectinzciiiip9TGroupBoxp7TModuwf 005B:@TCheckBox@$bctr$qp14TWindowsObjectip9TGroupBoxp7TModule 009D:@TCheckBox@Transfer$qpvus 00E4:@TCheckBox@GetCheck$qv 0101:@TCheckBox@SetCheck$qus 0134:@TCheckBox@Check$qv 0147:@TCheckBox@Uncheck$qv 015A:@TCheckBox@Toggle$qv 019E:@TCheckBox@BNClicked$qr8TMessage 01D8:@TCheckBox@read$qr8ipstream 0201:@TCheckBox@write$qr8opstream 0223:@TCheckBox@build$qv
+              44FF760EFF7608FF7606:
+                0. 04 F555 040C 0000:@TMDIFrame@$bctr$qnzct1p7TModule 0062:@TMDIFrame@$bctr$qnzcip7TModule 00C1:@TMDIFrame@$bctr$qpx6HWND__t1p7TModule 012A:@TMDIFrame@$bdtr$qv 017C:@TMDIFrame@SetupWindow$qv 0230:@TMDIFrame@GetWindowClass$qr11tagWNDCLASS 024B:@TMDIFrame@CreateChild$qv 02C8:@TMDIFrame@CloseChildren$qv 02F7:@TMDIFrame@read$qr8ipstream 0353:@TMDIFrame@write$qr8opstream 03A6:@TMDIFrame@build$qv
+          0D68F400E8....598BF00BC07449FF7610FF760AFF76:
+            0. 06 EA08 08CA 0000:@TFileWindow@$bctr$qp14TWindowsObjectnzct2p7TModule 0068:@TFileWindow@$bdtr$qv 00B0:@TFileWindow@SetupWindow$qv 00EC:@TFileWindow@SetFileName$qnzc 01A8:@TFileWindow@NewFile$qv 01F5:@TFileWindow@ReplaceWith$qnzc 024C:@TFileWindow@Open$qv 030C:@TFileWindow@Read$qv 0496:@TFileWindow@Save$qv 04D3:@TFileWindow@SaveAs$qv 05BD:@TFileWindow@Write$qv 0718:@TFileWindow@CanClear$qv 07A8:@TFileWindow@CanClose$qv 07BB:@TFileWindow@CMFileNew$qr8TMessage 07CA:@TFileWindow@CMFileOpen$qr8TMessage 07D9:@TFileWindow@CMFileSave$qr8TMessage 07E8:@TFileWindow@CMFileSaveAs$qr8TMessage 07F7:@TFileWindow@read$qr8ipstream 0834:@TFileWindow@write$qr8opstream 085A:@TFileWindow@build$qv
+          0F6A2EE8....598BF00BC07503E9C900C704....C744:
+            0. 01 6AD3 0D98 0000:@TScroller@$bctr$qp7TWindowiill 00EA:@TScroller@$bdtr$qv 0128:@TScroller@SetPageSize$qv 01B0:@TScroller@SetRange$qll 01EE:@TScroller@SetUnits$qii 020B:@TScroller@SetSBarRange$qv 02BA:@TScroller@BeginView$qpx5HDC__r14tagPAINTSTRUCT 0335:@TScroller@BeginView$quir14tagPAINTSTRUCT 03B0:@TScroller@EndView$qv 0488:@TScroller@VScroll$qusi 05E4:@TScroller@HScroll$qusi 076B:@TScroller@ScrollTo$qll 096A:@TScroller@AutoScroll$qv 0BB4:@TScroller@read$qr8ipstream 0C96:@TScroller@write$qr8opstream 0D44:@TScroller@build$qv
+        568B1CFF57:
+          54595E5DC3:
+            0. 00 0000 0011 0000:@TMDIFrame@CMCreateChild$qr8TMessage
+          56595E5DC3:
+            0. 00 0000 0011 0000:@TMDIFrame@CMTileChildren$qr8TMessage
+          58595E5DC3:
+            0. 00 0000 0011 0000:@TMDIFrame@CMCascadeChildren$qr8TMessage
+          5A595E5DC3:
+            0. 00 0000 0011 0000:@TMDIFrame@CMArrangeIcons$qr8TMessage
+          5C595E5DC3:
+            0. 00 0000 0011 0000:@TMDIFrame@CMCloseChildren$qr8TMessage
+        6A00:
+          1E68....566A00E8....83C40AEB005E5DC3:
+            0. 00 0000 001B 0000:@TMDIFrame@InitChild$qv
+          566A00E8....83C4068944425E5DC3:
+            0. 00 0000 0018 0000:@TMDIFrame@InitClientWindow$qv
+        837C:
+          04007505B80100EB0233C0EB005E5DC3:
+            0. 00 0000 0019 0000:@Container@isEmpty$xqv
+          1400741D8B5C12FF7706FF7414FF7608FF7606:
+            0. 00 0000 0031 0000:@TApplication@ProcessAccels$qn6tagMSG
+          1600:
+            741E8B5C16837F060074158B5C16FF7706FF7608FF:
+              0. 02 65CE 0032 0000:@TApplication@ProcessDlgMsg$qn6tagMSG
+            7503E9A1008B5C168B471C2510003D10007505B801:
+              0. C3 90C2 00E3 0000:@TApplication@ProcessAppMsg$qn6tagMSG
+        8B44:
+          02EB005E5DC3:
+            0. 00 0000 000F 0000:@TModule@hashValue$xqv
+          04EB005E5DC3:
+            0. 00 0000 000F 0000:@Container@getItemsInContainer$xqv
+          06EB005E5DC3:
+            0. 00 0000 000F 0000:@TWindowsObject@hashValue$xqv
+          2CEB005E5DC3:
+            0. 00 0000 000F 0000:@TScroller@hashValue$xqv
+          38EB005E5DC3:
+            0. 00 0000 000F 0000:@TControl@GetId$qv
+          42EB005E5DC3:
+            0. 00 0000 000F 0000:@TMDIFrame@GetClient$qv
+        FF:
+          74:
+            0668:
+              26026A006A006A00..........5E5DC3:
+                0. 00 0000 001B 0000:@TMDIClient@TileChildren$qv
+              27026A006A006A00..........5E5DC3:
+                0. 00 0000 001B 0000:@TMDIClient@CascadeChildren$qv
+              28026A006A006A00..........5E5DC3:
+                0. 00 0000 001B 0000:@TMDIClient@ArrangeIcons$qv
+            128B5C128B1FFF571E590BC07425FF74128B5C128B1FFF:
+              0. 0E 35B2 0043 0000:@TApplication@ProcessMDIAccels$qn6tagMSG
+            428B5C428B1FFF57:
+              50595E5DC3:
+                0. 00 0000 0016 0000:@TMDIFrame@ArrangeIcons$qv
+              52595E5DC3:
+                0. 00 0000 0016 0000:@TMDIFrame@CascadeChildren$qv
+              54595E5DC3:
+                0. 00 0000 0016 0000:@TMDIFrame@TileChildren$qv
+          76:
+            06568B1CFF572883C4045E5DC3:
+              0. 00 0000 0016 (!)0000:?
+            0856FF560683C404:
+              0BC07505A1....EB028BC6EB005E5D:
+                0. 01 EF04 0021 0000:@Object@firstThat$xqpqrx6Objectpv$ipv
+              5E5DC3:
+                0. 00 0000 0014 0000:@Object@forEach$qpqr6Objectpv$vpv
+  83EC:
+    02:
+      56:
+        578B7604:
+          0BF6750C6A06E8....598BF00BC0747DC744040000:
+            0. 03 9C7D 0CB5 0000:@TListBoxData@$bctr$qv 00A0:@TListBoxData@$bdtr$qv 00F4:@TListBoxData@AddString$qpzci 0139:@TListBoxData@SelectString$qnzc 018A:@TListBoxData@ResetSelections$qv 01A9:@TListBoxData@GetSelStringLength$qi 021C:@TListBoxData@GetSelString$qnzcii 02B5:@TListBox@$bctr$qp14TWindowsObjectiiiiip7TModule 0352:@TListBox@Transfer$qpvus 0636:@TListBox@AddString$qnzc 065E:@TListBox@InsertString$qnzci 0687:@TListBox@DeleteString$qi 06AE:@TListBox@ClearList$qv 06D2:@TListBox@GetCount$qv 06F8:@TListBox@FindString$qnzci 0721:@TListBox@FindExactString$qnzci 07D4:@TListBox@GetString$qnzci 07FD:@TListBox@GetStringLen$qi 0824:@TListBox@GetSelCount$qv 0869:@TListBox@GetSelString$qnzci 0901:@TListBox@GetSelStrings$qpnzcii 0A10:@TListBox@SetSelString$qnzci 0A54:@TListBox@SetSelStrings$qpnzcii 0AE8:@TListBox@GetSelIndex$qv 0B29:@TListBox@GetSelIndexes$qpii 0B60:@TListBox@SetSelIndex$qi 0BA2:@TListBox@SetSelIndexes$qpiii 0C1E:@TListBox@GetMsgID$qus 0C46:@TListBox@build$qv
+          8B7E068D46FE5057568B5C02FF570683C40450568B:
+            0. 86 1FFD 0140 0000:@TNSSortedCollection@indexOf$qpv 006E:@TNSSortedCollection@insert$qpv 00B4:@TNSSortedCollection@search$qpvri
+          FF7606568B1CFF572A83C4048BF8A1....8946FE57:
+            0. 35 3CE1 0055 0000:@Collection@hasMember$xqr6Object
+        8B76040BF6750C6A06E8....598BF00BC0742B8B460689048B:
+          0. 16 136D 157B 0000:@TStreamableClass@$bctr$qpxzcpqv$p11TStreamablei 004C:@TStreamableTypes@search$qpvri 00DB:@TStreamableTypes@lookup$qpxzc 010D:@TStreamableTypes@keyOf$qpv 011E:@TStreamableTypes@compare$qpvt1 0136:@TPWrittenObjects@registerObject$qpxv 0181:@TPWrittenObjects@find$qpxv 01BA:@TPWrittenObjects@compare$qpvt1 01F3:@TPReadObjects@registerObject$qpxv 022E:@pstream@error$q15StreamableError 02A9:@pstream@error$q15StreamableErrorrx11TStreamable 02BD:@pstream@initTypes$qv 0326:@ipstream@seekg$ql 038C:@ipstream@seekg$ql8seek_dir 03F3:@ipstream@readWord$qv 0416:@ipstream@freadBytes$qnvui 0460:@ipstream@readString$qv 04F2:@ipstream@readString$qpzcui 059D:@ipstream@freadString$qnzcui 0642:@ipstream@freadString$qv 06CD:@$brsh$qr8ipstreamrzc 071D:@$brsh$qr8ipstreamruc 076D:@$brsh$qr8ipstreamrs 0787:@$brsh$qr8ipstreamrus 07A1:@$brsh$qr8ipstreamri 07BB:@$brsh$qr8ipstreamrui 07D5:@$brsh$qr8ipstreamrl 07FC:@$brsh$qr8ipstreamrul 0823:@$brsh$qr8ipstreamrf 084A:@$brsh$qr8ipstreamrd 0871:@$brsh$qr8ipstreamrg 0898:@$brsh$qr8ipstreamr11TStreamable 08D2:@$brsh$qr8ipstreamrpv 09BC:@ipstream@readPrefix$qv 0A41:@ipstream@readData$qpx16TStreamableClassp11TStreamable 0A85:@ipstream@readSuffix$qv 0AEC:@opstream@seekp$ql 0B4F:@opstream@seekp$ql8seek_dir 0BB3:@opstream@flush$qv 0BD1:@opstream@fwriteBytes$qnxvui 0C1A:@opstream@writeString$qpxzc 0C9C:@opstream@fwriteString$qnxzc 0D18:@$blsh$qr8opstreamzc 0D77:@$blsh$qr8opstreamuc 0DD6:@$blsh$qr8opstreams 0DFE:@$blsh$qr8opstreamus 0E26:@$blsh$qr8opstreami 0E4E:@$blsh$qr8opstreamui 0E76:@$blsh$qr8opstreaml 0E95:@$blsh$qr8opstreamul 0EB4:@$blsh$qr8opstreamf 0ED3:@$blsh$qr8opstreamd 0EF2:@$blsh$qr8opstreamg 0F11:@$blsh$qr8opstreamr11TStreamable 0F6E:@$blsh$qr8opstreamp11TStreamable 1074:@opstream@writePrefix$qrx11TStreamable 10CC:@opstream@writeData$qr11TStreamable 111D:@fpbase@$bctr$qpxzcii 118F:@fpbase@open$qpxzcii 11EA:@fpbase@attach$qi 1233:@fpbase@close$qv 1264:@fpbase@setbuf$qpzci 12A0:@ifpstream@$bctr$qpxzcii 1338:@ifpstream@open$qpxzcii 1356:@ofpstream@$bctr$qpxzcii 1420:@ofpstream@open$qpxzcii 143E:@fpstream@$bctr$qpxzcii 155D:@fpstream@open$qpxzcii
+      A1....8946FE8B4604A3....8B46FEEB00C9C3558BEC83EC0256:
+        0. 14 3D8B 010D 0000:@set_new_handler$qpqv$v 0051:@$bnew$qui 009F:@$bdele$qpv 00CB:@SafetyPool@Allocate$qui
+    04:
+      56:
+        578B76048B7E06FF74:
+          02568B1CFF5704598946FE6A00FF76FE:
+            0. 02 FEFA 004F 0000:@TModule@printOn$xqr7ostream
+          04568B1CFF5704598946FE6A00FF76FE:
+            0. 02 FEFA 004F 0000:@TScroller@printOn$xqr7ostream
+          06568B1CFF5704598946FE6A00FF76FE:
+            0. 02 FEFA 004F 0000:@TWindowsObject@printOn$xqr7ostream
+        8B7604:
+          0BF6750C6A18E8....598BF00BC07445FF7610FF760E:
+            0. 0B FAB8 023A 0000:@TApplication@$bctr$qnzcuiuit1i 0066:@TApplication@$bctr$qnzcpx11HINSTANCE__t2t1i 00CC:@TApplication@$bdtr$qv 0114:@TApplication@InitApplication$qv 011C:@TApplication@InitInstance$qv 0155:@TApplication@InitMainWindow$qv 0174:@TApplication@Run$qv 01B3:@TApplication@MessageLoop$qv 0215:@TApplication@CanClose$qv
+          56..........0BC07503E98A00566AFC..........89:
+            0. 35 9747 039A 0000:@GetObjectPtr$qpx6HWND__ 00A8:@STDWNDPROC$QPX6HWND__USUSL 0128:@INITWNDPROC$QPX6HWND__UIUIL 01A4:@INITWNDPROC$QUIUSUSL 0220:@MakeObjectInstance$qp14TWindowsObject 034E:@FreeObjectInstance$qnqpx6HWND__uiuil$l 038E:@OWLGetVersion$qv
+          8B46068946FE8B46088946FCFF76FC56FF56FE83C404:
+            0. 05 1CC0 0030 0000:@Object@lastThat$xqpqrx6Objectpv$ipv
+      6A5CFF7606FF7604..........83C4068956FE8946FC8B46FC0B:
+        0. 0C 042B 067C 0000:@GetFileName$qnzc 0057:@GetExtension$qnzc 00A1:@HasWildCards$qnzc 00D7:@TFileDialog@$bctr$qp14TWindowsObjectinzcp7TModule 0120:@TFileDialog@CanClose$qv 032F:@TFileDialog@SetupWindow$qv 0394:@TFileDialog@HandleFName$qr8TMessage 03D6:@TFileDialog@HandleFList$qr8TMessage 0436:@TFileDialog@HandleDList$qr8TMessage 04A7:@TFileDialog@SelectFileName$qv 04D8:@TFileDialog@UpdateFileName$qv 0510:@TFileDialog@UpdateListBoxes$qv 0615:@TFileDialog@build$qv
+    0A568B76040BF6750F6A0EE8....598BF00BC07503E99F00C704:
+      0. 00 0000 0463 0000:@TModule@$bctr$qnzcpx11HINSTANCE__t1 00C3:@TModule@$bctr$qnzcuit1 0186:@TModule@$bdtr$qv 01CD:@TModule@LowMemory$qv 01E5:@TModule@RestoreMemory$qv 01FF:@TModule@ValidWindow$qp14TWindowsObject 0269:@TModule@MakeWindow$qp14TWindowsObject 02B2:@TModule@ExecDialog$qp14TWindowsObject 0308:@TModule@GetClientHandle$qpx6HWND__ 0367:@TModule@GetParentObject$qpx6HWND__ 03B4:@TModule@GetParentObject$qui 0401:@TModule@Error$qi
+    0C56578B56068B46048B4E0A8B5E088BFA8BF0F7E38946F88956FA:
+      0. 8D 850F 00AD 0000:@LongMulDiv$qlll
+    1656578B7604A1....8B16....8946FA8956F88D46FE50FF7606E8:
+      0. 00 0000 0390 0000:@TWindowsObject@GetChildren$qr8ipstream 0111:@TWindowsObject@PutChildPtr$qr8opstreamp14TWindowsObject 0137:@TWindowsObject@GetChildPtr$qr8ipstreamrp14TWindowsObject 0162:@TWindowsObject@GetSiblingPtr$qr8ipstreamrp14TWindowsObject 01BA:@TWindowsObject@PutSiblingPtr$qr8opstreamp14TWindowsObject 020C:@TWindowsObject@PutChildren$qr8opstream 0246:@TWindowsObject@read$qr8ipstream 02F0:@TWindowsObject@write$qr8opstream 0371:@TWindowsObject@build$qv
+  8B:
+    46045DC3:
+      0. 00 0000 0008 (!)0000:?
+    5604:
+      33C0EB005DC3:
+        0. 00 0000 000C (!)0000:?
+      3B56067505B80100EB0233C0EB005DC3:
+        0. 00 0000 0016 (!)0000:?
+      8B4606EB005DC3:
+        0. 00 0000 000D 0000:@TNSSortedCollection@keyOf$qpv
+      B8:
+        1000EB005DC3:
+          0. 00 0000 000D 0000:@Array@isA$xqv
+        6400EB005DC3:
+          0. 00 0000 000D 0000:@TModule@isA$xqv
+        6500EB005DC3:
+          0. 00 0000 000D 0000:@TApplication@isA$xqv
+        6600EB005DC3:
+          0. 00 0000 000D 0000:@TScroller@isA$xqv
+        6700EB005DC3:
+          0. 00 0000 000D 0000:@TWindow@isA$xqv
+        6800EB005DC3:
+          0. 00 0000 000D 0000:@TDialog@isA$xqv
+        ....EB005DC3:
+          0. 00 0000 000D (!)0000:?
+    5E048CDAB8....EB005DC3:
+      0. 00 0000 000F (!)0000:?
+  A1....EB005DC3:
+    0. 00 0000 000A 0000:@GetApplicationObject$qv
+8BDC36:
+  8347:
+    02:
+      ACE9....8BDC36834702C6E9....8BDC36834702D8E9:
+        0. 00 0000 001E 0000:@fpstream@$vsn
+      BEE9....8BDC36834702D8E9:
+        0. 00 0000 0014 0000:@ofpstream@$vsn
+      C6E9....8BDC36834702D8E9:
+        0. 00 0000 0014 0000:@ifpstream@$vsn
+      D4E9....8BDC36834702EEE9:
+        0. 00 0000 0014 0000:@iopstream@$vsn
+      D8E9:
+        0. 00 0000 000A 0000:@fpbase@$vsn
+      E6E9:
+        0. 00 0000 000A 0000:@opstream@$vsn
+      EEE9:
+        0. 00 0000 000A 0000:@ipstream@$vsn
+      FEE9....8BDC36834702FEE9....8BDC36834702FEE9:
+        0. 00 0000 001E 0000:@TWindowsObject@$vsn (REF 0008: @TWindowsObject@write$qr8opstream)
+        1. 00 0000 001E 0000:@TBGroupBox@$vsn (REF 0008: @TGroupBox@write$qr8opstream)
+        2. 00 0000 001E 0000:@TBButton@$vsn (REF 0008: @TButton@write$qr8opstream)
+    04:
+      96EA........8BDC36834704B2EA........8BDC36834704C6EA:
+        0. 00 0000 0024 0000:@fpstream@$vsf
+      AAEA........8BDC36834704C6EA:
+        0. 00 0000 0018 0000:@ofpstream@$vsf
+      ACEA........8BDC36834704C6EA........8BDC36834704D8EA:
+        0. 00 0000 0024 0000:@fpstream@$vsf
+      B2EA........8BDC36834704C6EA:
+        0. 00 0000 0018 0000:@ifpstream@$vsf
+      BEEA........8BDC36834704D8EA:
+        0. 00 0000 0018 0000:@ofpstream@$vsf
+      C6EA........:
+        8BDC36834704D8EA:
+          0. 00 0000 0018 0000:@ifpstream@$vsf
+        ..:
+          0. 00 0000 000C 0000:@fpbase@$vsf
+      D0EA........8BDC36834704ECEA:
+        0. 00 0000 0018 0000:@iopstream@$vsf
+      D4EA........8BDC36834704EEEA:
+        0. 00 0000 0018 0000:@iopstream@$vsf
+      D8EA:
+        0. 00 0000 000C 0000:@fpbase@$vsf
+      E4EA:
+        0. 00 0000 000C 0000:@opstream@$vsf
+      E6EA:
+        0. 00 0000 000C 0000:@opstream@$vsf
+      ECEA:
+        0. 00 0000 000C 0000:@ipstream@$vsf
+      EEEA:
+        0. 00 0000 000C 0000:@ipstream@$vsf
+      FEEA........8BDC36834704FEEA........8BDC36834704FEEA:
+        0. 00 0000 0024 0000:@TWindowsObject@$vsf (REF 0008: @TWindowsObject@write$qm8opstream)
+        1. 00 0000 0024 0000:@TBGroupBox@$vsf (REF 0008: @TGroupBox@write$qm8opstream)
+        2. 00 0000 0024 0000:@TBButton@$vsf (REF 0008: @TButton@write$qm8opstream)
+  8B5F:
+    028B:
+      1FFF67:
+        28:
+          0. 00 0000 000B 0000:@$vc1$NNN0$29$0$
+        3A:
+          0. 00 0000 000B 0000:@$vc1$NNN0$3B$0$
+        3C:
+          0. 00 0000 000B 0000:@$vc1$NNN0$3D$0$
+        3E:
+          0. 00 0000 000B 0000:@$vc1$NNN0$3F$0$
+      47FE05:
+        F6FF8BDC36014702E9....8BDC368B5F028B47FE05F6:
+          0. 08 0CC5 002A 0000:@TPWrittenObjects@$vsn
+        F8FF8BDC36014702E9....8BDC368B5F028B47FE05F8:
+          0. 08 0CC5 002A (!)0000:?
+    048B:
+      1FFF6F:
+        50:
+          0. 00 0000 000B 0000:@$vc1$NNF0$51$0$
+        74:
+          0. 00 0000 000B 0000:@$vc1$NNF0$75$0$
+        78:
+          0. 00 0000 000B 0000:@$vc1$NNF0$79$0$
+        7C:
+          0. 00 0000 000B 0000:@$vc1$NNF0$7D$0$
+      47FE05:
+        F6FF8BDC36014704EA........8BDC368B5F048B47FE:
+          0. 0A F151 002E 0000:@TPWrittenObjects@$vsf
+        F8FF8BDC36014704EA........8BDC368B5F048B47FE:
+          0. 0A 248A 002E (!)0000:?
+  C45F04268B:
+    1FFF6F:
+      50:
+        0. 00 0000 000C 0000:@$vc1$FNF0$51$0$
+      74:
+        0. 00 0000 000C 0000:@$vc1$FNF0$75$0$
+      78:
+        0. 00 0000 000C 0000:@$vc1$FNF0$79$0$
+      7C:
+        0. 00 0000 000C 0000:@$vc1$FNF0$7D$0$
+    47FE05:
+      F6FF8BDC36014704EA........8BDC36C45F04268B:
+        0. 0C A302 0030 0000:@TPWrittenObjects@$vsf
+      F8FF8BDC36014704EA........8BDC36C45F04268B:
+        0. 0C 76D9 0030 (!)0000:?
+B8....45558BEC1E8ED883EC1A5657A1....8B16....8946FA8956F8168D46FC:
+  0. 07 7777 058D 0000:@TWindowsObject@0GetChildren$qm8ipstream 0167:@TWindowsObject@0PutChildPtr$qm8opstreamn14TWindowsObject 01A1:@TWindowsObject@0GetChildPtr$qm8ipstreammn14TWindowsObject 01E1:@TWindowsObject@0GetSiblingPtr$qm8ipstreammn14TWindowsObject 025B:@TWindowsObject@0PutSiblingPtr$qm8opstreamn14TWindowsObject (l)029A:@DoPutChildren$qnvt1 02E5:@TWindowsObject@0PutChildren$qm8opstream 034D:@TWindowsObject@0read$qm8ipstream 0499:@TWindowsObject@0write$qm8opstream 055A:@TWindowsObject@0build$qv (l)056E:@_STCON_$qv

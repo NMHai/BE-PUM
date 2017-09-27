@@ -1,0 +1,21 @@
+53:
+  5589E58B5D14B8........2D........506A0068........E8........C705:
+    0. 00 0000 00C2 0000:o=8:a=145:wa32rtt:wa32rt_:m=-CD^/main 006B:_Stop 0081:__Null_Argv 0082:__VersionEnforcement 008C:__exit_with_msg 00AB:__exit 00BB:__GETDS
+  565755:
+    8B5C241CB8........2D........506A0068........E8........83:
+      0. 08 AA0A 00EB 0000:o=8:a=145:wa32rtt:wa32rt_:m=-147?E8^/main 0098:_Stop 00B4:__WATCOM_Prelude 00B8:__VersionEnforcement (l)00C0:__NullInitAccessRtn (l)00C4:__NullRtn 00C8:__exit 00E4:__GETDS (00C2: C3)
+      1. 08 AA0A 0117 0000:o=8:a=145:wa32rtt:wa32rt_:m=-141?E8^/main 00B0:_Stop 00D0:__WATCOM_Prelude 00E0:__VersionEnforcement 00F0:__exit 0110:__GETDS (00C2: 00)
+    B8........2D........506A0068........E8........83C40C6841:
+      0. 04 DF10 00E0 0000:o=8:a=145:wa32rtt:wa32rt_:m=(-13C?E8^/main)-142^/main 009B:_Stop 00B5:__Null_Argv 00B6:__VersionEnforcement (l)00BB:__NullInitAccessRtn (l)00BF:__NullRtn 00C0:__exit 00D9:__GETDS (00B5: 66)
+      1. 04 DF10 00DF 0000:o=8:a=145:wa32rtt:wa32rt_:m=-123^/main 009B:_Stop 00B5:__Null_Argv 00B6:__VersionEnforcement (l)00BB:__NullInitAccessRtn (l)00BF:__NullRtn 00C0:__exit 00D8:__GETDS (00B5: A1)
+55:
+  89E568........68........FF7528FF7524FF7520FF751CFF7518FF7514FF:
+    0. 09 6B87 0227 0000:o=8:a=145:m=+3!*0c&!*0c&/main 0032:_Stop 0045:___assertCancelAbort 0052:___assert 016C:__get_timezone 0172:__get_tzname 018B:__get_daylight 0191:fstat_411 01B5:stat_411 01C7:ScanErasedFiles_411 01F6:set_unix_text_mode 01FD:unset_unix_text_mode 0207:IpxGetAndClearQ (001D: 89)
+    1. 09 6B87 0047 0000:o=8:a=145:m=+3!*0c&!*0c&/main 0034:_Stop (001D: C3)
+  8BEC68........68........FF7528FF7524FF7520FF751CFF7518FF7514FF:
+    0. 09 6B87 0047 0000:o=8:a=145:m=+3!*0c&!*0c&/main 0034:_Stop (000C: 05)
+    1. 09 6B87 0036 0000:o=8:a=145:m=+3!*0c&!*0c&/ (000C: C3)
+  B00B8BEC83EC0468........68........FF7528FF7524FF7520FF751CFF75:
+    0. 0E 773F 0061 0000:o=8:a=145:m=+8!*0c&!*0c&/main 0044:_Stop 005C:_exeentry 0060:_dllentry
+575589E5B9........81E9........BF........30C05788C4D1E9F266AB11C9:
+  0. 04 5F71 0079 0000:o=8:a=145:m=+23!*0c&!*0c&/main 0053:_cstart_ 0061:_Stop 0073:__Null_Argv 0074:__VersionEnforcement

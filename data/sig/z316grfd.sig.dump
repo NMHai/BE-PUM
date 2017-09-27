@@ -1,0 +1,212 @@
+1E06565750BE....8EDE891E....24017475803E....00756EFE06....7564B8:
+  0. 06 0757 03DF 00F5:_fg_msm_constructor 02D8:_fg_msm_getstatus 02F5:_fg_msm_setcursor 0320:_fg_msm_setcurpos 033E:_fg_msm_getrelease 0343:_fg_msm_getpress 0393:_fg_msm_setarea 03CF:_fg_msm_setratio (03B8: CB)
+  1. 06 0757 03F0 00F5:_fg_msm_constructor 02D8:_fg_msm_getstatus 02F5:_fg_msm_setcursor 0320:_fg_msm_setcurpos 033E:_fg_msm_getrelease 0343:_fg_msm_getpress 03A4:_fg_msm_setarea 03E0:_fg_msm_setratio (03B8: 5D)
+22C4D2E00AF8FEC9C3558BEC568A5E0632FF3B1E....7E:
+  03EB5B90BE....03F3:
+    0. 1A 213F 015F 0009:_fg_ega_setpalette 0078:_fg_ega_getpalette 00DA:_fg_vga_getpalette 0122:_fg_vga_setpalette
+  13B85000501EB8:
+    0. 03 6D73 01A2 0009:_fg_ega_setpalette 0088:_fg_ega_getpalette 00FB:_fg_vga_getpalette 0154:_fg_vga_setpalette
+45558BEC:
+  31:
+    C050FF76:
+      0CFF760AFF7608FF7606FF1E....83C40A5D4DCB45558B:
+        0. 0F 17CB 04E4 0000:_fg_c_fill 001D:_fg_c_fillpattern
+      14FF7612FF7610FF760EFF760CFF760AFF7608FF7606:
+        0. 00 0000 023B 0000:_fg_fillpolygon 002A:_fg_fillpolygonpattern (021A: CB)
+        1. 00 0000 028F 0000:_fg_fillpolygon 002A:_fg_fillpolygonpattern (021A: E8)
+    C9EB0741D17E08D15E068B46080B460675F18BD9D1E3D1E38B97:
+      0. 00 0000 0281 002A:_fg_fillboxdissolve 0152:_fg_writeboxdissolve
+  56:
+    57:
+      C45E06268B07C4760A268B0C3BC17F36C47E06268B4502C45E0A:
+        0. 38 5862 0058 0000:_fg_box_enclose
+      ..........:
+        B80400A3....C706....4402C706....9A01:
+          0. 00 0000 0147 0000:_fg_init_cgamedres
+        C706....:
+          0600C706....2201C706....9A01:
+            0. 00 0000 0125 0000:_fg_init_cga
+          1100C706....2201C706....AB00:
+            0. 00 0000 0114 0000:_fg_init_vga11
+          7400C706....B400C706....DC00:
+            0. 00 0000 0125 0000:_fg_init_toshiba
+    C45E06268A079889C1C45E0A268A079889C283F9417C0883F95A7F:
+      0. 4A F2F5 0212 00E5:_fg_setenv_variable 0107:_fg_init_all (01A6: 4D)
+      1. 4A F2F5 0243 00E5:_fg_setenv_variable 0122:_fg_init_all (01A6: 9F)
+    FF760CFF760AFF7610FF760E..........83C408C45E0E268B07C4:
+      0. 7F B303 009F 0000:_fg_boxclip
+  83:
+    7E060C7216B8FE02501EB8....501EB8....50..........83C40A:
+      0. 0A AFA8 002F 0000:_fg_c_setlinepattern
+    EC:
+      0456:
+        57....................B91300890E..............BA:
+          0. 00 0000 0134 0000:_fg_init_vga13
+        C746FC....8C5EFEB8....89C6B804002946FCC45EFC26FF:
+          0. 17 DDBA 01D8 0000:_fg_init_256_palette 00AE:_fg_8bit_initptrs
+      08:
+        168D46F850FF7610FF760EFF7614FF7612..........83C40C:
+          0. 17 1109 0082 0000:_fg_drawlineclip 0041:_fg_drawlinepclip
+        5657:
+          8B460C0B460A74088B46080B46067516B8:
+            5C03501EB8:
+              0. 00 0000 00B6 0000:_fg_c_readbox
+            6B03501EB8:
+              0. 00 0000 00BC 0000:_fg_c_writebox
+          FF7608FF76061EB8....50..........83C408C45E0626:
+            0. 2B 49B0 0076 0000:_fg_c_readbox
+            1. 3A A746 007C 0000:_fg_c_writebox
+      0C56:
+        578B:
+          76088B7E0A8B4E0ED1E1894EF48B56128B46108956F8:
+            0. 2A AC6E 00E3 0000:_fg_drawpolygon
+          7E08FF760EFF760C1EB8....50..........83C408:
+            09:
+              0. 09 CA70 008A 0000:_fg_c_fillbox
+            C4:
+              0. 39 CFDF 0070 0000:_fg_c_fillbox
+        8B46080B46067503E99700C45E06268B470A260B4708747C:
+          0. 41 1BE6 00EF 0000:_fg_c_free_handle 00B0:_fg_restore (006F: C4)
+          1. 41 1BE6 00D1 0000:_fg_c_free_handle 00B0:_fg_restore (006F: CB)
+        BE0F008B4606B90500D3E005....8CD9894EF68946F4:
+          837E:
+            0. 0A 69E8 027F 0000:_fg_setfillpattern 0078:_fg_drawlinepattern 0153:_fg_drawlinepatternclip 0195:_fg_drawdotpattern 01F4:_fg_fillboxpattern
+          8B56:
+            0. 46 94C4 0227 0000:_fg_setfillpattern 0056:_fg_drawlinepattern 0115:_fg_drawlinepatternclip 0157:_fg_drawdotpattern 01B6:_fg_fillboxpattern
+      10168D46F850168D46F050..........83C4088BE55D4DCBCBBA:
+        0. 00 0000 00E1 001F:_fg_set_dummy
+      125657C45E16268B47048946F0268B47068946EE31F6BF0800C4:
+        0. 6E 3150 0120 0000:_fg_c_drawmatrix
+      145657:
+        8B7E0831F68B56108B460E83C0048956F68946F48B5610:
+          0. 28 9413 00B5 0000:_fg_drawbox
+        B80C0050..........444489D109C18956EE8946EC7503:
+          0. 1E 76B6 01B2 0000:_fg_c_save 011B:_fg_c_put_handle (0155: 46)
+          1. 1E 76B6 0194 0000:_fg_c_save 011B:_fg_c_put_handle (0155: CB)
+      165657:
+        837E0C0C7216B81603501EB8....501EB8....50:
+          0. 00 0000 0183 0000:_fg_c_drawline 0119:_fg_c_drawlinep
+        8B5E0CD1E38B8F....894EEAC45E0E268B0F894EEC268B:
+          0. 84 9FF7 0167 0000:_fg_c_drawline 00FD:_fg_c_drawlinep
+      1A5657C45E16268B47048946E88A460630E43B06....7C16B893:
+        0. 04 B26C 01C1 0000:_fg_c_drawmatrix
+      205657:
+        8B7E0C:
+          833E....007516B8E203501EB8....501EB8:
+            0. 01 FDA2 01E9 0000:_fg_c_blit
+          C45E06268B4704262B074050..........444489:
+            0. 51 CF83 0149 0000:_fg_c_blit
+        FF1E....:
+          8A460630E483F8FF7516B81900501EB8....50:
+            0. 02 0539 032C 021D:_fg_cgamedres_init_pointers
+          8B5E0CD1E383BF....FF7403E9B101C45E0E26:
+            0. 1D A3B2 030C 01FD:_fg_cgamedres_init_pointers
+        ....................8B4606A3....BA....B8....89:
+          0. 01 CF85 0202 0178:_fg_init_ati61 01A6:_fg_init_ati62 01D4:_fg_init_ati63
+      765657837E16017523FF7614FF7612FF7610FF760EFF760CFF76:
+        0. 07 6F54 04C9 0000:_fg_drawthickline
+  8B46:
+    08:
+      0B46067516B8DC0E501EB8....501EB8....50..........83:
+        0. 14 1AF6 00E6 0000:_fg_set_font 0084:_fg_get_font
+      8B5E06D1E38987....5D4DCB:
+        0. 00 0000 0013 0000:_fg_c_setlinepattern
+    0AC45E06268B0F3BC1:
+      7C1B268B4F043BC17F138B460C268B4F02:
+        0. 16 F04E 0036 0000:_fg_pt_inbox
+      7D05BA0100EB158B460AC45E06268B4F04:
+        0. 55 64CD 0338 0054:_fg_lineclip
+  C45E06268B:
+    4F04262B0F09C9790689C8F7D889C1C45E06268B570626:
+      0. 1D 8083 003D 0000:_fg_linepixels
+    57:
+      02268B078916....A3....268B5706268B47048916:
+        0. 00 0000 0088 0000:_fg_set_font 0044:_fg_get_font
+      06262B570231C03BD07E0340EB053BD07901485D4DCB:
+        0. 47 1B6B 0897 003F:_fg_getfillside 06C7:_fg_filloutline 06FA:_fg_filloutlinepattern
+        1. 88 8B24 073A 003F:_fg_getfillside 05C5:_fg_filloutline 05F8:_fg_filloutlinepattern
+  EB46FF7618FF7616C45E1226FF37FF7610FF760EFF760CFF760AFF76:
+    0. 06 B4E2 0098 0000:_fg_puts 0058:_fg_adjustxy (0071: CB)
+    1. 06 B4E2 00B0 0000:_fg_puts 0058:_fg_adjustxy (0071: B8)
+  FF:
+    06....FF7606..........44445D4DCB45558BEC:
+      833E....007516:
+        0. 06 7F76 004B 0000:_fg_malloc 0015:_fg_free
+      FF7608FF7606:
+        0. 00 0000 002E 0000:_fg_malloc 0015:_fg_free
+    1E....1EB8....50..........83C404FF7608FF7606:
+      0. 05 F844 0063 0000:_fg_assert
+    76:
+      08FF76061EB8....50..........83C408C45E06268B07A3:
+        0. 05 8703 0F69 0D33:_fg_init_8514a (0EE6: C4)
+        1. 05 8703 0F0C 0CF3:_fg_init_8514a (0EE6: CB)
+      18FF7616FF7614FF7612FF7610FF7610FF760EFF760CFF760AFF:
+        0. 07 CAD0 002F 0000:_fg_c_drawarc
+558BEC:
+  5657:
+    803E....00750FE8....7226E8....7221E8....721C:
+      0. 01 3E9B 0499 0000:_fg_get_type
+    8B:
+      4606C45E080653D1E0D1E08BF0C41E....26FF185F5E5DCB558B:
+        0. 1D 198C 0058 0000:__8514a_callafi 001E:__8514a_getafi 0049:__8514a_alloc
+      7E06:
+        83FF0C7213B83800501EB8....501EB8....50:
+          0. 04 1EBA 00D4 0000:_fg_traverseline
+        D1E781C7....8B05A3....BE01008BFEC45E08268B570626:
+          0. 0B 3333 00BC 0000:_fg_traverseline
+    BF008031F609FE8BC631D28BDE89D1..........3B560675033B46:
+      0. 76 8226 0885 0037:_fg_c_drawellipse
+      1. 76 A66E 08A1 0037:_fg_c_drawellipse
+    C57606AC0AC074088AD0B402CD21EBF3B8....8ED85F5E5DCB558B:
+      0. 04 D959 0047 0000:_fg_tmode_puts 001E:_fg_tmode_putn
+    FC33C0C47E06B9FFFFF2AEF7D1498BD98E06....33FF1EC576068B:
+      0. 23 DA56 0043 0000:_fg_getenv
+    FF1E....BF....8CDB8EC3C57606..........8EDB8B0E....2B0E:
+      0. 00 0000 0E54 0000:_fg_com_writebox 0090:_fg_com_readbox 010E:_fg_com_drawarc 035C:_fg_com_drawmatrix 05A7:_fg_com_fillbox 06B7:_fg_com_setdisplaypage 0705:_fg_com_setactivepage 0735:_fg_com_readdot 079E:_fg_com_drawdot 0840:_fg_com_drawlinep 0843:_fg_com_drawline 0BC1:_fg_com_blit 0DD4:_fg_com_init (0C4C: 1E)
+      1. 00 0000 0C6F 0000:_fg_com_writebox 0090:_fg_com_readbox 010E:_fg_com_drawarc 0320:_fg_com_drawmatrix 054D:_fg_com_fillbox 063F:_fg_com_setdisplaypage 068D:_fg_com_setactivepage 06BD:_fg_com_readdot 06F4:_fg_com_drawdot 0746:_fg_com_drawlinep 0749:_fg_com_drawline 09EF:_fg_com_blit 0BEF:_fg_com_init (0C4C: 5E)
+  803E....00742A8B4606B9040033D2B90400D1E0D1D2E2FA03460883D2:
+    0. 1C 9865 003C 0000:_fg_MK_protected_FP
+  83:
+    3E....007437FF1E....A0....32E4CD10803E....187E07B8121132:
+      0. 08 AC87 0294 0000:_fg_misc_term 0049:_fg_get_attr 00A7:_fg_destructor 00BC:_fg_constructor 0102:_fg_video_io 011C:_fg_a_putc 01A7:_fg_line_cpy 01C4:_fg_zero_colors 01DD:_fg_xpattern_get 01FD:_fg_ypattern_get 022F:_fg_short_swizzle 0240:_fg_memcmp 0262:FG_FILLOUTLINE_COMPARE (026B: 00)
+      1. 08 AC87 02AE 0000:_fg_misc_term 0063:_fg_get_attr 00C1:_fg_destructor 00D6:_fg_constructor 011C:_fg_video_io 0136:_fg_a_putc 01C1:_fg_line_cpy 01DE:_fg_zero_colors 01F7:_fg_xpattern_get 0217:_fg_ypattern_get 0249:_fg_short_swizzle 025A:_fg_memcmp 027C:FG_FILLOUTLINE_COMPARE (026B: B8)
+    EC145657A1....8946FE31C0A3....A3....A3....A3....A3....A3:
+      0. 00 0000 0509 01C7:_fg_init_egacolor 01FA:_fg_init_egaecd 022D:_fg_init_egamono 0266:_fg_init_vga12 028D:_fg_init_egalowres 0314:_fg_init_vesa0 032F:_fg_init_vesa1 034A:_fg_init_vesa2 0365:_fg_init_vesa3 0380:_fg_init_vesa4 039B:_fg_init_vesa5 03B6:_fg_init_vesa6 03D1:_fg_init_vesa7 03EC:_fg_init_vegavgahires 0413:_fg_init_evgahires 043A:_fg_init_paradisehires 0461:_fg_init_tridenthires 0488:_fg_init_orchidprohires 0494:_fg_init_tsenghires 04BB:_fg_init_dfihires 04E2:_fg_init_vesa6A (04E7: 4D)
+      1. 00 0000 0577 01FD:_fg_init_egacolor 0230:_fg_init_egaecd 0263:_fg_init_egamono 029C:_fg_init_vga12 02C3:_fg_init_egalowres 0382:_fg_init_vesa0 039D:_fg_init_vesa1 03B8:_fg_init_vesa2 03D3:_fg_init_vesa3 03EE:_fg_init_vesa4 0409:_fg_init_vesa5 0424:_fg_init_vesa6 043F:_fg_init_vesa7 045A:_fg_init_vegavgahires 0481:_fg_init_evgahires 04A8:_fg_init_paradisehires 04CF:_fg_init_tridenthires 04F6:_fg_init_orchidprohires 0502:_fg_init_tsenghires 0529:_fg_init_dfihires 0550:_fg_init_vesa6A (04E7: 06)
+  8A46:
+    06B44CCD21:
+      0. 00 0000 000A 0000:_fg_exit
+    083806....741630E431C95150B8020050B8273E50..........83:
+      0. 07 84C1 1131 0D50:_fg_init_tiga (0C3F: 46)
+      1. 07 84C1 0C67 08A3:_fg_init_tiga (0C3F: CB)
+  FCAD:
+    531EBB....8EDB3B06....7613B86B00501EB8....501EB8....50:
+      0. 00 0000 00BA 0000:_fg_convert_box
+    D1E005....ABADD1E005....ABADD1E005....ABADD1E005....AB:
+      0. 08 B688 0028 0000:_fg_convert_box
+  FF1E....8B5E068ACBD1E38A87....988B5E08D1E38B9F....03D88E06:
+    0. 00 0000 00BA 0000:_fg_cgamedres_readdot 003B:_fg_cgamedres_drawdot (007B: 08)
+    1. 00 0000 009C 0000:_fg_cgamedres_readdot 003B:_fg_cgamedres_drawdot (007B: CB)
+56:
+  57BA....B8....8916....A3....BA....B8....8916....A3....31C0A3:
+    0. 00 0000 0048 0000:__STI_fg_9x14_font_init
+  8BF2910BC07402F7E1960BC07404F7E303F08BC1F7E303D65ECB0BD27507F7:
+    0. 72 B8F8 00E3 0000:_fgMUL@ 009F:_fgDIV@ 00D0:_fgCMP@
+8D16....B409CD21CBC41E....26FF2FC41E....26FF6F04C41E....26FF6F08:
+  0. 02 725B 05A6 0009:_fg_tiga_reserved 0010:_fg_tiga_dm_cmd 0018:_fg_tiga_dm_psnd 0020:_fg_tiga_dm_pget 0028:_fg_tiga_dm_pstr 0030:_fg_tiga_dm_palt 0038:_fg_tiga_dm_ptrx 0040:_fg_tiga_dm_poly 0048:_fg_tiga_cp_cmd 0050:_fg_tiga_cp_ret 0058:_fg_tiga_cp_alt 0060:_fg_tiga_cp_cmd_a 0068:_fg_tiga_cp_ret_a 0070:_fg_tiga_cp_alt_a 0078:_fg_tiga_host2gsp 0080:_fg_tiga_gsp2host 0088:_fg_tiga_host2gspxy 0090:_fg_tiga_gsp2hostxy 0099:_fg_tiga_field_insert 00A1:_fg_tiga_field_extract 00A9:_fg_tiga_synchronize 00B1:_fg_tiga_install_usererror 00B9:_fg_tiga_set_timeout 00C1:_fg_tiga_dm_ret 00C9:_fg_tiga_set_curs_xy 00D1:_fg_tiga_dm_pcmd 00D9:_fg_tiga_dm_pret 00E1:_fg_tiga_handshake 0101:_fg_tiga_set_config 0109:_fg_tiga_get_modeinfo 0111:_fg_tiga_gm_is_alive 011A:_fg_tiga_gsp_execute 0123:_fg_tiga_install_primitives 012C:_fg_tiga_create_alm 0135:_fg_tiga_install_rlm 013E:_fg_tiga_create_esym 0147:_fg_tiga_flush_esym 0150:_fg_tiga_install_alm 0159:_fg_tiga_loadcoff 0162:_fg_tiga_set_curs_shape 016B:_fg_tiga_makename 0174:_fg_tiga_get_memseg 017D:_fg_tiga_get_msg 0186:_fg_tiga_get_vector 018F:_fg_tiga_get_xstate 0198:_fg_tiga_rstr_commstate 01A1:_fg_tiga_save_commstate 01AA:_fg_tiga_set_memseg 01B3:_fg_tiga_set_msg 01BC:_fg_tiga_set_vector 01C5:_fg_tiga_set_xstate 01CE:_fg_tiga_oem_init 01D7:_fg_tiga_read_hstctl 01E0:_fg_tiga_write_hstctl 01E9:_fg_tiga_read_hstadrl 01F2:_fg_tiga_write_hstadrl 01FB:_fg_tiga_read_hstadrh 0204:_fg_tiga_write_hstadrh 020D:_fg_tiga_read_hstaddr 0216:_fg_tiga_write_hstaddr 021F:_fg_tiga_read_hstdata 0228:_fg_tiga_write_hstdata 0231:_fg_tiga_dm_ipoly 0243:_fg_tiga_aux_command 025E:_fg_tiga_install_hostcom 0267:_fg_tiga_hook_init_pal 0270:_fg_tiga_hook_get_near 0279:_fg_tiga_hook_get_pal 0282:_fg_tiga_hook_set_pal 028B:_fg_tiga_hook_get_pal_e 0294:_fg_tiga_hook_set_pal_e 0472:_fg_tiga_tiga_set 0539:_fg_tiga_set_videomode 055C:_fg_tiga_get_videomode
+A1....B3023D620075058AD8B8056FCD10EB168B1E....B8024FCD100AE47409:
+  0. 02 D3ED 113F 0000:_fg_set_ega 0013:_fg_set_vesa 01A3:_fg_ega_max_pages 0218:_fg_ega_save 0356:_fg_ega_put_handle 0474:_fg_ega_writebox 0556:_fg_ega_readbox 0638:_fg_ega_drawarc 084D:_fg_ega_drawmatrix 0AA6:_fg_ega_blit 0D18:_fg_ega_setdisplaypage 0D38:_fg_ega_setactivepage 0D5B:_fg_ega_readdot 0DE4:_fg_ega_drawdot 0E33:_fg_ega_drawlinep 0E36:_fg_ega_drawline 1070:_fg_ega_fillbox (111C: C3)
+  1. 02 D3ED 1321 0000:_fg_set_ega 0013:_fg_set_vesa 01A3:_fg_ega_max_pages 0218:_fg_ega_save 0356:_fg_ega_put_handle 0474:_fg_ega_writebox 0556:_fg_ega_readbox 0638:_fg_ega_drawarc 0889:_fg_ega_drawmatrix 0B00:_fg_ega_blit 0D82:_fg_ega_setdisplaypage 0DA2:_fg_ega_setactivepage 0DC5:_fg_ega_readdot 0E80:_fg_ega_drawdot 0F1F:_fg_ega_drawlinep 0F22:_fg_ega_drawline 1234:_fg_ega_fillbox (111C: 30)
+BAC403B002EFBACE03B80502EFB8030080FB007402B418EFB80100EFB008EE42:
+  0. 2C 1732 004C 0000:fg_ega_draw_setup 0021:fg_ega_rw_plane 0038:fg_ega_rw_setup
+C706........C706....0000EB1AC706........C706....0200EB0CC706:
+  0. 00 0000 013C 0000:_fg_init_herc 000E:_fg_init_herchalf 001C:_fg_init_hercfull
+CB:
+  45558BECBA....B8....8916....A3....BA....B8....8916....A3....BA:
+    0. 00 0000 013F 0001:_fg_com_initptrs (011C: 5D)
+    1. 00 0000 0189 0001:_fg_ega_initptrs (011C: 16)
+  CBBA....B8....8916....A3....8916....A3....8916....A3....8916:
+    0. 00 0000 00C4 0002:_fg_set_dummy
+FF1E....438B16....FF1E....CB8AE28B16....B0B2EE42EC24E14AD0E40AE0:
+  0. 0F AD3F 04E9 000E:_fg_ati_window_set 0024:_fg_8bit_set_vesa 00CF:_fg_8bit_drawdot 0159:_fg_8bit_readdot 01CE:_fg_8bit_drawline 03AD:_fg_8bit_readbox 044A:_fg_8bit_writebox (0435: C3)
+  1. 0F AD3F 0465 000E:_fg_ati_window_set 0024:_fg_8bit_set_vesa 00CF:_fg_8bit_drawdot 0123:_fg_8bit_readdot 0162:_fg_8bit_drawline 0329:_fg_8bit_readbox 03C6:_fg_8bit_writebox (0435: CB)

@@ -1,0 +1,141 @@
+1E068CC88ED88CC0A3....83C010A3....B430CD213C03730DB8....8ED8B822:
+  0. 02 7B6D 0421 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+78^+C2?9A^/;+8^/ 00C0:__movegetmem 00E5:__movesetheap 01CA:__movegetcache 01EF:__movesetcache 0331:__movefpause 0333:__movefpaused 0339:__movepause 0374:__moveresume 03B6:___lpfncvhook
+5589E583EC:
+  60565731C08946A48B4E:
+    04894EA8D1E151E8....444489C709FF75:
+      0. 39 BA7B 01D4 0000:o=1:a=85:m=+1C8^/
+    06894EA8D1E1519A........444489C709:
+      0. 3B 6FA1 01F8 0000:o=1:a=85:m=+1EA^/
+  74565731C08946928B4E:
+    04894E96D1E1D1E151E8....444489569A:
+      0. 59 F106 0283 0000:o=1:a=85:m=+277^/
+    06894E96D1E1D1E1519A........444489:
+      0. 5B DA9B 02A1 0000:o=1:a=85:m=+27C^/
+8CCA2E8916....B430CD218B2E02008B1E2C008EDAA3....8C06....891E:
+  0. 02 EF9C 01D6 0000:o=1:a=84:c=b:bc31rtd:m=+219^/ 0120:__exit 0183:__restorezero 01C0:_abort (d)01D6:DGROUP@ (01B2: 4A)
+  1. 02 EF9C 0211 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+202^/ 0109:__exitclean 0123:__exit 0180:__restorezero 01F8:_abort (d)020D:DGROUP@ (d)020F:__MMODEL (01B2: 80)
+  2. 02 EF9C 0267 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+13B^/ 0142:__cleanup 0155:__checknull 0156:__terminate 01B1:__restorezero (d)0263:DGROUP@ (d)0265:__MMODEL (01B2: 06)
+  3. 02 EF9C 026C 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+140^/ 0147:__cleanup 015A:__checknull 015B:__terminate 01B6:__restorezero (d)0268:DGROUP@ (d)026A:__MMODEL (01B2: CD)
+  4. 02 EF9C 029A 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+257^/ 015E:__cleanup 0171:__checknull 0172:__terminate 01C7:__restorezero 0281:_abort (d)0296:DGROUP@ (d)0298:__MMODEL (01B2: 04)
+8F06....598926....892E....8936....893E....FCBF....B9....2BCFD1E9:
+  0. 07 03BD 003E 0000:o=1:a=84:aztec:m=+26^/ovmain 0029:ovexit
+9A:
+  0. 00 0000 0005 0000:o=1:a=87:s=0/tpsig2
+B430CD213C0273:
+  01C38CDF8B3602002E893E....2BF781FE00107203BE0010:
+    B8:
+      0. 00 0000 00E6 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+AD^/ 00B5:__cintDIV 00C5:__amsg_exit 00E4:__dataseg
+    BB:
+      0. 00 0000 00F5 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+B3^/ 00BB:__cintDIV 00CA:__amsg_exit 00F3:__dataseg (00CE: 50)
+      1. 00 0000 00EF 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+AD^/ 00B5:__cintDIV 00C4:__amsg_exit 00ED:__dataseg (00CE: 00)
+  02CD20BF....8B3602002BF781FE00107203BE0010FA8ED781:
+    0. 01 5070 00B3 0000:o=1:a=84:c=v:mq16rdos:m=+8E^/ 0095:__cintDIV 00A4:__amsg_exit (008E: FF)
+    1. 01 5070 00B2 0000:o=1:a=84:c=v:mq16rdos:m=+8D^/ 0094:__cintDIV 00A3:__amsg_exit (008E: 16)
+    2. 01 5070 00C6 0000:o=1:a=84:c=v:mq16rdos:m=+8D^/ 0095:__cintDIV 00A4:__amsg_exit (008E: 81)
+    3. 01 5070 00CE 0000:o=1:a=84:c=v:mq16rdos:m=+95^/ 009D:__cintDIV 00AC:__amsg_exit (008E: 50)
+    4. 01 5070 00CD 0000:o=1:a=84:c=v:mq16rdos:m=+9F^/ 00AA:__cintDIV 00B9:__amsg_exit (008E: B8)
+    5. 01 5070 00E1 0000:o=1:a=84:c=v:mq16rdos:m=+9F^/ 00AB:__cintDIV 00BA:__amsg_exit (008E: D8)
+    6. 01 5070 00D9 0000:o=1:a=84:c=v:mq16rdos:m=+97^/ 00A3:__cintDIV 00B2:__amsg_exit (00A1: 3E)
+    7. 01 5070 00C5 0000:o=1:a=84:c=v:mq16rdos:m=+97^/ 00A2:__cintDIV 00B1:__amsg_exit (00A1: 16)
+  0533C00650CBBF....8B3602002BF781FE00107203BE0010FA:
+    0. 04 C469 00FC 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+BA^/ 00C2:__cintDIV 00D1:__amsg_exit 00FA:__dataseg (00B0: 1E)
+    1. 04 C469 0104 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+C2^/ 00CA:__cintDIV 00D9:__amsg_exit 0102:__dataseg (00B0: 06)
+    2. 04 C469 00F7 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+B8^/ 00C3:__cintDIV 00D3:__amsg_exit 00F5:__dataseg (00B0: 0E)
+    3. 04 C469 00FE 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+BC^/ 00C4:__cintDIV 00D3:__amsg_exit 00FC:__dataseg (00B0: 2E)
+    4. 04 C469 00E9 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+B0^/ 00B8:__cintDIV 00C8:__amsg_exit 00E7:__dataseg (00B0: D6)
+    5. 04 C469 00F1 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+B8^/ 00C0:__cintDIV 00D0:__amsg_exit 00EF:__dataseg (00B0: E8)
+    6. 04 C469 0112 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+CA^/ 00D5:__cintDIV 00E4:__amsg_exit 0110:__dataseg (00B0: C3)
+    7. 04 C469 010A 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+C2^/ 00CD:__cintDIV 00DC:__amsg_exit 0108:__dataseg (00B0: 03)
+    8. 04 C469 010C 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+C4^/ 00CF:__cintDIV 00DE:__amsg_exit 010A:__dataseg (00B0: D8)
+    9. 04 C469 00FF 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+C0^/ 00CB:__cintDIV 00DB:__amsg_exit 00FD:__dataseg (00B0: 36)
+    10. 04 C469 0104 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+BC^/ 00C7:__cintDIV 00D6:__amsg_exit 0102:__dataseg (00CD: 75)
+    11. 04 C469 00F6 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+B4^/ 00BC:__cintDIV 00CB:__amsg_exit 00F4:__dataseg (00CD: 16)
+BA....2E8916....B430CD218B2E02008B1E2C008EDAA3....8C06....891E:
+  0. 00 0000 02C8 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+158^/ 0163:__cleanup 0176:__checknull 019E:__terminate 01F3:__restorezero 02AD:_abort (d)02C4:DGROUP@ (d)02C6:__MMODEL (01D0: 21)
+  1. 00 0000 01F8 0000:o=1:a=84:c=b:bc31rtd:m=+11A^/ 0121:__exit 01A5:__restorezero 01E2:_abort (d)01F8:DGROUP@ (01D0: FF)
+  2. 00 0000 0205 0000:o=1:a=84:c=b:bc31rtd:m=+11F^/ 012A:__exit 01B0:__restorezero 01ED:_abort (d)0205:DGROUP@ (01D0: 90)
+  3. 00 0000 02C2 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+158^/ 015F:__cleanup 0172:__checknull 019A:__terminate 01EF:__restorezero 02A9:_abort (d)02BE:DGROUP@ (d)02C0:__MMODEL (01D0: B8)
+  4. 00 0000 02A3 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+147^/ 0152:__cleanup 0165:__checknull 018E:__terminate 01ED:__restorezero (d)029F:DGROUP@ (d)02A1:__MMODEL (01D0: 25)
+  5. 00 0000 0204 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+E4^/ 00EF:__exitclean 010F:__exit 016D:__restorezero 01EA:_abort (d)0200:DGROUP@ (d)0202:__MMODEL (01D0: 2E) (REF 01E2: 05)
+  6. 00 0000 0203 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+EF^/ 00F6:__exitclean 0115:__exit 0172:__restorezero 01EA:_abort (d)01FF:DGROUP@ (d)0201:__MMODEL (01D0: 2E) (REF 01E2: 40)
+  7. 00 0000 020A 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+EA^/ 00F5:__exitclean 0115:__exit 0173:__restorezero 01F0:_abort (d)0206:DGROUP@ (d)0208:__MMODEL (01D0: B9) (REF 01E8: 05)
+  8. 00 0000 020A 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+EF^/ 00FA:__exitclean 011A:__exit 0178:__restorezero 01F0:_abort (d)0206:DGROUP@ (d)0208:__MMODEL (01D0: B9) (REF 01E8: 04)
+  9. 00 0000 0210 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+F8^/ 0103:__exitclean 0122:__exit 017F:__restorezero 01F7:_abort (d)020C:DGROUP@ (d)020E:__MMODEL (01D0: 40)
+  10. 00 0000 0217 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+FC^/ 0107:__exitclean 0127:__exit 0185:__restorezero 01FD:_abort (d)0213:DGROUP@ (d)0215:__MMODEL (01D0: 02)
+  11. 00 0000 0239 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+108^/ 010F:__exitclean 012E:__exit 01A8:__restorezero 0220:_abort (d)0235:DGROUP@ (d)0237:__MMODEL (01D0: 06)
+  12. 00 0000 0264 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+129^/ 0134:__cleanup 0147:__checknull 0148:__terminate 01A9:__restorezero (d)0260:DGROUP@ (d)0262:__MMODEL (01D0: 32)
+  13. 00 0000 025F 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+131^/ 0138:__cleanup 014B:__checknull 014C:__terminate 01A9:__restorezero (d)025B:DGROUP@ (d)025D:__MMODEL (01D0: 04)
+  14. 00 0000 0263 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+135^/ 013C:__cleanup 014F:__checknull 0150:__terminate 01AD:__restorezero (d)025F:DGROUP@ (d)0261:__MMODEL (01D0: ED)
+  15. 00 0000 0288 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+13A^/ 0145:__cleanup 0158:__checknull 0159:__terminate 01AE:__restorezero 026D:_abort (d)0284:DGROUP@ (d)0286:__MMODEL (01D0: 0E)
+  16. 00 0000 0240 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+108^/ 0113:__exitclean 0133:__exit 01AE:__restorezero 0226:_abort (d)023C:DGROUP@ (d)023E:__MMODEL (01D0: 67)
+  17. 00 0000 026D 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+137^/ 0142:__cleanup 0155:__checknull 0156:__terminate 01B7:__restorezero (d)0269:DGROUP@ (d)026B:__MMODEL (01D0: 80)
+  18. 00 0000 0271 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+13B^/ 0146:__cleanup 0159:__checknull 015A:__terminate 01BB:__restorezero (d)026D:DGROUP@ (d)026F:__MMODEL (01D0: DF)
+  19. 00 0000 028F 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+14C^/ 0153:__cleanup 0166:__checknull 0167:__terminate 01BC:__restorezero 0276:_abort (d)028B:DGROUP@ (d)028D:__MMODEL (01D0: 3B)
+  20. 00 0000 0295 0000:o=1:a=84:c=b:l=bc31tvd/bc31cls:bc31rtd:m=+14C^/ 0157:__cleanup 016A:__checknull 016B:__terminate 01C0:__restorezero 027A:_abort (d)0291:DGROUP@ (d)0293:__MMODEL (01D0: 8B)
+  21. 00 0000 0293 0000:o=1:a=84:c=b:bh16rdos:l=bh16grfd/bh16cls/bh16dbe/b516cgw:m=+141^/ 0148:__cleanup 015B:__checknull 0182:__terminate 01DD:__restorezero (d)028F:DGROUP@ (d)0291:__MMODEL (01D0: CD)
+  22. 00 0000 01C2 0000:o=1:a=84:c=b:bc31rtd:m=+F8^/ 0103:__exit 0168:__restorezero 01AA:_abort (d)01C2:DGROUP@ (0198: FF)
+  23. 00 0000 01BA 0000:o=1:a=84:c=b:bc31rtd:m=+FD^/ 0104:__exit 0167:__restorezero 01A4:_abort (d)01BA:DGROUP@ (0198: 4A)
+  24. 00 0000 01C7 0000:o=1:a=84:c=b:bc31rtd:m=+102^/ 010D:__exit 0172:__restorezero 01AF:_abort (d)01C7:DGROUP@ (0198: 1E)
+BD....85ED75:
+  028CDD2E8C1E....8B1E02002BDD81FB0010760F8D9E00108CC0:
+    0. 0E EF35 014E 0000:o=1:a=84:aztec:m=+13E^+B4^/ 0143:_exit (011C: FF)
+    1. 0E EF35 0150 0000:o=1:a=84:aztec:m=+13E^+C2^/ 0145:_exit (011C: 21)
+  06B8FD00E9:
+    E7002E8C1E....8EC5268C1E....268B1E....BD:
+      0. 00 0000 00FD 0000:o=1:a=84:aztec:m=+ED^+104^/ 00F2:_exit
+    E9002E8C1E....8EC5268C1E....268B1E....BD:
+      0. 00 0000 00FF 0000:o=1:a=84:aztec:m=+ED^+115^/ 00F4:_exit
+C706....0100C3FCA3....891E....49890E....BB....8C1F83E4FE896704B8:
+  0. 11 5B83 008C 0000:o=1:a=84:c=v:mv16rdos:l=mv16grfd:m=+7A^/ 0007:__astart
+E9:
+  8300574154434F4D20432F432B2B31362052756E2D54696D65207379737465:
+    0. 6D 8315 0223 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=1E1/wa16std 00DA:_Not_Enough_Memory_ 01E4:__exit_ 01E6:__do_exit_with_msg__ 021A:__GETDS
+    1. 6D DA44 0223 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=1E1/wa16std 00DA:_Not_Enough_Memory_ 01E4:__exit_ 01E6:__do_exit_with_msg__ 021A:__GETDS
+  A400574154434F4D20432F432B2B31362052756E2D54696D65207379737465:
+    0. 89 354B 0282 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=200/wa16std 00F0:_Not_Enough_Memory_ 0205:__exit_ 0224:__do_exit_with_msg__ 0278:__GETDS
+    1. 89 CA3D 0282 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=200/wa16std 00F0:_Not_Enough_Memory_ 0205:__exit_ 0224:__do_exit_with_msg__ 0278:__GETDS
+  A600574154434F4D20432F432B2B31362052756E2D54696D65207379737465:
+    0. 87 8D0B 0260 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=1FB/wa16std 00F2:_Not_Enough_Memory_ 01FE:__exit_ 021D:__do_exit_with_msg__ 0256:__GETDS
+    1. 87 FFBB 0260 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=1FB/wa16std 00F2:_Not_Enough_Memory_ 01FE:__exit_ 021D:__do_exit_with_msg__ 0256:__GETDS
+  ....574154434F4D20432052756E2D54696D652073797374656D20636F6465:
+    0. 91 2B6C 023C 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=200/wa16std 00FE:_Not_Enough_Memory_ 0203:__exit_ 0206:__exit_with_msg_ 0233:__GETDS
+    1. AE 4177 0298 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=21D/wa16std 0114:_Not_Enough_Memory_ 0222:__exit_ 0241:__exit_with_msg_ 028E:__GETDS
+    2. AC D487 0278 0000:o=1:a=A5:c=w:wa16rtd:wa16rt_:s=21A/wa16std 0116:_Not_Enough_Memory_ 021D:__exit_ 023C:__exit_with_msg_ 026E:__GETDS
+EB0190FAB8....050F00B90400D3E88CC903C1:
+  8ED88C06....268B1E2C00891E:
+    0. 00 0000 0210 0000:o=1:a=84:sm16rdos:sm16strm:m=+19D^/ 0003:__asepfsc (01EC: 52)
+    1. 00 0000 020F 0000:o=1:a=84:z316rdos:l=z316matd/z316grfd:m=+19D^/ (01EC: E9)
+    2. 00 0000 0215 0000:o=1:a=84:sm16rdos:sm16strm:m=+1A2^/ (01EC: 89)
+    3. 00 0000 022D 0000:o=1:a=84:dm16dos:m=+1BA^/ (01EC: 17)
+  DBE38ED88C06....8BD82B1E:
+    0. 00 0000 02AE 0000:o=1:a=85:m=+1E1^/__main:z116rdos:s=01E1/- 0259:__exit 0272:__chkstack 0289:__chkstk
+FAFC:
+  8CC88ED8BB40008EC38ED3BC....BF....B9....41D1E9E30EBE....83C6:
+    0. 0A 0AEA 005F 0000:o=1:a=84:aztec:m=+5C^/
+  B8....:
+    8ED88C06....268B1E2C00891E....8BD82B1E....891E....268B:
+      0. 1D A0A0 0203 0000:o=1:a=84:sm16rdos:sm16strm:m=+1A7^/ (01BB: EB) (REF 01C3: E9)
+      1. 1D A0A0 020D 0000:o=1:a=84:sm16rdos:sm16strm:m=+1AB^/ (01BB: 04)
+      2. 1D A0A0 01FB 0000:o=1:a=84:sm16rdos:sm16strm:m=+19F^/ (01BB: E9)
+      3. 1D A0A0 0205 0000:o=1:a=84:sm16rdos:sm16strm:m=+1A3^/ (01BB: EB) (REF 01C3: EA)
+      4. 1D A0A0 0204 0000:o=1:a=84:z316rdos:l=z316matd/z316grfd:m=+1A3^/ (01BB: EB) (REF 01C2: EA)
+      5. 1D A0A0 0202 0000:o=1:a=84:sm16rdos:sm16strm:m=+18F^/ (01BB: 05) (REF 01C1: 52)
+      6. 1D A0A0 0201 0000:o=1:a=84:z316rdos:l=z316matd/z316grfd:m=+18F^/ (01BB: 05) (REF 01C1: E9)
+      7. 1D A0A0 020E 0000:o=1:a=84:sm16rdos:sm16strm:m=+195^/ (01BB: 72) (REF 01CB: 52)
+      8. 1D A0A0 020D 0000:o=1:a=84:z316rdos:l=z316matd/z316grfd:m=+195^/ (01BB: 72) (REF 01CB: EA)
+      9. 1D A0A0 0207 0000:o=1:a=84:sm16rdos:sm16strm:m=+194^/ (01BB: E1)
+      10. 1D A0A0 0213 0000:o=1:a=84:sm16rdos:sm16strm:m=+19A^/ (01BB: 73)
+      11. 1D A0A0 021F 0000:o=1:a=84:dm16dos:m=+1AC^/ (01BB: 20)
+      12. 1D A0A0 022D 0000:o=1:a=84:dm16dos:m=+1B4^/ (01BB: C3)
+      13. 1D A0A0 021B 0000:o=1:a=84:dm16dos:m=+1BF^/ (01BB: 09)
+      14. 1D A0A0 0227 0000:o=1:a=84:dm16dos:m=+1C5^/ (01BB: AC)
+    B9....E301408ED8BB....8EC38ED3BC....BF0000B9....41D1E9:
+      0. 08 58E5 005D 0000:o=1:a=84:aztec:m=+5A^/ (0032: E9)
+      1. 08 58E5 005F 0000:o=1:a=84:aztec:m=+5A^/ (0032: EA)
+FC508CC00BC05874:
+  52B8....8ED88CC0A3....2906....8B1E....B44ACD2126:
+    0. 04 5173 02E7 0000:o=1:a=84:latrtd:m=+29A^/_MAIN 02C1:XCABT (02BD: 50)
+    1. 04 5173 02E9 0000:o=1:a=84:latrtd:m=+29A^/_MAIN 02C3:XCABT (02BD: FF)
+  5FB8....8ED8BB....2B1E....FA8ED003E3FB8CC0A3:
+    0. 02 5A9E 0311 0000:o=1:a=84:latrtd:m=+2BE^/_MAIN 02EB:XCABT (02E9: 50)
+    1. 02 5A9E 0313 0000:o=1:a=84:latrtd:m=+2BE^/_MAIN 02ED:XCABT (02E9: FF)

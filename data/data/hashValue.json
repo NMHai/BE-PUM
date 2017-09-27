@@ -1,0 +1,66 @@
+[
+	{
+			"FILE_NAME"		: "EMDIVI"
+			"HASH": "0bef75b5093fb506b6d88eb993c5e01b"
+	}, 
+	{
+			"FILE_NAME"		: "EMDIVI"
+			"HASH": "ac4d227faceb28eb576b7b3a5285cecb"
+	}, 
+	{
+			"FILE_NAME"		: "7ee26210bd9ef92fa1e522e46922df29"
+			"HASH": "e03c66bfc0dbd288f14e27c178f6df69"
+	},
+	{
+			"FILE_NAME"		: "99255fdbf1add2caad0f0de226d3f441"
+			"HASH": "7778dc4f4fe4de6c324241d14b5bd133"
+	},	
+	{
+			"FILE_NAME"		: "api_test_morphnah.exe"
+			"HASH": "0267795abfb08931b94bfa2ce3ac3991"
+	},
+	{
+			"FILE_NAME"		: "api_test_telock.exe"
+			"HASH": "7abd6120e90a7d2d12cf7c4472d01457"
+	}, 
+	{
+			"FILE_NAME"		: "Petite_grpconv.test"
+			"HASH": "e38f3dc4db1c69b6ea59eb27172b7c4b"
+	},
+	{
+			"FILE_NAME"		: "se01.exe"
+			"HASH": "6acb3bdf8e83b6fbc91459c3af567a68"
+	},
+	{
+			"FILE_NAME"		: "se03.exe"
+			"HASH": "28819da039de47eaaaa1f4f1076da60e"
+	},
+	{
+			"FILE_NAME"		: "se02.exe"
+			"HASH": "6cfc16c31cfd8cde02e4135fb8038a9d"
+	},
+	{
+			"FILE_NAME"		: "maze.exe"
+			"HASH": "7f86c52b3443d9230bb47fcd34ccd3ff"
+	},
+	{
+			"FILE_NAME"		: "se03.exe"
+			"HASH": "45eee289b4013d17603c5c1553e29cb6"
+	},
+	{
+			"FILE_NAME"		: "flareon_challenge_2015_re1.exe"
+			"HASH": "7c0f16de595ae03e2928d3fa6b73b235"
+	},
+	{
+			"FILE_NAME"		: "flareon_challenge_2015_re2.exe"
+			"HASH": "d88dafdaefe27e7083ef16d241187d31"
+	} ,
+	{
+			"FILE_NAME"		: "Petite_2.2_demo1.test"
+			"HASH": "588aeef1c110f5db8586f136aeb1e7cb"
+	} ,
+	{
+			"FILE_NAME"		: "wannacryv1"
+			"HASH": "84c82835a5d21bbcf75a61706d8ab549"
+	}
+]

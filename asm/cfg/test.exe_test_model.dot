@@ -1,0 +1,7 @@
+digraph G {
+node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
+bgcolor="transparent"
+a0x00401000cmpl_0x2UINT8_eax[label="start\ncmpl $0x2<UINT8>, %eax",color="lightgrey",fillcolor="orange"];
+a0x00401003jg_0x00401006[label="0x00401003\njg 0x00401006"];
+a0x00401000cmpl_0x2UINT8_eax -> a0x00401003jg_0x00401006 [color="#000000"];
+}

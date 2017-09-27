@@ -1,0 +1,1173 @@
+0FB78140010000560FB7B13C0100000FB7893E0100002BC6400FB7D20FAFC248:
+  0. 0C 0741 002C 0000:@Arith_GetCount@8
+33C0EB:
+  1080F9397F120FBEC98D04808D4441D0428A0A80F9307DE9C3:
+    0. 00 0000 001C (l)0000:_atoui@4
+  146683F93977170FB7C9428D04808D4441D04233C9668B0A6683F93073:
+    0. 02 2138 0022 (l)0000:_atoui@4
+3B0D........7509F7C10000FFFF7501C3E9:
+  0. 00 0000 0016 0000:@__security_check_cookie@4
+558BEC535657E9000000005F5E5BC9C3:
+  0. 00 0000 0010 (!)0000:?
+66:
+  83602C0083603000C3:
+    0. 00 0000 000A (l)0000:_bi_init@4
+  FF895C010000FF81500100008D8160010000568B308816FF008D814C010000:
+    0. 1A 5318 003A 0000:@DComp_Token_Literal@8
+68:
+  00010000FF15........50A3........E8........85C07505E9........C3:
+    0. 00 0000 0020 0000:_auxCreateFont@0
+  3801000068........E8........A1........8945E48B751033C08DBDBCFE:
+    0. 1C 49DE 020D 0000:_WinMainN@16
+  B800000068........E8........A1........8945E48B751033C08DBD3CFF:
+    0. 1C 141F 01FE 0000:_WinMainN@16
+  ........FF15........:
+    68........E8........59C3:
+      0. 00 0000 0017 0000:? (REF 0001: ?g_semexc@@3VCSemExclusiveLocal@@A)
+    C3:
+      0. 00 0000 000C 0000:? (REF 0001: ?g_semexc@@3VCSemExclusiveLocal@@A)
+6A006A056A0968........68........E8........C3:
+  0. 00 0000 0016 (l)0000:_InflateFixed@4
+833D........:
+  007E07FF0D........C368........E8........C3:
+    0. 00 0000 001B 0000:_m_popmatrix@0
+  097D27A1........69C0C8000000FF05........56576A32598D:
+    0. 01 F345 003B 0000:_m_pushmatrix@0
+8B:
+  41048B09894804C3:
+    0. 00 0000 0009 0000:??1AFX_MAINTAIN_STATE2@@QAE@XZ
+  46245333DB3BC3744A578DBE80090000391F50740C535356E8........891F:
+    0. 10 4AE9 0056 (l)0000:_update_tree_estimates@4
+  48:
+    1483602000BA008000006A026689503C89503403CA5A56570FB6398B7020:
+      0. 15 19E4 0035 (l)0000:_lm_init@4
+    30:
+      566A105E2BF73BCE0F8E810000008BF2D3E68B4810538D59FE6609702C:
+        0. 7F D1C3 009F (l)0000:_send_bits@12
+      83F90853567E4B8B50100FB7480C8D72FE3BCE73168B50048A582C881C:
+        0. 64 8444 0084 (l)0000:_bi_windup@4
+  4A28535633C0578B7A2440EB288B72188B5A143BF3730D8B5A080FB61C3346:
+    0. 7C B46B 00C2 (l)0000:_InflateBlock@4
+  512C568BF085F6761A8B0283C20483F810720D83E0078D8441EE42000066FF:
+    0. 06 0F01 0026 (l)0000:_tally_aligned_bits@8
+  FF:
+    51FF15........C3:
+      0. 00 0000 000A 0000:?Lock@CSemExclusiveLocal@@QAEXXZ (REF 0005: EnterCriticalSection)
+      1. 00 0000 000A 0000:??1CSemExclusiveLocal@@QAE@XZ (REF 0005: DeleteCriticalSection)
+      2. 00 0000 000A 0000:?UnLock@CSemExclusiveLocal@@QAEXXZ (REF 0005: LeaveCriticalSection)
+    53:
+      8BD88B4B748D83B000000053E8........8B8B900000008D83A4090000:
+        0. 02 9E9D 0056 (l)0000:_build_bl_tree@4
+      B8008000005633F68BD88B4F188D1431668B0A663BC872070FB7C92BC8:
+        0. 32 4F9C 0052 (l)0000:_lm_init_use_tables@4
+    558BEC:
+      2B45085DC20400:
+        0. 00 0000 000C (l)0000:_GetElapsedTime@8
+      33C0:
+        32C985C08BD0740BF6C2017402FEC1D1FA75F58B5508888C02:
+          0. 10 2F80 0030 0000:_create_ones_table@4
+        33C98A4D08D17D0883E1010BC1D1E0FF4D0C837D0C007FE80F:
+          0. 08 5967 0028 (l)0000:_bi_reverse@8
+        39:
+          05........744B56FF35........BE........56E8:
+            0. 00 0000 005E 0000:_ReleaseStaticEntries@4
+          450C7507B857000780EB:
+            268B5508568B75108A0E84C97409:
+              0. 1D 4E3E 003D 0000:_StringCopyWorkerA@12
+            2D8B5508568B7510668B0E6685C9:
+              0. 24 9293 0044 0000:_StringCopyWorkerW@12
+        B9008000008B55088B5218668324100040404975F05DC20400:
+          0. 00 0000 0020 (l)0000:_lm_init_clear_tables@4
+      51:
+        51:
+          33:
+            C033C940394D088945F8894DFC745C5356578B3D:
+              0. 02 30CE 0087 0000:_MMCIsMTNodeValid@8
+            D26639931A0F00008953580F85B4010000568D8B801E0000:
+              0. 03 5939 01CF (l)0000:_ct_init@4
+          53:
+            56:
+              33:
+                C9F7451C00E0FFFF578B7D08894DFC8BF7894DF8740C:
+                  0. 30 63B2 019F 0000:_StringVPrintfExWorkerA@32
+                  1. 30 DC8C 01B0 0000:_StringVPrintfExWorkerW@32
+                DBF7452400E0FFFF578B7D08895DF88BF7895DFC740C:
+                  0. 3B 1881 019C 0000:_StringCopyNExWorkerA@32
+                  1. 3B 5C38 01BB 0000:_StringCopyNExWorkerW@32
+                F6668BB02C25000066D1FEEB0756E8........4E6683:
+                  0. 5A 5156 0109 (l)0000:_make_tree2@16
+              57FF15........8B35........8945FC33C050BF:
+                0. 00 0000 0070 0000:_MMCPropertyHelp@4
+              8B7508:
+                0FB78E5C0200008BC15733FF83E00F2BC78D9E50:
+                  0. 3A 44A3 00FC 0000:_MCICreateCompressionGlobal@4
+                57C6865C04000000C6865D04000001C6865E0400:
+                  0. 9E 7E66 00BE 0000:_create_slot_lookup_table@4
+            578BD833FF3BDF75106A16FF15........83C8FFE9890000:
+              0. 07 226B 00B0 (l)0000:_s_debug@8
+            8BD80FB7434C8A4B4E56888C186C1F0000578D435C50E8:
+              0. 00 0000 0159 (l)0000:_flush_block@16
+            FF75086A006A0056E8........578BD856895DF8E8:
+              0. 00 0000 00E1 (l)0000:_do_block_output@12
+          56:
+            576A0833FF57FF15........8BF03BF7750D6A1CFF15:
+              0. 00 0000 00A4 (l)0000:_s_link@8
+            8B7508832600578B7D0C8327008D45F850FF15........8B:
+              0. 04 FE5E 003B 0000:_tkGetMouseLoc@8
+            8D45FC50681900020033F65668........6800000080FF15:
+              0. 00 0000 005F (l)0000:?GetRegisteredLocation@@YGHPAD@Z
+          83:
+            4DF8FF5356576A078BF10FB748025A33DB85C96A045F7508:
+              0. A0 2B24 00C0 (l)0000:_scan_tree@12
+            7D08007D17FF7510FF750CFF7508FF35........FF15:
+              0. 00 0000 0067 0000:?_MMCHookCBTProc@@YGJHIJ@Z
+          8A4D0C8B45085333DB5643D3E38365FC00576A04895DF8C745:
+            0. 01 143A 01D2 0000:_Lz_Init@8
+          8B:
+            45:
+              0856C745FCB004000033D28D88F8280000570FB7390FB6:
+                0. 2A 52C5 00C3 0000:_estimate_compressed_block_size@4
+              0C8D50018A084084C975F956572BC26A0883C0055F3BC7:
+                0. 19 AA10 00DE (l)0000:_s_push@8
+            4D080FBFD15633F6668BB450AC090000668B902C25000003:
+              0. 93 28D8 00B3 (l)0000:_downheap@8
+            550C535633DBF7452000E0FFFF578B7D08895DF88BF7895D:
+              0. 32 87E1 019F 0000:_StringCopyExWorkerW@28
+              1. 32 963F 0184 0000:_StringCopyExWorkerA@28
+        53:
+          56:
+            576A0859FF750833C08DBA04250000F3AB5266ABE8:
+              0. 00 0000 00C8 (l)0000:_make_len@8
+            8B75:
+              08:
+                33C08A865C02000033DB57C745FC0100000083E00F:
+                  0. 17 0257 0092 0000:_MCIDestroyCompressionGlobal@4
+                578D45FC508D450850FF762833DBFF7624889E7D09:
+                  0. 05 914F 0115 0000:_output_block@4
+                668B5E7233C0668B4670578DBEBC0700008D8EB703:
+                  0. 82 5AF5 0125 0000:_SwitchToNewCab@4
+              1457FF751C8D45FC5033DB6A0153FF7508895DFCFF56:
+                0. 53 6D0A 00A1 0000:_ReadPSZ@24
+              2057BB0080000053FF560C33FF3BC7598945FC750857:
+                0. D6 AAE8 00FE 0000:_filecopy@32
+          8B5D08565733FF897DFCE9D601000083BBDC2E0000010F85A4:
+            0. 13 DB3A 0226 0000:_decode_data@8
+        56:
+          0FB77048578B38880C3E66FF404885D2750C8D8C88B0000000:
+            0. 94 F48D 011A (l)0000:_ct_tally@12
+          578B7D0833C08A875C02000033F683E00F2BC6747B48744148:
+            0. 2B 6885 00E5 0000:_MCICompressGlobal@8
+          6A00FF15........8BF085F67C3C8D45FC5068........6A03:
+            0. 03 B55F 0058 0000:_MMCPropertyChangeNotify@8
+        57FF35........E8........8BF885FF0F8499000000568B35:
+          0. 00 0000 00BA 0000:_tkSetOneColor@16
+        8365FC00:
+          538B5D0C568B750857FF75148B7D108D45FC50FFB6D4:
+            0. 51 747B 0083 0000:_ReadCFDATAEntry@16
+          568B:
+            75:
+              0857FF75108B7D0C8D45FC506A108D86B80900:
+                0. 31 493F 0066 0000:_ReadCFFILEEntry@12
+              0C8BC6D1E83DFFFFFF7F7607B857000780EB:
+                34:
+                  0. 13 4EC9 0059 0000:_StringCbCopyExW@24 (REF 0033: _StringCopyExWorkerW@28)
+                  1. 13 4EC9 0059 0000:_StringCbCatExW@24 (REF 0033: _StringCatExWorkerW@28)
+                37:
+                  0. 16 0F03 005C 0000:_StringCbVPrintfExW@28
+                38:
+                  0. 17 011F 005B 0000:_StringCbPrintfExW
+                3A:
+                  0. 19 CAA9 005F 0000:_StringCbCopyNExW@28 (REF 0039: _StringCopyNExWorkerW@32)
+                  1. 19 CAA9 005F 0000:_StringCbCatNExW@28 (REF 0039: _StringCatNExWorkerW@32)
+            F03B75080F83FC00000053578BF9C1E7028B5A34:
+              0. FA 8A6E 011A (l)0000:_tally_frequency@16
+          817D0CFFFFFF7F7607B857000780:
+            C9C38D452050FF75:
+              0. 15 B716 0052 0000:_StringCbPrintfExA
+            EB:
+              32FF751C8D45FC:
+                0. 11 F4F9 0050 0000:_StringCbCopyExA@24 (REF 0031: _StringCopyExWorkerA@28)
+                1. 11 F4F9 0050 0000:_StringCbCatExA@24 (REF 0031: _StringCatExWorkerA@28)
+              35FF75208D45FC:
+                0. 14 AFC1 0053 0000:_StringCbVPrintfExA@28
+                1. 14 BD87 0053 0000:_StringCbCopyNExA@28 (REF 0034: _StringCopyNExWorkerA@32)
+                2. 14 BD87 0053 0000:_StringCbCatNExA@28 (REF 0034: _StringCatNExWorkerA@32)
+          837D0800741A817D0CFFFFFF7F77118D45FC50FF750C:
+            0. 04 EF25 0048 0000:_StringCbLengthA@12
+        8B:
+          45:
+            088B4E04538B9E6C08000057C6867D090000008B108BFB8B:
+              0. 2D 62EC 00BE (l)0000:_redo_first_block@8
+            0C8365FC00:
+              8D48018A104084D275F92BC1568BF08B450C8D:
+                0. 2F 8255 005E 0000:_WritePsz@20
+              D1E8837D080074163DFFFFFF7F770F8D4DFC51:
+                0. 05 2463 004B 0000:_StringCbLengthW@12
+            208365FC0053568B75086683A6AE000000008946388B4518:
+              0. 21 3153 01E4 0000:_FDICopy
+          4D08:
+            53565733C08DB1EE4200008BFEABABABAB8B7D0C8B512C:
+              0. 5B 5D6B 007B 0000:_get_aligned_stats@8
+            8365FC0081394C44494374056A0258C9C3568B75188B06:
+              0. 1D 956A 0050 0000:_LDIDecompress
+            8B94884C1000008955FC8B504003C93BCA7F7D53567D35:
+              0. 8A 0945 00AA (l)0000:_pqdownheap@12
+        8D450483C0045068........68........E8........83C40C89:
+          0. 09 51C3 0029 0000:_CertServerRequest@40
+      53:
+        0F:
+          B75D0C560FB7B13E01000057668BB93C0100000FB7C72BF00F:
+            0. FF 39A3 0123 0000:@Arith_Remove_Symbol@12
+          BF5D0C568B75083B9E282500007D1E8A862E2500003C107D05:
+            0. 2A A9A3 0068 (l)0000:_count_len@8
+        33C0568B7508578B7E08B900000100F3AB8B46048B8E30430000:
+          0. DB E785 01A1 0000:_init_compression_memory@4
+        56:
+          578B:
+            7D:
+              0833C08A87B200000033DB83E00F2BC30F84A6000000:
+                0. 30 FCE4 010D 0000:_MDIDecompressGlobal@8
+              0C6868020000FFD78BF033DB3BF359750D536A03FF75:
+                0. 02 C1AA 00BB 0000:_FolderInit@48
+              1468E8110000FFD78BF033DB3BF3597510536A03FF75:
+                0. 02 A1CD 00CF 0000:_CreateCab@52
+            D9E8........33FF47837D0C000F84A90000008B50100F:
+              0. D7 4AD8 00F7 (l)0000:_copy_block@16
+            F88B82980900003945087F297D038B45088BB294090000:
+              0. 56 9DBD 0076 (l)0000:_read_input_data@12
+          8B75:
+            08:
+              0FB746060FB74E0840410FAFC1C1E00250E8:
+                0. 0F 93DA 00B8 0000:_RawImageGetData@8
+              57:
+                33DB8DBE340E00006A0356E8........88041F4383:
+                  0. 1B C528 004C 0000:_read_aligned_offset_tree@4
+                6A018D860E430000508DBE1E430000578D86EE4200:
+                  0. 06 04ED 0046 0000:_encode_aligned_tree@4
+                8B7D1033DB8B4D0C3BCB8B45148986A8090000668B:
+                  0. A9 06C8 00E8 0000:_make_tree@24
+                FFB6A80000008DBEE4070000FF7648FFB684000000:
+                  0. 69 0052 013B 0000:_FDIReadCFDATAEntry@8
+              6A016A00FFB688000000FF561C8BD883C40C83FBFF75:
+                0. 08 23AF 00AE 0000:_FDICallEnumerate@4
+              8A865C02000057240F33FF3C03755A8B86540200003B:
+                0. 1B 4682 009A 0000:_FolderFlush@12
+              8B:
+                46:
+                  0833DB3BC357740B50FF964843000059895E088D:
+                    0. 91 E939 00C2 0000:_comp_free_compress_memory@4
+                  7485C0570F84A70000008B5E783B5E3089450873:
+                    0. 12 8ED2 0151 0000:_FDIGetFile@4
+                5604576A04C686B52E0000045F8A86B52E00000FB6:
+                  0. 03 E162 005A 0000:_allocate_decompression_memory@4
+              8D86BC0700008D8EB70300008948048D8EB804000089:
+                0. 73 67C8 00A5 0000:_doCabinetInfoNotify@4
+            10576A016A00FFB688000000FF561C8B5D0C8B7D085357:
+              0. 57 2911 0089 0000:_FDIReadPSZ@12
+        578B7D088B0785C0B90080000074043BC17602890F8B078B5D18:
+          0. 29 875E 0075 0000:_MDICreateDecompression
+        6A14FF55108BD885DB597512506A03FF7508E8........33C0E9:
+          0. 3D CA66 0141 0000:_FCICreate
+        8B5D:
+          08813B4D43494375108B4308394510770883C00C39451873:
+            0. 4A 47DD 0087 0000:_MCICompress
+          0C:
+            33C0408ACBD3E0568B750883A6500100000083A66C0100:
+              0. 3D A5C8 006E 0000:_DComp_Init@8
+            568B75088B86A40000000FAFC303462C576A0050FFB684:
+              0. 6C 1FDB 00F3 0000:_SeekFolder@8
+            5733FF:
+              3BDF0F84B4000000397D108B5508764A568D7302:
+                0. 0C 5A3C 00D0 0000:_FillRgbPaletteEntries@12
+              4785DB7E63568B750883C604FF751C83650C008D:
+                0. 18 4ED7 007C 0000:_NukeTempFiles@24
+            8B0383F80A56577C7D83F8157F788B7D088B0785C0B900:
+              0. 54 E98E 0097 0000:_QDICreateDecompression
+            B8000100003BD8578B7D080F870F0100000F8449010000:
+              0. 2A AEBC 01DD 0000:_RealScreenSaverProc@16
+      56:
+        33F6:
+          3935........75556A02FF7508FF15........83F801754F:
+            0. 03 1A2B 007E 0000:_GrabStaticEntries@4
+          5733FF46397D107E258B4D0C8B550885F6741BDD0183C108:
+            0. 1E 5621 003E 0000:_compareParams@12
+          DD450C6A00FF75145151DD1C24FF75086A016A:
+            0056E8:
+              0. 00 0000 002D 0000:_icosahedron@16
+            0156E8:
+              0. 00 0000 002D 0000:_octahedron@16
+            0256E8:
+              0. 00 0000 002D 0000:_tetrahedron@16
+        57FF750CFF75086A006A00FF15........8B35........680117:
+          0. 06 89E9 006D 0000:_DefaultHandleReshape@8
+        68:
+          6C2F0000FF55088BD033F63BD6590F84B10000005733C0B9DB:
+            0. 3D 62EA 00D3 0000:_NFMcomp_create@4
+          B4220000FF55088BF085F65974245733C03905........B9AD:
+            0. 0B 7299 0040 0000:_NFMdeco_create@4
+          ........FF15........8BF085F674:
+            1068........56FF15:
+              0. 00 0000 0049 0000:_DtcInstallClient
+            2568........56FF15:
+              0. 00 0000 0041 0000:_ScreenSaverChangePassword@4
+        6A:
+          00FF7508E8........FF7508E8........FF75088BF0E8:
+            0. 00 0000 0029 0000:_estimate_buffer_contents@4
+          08E8........8BF085F65974:
+            62DD45086A0156DD1E6A00E8:
+              0. 00 0000 007B 0000:_auxWireSphere@8
+            6EDD45086A0156DD1E6A0AE8:
+              0. 00 0000 0087 0000:_auxSolidSphere@8
+            7ADD45086A0156DD1E6A:
+              01E8:
+                0. 00 0000 0093 0000:_auxWireCube@8
+              0BE8:
+                0. 00 0000 0093 0000:_auxSolidCube@8
+          10E8........8BF085F659:
+            0F84:
+              82000000DD45086A02DD1E56:
+                0. 09 1E9C 009F 0000:_auxSolidCone@16
+              CA000000DD45086A02DD1E56:
+                0. 09 6AE0 00E7 0000:_auxWireCylinder@16
+              D5000000DD45086A02DD1E56:
+                0. 09 6AE0 00F2 0000:_auxSolidCylinder@16
+            74:
+              296A01FF15........89068B45:
+                0. 10 9526 0042 0000:_makeModelPtr@12
+              60DD45086A02DD1E56DD45106A:
+                0. 05 3297 0079 0000:_auxWireTorus@16
+                1. 05 8AF6 0079 0000:_auxSolidTorus@16
+              77DD45086A02DD1E56DD45106A:
+                0. 05 9ADB 0090 0000:_auxWireCone@16
+          18E8........8BF085F6590F849A000000DD45086A03DD1E56:
+            0. 0F 7B0E 00B7 0000:_auxSolidBox@24
+            1. 0F A647 00B7 0000:_auxWireBox@24
+        83CEFF833D........00742B837D1000FF7508751BE8:
+          0. 09 2CD4 0061 0000:_RealizePaletteNow@12
+        8B75:
+          08:
+            0FBE4618576A0083E8105056E8........6A035F8D4E38:
+              0. 5A 86E4 00AC 0000:_encode_uncompressed_block@12
+            33C08A86:
+              5C02000083E00F83E800743948742348487415:
+                0. 0D 6957 005A 0000:_MCIResetCompressionGlobal@4
+              B20000005733FF83E00F2BC7744248742D4874:
+                0. 0F 005D 0066 0000:_MDIResetDecompressionGlobal@4
+                1. 0F 8114 0074 0000:_MDIDestroyDecompressionGlobal@4
+            56:
+              6A0FE8........8B464C85C0740550FF5604598B4644:
+                0. 40 948D 0060 0000:_FDIDestroy
+              E8........:
+                33C039461C5E0F94C05DC20400:
+                  0. 00 0000 001C 0000:_LZX_EncodeFlush@4
+                56E8........56E8........83A6CC2E00:
+                  0. 07 711E 0027 0000:_LZX_DecodeNewGroup@4
+            57:
+              566A0FE8........FF750C8D4630FF762CFF7624FF76:
+                0. 05 4444 0038 0000:_FolderDestroy@8
+              8DBE180A0000578D86142B00005068000100008BCEE8:
+                0. 00 0000 00CA 0000:_read_main_and_secondary_trees@4
+              FF750C8D4634FF762CFF7628FF76206A0350E8:
+                0. 00 0000 0030 0000:_CabDestroy@8
+            668B46025733FF662500FF57663D00010FB74608570F85:
+              0. 19 4362 0107 0000:_RawImageGetRow@16
+            68:
+              00980000FF964443000085C05989865C080000741489:
+                0. 18 AD07 0038 0000:_init_compressed_output_buffer@4
+              04080000FFD65933C93BC1750F516A05FF7528E8:
+                0. 00 0000 0092 0000:_FDICreate
+            6A108D467450FFB688000000FF561083C40C83F810751B:
+              0. 0E 3759 004D 0000:_FDIReadCFFILEEntry@4
+            813E:
+              4C:
+                43494374056A0258EB19FF7614E8........FF76:
+                  0. 12 9704 0032 0000:_LCIDestroyCompression
+                44494374056A0258EB19FF7628E8........FF76:
+                  0. 12 FD6E 0032 0000:_LDIDestroyDecompression
+              4D:
+                43494374056A0258EB4E8B460C83260085C0578B:
+                  0. 39 C330 0067 0000:_MCIDestroyCompression
+                44494374:
+                  046A02EB368B46088D480C394D107604:
+                    0. 12 2407 004F 0000:_MDIDecompress
+                  056A0258EB15FF7604832600FF760CE8:
+                    0. 00 0000 002E 0000:_MDIDestroyDecompression
+              5144494374056A0258EB1056E8........83260056:
+                0. 09 3463 0029 0000:_QDIDestroyDecompression
+            83BE:
+              5402000000750833C040E9C300000053FFB6480200:
+                0. 12 393E 00ED 0000:_WriteCFDATABlock@12
+              6808000000762F56E8........8B8E5C0800008B86:
+                0. 41 572C 0061 0000:_perform_flush_output_callback@4
+            85F67448FF766CFF15........8B467085C0740750E8:
+              0. 00 0000 005A 0000:_RawImageClose@4
+            8B:
+              0685C0740B50FF96E42E0000832600595E5DC20400:
+                0. 00 0000 001F 0000:_free_decompression_memory@4
+              46:
+                0457:
+                  33FF4785C0740EFF761050E8........8BF883:
+                    0. 0D 1CE8 003E 0000:_FCIDestroy
+                  8B7D24663BB85C0200007424FF7610FF751CFF:
+                    0. 08 20C3 00C5 0000:_FCIAddFile
+                480FB740060146306683BEB000000000750A56E8:
+                  0. 00 0000 00A3 0000:_FDIGetDataBlock@4
+              56045733FF6A0458897E0889BE3443000089BE384300:
+                0. 30 0EEF 016E 0000:_comp_alloc_compress_memory@4
+              86580400002B8630430000680080000003065056E8:
+                0. 00 0000 0033 0000:_encoder_start@4
+            8D8660390000508D8E4025000056BA00010000E8:
+              0. 00 0000 0067 0000:_encode_trees@4
+            DD4610DD4608DD06D9C0D8C9D9C2D8CBDEC1D9C3D8CCDE:
+              0. 0B 9A35 0069 0000:_normalize@4
+            EB05E8........837E24005677F4E8........5E5DC204:
+              0. 01 78F0 0021 0000:_flush_all_pending_blocks@4
+            FF7610FF7514FF7510FF750CFF7604FF36E8........85:
+              0. 2A F13A 0051 0000:_FCIFlushCabinet
+          0C:
+            33C085F68BCE74:
+              108B5508803A007404424E75F785F675:
+                0. 1F D598 003F 0000:_StringLengthWorkerA@12
+              128B550866833A00740542424E75F585:
+                0. 21 F2F0 0041 0000:_StringLengthWorkerW@12
+            57:
+              668B7D08663BBEB2000000750533C040EB2B56E8:
+                0. 00 0000 004D 0000:_SetDecompressionType@8
+              8B7D088D450C505657E8........85C07C:
+                11FF75108B:
+                  0. 09 459E 0033 0000:_StringCatWorkerA@12
+                12FF75108B:
+                  0. 0A CE86 0034 0000:_StringCatWorkerW@12
+                14FF75148B:
+                  0. 0C C132 0036 0000:_StringCatNWorkerA@16
+                15FF75148B:
+                  0. 0D 4E44 0037 0000:_StringCatNWorkerW@16
+        BE........56FF15........833D........00750AE8:
+          0. 01 E967 0042 0000:?xa_open@@YAHPADHJ@Z
+        C6867D09000000C7868009000001000000E8........8B4624B9:
+          0. 28 29D9 0048 (l)0000:_block_end@8
+        E8........E8........8B4508DD401083EC18DD5C2410DD4008:
+          0. 0A E79C 0117 0000:_dodecahedron@16
+        FF75:
+          08FF15........8BF085F67E1FFF750C6A2856FF7508FF15:
+            0. 00 0000 004A 0000:_PixelFormatDescriptorFromDc@8
+          0C:
+            33F6FF7508E8........85C07551A1........A8027548:
+              0. 05 E68B 00F9 0000:_auxInitWindowAW@8
+            8B75088D86E8330000508D8640250000508D86F8280000:
+              0. 11 24AD 007C 0000:_create_trees@8
+          10FF750CFF7508FF15........8BF08B450C48487522FF15:
+            0. 00 0000 0047 0000:?_MMCHookPropSheetPageProc@@YGIPAUHWND__@@IPAU_PROPSHEETPAGEW@@@Z
+      57:
+        8B7D:
+          0883BF9C00000000740533C040EB49568B750CB8FEFF0000:
+            0. 17 A7A5 0065 0000:_InitFolder@8
+          0C:
+            33C085FF7507B857000780EB:
+              2D8B5508568B7510837D14:
+                0. 28 E2E0 0048 0000:_StringCopyNWorkerA@16
+              348B5508568B7510837D14:
+                0. 2F 0605 004F 0000:_StringCopyNWorkerW@16
+            57E8........85C07423668B4508568DB75C0200005766:
+              0. 03 A869 003B 0000:_SetCompressionType@8
+        BF00010000397D0C75645668080400006A40FF15........8BF0:
+          0. 1D 4A9A 0079 0000:_FlushPalette@8
+        FF750CFF7508E8........8BF885FF7450566A0CE8........8B:
+          0. 08 8E31 006C 0000:_tkRGBImageLoadAW@8
+      5D:
+        E9:
+          0. 00 0000 000B 0000:_LZX_EncodeFree@4 (REF 0007: _comp_free_compress_memory@4)
+          1. 00 0000 000B 0000:_LZX_EncodeNewGroup@4 (REF 0007: _init_compression_memory@4)
+          2. 00 0000 000B 0000:_init_decoder_input@4 (REF 0007: _initialise_decoder_bitbuf@4)
+          3. 00 0000 000B 0000:_LZX_DecodeFree@4 (REF 0007: _free_decompression_memory@4)
+          4. 00 0000 000B 0000:_auxExposeFunc@4 (REF 0007: _tkExposeFunc@4)
+          5. 00 0000 000B 0000:_auxIdleFunc@4 (REF 0007: _tkIdleFunc@4)
+          6. 00 0000 000B 0000:_auxInitPosition@16 (REF 0007: _tkInitPosition@16)
+          7. 00 0000 000B 0000:_auxInitDisplayModePolicy@4 (REF 0007: _tkInitDisplayModePolicy@4)
+          8. 00 0000 000B 0000:_auxInitDisplayModeID@4 (REF 0007: _tkInitDisplayModeID@4)
+          9. 00 0000 000B 0000:_auxSetFogRamp@8 (REF 0007: _tkSetFogRamp@8)
+          10. 00 0000 000B 0000:_auxSetRGBMap@8 (REF 0007: _tkSetRGBMap@8)
+          11. 00 0000 000B 0000:_auxGetMouseLoc@8 (REF 0007: _tkGetMouseLoc@8)
+        FF25:
+          0. 00 0000 000C 0000:_FreeMemory@4
+      66:
+        837D0800535657740F8B72348B5A3083622C00E9B50000008B7A:
+          0. FF E313 0134 (l)0000:_InflateStored@8
+        8B:
+          4518568B75086689865C0100008B45148986600100008B450C:
+            0. 17 CC5B 0078 0000:_DComp_DecompressBlock@20
+          915C010000538B5D0856570FBFFB0FB7C23BC772788BB15001:
+            0. 8D B1A2 00AD 0000:@DComp_Token_Match@12
+      6800000200FF15........FF:
+        35........FF15........837D0C00:
+          0. 0E A6AA 005D 0000:_auxDrawStrAW@8
+        7508FF15........8B450C8D48018A:
+          0. 13 5956 0041 0000:_tkDrawStr@8
+      6A:
+        00:
+          6A02FF7508E8........5DC20400:
+            0. 00 0000 0015 0000:_OpenStream@4
+          FF7508:
+            E8........5DC20400:
+              0. 00 0000 0013 0000:_tkInitWindow@4 (REF 000B: _tkInitWindowAW@8)
+              1. 00 0000 0013 (!)0000:? (REF 000B: _tkRGBImageLoadAW@8)
+              2. 00 0000 0013 0000:_auxDrawStrA@4 (REF 000B: _auxDrawStrAW@8)
+              3. 00 0000 0013 0000:_auxInitWindowA@4 (REF 000B: _auxInitWindowAW@8)
+            FF15........5DC20400:
+              0. 00 0000 0014 0000:?GetDataWindowData@@YGPAUDataWindowData@@PAUHWND__@@@Z
+        01:
+          68F50C0000FF15........A0........84C0745856BE:
+            0. 00 0000 007A 0000:_tkCreateBitmapFont@4
+          FF7508E8........5DC20400:
+            0. 00 0000 0013 0000:_auxRGBImageLoadW@4 (REF 000B: _tkRGBImageLoadAW@8)
+            1. 00 0000 0013 0000:_auxDIBImageLoadW@4 (REF 000B: _tkDIBImageLoadAW@8)
+            2. 00 0000 0013 0000:_auxDrawStrW@4 (REF 000B: _auxDrawStrAW@8)
+            3. 00 0000 0013 0000:_auxInitWindowW@4 (REF 000B: _auxInitWindowAW@8)
+      81:
+        7D:
+          08000000805657751133FF897D08C705........01000000EB:
+            0. 03 BD65 006B 0000:_tkInitPosition@16
+          0CFFFFFF7F76:
+            07B857000780:
+              5DC38D45:
+                1450FF7510FF750CFF:
+                  0. 03 2FDA 0029 0000:_StringCchPrintfW (REF 0023: _StringVPrintfWorkerW@16)
+                  1. 03 2FDA 0029 0000:_StringCchPrintfA (REF 0023: _StringVPrintfWorkerA@16)
+                2050FF751CFF7518FF:
+                  0. 0F 199C 0035 0000:_StringCchPrintfExA
+              EB:
+                1AFF751CFF7518FF7514FF75:
+                  0. 0B B108 0033 0000:_StringCchCopyExA@24 (REF 002B: _StringCopyExWorkerA@28)
+                  1. 0B B108 0033 0000:_StringCchCatExA@24 (REF 002B: _StringCatExWorkerA@28)
+                1DFF7520FF751CFF7518FF75:
+                  0. 0E E21D 0036 0000:_StringCchVPrintfExA@28 (REF 002E: _StringVPrintfExWorkerA@32)
+                  1. 0E E21D 0036 0000:_StringCchCopyNExA@28 (REF 002E: _StringCopyNExWorkerA@32)
+                  2. 0E E21D 0036 0000:_StringCchCatNExA@28 (REF 002E: _StringCatNExWorkerA@32)
+            09B8570007805DC2:
+              0C005DE9:
+                0. 00 0000 001D 0000:_StringCchCopyW@12 (REF 0019: _StringCopyWorkerW@12)
+                1. 00 0000 001D (!)0000:? (REF 0019: _StringCopyWorkerA@12)
+                2. 00 0000 001D 0000:_StringCchCatW@12 (REF 0019: _StringCatWorkerW@12)
+              10005DE9:
+                0. 00 0000 001D 0000:_StringCchVPrintfW@16 (REF 0019: _StringVPrintfWorkerW@16)
+                1. 00 0000 001D (!)0000:? (REF 0019: _StringVPrintfWorkerA@16)
+                2. 00 0000 001D 0000:_StringCchCatNW@16 (REF 0019: _StringCatNWorkerW@16)
+        EC:
+          04:
+            010000A1........8945FC8D450C50FF75088D85FCFEFFFF:
+              0. 02 F6B7 0057 0000:_PrintMessage
+            030000A1........:
+              8945FC8B450C538B5D08B9462700003B:
+                0. 1F EF72 03D3 0000:_WSA_perror@8
+              8B4D0C8945FC538B5D088D41FF3D9700:
+                0. 0C 3B7F 06B8 0000:_s_perror@8
+          080100008B0D........85C9A1........538B5D0C56578B7D:
+            0. 08 0E83 00B1 0000:_HtmlHelpA@16 (0051: 0E)
+            1. 08 0E83 00B1 0000:_HtmlHelpW@16 (0051: 0F)
+          0C010000:
+            8365FC00837D1C000F8E6A020000DB451C53568B35:
+              0. 00 0000 0287 0000:_doughnut@28
+            A1........5356578B7D08688C0000008945FCE8:
+              0. 00 0000 02FF 0000:_RawImageOpenAW@8
+          10050000538B5E28578B7E246A055AEB2E8B46188B4E143BC1:
+            0. F5 1C4D 045F (l)0000:_InflateDynamic@4
+          18010000A1........538945FC8B450C568B75088B8E480200:
+            0. 58 8548 00D8 0000:_lzx_output_block_callback
+          2003000057A3........890D........8915........891D:
+            0. 00 0000 00E0 0000:___report_gsfailure
+          24:
+            010000A1........83A5ECFEFFFF008945FC8B450C53568B:
+              0. 30 17C5 0631 0000:_FlushCab@20
+            0300008B450883F8027D036A07585356576A01A3:
+              0. 02 ABB7 0375 0000:_wireTeapot@12 (0319: 01)
+              1. 02 ABB7 0375 0000:_solidTeapot@12 (0319: 02)
+          34010000A1........5333DB395D0C568B750853536A03536A:
+            0. 32 FC92 055D 0000:_tkDIBImageLoadAW@8
+          38080000A1........8B4D1C85C98B55088945FC8B4518568B:
+            0. F3 3AA0 02A4 0000:_split_block@24
+          58020000A1........8B4D1C538B5D08568B750C8945FC8B45:
+            0. 43 C3E0 09DA 0000:_AddFolderToCabinet@24
+          84040000576A08586A70B9900000008DBD7CFBFFFFF3AB596A:
+            0. 25 CFB6 00BE (l)0000:_InitFixed@0
+          880500008365C80053568B750C81FE200100008BD876086A02:
+            0. FF 2185 0384 (l)0000:_HuftBuild@40
+          9C0C0000A1........8945FC8B4508898574F3FFFF8B450C89:
+            0. FF DED8 02EB (l)0000:_return_difference@24
+          A000000056576A1033C0598DBD64FFFFFFF3AB33F633C93975:
+            0. FF B1D4 020C 0000:_make_table@24
+          A80000008B450C5356578D34408B45088D3C408D45D0508D34:
+            0. 01 5A50 0109 0000:_pentagon@24
+          B0010000DD05........53DD9550FEFFFF56D9EE57DD9D58FE:
+            0. FF D828 0275 0000:_drawbox@52
+          C0000000538B5D10568B7508578B7D0C8D45E82BF02BF833C0:
+            0. 4D 9582 0172 0000:_recorditem@32
+          C4000000A1........53568B750C8945FC8B4508578BD98985:
+            0. 88 D378 0249 (l)0000:_WriteRepTree@16
+          E8020000A1........568945FC8B4510578BF989BD18FDFFFF:
+            0. 0C 8B93 0315 (l)0000:_ReadRepTree@16
+      83:
+        3D........00:
+          74:
+            075DFF25........6AFA585DC3:
+              0. 00 0000 001A (!)0000:?
+            116A008D450850FF75086A61FF15........5D:
+              0. 03 8E1E 0023 (l)0000:_HogMachine@4
+          75:
+            0DE8........85C0740433C05DC368:
+              0. 05 1170 002B 0000:_GetDTCStatusW (REF 001C: ??_C@_1M@MLKMMDOA@?$AAM?$AAS?$AAD?$AAT?$AAC?$AA?$AA@)
+              1. 05 1170 002B 0000:_GetDTCStatusA (REF 001C: ??_C@_05CGNPKHDF@MSDTC?$AA@)
+            10E8........85C07407B8054000805DC368:
+              0. 00 0000 002E 0000:_StartDTCW (REF 0028: ?pfnMtxCluBringOnlineDTCW@@3P6GJPAG0@ZA)
+              1. 00 0000 002E 0000:_StartDTCA (REF 0028: ?pfnMtxCluBringOnlineDTCA@@3P6GJPAD0@ZA)
+              2. 00 0000 002E 0000:_StopDTCW (REF 0028: ?pfnMtxCluTakeOfflineDTCW@@3P6GJPAG0@ZA)
+              3. 00 0000 002E 0000:_StopDTCA (REF 0028: ?pfnMtxCluTakeOfflineDTCA@@3P6GJPAD0@ZA)
+        7D:
+          0800:
+            568B75107417817D0CFFFFFF7F770E56FF750CFF7508E8:
+              0. 00 0000 003B 0000:_StringCchLengthA@12 (REF 0020: _StringLengthWorkerA@12)
+              1. 00 0000 003B 0000:_StringCchLengthW@12 (REF 0020: _StringLengthWorkerW@12)
+            74075DFF25........5DC20400:
+              0. 00 0000 0016 0000:_DestroyThisWindow@4
+            7507B857000780EB27566A10FF7508FF15........8BF0:
+              0. 09 F822 003D 0000:_MMCFreeNotifyHandle@4
+          0C:
+            00567E278B7510566A28FF750CFF7508FF15........3945:
+              0. 1A 0901 003A 0000:_IsPixelFormatValid@12
+            0175:
+              05E8........33C0405DC20C00:
+                0. 00 0000 0017 0000:__DllMainCRTStartupForGS2@12
+              0EFF7508FF15........E8........33C0405DC20C00:
+                0. 00 0000 0020 0000:__DllMainCRTStartupForGS@12
+            027510FF7514FF7510FF7508E8........EB2F837D0C0175:
+              0. 0B 05BD 004E (l)0000:_decode_block@16
+            107522A1........8B4D08C1E003FF05........8988:
+              0. 00 0000 007F 0000:_auxMouseFunc@12
+          10007F0433C0EB5A53568B75088B8630430000FF751003450C:
+            0. 03 2B83 006D 0000:_comp_read_input@12
+        EC:
+          0C:
+            53:
+              56:
+                33DB8BF0395E24895DF8C745FC020000000F84250200:
+                  0. 88 0752 027C (l)0000:_deflate@4
+                8B75:
+                  085733FFF745:
+                    2000E0FFFF8BDE897DFC895D0889:
+                      0. 36 6F49 0196 0000:_StringCatExWorkerA@28
+                    2400E0FFFF8BDE897DFC895D0889:
+                      0. 42 FCE2 01A9 0000:_StringCatNExWorkerA@32
+                  0C:
+                    5733FF3BF7740B8B46043BC77E048BC8EB0233:
+                      0. 1C E568 0147 0000:_putmsg@16
+                    85F6:
+                      570F84EF0000008B460885C00F8CE40000:
+                        0. 17 6E92 0117 (l)0000:_s_sioctl@8
+                      740A8B0685C07E048BC8EB0233C98B4510:
+                        0. 18 30C4 0157 0000:_getmsg@16
+              FF35........E8........33DB3BC38945F80F84AB0000:
+                0. 08 C2D9 00CF 0000:_tkSetGreyRamp@0
+            5633F63935........0F84900000003935........7405E8:
+              0. 00 0000 00AA 0000:_LoadPwdDLL@0
+            5733FF397D0C0F86:
+              3003000053568B7508897D088B563433:
+                0. FF C552 0349 0000:_encode_verbatim_block@8
+              4604000053568B7508897DFC8B563433:
+                0. FF B66F 045F 0000:_encode_aligned_block@8
+            66837D18008B4D100FB70C4D........8B4224894DF88B4D:
+              0. 05 D8D2 0357 (l)0000:_InflateCodes@24
+            813D........000100000F84150100008365FC005356B8:
+              0. 00 0000 0134 0000:_tkCreateOutlineFont@4 (003F: 03) (REF 000A: _outlineFont)
+              1. 00 0000 0134 0000:_tkCreateStrokeFont@4 (003F: 03) (REF 000A: _strokeFont)
+              2. 00 0000 0134 0000:_tkCreateFilledFont@4 (003F: 05)
+            8B:
+              4508FF4804568B30578D50080F859800000033C985F6C7:
+                0. 9C 6E2D 00BC 0000:_Lz_Bump@4
+              5508535633F639750C57BB080100007E108B4D0C8BC283:
+                0. 8E 7A85 00EC 0000:_CrTempFiles@32
+          10:
+            33C96639484857894DF8894DF0894DF4884DFF0F84DF0000:
+              0. 58 AF9A 011B (l)0000:_compress_block@12
+            53:
+              56:
+                578B7D0833F6F745:
+                  2000E0FFFF8BDF8975FC895DF889:
+                    0. 36 3466 019F 0000:_StringCatExWorkerW@28
+                  2400E0FFFF8BDF8975FC895DF889:
+                    0. 42 7B74 01B3 0000:_StringCatNExWorkerW@32
+                8B7508:
+                  0FB78EB20000008BC15783E00F33FF2BC78D96:
+                    0. 49 C983 01C3 0000:_MDICreateDecompressionGlobal@4
+                  8B06578B7D248945F48B4518894628578D4508:
+                    0. 30 4BF0 0213 0000:_AddFileToFolder@32
+              6A0FFF15........68........6A1433DB5350FF15:
+                0. 00 0000 014B 0000:_UpdateStaticMapping@4
+              8BD885DB75046A16EB2D8B430485C07F046A22EB228B4B:
+                0. 13 CCCC 012A (l)0000:_s_fdinsert@8
+            566A088945FC8D45F8506A08506804001E008D45F05033F6:
+              0. 0F F1E4 0074 (l)0000:_s_unlink@8
+            834DF4FF53560FB771025733DB85F66A075AC745F8040000:
+              0. 57 1F09 012D (l)0000:_send_tree@12
+            A1........85C074073D40BB0000754D568D45F850FF15:
+              0. 00 0000 006E 0000:___security_init_cookie
+            DD05........D9FADC05........DC3D........DD55F8DC:
+              0. 0B 606B 0218 0000:_initdodec@0
+          14:
+            538B5D:
+              08668B837801000056668945F88B55F8578BCBE8:
+                0. 00 0000 05D0 0000:_Lz_NextToken@4
+              0C5633F63935........578B3D........755A3935:
+                0. 00 0000 01F2 0000:_DefScreenSaverProc@16
+            668B563C8B46140FB7CA03C86681FAFA7E538B5D088D8102:
+              0. FF 0169 0150 (l)0000:_longest_match@8
+            834DF8FF568B75088B4E108B5604578B3E8363400033C085:
+              0. 9C F0D4 01A1 (l)0000:_build_tree@8
+            8B:
+              450885C053565774258B7D0C85FF761E83FF1477198BF7:
+                0. 1B E159 0114 0000:_poll@12
+              55088A82B42E00008B:
+                4D1088450B8B82B02E00008945FC:
+                  0. FF 35A1 039A 0000:_fast_decode_aligned_offset_block@12
+                8AB02E0000538B9A042B00008845:
+                  0. FF F4CE 0312 0000:_fast_decode_verbatim_block@12
+              8AB02E00008A82B42E0000894DF88B8A042B0000894DF4:
+                0. FF 4088 0312 (l)0000:_special_decode_verbatim_block@12
+            A1........:
+              538B5D0883FB068945FC7F0B01999C090000E9:
+                0. 95 AC29 00BD (l)0000:_encoder_translate_e8@12
+              8B4D088B550C538B5D1083FB068945FC7F0B01:
+                0. 98 5263 00C0 0000:_decoder_translate_e8@12
+          18:
+            8A82B42E00008B4D088845FF8B82082B00008945F08B0289:
+              0. FF A460 03BA (l)0000:_special_decode_aligned_block@12
+            8B:
+              450C8B4D0833D283C018DD401842DC4910DD40E8DC09DE:
+                0. 27 965E 0047 0000:_xformvec3@12
+              55088B028B4A08568B750C0FB704068D0C818B013B4510:
+                0. FF 4568 0129 0000:_quick_insert_bsearch_findmatch@12
+            8D45E850FF750CFF7508E8........8D45E850E8:
+              0. 04 864F 0024 0000:_dist3@8
+            A1........8B4D0869C0C800000033D205........3915:
+              0. 00 0000 0074 0000:_m_xformptonly@8
+            D9EE56DD5DE86A08D9EEDD5DF0D9EEDD5DF8E8........8B:
+              0. 11 1EBD 007D 0000:_auxWireTetrahedron@8
+              1. 11 5F7C 007D 0000:_auxSolidTetrahedron@8
+              2. 11 605E 0083 0000:_auxSolidDodecahedron@8
+              3. 11 8136 0083 0000:_auxWireDodecahedron@8
+              4. 11 8765 007D 0000:_auxSolidOctahedron@8
+              5. 11 AE8E 007D 0000:_auxWireIcosahedron@8
+              6. 11 C6A4 007D 0000:_auxWireOctahedron@8
+              7. 11 DE73 007D 0000:_auxSolidIcosahedron@8
+          1C:
+            5333DB391D........0F85C1000000391D........0F85B5:
+              0. 05 A965 00DF (l)0000:_DoPasswordCheck@4
+            56:
+              6A00BE000400005656FF35........8D45E450FF15:
+                0. 00 0000 0038 0000:_DelayPaletteRealization@0
+              FF35........E8........33F63BC68945E40F84EA0000:
+                0. 08 4685 0110 0000:_tkSetFogRamp@8
+            6A006A0F6A0FFF75088D45E450FF15........85C0750B50:
+              0. 06 8808 002E 0000:_ForceRedraw@4
+          24:
+            33C03905........8945FC8945F00F8EC30000008B4D1053:
+              0. 27 BA98 00E6 0000:_MouseDown@12 (0067: 10)
+              1. 27 BA98 00E6 0000:_MouseUp@12 (0067: 20)
+              2. 27 BA98 00E6 0000:_MouseLoc@12 (0067: 40)
+            538B5D0856578D83B905000050BE01010000568DBBBA0600:
+              0. 03 7533 02A6 0000:_LoginCabinet@16
+            568B75086A248D45DC50FF750CFF561083C40C83F824751F:
+              0. 1B 7D3B 008E 0000:_FDIIsCabinet
+            8B4D088B018B510853568B750C0FB704068D04828B108930:
+              0. FF 74ED 0295 0000:_binary_search_findmatch@8
+            A1........8945FC8B450833D25333DB33C94257052C1000:
+              0. 3B 08D6 0077 (l)0000:_gen_codes@12
+          28:
+            53FF35........E8........8BD885DB745F8D45D850FF35:
+              0. 00 0000 007E 0000:_tkSetRGBMap@8
+            833D........000F85A30000008D45D850FF7508E8:
+              0. 00 0000 00C1 0000:_CreateRGBPalette@4
+            8B:
+              48088365FC00894DE08B480C538B18894DEC8B48185657:
+                0. FF 4E8D 01A6 (l)0000:_gen_bitlen@8
+              4D0CF6C10266C745D8280066C745DA0100C745DC240000:
+                0. 7A E8DF 00A4 0000:_FindBestPixelFormat@12
+            A1........:
+              5633F683F80375118D45D850FF750CFF7508E8:
+                0. 00 0000 0090 0000:_FindPixelFormat@8
+              668365D800668365DA008945FC8B450833C941:
+                0. 49 C540 0071 (l)0000:_make_code@16
+          2C53:
+            33DB395D080F840F010000391D........0F8503010000:
+              0. 08 D53C 012D 0000:_CreateCIPalette@4
+            5633F63935........57741C8D45F050FF35........FF:
+              0. 01 54B7 00AA 0000:_tkExec@0
+          30:
+            8365FC00568B7508576A006802800000FF750CFF560C8BF8:
+              0. FF 5E77 0131 0000:_FDITruncateCabinet
+            8B450C53568B75088B9E5804000003C38945EC8D86840900:
+              0. 25 91C9 07F1 0000:_opt_encode_top@8
+            8D45D050FF7508FF750CE8........8D45E850FF7510FF75:
+              0. 02 A1CD 0042 0000:_perpnorm@16
+            A1........69C0C800000033C95605........390D:
+              0. 00 0000 00CB 0000:_m_xformpt@16
+          348365F8008365F400538B5D0C5657C745FC010000008D45CC:
+            0. 0B 39AA 0121 0000:_FindExactPixelFormat@12
+          3C53565733F6568975FCFF15........68........8BD8C705:
+            0. 00 0000 028D 0000:_tkInitWindowAW@8
+          445657FF15........8B3D........8BF0:
+            668B06663D220075:
+              0. 4E 6D3D 009B 0000:_DummyEntry@0
+            8A063C22751756FF:
+              0. 3E 4F8B 008B 0000:_DummyEntry@0
+          54A1........538945FC8B450856508D45B450FF15:
+            0. 0C 3CA6 00D2 0000:_s_open@12
+          5CA1........:
+            538B5D0C568B7510576A085A8945FC8BCA33C0:
+              0. FF 9FFC 012C 0000:_make_table_8bit@12
+            568B7508578945FC8D45B8506A0133FF5768:
+              0. 00 0000 00C8 0000:_GetRegistrySysColors@8
+          70A1........538B5D10568B75088945FC578B7D0CB8000200:
+            0. 43 38FE 042D 0000:_tkWndProc@16
+          7853:
+            56576A64FF35........33DB895DA0FF15........6A04:
+              0. 09 DC88 01FF (l)0000:_DoScreenSave@4
+            8B5D08565733FF85DB897DF80F8E94010000C745F40100:
+              0. FF D4DE 035D 0000:_subdivide@36
+      8A4508A2........5DC20400:
+        0. 00 0000 0011 0000:_tkErrorPopups@4
+      8B:
+        45:
+          08:
+            33:
+              C9:
+                4133D289480C8948108948148990C02E00008990102B:
+                  0. 2A B4D4 004A 0000:_decoder_misc_init@4
+                8D940840250000803A007503C6020B4181F900010000:
+                  0. 3E ED20 0066 0000:_fix_tree_cost_estimates@4
+                C7002143414289480489480866C7401803016689481A:
+                  0. 15 9D0B 0035 0000:_InitCFHEADER@4
+              D233C93BD17504D9E8EB02D9EEDD184183C00883F9037C:
+                0. 0B 9E62 002B 0000:_identifymat3@4
+            3D0D0000C074413D0E0000C074363D220000C0742B3D9A00:
+              0. 37 9535 0057 0000:_MapNtToPosixStatus@4
+            50A3........E8........5DC20400:
+              0. 00 0000 0017 0000:_auxInitDisplayMode@4
+            56:
+              578B7D0C8D4FFF32D285C97C238B702C8D348E833E0276:
+                0. 5D E4DD 007D 0000:_get_final_repeated_offset_states@8
+              8B:
+                3485........EB15FF7510FF750CFF760CE8:
+                  0. 16 74B0 0036 0000:_findList@12
+                B0B02E00006A2059FF750C2B4D0C50D3EEE8:
+                  0. 07 C758 0027 0000:_getbits@8
+              8DB05C0800008B0E85C9740B51FF904843000083260059:
+                0. 05 765D 0025 0000:_free_compressed_output_buffer@4
+              FF751C8B75100130836510008D4D105156FF750CFF7004:
+                0. 14 223C 0043 0000:_WriteCount@24
+            578BB80C2B000085FF74388B4D0C8BD1568B7510C1E902F3:
+              0. 27 5AC4 0050 0000:_copy_data_to_output@12
+            8138:
+              4C:
+                434943:
+                  74:
+                    056A02585DC3:
+                      8B4D0C89481033C05DC3:
+                        0. 00 0000 001F 0000:_LCISetTranslationSize
+                      FF7014E8........33C05D:
+                        0. 01 EF04 0021 0000:_LCIFlushCompressorOutput (REF 0019: _LZX_EncodeFlush@4)
+                        1. 01 EF04 0021 0000:_LCIResetCompression (REF 0019: _LZX_EncodeNewGroup@4)
+                    0A8B451083200033C05DC3FF7510FF750C:
+                      0. 04 6320 002A 0000:_LCIGetInputData
+                  75138B480C394D10770B81C100180000394D:
+                    0. 18 93D8 0054 0000:_LCICompress
+                44494374056A02585DC3FF7028E8........33C05D:
+                  0. 01 EF04 0021 0000:_LDIResetDecompression
+              4D43494374056A02585DC3C640200033C05DC3:
+                0. 00 0000 001D 0000:_MCIResetCompression
+              5144494374056A02585DC350E8........33C05DC3:
+                0. 00 0000 001F 0000:_QDIResetDecompression
+            83:
+              60140053C7450810000000BA000100005666D1A0400100:
+                0. 72 37AF 0092 0000:_Arith_Init@4
+              80042B0000FE8B88042B000083C1043B88082B00007204:
+                0. 45 AC65 0065 0000:_handle_beginning_of_uncompressed_block@4
+              A0:
+                9C090000005DC20400:
+                  0. 00 0000 0013 0000:_reset_translation@4
+                C82E0000005DC20400:
+                  0. 00 0000 0013 0000:_init_decoder_translation@4
+            8A501833C98ACA568B75102B4D0CD3E68ACA2A4D0C097014:
+              0. 5E BDD0 007E 0000:_output_bits@12
+            8B:
+              00:
+                2D4D444943F7D81BC083E0025DC3:
+                  0. 00 0000 0018 0000:_MDIResetDecompression
+                8B4D18050018000089018B451C85C075025DC3832000:
+                  0. 80 4A12 00BD 0000:_LDICreateDecompression
+              40288B088B550C890A8B88102B00003B480473198B4D14:
+                0. 3F 014F 005F 0000:_LDIGetWindow
+              4D0C:
+                2888B42E0000D3A0B02E00008A90B42E000084D257:
+                  0. 97 6EB4 00B7 0000:_fillbuf@8
+                89088B4D10894804C74008010000005DC20C00:
+                  0. 00 0000 001E 0000:_ErfSetCodes@12
+                8B100FB71411568B70088D1496390A751E538B5D10:
+                  0. 76 38AB 0096 0000:_binary_search_remove_node@12
+                DD4010DC4910DD4008DC4908DEC1DD00DC09DEC15D:
+                  0. 03 2EB7 0023 0000:_dot3@8
+            A3........:
+              33C0405DC20400:
+                0. 00 0000 0014 0000:_tkInitDisplayModeID@4
+              5DC20400:
+                0. 00 0000 0011 0000:_tkExposeFunc@4 (REF 0009: _ExposeFunc)
+                1. 00 0000 0011 0000:_tkReshapeFunc@4 (REF 0009: _ReshapeFunc)
+                2. 00 0000 0011 0000:_tkDisplayFunc@4 (REF 0009: _DisplayFunc)
+                3. 00 0000 0011 0000:_tkKeyDownFunc@4 (REF 0009: _KeyDownFunc)
+                4. 00 0000 0011 0000:_tkMouseDownFunc@4 (REF 0009: _MouseDownFunc)
+                5. 00 0000 0011 0000:_tkMouseUpFunc@4 (REF 0009: _MouseUpFunc)
+                6. 00 0000 0011 0000:_tkMouseMoveFunc@4 (REF 0009: _MouseMoveFunc)
+                7. 00 0000 0011 0000:_tkIdleFunc@4 (REF 0009: _IdleFunc)
+                8. 00 0000 0011 (!)0000:? (REF 0009: _windInfo)
+                9. 00 0000 0011 0000:_seterrorfunc@4 (REF 0009: _errfunc)
+            DD:
+              008B4D0C:
+                DC:
+                  018B5510DD1ADD4008DC4108DD5A08DD4010:
+                    0. 0A 5D24 002A 0000:_add3@12
+                  218B5510DD1ADD4008DC6108DD5A08DD4010:
+                    0. 0A 64D3 002A 0000:_diff3@12
+                DD19DD4008DD5908DD4010DD59105DC20800:
+                  0. 00 0000 001F 0000:_copy3@8
+              4010DD4008DD00D9C0D8C9D9C2D8CBDEC1D9C3D8CCDEC1:
+                0. 0C BE4E 002C 0000:_length3@4
+            FF:
+              7010FF7510FF750C6A00FF7004FF30E8........F7D81B:
+                0. 05 DF7A 0025 0000:_FCIFlushFolder
+              B044010000FF500859E8........5DC20400:
+                0. 00 0000 001B 0000:_DComp_Close@4
+          0C:
+            2D02530000746583E806745383E804744148743183E80374:
+              0. 0A BE25 0083 0000:_s_ioctl@12
+            3DFFFFFF7F7607B857000780:
+              5DC38D4D2051FF751C8D0C00:
+                0. 0F AB9A 0035 0000:_StringCchPrintfExW
+              EB:
+                19FF751C8D0C00FF7518FF:
+                  0. 0B EDC6 0033 0000:_StringCchCopyExW@24 (REF 002B: _StringCopyExWorkerW@28)
+                  1. 0B EDC6 0033 0000:_StringCchCatExW@24 (REF 002B: _StringCatExWorkerW@28)
+                1CFF75208D0C00FF751CFF:
+                  0. 0E 03E5 0036 0000:_StringCchVPrintfExW@28 (REF 002E: _StringVPrintfExWorkerW@32)
+                  1. 0E 03E5 0036 0000:_StringCchCopyNExW@28 (REF 002E: _StringCopyNExWorkerW@32)
+                  2. 0E 03E5 0036 0000:_StringCchCatNExW@28 (REF 002E: _StringCatNExWorkerW@32)
+            5333DB85C07507BB57000780EB:
+              2F5657FF75148B7D08FF75:
+                0. 07 6679 004C 0000:_StringVPrintfWorkerA@16
+              305657FF75148B7D08FF75:
+                0. 07 6679 004D 0000:_StringVPrintfWorkerW@16
+            568B75088986940900008B45108986980900008B45185689:
+              0. 06 AA5C 004D 0000:_LZX_Encode@20
+            803843753E8078014B75388D48028B45088948088B4D1083:
+              0. 32 7747 0052 0000:_NFM_Prepare@20
+            83E8000F8480000000487442488B45080F85AE0000008D04:
+              0. 06 7BD4 00F2 0000:_drawtriangle@32
+            8D48018A104084D275F9FF75182BC1FF751440FF751050FF:
+              0. 06 0888 002E 0000:_WritePszTmp@20
+            D1E83DFFFFFF7F7607B857000780:
+              5DC38D4D1451FF751050:
+                0. 04 EF25 002A 0000:_StringCbPrintfW
+              EB:
+                0CFF751050FF7508E8:
+                  0. 00 0000 0028 0000:_StringCbCopyW@12 (REF 0020: _StringCopyWorkerW@12)
+                  1. 00 0000 0028 0000:_StringCbCatW@12 (REF 0020: _StringCatWorkerW@12)
+                0FFF7514FF751050FF:
+                  0. 03 2FDA 002B 0000:_StringCbVPrintfW@16
+                128B4D14D1E951FF75:
+                  0. 06 6C19 002E 0000:_StringCbCatNW@16
+          10:
+            568B75088986E02E00008B45148986E42E00008B45188986:
+              0. 3A 1EF9 0074 0000:_LZX_DecodeInit@36
+            8B4D:
+              088B91042B000053568B750C578D3C063BF78BDE895D:
+                0. 6C 3720 008C 0000:_decode_uncompressed_block@12
+              14568B75088986042B00008D4408048986082B00008B:
+                0. 0A 9284 005E 0000:_LZX_Decode@28
+            DD4508DC088B4D14DD19DD4508DC4808DD5908DD4508DC48:
+              0. 08 EEA7 0028 0000:_scalarmult@16
+          18832000538B5D088B0385C05657BF0080000074043BC77602:
+            0. 16 28BE 00DA 0000:_MCICreateCompression
+          1C83200056578B7D106A18FFD78BF085F659741B6850430000:
+            0. 31 8FFA 0094 0000:_LCICreateCompression
+          208B4D18538B5D088943188B451C89431C8B4514568B750C89:
+            0. 32 829E 00EF 0000:_NFMcompress@36
+        4D:
+          08:
+            0F:
+              B6815C05000083C0123B8170080000732A568D34C50001:
+                0. 28 A586 0048 0000:_prevent_far_matches@4
+              B741020FB711C1E0100BC283F80C74150FB741220FB751:
+                0. 3B 37A3 005B 0000:_DibNumColors@4
+            568B750C8BC6C1E80285C0578B7D107E24530FB61133DB41:
+              0. 46 99DE 0066 0000:_CSUMCompute@12
+            81395144494374046A02EB0C8B45188B003B410C76056A03:
+              0. 0F A27D 003D 0000:_QDIDecompress
+            83B9D82E00000374418B81042B0000568D70043BB1082B00:
+              0. 36 1300 0056 0000:_initialise_decoder_bitbuf@4
+            8A41183C207D0E2C100FB6C06A005051E8........5DC204:
+              0. 01 78F0 0021 0000:_flush_output_bit_buffer@4
+            8B51048B81580400002BC23BC28B550C730F8322008B5510:
+              0. 25 09D0 0045 0000:_LZX_GetInputData@12
+          0C:
+            85C98B45088B55108908895008740885D2740433C0EB0383:
+              0. 06 E56C 0026 0000:_NFMcompress_init@12
+            8B45:
+              08:
+                6A095ADD0183C108DD1883C0084A75F35DC20800:
+                  0. 00 0000 001F 0000:_copymat3@8
+                DD4110DC4808DD4010DC4908DEE9DD4010DC09DD00:
+                  0. 28 FB5C 0048 0000:_crossprod@12
+              14D1E9BAFFFFFF7FD1E83BCA77133BC2770F50FF7510:
+                0. 05 6068 0034 0000:_StringCbCopyNW@16
+            DD018B5508DD02DAE9DFE0F6C4447A23DD4108DD4208DAE9:
+              0. 21 15EB 0041 0000:_samepoint@8
+          10:
+            66F7C1FF7F8B45208B550C568B7508898640430000895604:
+              0. 3A 444E 0074 0000:_LZX_EncodeInit@28
+            8B4508D3F88B4D0C49742049741249740432C0EB1F83E007:
+              0. 02 F3FA 0040 0000:_ComponentFromIndex@12
+        55:
+          08:
+            0FB682B52E0000568D04C500010000BEA00200003BC6577C:
+              0. 6B D684 008B 0000:_reset_decoder_trees@4
+            53:
+              56578B7D0C33C033C9C1EF0374168B72340FB61C0E0FB6:
+                0. 3F 3A94 005F 0000:_get_distances_from_literals@8
+              576A0581C2FFFEFFFF5FE8........8B5D0C4B8BD3E8:
+                0. 00 0000 007A (l)0000:_send_all_trees@16
+            568B750CB8010100003BF07D:
+              292BC63B45107C038B451050:
+                0. 02 26E3 004D 0000:_decode_verbatim_block@12
+              3C2BC63B45107C038B451050:
+                0. 02 26E3 0060 0000:_decode_aligned_offset_block@12
+            85D27507B803400080EB1E8B4A20B8........3BC87507B8:
+              0. 08 A2A8 0035 0000:_MMCPropPageCallback@4
+            8B8A7008000083C120C1E10456578BF1C1E90233C08DBAF8:
+              0. 25 7F8C 004F 0000:_get_block_stats@16
+          0C:
+            33C085D2745C8B4D08535689550CBE000100008B5114D1E0:
+              0. 4E CA99 006E 0000:_Arith_Decode_Bits@8
+            8B0253568B75088B4E203BC15789461C7603894E1C8B7E1C:
+              0. 30 F97E 0098 0000:_NFM_Decompress@8
+      A1........:
+        5733FF85C074275633F685C07E1F8B45083B04F5:
+          0. 00 0000 003F 0000:_KeyDown@8
+        69C0C800000005........8325........006A038D48:
+          0. 5E 6723 007E 0000:_m_scale@24
+        8325........0069C0C800000005........6A0483C0:
+          0. 26 C77D 0046 0000:_m_translate@24
+        85C074035DFFE0803D........0074176A0068:
+          0. 00 0000 0039 0000:_error@4
+        8B4D08C1E003FF05........8988........8B4D0C89:
+          0. 01 38F8 0029 0000:_auxKeyFunc@8
+      B8FFFFFF7F39450C770B39451477065DE9........B8570007805D:
+        0. 03 7FEC 0023 0000:_StringCchCopyNW@16 (REF 0016: _StringCopyNWorkerW@16)
+        1. 03 7FEC 0023 0000:_StringCchCopyNA@16 (REF 0016: _StringCopyNWorkerA@16)
+      D9451483EC0CD95C2408D94510D95C2404D9450CD91C24FF7508E8:
+        0. 00 0000 0028 0000:_auxSetOneColor@16
+      E8........8B45088B884401000083A0500100000083A06C010000:
+        0. 12 EA17 003A 0000:_DComp_Reset@4
+      FF:
+        35........:
+          E8........85C0741B6A0068........FF750868D3:
+            0. 05 4566 0033 (l)0000:_DoConfigBox@4
+          FF15........84C0750FDD45085151DD1C246A:
+            0AE8:
+              0. 00 0000 0034 0000:_auxWireTeapot@8
+            0EE8:
+              0. 00 0000 0034 0000:_auxSolidTeapot@8
+        75:
+          08:
+            6A:
+              00FF15........5DC20400:
+                0. 00 0000 0014 0000:_AllocateMemory@4
+              40FF15........5DC20400:
+                0. 00 0000 0014 0000:_AllocateZeroedMemory@4
+            E8........:
+              5DE9:
+                0. 00 0000 0013 0000:_auxReshapeFunc@4
+              E8........5DC20400:
+                0. 00 0000 0016 0000:_auxMainLoop@4
+            FF550C595DC20800:
+              0. 00 0000 0010 (!)0000:?
+          10FF750CFF7508FF15........5DC3:
+            0. 00 0000 0016 0000:___InlineInterlockedCompareExchangePointer
+          148B4D108B450C8B5508E8........5DC21000:
+            0. 00 0000 001A 0000:_update_cumulative_block_stats@16
+    56:
+      33F63935........74:
+        2AA1........3BC6742150FF15........3935:
+          0. 00 0000 0039 0000:_UnloadPwdDLL@0
+        463935........74186A016A0FFF15........50:
+          0. 02 A996 00D4 0000:_CleanUp@0
+      68........FF15........:
+        6A008BF05668........FF15........85C0:
+          0. 05 634D 0036 0000:?FLoadXoleHlp@@YGHXZ
+        85C0A3........0F84AA0000008B35:
+          0. 00 0000 00D3 0000:_Initialize
+      8B:
+        35........85F67419566A0068........FF15........3BF0750756:
+          0. 02 ABB7 0028 0000:_FreeDtcHelper
+        F156FF15........8BC65EC3:
+          0. 00 0000 0010 0000:??0CSemExclusiveLocal@@QAE@XZ
+      8D88B0000000BE1E01000033D266891183C1044E75F76A1E8D88A40900:
+        0. 41 3761 0061 (l)0000:_init_block@4
+      BE........56FF15........85C0750756FF15........5EC3:
+        0. 00 0000 001C 0000:_GetDtcLocaleResourceHandle
+      E8........8BF085F674:
+        0B56FF15........85C07508FF15........8B:
+          0. 03 99A6 002B (l)0000:_DoChangePw@4
+        1356FF15........85C0740856E8........5E:
+          0. 06 9ACE 0026 (l)0000:_DoSaverPreview@4
+    5768........FF15........8BF885FF75025FC3568B35........68:
+      0. 00 0000 00E7 0000:?InitializeSwitch@@YGHXZ
+A1........:
+  85C0740E50FF15........8325........008325........0033C0:
+    0. 01 EF04 0021 0000:_Uninitialize
+  C3:
+    0. 00 0000 0006 0000:_tkGetHWND@0 (REF 0001: _tkhwnd)
+    1. 00 0000 0006 0000:_tkGetHDC@0 (REF 0001: _tkhdc)
+    2. 00 0000 0006 0000:_tkGetHRC@0 (REF 0001: _tkhrc)
+    3. 00 0000 0006 (!)0000:? (REF 0001: _windInfo)
+E8........:
+  33C0A3........A3........A3........A3........C3:
+    0. 00 0000 001C 0000:_auxCloseWindow@0
+  85C07501C368........FF35........FF15........C3:
+    0. 00 0000 001C 0000:_LoadDtcHelperExA (REF 000B: ??_C@_0BM@CJNALCEL@DtcGetTransactionManagerExA?$AA@)
+    1. 00 0000 001C 0000:_LoadDtcHelper (REF 000B: ??_C@_0BJ@EOOCGLJC@DtcGetTransactionManager?$AA@)
+    2. 00 0000 001C 0000:_LoadDtcHelperExW (REF 000B: ??_C@_0BM@DFEIAHJM@DtcGetTransactionManagerExW?$AA@)
+  CC:
+    0. 00 0000 0006 0000:_WinMain@16 (REF 0001: _DummyEntry@0)
+E9:
+  0. 00 0000 0005 0000:_auxQuit@0 (REF 0001: _tkQuit@0)
+  1. 00 0000 0005 0000:_auxSwapBuffers@0 (REF 0001: _tkSwapBuffers@0)
+  2. 00 0000 0005 0000:_auxGetHWND@0 (REF 0001: _tkGetHWND@0)
+  3. 00 0000 0005 0000:_auxGetHDC@0 (REF 0001: _tkGetHDC@0)
+  4. 00 0000 0005 0000:_auxGetHGLRC@0 (REF 0001: _tkGetHRC@0)
+  5. 00 0000 0005 0000:_auxGetDisplayModePolicy@0 (REF 0001: _tkGetDisplayModePolicy@0)
+  6. 00 0000 0005 0000:_auxGetDisplayModeID@0 (REF 0001: _tkGetDisplayModeID@0)
+  7. 00 0000 0005 0000:_auxGetDisplayMode@0 (REF 0001: _tkGetDisplayMode@0)
+  8. 00 0000 0005 0000:_auxSetGreyRamp@0 (REF 0001: _tkSetGreyRamp@0)
+  9. 00 0000 0005 0000:_auxGetColorMapSize@0 (REF 0001: _tkGetColorMapSize@0)
+  10. 00 0000 0005 (l)0000:_InitRealScreenSave@0 (REF 0001: _LoadPwdDLL@0)
+  11. 00 0000 0005 0000:_main (REF 0001: _DummyEntry@0)
+FF:
+  35........:
+    E8........:
+      6A00FF15........CC:
+        0. 00 0000 0014 0000:_tkQuit@0
+      A1........33C93BC1750333C0C351515150FF15:
+        0. 00 0000 0024 0000:_tkGetColorMapSize@0
+      C3:
+        0. 00 0000 000C 0000:_tkCloseWindow@0 (REF 0002: _tkhwnd)
+    FF15........C3:
+      0. 00 0000 000D 0000:_tkSwapBuffers@0 (REF 0002: _tkhdc)
+  742404E8........85C075076A0EE8........C20400:
+    0. 00 0000 0017 0000:?midl_allocate@@YGPAXI@Z

@@ -1,0 +1,806 @@
+0101020102020301020203020303045589E583EC085756538B7D088B5D0C8B75:
+  0. 3B E436 012F 000F:_BS_count
+020000000300000005000000070000000B0000000D0000001100000013000000:
+  0. F4 8AE8 0790 00F4:omflib_create 01E4:omflib_header 052C:omflib_finish 073C:omflib_pad
+0A2456657273696F6E3A20474E55207465726D63617020312E3320240A009090:
+  0. 00 0000 0020 0000:?
+2020202020202020202020202020202030303030303030303030303030303030:
+  0. 17 58DD 00A8 0020:_IO_padn
+25:
+  24736E69676C65745E26005589E583EC385756538B750C8B7D1489F083E003:
+    0. 07 66E6 1370 000C:__hash_open 0D4C:__expand_table 0E70:__call_hash
+  642E25642E25642E2564005589E50FB6450B500FB6450A500FB64509500FB6:
+    0. 04 457E 003C 000C:inet_ntoa
+2D63007368002F62696E2F7368008D365589E583EC14538B5508837A38000F8D:
+  0. 09 80CC 0220 0010:_IO_proc_open 0144:_IO_popen 01A0:_IO_proc_close
+2E6462005589E581EC1C0100005756538B7D0C8B7510C745E800100000C745EC:
+  0. 2B B9D1 01C8 0004:dbm_open 0074:dbm_close 0084:dbm_fetch 00C4:dbm_firstkey 00F0:dbm_nextkey 011C:dbm_delete 014C:dbm_store 0188:dbm_error 019C:dbm_clearerr 01B4:dbm_dirfno
+31C08B5424083B542410:
+  7214B00277108B5424043B54240C7706B0007202B001:
+    0. 04 67E6 0024 0000:__ucmpdi2
+  7C14B0027F108B5424043B54240C7706B0007202B001:
+    0. 04 67E6 0024 0000:__cmpdi2
+3A20004572726F72203000486F7374206E6F7420666F756E6400486F7374206E:
+  0. 65 8416 0128 007C:herror
+43616E6E6F742072656164004D697373696E672071756F746500456D70747920:
+  0. A6 F534 015C 00B4:_md_errmsg
+444C4C69737400905589E5FF750C68........A1........FFD0C9C35589E58B:
+  0. FF 0925 0658 0008:error__C10BaseDLListPCc 001C:length__C10BaseDLList 0038:copy__10BaseDLListRC10BaseDLList 00AC:clear__10BaseDLList 00F4:__as__10BaseDLListRC10BaseDLList 011C:prepend__10BaseDLListPCv 0168:append__10BaseDLListPCv 01AC:ins_after__10BaseDLListPvPCv 01FC:ins_before__10BaseDLListPvPCv 024C:join__10BaseDLListR10BaseDLList 0288:owns__C10BaseDLListPv 02B4:del__10BaseDLListRPvi 0340:del_after__10BaseDLListRPv 03B8:remove_front__10BaseDLListPv 0444:del_front__10BaseDLList 04B4:remove_rear__10BaseDLListPv 053C:del_rear__10BaseDLList 05A0:OK__C10BaseDLList
+4572726F723A20000A008D365589E5538B5D0868........68........E8:
+  0. 00 0000 00B0 000C:default_one_arg_error_handler__FPCc 0050:default_two_arg_error_handler__FPCcT0 0098:set_lib_error_handler__FPFPCcPCc_v
+4C69627261727920746F6F20626967202D2D20696E6372656173652070616765:
+  0. 46 0A34 02E4 0050:omflib_copy_module
+4D6F64756C65206E6F7420666F756E64:
+  006F626A007762005589E581EC080100:
+    0. 15 15A1 0124 0018:omflib_extract
+  3A2000905589E581EC08010000575653:
+    0. 0E 1591 00D8 0014:omflib_mark_deleted
+4E554C4C20:
+  617267756D656E740072656765787020746F6F20626967006F7574:
+    0. 1D 5D72 1380 002C:regcomp 0D70:regexec
+  7061726D20746F207265677375620064616D616765642072656765:
+    0. 43 F900 012C 0048:regsub
+5265636F726420746F6F206C6F6E6700556E657870656374656420656E64206F:
+  0. 27 83E6 04EC 0028:omflib_pubdef_walk 01B8:omflib_pubdef 0370:omflib_impdef 03F8:omflib_alias
+53:
+  4C4C69737400905589E5FF750C68........A1........FFD0C9C35589E58B:
+    0. FF 6E59 0464 0008:error__C10BaseSLListPCc 001C:length__C10BaseSLList 0038:clear__10BaseSLList 007C:copy__10BaseSLListRC10BaseSLList 00EC:__as__10BaseSLListRC10BaseSLList 0114:prepend__10BaseSLListPCv 013C:prepend__10BaseSLListP10BaseSLNode 0168:append__10BaseSLListPCv 0190:append__10BaseSLListP10BaseSLNode 01C0:join__10BaseSLListR10BaseSLList 01F0:ins_after__10BaseSLListPvPCv 0258:del_after__10BaseSLListPv 02B4:owns__C10BaseSLListPv 02FC:remove_front__10BaseSLListPvi 0384:del_front__10BaseSLList 03DC:OK__C10BaseSLList
+  8B:
+    4424088B54240C8B4C24108B5C241485C07D0FC705........00000000EB:
+      0. 05 26F2 0074 0000:g_clip
+    4C24088B5C240C8B118B0339C275068B51048B430439C27D09B8FFFFFFFF:
+      0. 28 A7C6 0690 0584:g_polygon
+5589E5:
+  0F:
+    BE450850FF35........E8........C9C38D76005589E5578B550830:
+      0. 14 26ED 0DA0 0000:addch__Fc 0018:addstr__FPCc 0044:clear__Fv 0054:clearok__FP7_win_sti 0068:clrtobot__Fv 0078:clrtoeol__Fv 0088:delch__Fv 0098:deleteln__Fv 00A8:erase__Fv 00B8:flushok__FP7_win_sti 00E4:getch__Fv 00F4:getstr__FPc 0108:getyx__FP7_win_stRiT1 0128:inch__Fv 0148:insch__Fc 0160:insertln__Fv 0170:leaveok__FP7_win_sti 0184:move__Fii 019C:rfresh__Fv 01AC:scrollok__FP7_win_sti 01C0:standend__Fv 01D0:standout__Fv 01E0:winch__FP7_win_st 0200:mvwaddch__FP7_win_stiic 0238:mvwaddstr__FP7_win_stiiPCc 0280:mvwdelch__FP7_win_stii 02AC:mvwgetch__FP7_win_stii 02D8:mvwgetstr__FP7_win_stiiPc 0308:mvwinch__FP7_win_stii 033C:mvwinsch__FP7_win_stiic 0374:mvaddch__Fiic 03B0:mvaddstr__FiiPCc 03FC:mvdelch__Fii 042C:mvgetch__Fii 045C:mvgetstr__FiiPc 048C:mvinch__Fii 04C4:mvinsch__Fiic 0500:begx__12CursesWindow 0510:begy__12CursesWindow 0520:maxx__12CursesWindow 0530:maxy__12CursesWindow 0540:height__12CursesWindow 0558:width__12CursesWindow 0570:box__12CursesWindowcc 058C:overlay__12CursesWindowR12CursesWindow 05A0:overwrite__12CursesWindowR12CursesWindow 05B4:scroll__12CursesWindow 05C4:touchwin__12CursesWindow 05D4:addch__12CursesWindowc 05E8:addstr__12CursesWindowPCc 05FC:clear__12CursesWindow 060C:clrtobot__12CursesWindow 061C:clrtoeol__12CursesWindow 062C:delch__12CursesWindow 063C:deleteln__12CursesWindow 064C:erase__12CursesWindow 065C:getch__12CursesWindow 066C:getstr__12CursesWindowPc 0680:inch__12CursesWindow 06A0:insch__12CursesWindowc 06B4:insertln__12CursesWindow 06C4:move__12CursesWindowii 06DC:mvcur__12CursesWindowiiii 06F4:mvaddch__12CursesWindowiic 072C:mvgetch__12CursesWindowii 0758:mvaddstr__12CursesWindowiiPCc 0788:mvgetstr__12CursesWindowiiPc 07B8:mvinch__12CursesWindowii 07F0:mvdelch__12CursesWindowii 081C:mvinsch__12CursesWindowiic 0854:refresh__12CursesWindow 0864:clearok__12CursesWindowi 0878:leaveok__12CursesWindowi 088C:scrollok__12CursesWindowi 08A0:flushok__12CursesWindowi 08CC:getyx__12CursesWindowRiT1 08EC:standout__12CursesWindow 08FC:standend__12CursesWindow 090C:lines__12CursesWindow 0918:cols__12CursesWindow 0924:child__12CursesWindow 0930:parent__12CursesWindow 093C:sibling__12CursesWindow 0948:scanw__12CursesWindowPCce 09CC:mvscanw__12CursesWindowiiPCce 0A60:printw__12CursesWindowPCce 0A94:mvprintw__12CursesWindowiiPCce 0B04:__12CursesWindowiiii 0B70:__12CursesWindowRP7_win_st 0BD4:__12CursesWindowR12CursesWindowiiiic 0C60:kill_subwindows__12CursesWindow 0CC4:_$_12CursesWindow 0D68:__as__12CursesWindowRC12CursesWindow 0D84:__12CursesWindowRC12CursesWindow
+    BF450885C07D02F7D8C9C3905589E58B550885D27412B8FFFFFFFF85:
+      0. 8A A777 0110 0000:abs__Fs 0010:sign__Fl 0030:sign__Fd 0068:sqr__Fl 0074:sqr__Fd 0080:even__Fl 0090:odd__Fl 009C:lcm__Fll 00C8:setbit__FRll 00E0:clearbit__FRll 00F4:testbit__Fll
+  53:
+    56578B7D08837D1800744D8B450C8B551089C389D631C031D2B94000:
+      0. 5C D7AA 007C 0000:_ulldiv
+    8B:
+      45088B5D0C31D285C07D0683FB1074014285D27402F7D889D18D36:
+        0. D2 7D81 03D0 00E8:__bb_exit_func 0398:__bb_init_func
+      55088B:
+        4D0C813A10FA776D752B85C97E22498B425C85C07F12837A:
+          0. 19 5AD3 0044 0000:wm_backsp
+        5D0C8B:
+          4D108B4514C74204........8902C74204:
+            0. A5 945B 0164 0000:__15DiscreteUniformllP3RNG 0050:low__15DiscreteUniform 005C:low__15DiscreteUniforml 0088:high__15DiscreteUniform 0094:high__15DiscreteUniforml 00B8:__cl__15DiscreteUniform 0100:__as__15DiscreteUniformRC15DiscreteUniform 0130:__15DiscreteUniformRC15DiscreteUniform 0154:_vt$15DiscreteUniform
+          829801000085C07505B8........89838000000039:
+            0. FF 74E2 7730 7344:re_search_2 73C8:re_rx_search 73F8:re_search 741C:re_match_2 74C0:re_match 74E0:re_set_syntax 74F8:re_set_registers 768C:re_compile_pattern 7720:re_compile_fastmap
+      5D:
+        08:
+          31C9803B00742689CAC1E2040FBE038D0C104389CA81E20000:
+            0. 3C AE91 005C 0000:hashpjw__FPCc 003C:multiplicativehash__Fi 0048:foldhash__Fd
+          53E8........C74348........89D88B5DFCC9C3905589E5FF:
+            0. 03 2FDA 01B4 0000:__7procbuf 001C:close__7procbuf 0030:__7procbufPCci 0070:open__7procbufPCci 0094:sys_close__7procbuf 00A4:_$_7procbuf 00D0:__as__7procbufRC7procbuf 0100:__7procbufRC7procbuf 0124:_vt$7procbuf
+          813B10FA776D75:
+            2953E8........83C404837B0800740E53E8:
+              0. 00 0000 0040 0000:wm_clear
+            2B837B14007525C74314010000008B430C89:
+              0. 06 9074 0040 0000:wm_open
+            3553E8........89C183C40485C97C268D41:
+              0. 03 07AA 004C 0000:wm_up
+          837B2400740953E8........83C4048B4348FF7510FF750C53:
+            0. 0C AA88 002C 0000:_IO_seekpos
+          85DB7D02F7DB89D88B4D0C85C97D02F7D939C17E0489C889D9:
+            0. 20 30B7 0040 0000:gcd__Fll
+          8B:
+            03:
+              8078120075208B400485C0740950E8........83C4048D:
+                0. 0B E1D3 00B8 0000:form__7ostreamPCce 0038:vform__7ostreamPCcPc 0070:__ls__7ostreamPCv
+              8A501284D2740880CA02885012EB3E8B400485C0740950:
+                0. 01 3E9B 00BC 0000:scan__7istreamPCce 0060:vscan__7istreamPCcPc
+            13668B42046683F8017E146648668942048B03500FB70050:
+              0. C6 0149 26D4 0000:unique__3Fix 002C:mask__3FixPQ23Fix3Rep 0058:copy__3FixPCQ23Fix3RepPQ23Fix3Rep 00CC:__3FixPQ23Fix3Rep 00DC:__3Fix 0118:__3Fixi 0150:__3FixUs 0184:__3Fixd 01AC:__3FixRC3Fix 01C4:__3FixiRC3Fix 0204:__3FixiPCQ23Fix3Rep 0240:__3Fixid 0280:_$_3Fix 02C0:__as__3FixRC3Fix 03B0:__as__3Fixd 0400:__eq__FRC3FixT0 0420:__ne__FRC3FixT0 0440:__lt__FRC3FixT0 0458:__le__FRC3FixT0 0478:__gt__FRC3FixT0 0498:__ge__FRC3FixT0 04B4:__pl__3Fix 04BC:__mi__3Fix 04DC:__pl__FRC3FixT0 0500:__mi__FRC3FixT0 0524:__ml__FRC3FixT0 0548:__ml__FRC3Fixi 056C:__ml__FiRC3Fix 0590:__dv__FRC3FixT0 05B8:__apl__3FixRC3Fix 060C:__ami__3FixRC3Fix 0660:__aml__3FixRC3Fix 06B4:__aml__3Fixi 0704:__adv__3FixRC3Fix 0758:__md__FRC3Fixi 07CC:__ls__FRC3Fixi 07F0:__rs__FRC3Fixi 0814:__als__3Fixi 0864:__ars__3Fixi 08B4:__mn__FRC3FixT0 08F0:__mx__FRC3FixT0 092C:abs__FG3Fix 0990:sgn__FRC3Fix 09BC:length__FRC3Fix 09CC:__ls__FR7ostreamRC3Fix 0A04:negate__FRC3FixR3Fix 0A18:add__FRC3FixT0R3Fix 0A34:subtract__FRC3FixT0R3Fix 0A50:multiply__FRC3FixT0R3Fix 0A6C:divide__FRC3FixT0R3FixT2 0A90:shift__FRC3FixiR3Fix 0AA8:_3Fix$min_length 0AAA:_3Fix$max_length 0AAC:_3Fix$min_value 0AB4:_3Fix$max_value 0AC4:default_error_handler__3FixPCc 0B10:default_range_error_handler__3FixPCc 0B40:set_error_handler__3FixPFPCc_v 0B58:set_range_error_handler__3FixPFPCc_v 0B70:error__3FixPCc 0B80:range_error__3FixPCc 0B90:new_Fix__3FixUs 0BEC:new_Fix__3FixUsPCQ23Fix3Rep 0CE4:new_Fix__3FixUsd 0E74:value__FRC3Fix 0EC4:mantissa__FRC3Fix 0F98:compare__3FixPCQ23Fix3RepT1 10B4:add__3FixPCQ23Fix3RepT1PQ23Fix3Rep 1190:subtract__3FixPCQ23Fix3RepT1PQ23Fix3Rep 1290:multiply__3FixPCQ23Fix3RepT1PQ23Fix3Rep 14AC:multiply__3FixPCQ23Fix3RepiPQ23Fix3Rep 1584:divide__3FixPCQ23Fix3RepT1PQ23Fix3RepT3 1A30:shift__3FixPCQ23Fix3RepiPQ23Fix3Rep 1C74:negate__3FixPCQ23Fix3RepPQ23Fix3Rep 1CDC:atoF__FPCci 1D2C:printon__C3FixR7ostreami 1DB4:Ftoa__FR3Fixi 1ECC:__amd__3Fixi 2014:__rs__FR7istreamR3Fix 23C8:show__FRC3Fix 2528:set_overflow_handler__3FixPFPQ23Fix3Rep_v 2568:set_default_length__3Fixi 259C:overflow_saturate__3FixPQ23Fix3Rep 2618:overflow_wrap__3FixPQ23Fix3Rep 2620:overflow_warning_saturate__3FixPQ23Fix3Rep 2650:overflow_warning__3FixPQ23Fix3Rep 267C:overflow_error__3FixPQ23Fix3Rep 2694:__as__Q23Fix3RepRCQ23Fix3Rep 26B0:__Q23Fix3RepRCQ23Fix3Rep 26CC:__Q23Fix3Rep
+            450C8B5510:
+              813B10FA776D753F85C0743B837B5000743589:
+                0. 10 BC2E 005C 0000:wm_border
+              8B4D148903895304894B0889D88B5DFCC9C390:
+                0. FF EA84 140C 0000:__11edit_stringP11edit_bufferP9edit_markT2 0020:inserting__14edit_streambuf 002C:inserting__14edit_streambufi 003C:is_reading__14edit_streambuf 0060:current__14edit_streambuf 0098:insert_before__9edit_mark 00A8:index_in_buffer__9edit_markP11edit_buffer 00B8:__9edit_mark 00C0:gap_start__11edit_buffer 00DC:gap_end_pos__11edit_buffer 00E8:start_marker__11edit_buffer 00F4:end_marker__11edit_buffer 0100:gap_end__11edit_buffer 0110:gap_size__11edit_buffer 0134:size1__11edit_buffer 0150:size2__11edit_buffer 0160:mark_list__11edit_buffer 016C:move_gap__11edit_bufferPc 0180:ptr__9edit_markP11edit_buffer 0194:flush_to_buffer__14edit_streambuf 01B0:truncate__14edit_streambuf 01E8:flush_to_buffer__14edit_streambufP11edit_buffer 021C:disconnect_gap_from_file__14edit_streambufP11edit_buffer 0250:tell__11edit_bufferPc 029C:tell__11edit_bufferP9edit_mark 02B8:move_gap__11edit_bufferl 0304:gap_left__11edit_bufferi 03D0:gap_right__11edit_bufferi 04B8:make_gap__11edit_bufferl 05B0:adjust_markers__11edit_bufferUlUliPc 06D8:underflow__14edit_streambuf 08FC:overflow__14edit_streambufi 0AB4:set_current__14edit_streambufPci 0B28:seekoff__14edit_streambuflQ23ios8seek_diri 0C34:delete_range__11edit_bufferll 0D28:delete_range__11edit_bufferP9edit_markT1 0D58:buf_delete_chars__FP11edit_bufferP9edit_markUl 0D60:__14edit_streambufP11edit_stringi 0DEC:_$_14edit_streambuf 0E44:__11edit_buffer 0EA0:__9edit_markP11edit_stringl 0F5C:buffer__9edit_mark 0F74:_$_9edit_mark 0FC8:length__C11edit_string 104C:copy_bytes__C11edit_stringPi 115C:assign__11edit_stringP11edit_string 1240:__as__11edit_bufferRC11edit_buffer 125C:__11edit_bufferRC11edit_buffer 1278:_$_11edit_buffer 12B0:__as__9edit_markRC9edit_mark 12CC:__9edit_markRC9edit_mark 12E8:__as__14edit_streambufRC14edit_streambuf 1318:__14edit_streambufRC14edit_streambuf 133C:__as__11edit_stringRC11edit_string 135C:__11edit_stringRC11edit_string 137C:_vt$14edit_streambuf
+            4D0C8B55108B4514890389C839D17E0289D089430439D17C:
+              0. FF D810 02A0 0000:__13RandomIntegerllP3RNG 0034:__13RandomIntegerlP3RNG 0060:__13RandomIntegerP3RNG 0080:generator__C13RandomInteger 008C:low__C13RandomInteger 0098:high__C13RandomInteger 00A4:generator__13RandomIntegerP3RNG 00B8:low__13RandomIntegerl 00CC:high__13RandomIntegerl 00E0:_asLong__13RandomIntegerll 0110:asLong__13RandomInteger 0140:asLong__13RandomIntegerl 0170:asLong__13RandomIntegerll 01A0:__cl__13RandomInteger 01D0:__cl__13RandomIntegerl 0200:__cl__13RandomIntegerll 0230:asInt__13RandomInteger 0260:__as__13RandomIntegerRC13RandomInteger 0280:__13RandomIntegerRC13RandomInteger
+            53048B0329D085C07E075052E8........8B430489038A4D:
+              0. 51 979D 009C 0034:v_vprintf
+            550C8B4D1085D274058B43:
+              28890285C974058B432C89018B:
+                0. 04 F562 0024 0000:wm_get_pos
+              5C890285C974058B436089018B:
+                0. 04 F562 0024 0000:wm_getxy
+              64890285C974058B436889018B:
+                0. 04 F562 0024 0000:wm_dimen
+          C743:
+            24........53E8A802000089D88B5DFCC9C3905589E58B:
+              0. 2C 030A 053C 0000:__15SampleStatistic 001C:samples__15SampleStatistic 0028:min__15SampleStatistic 0034:max__15SampleStatistic 0040:_$_15SampleStatistic 007C:default_SampleStatistic_error_handler__FPCc 00B0:set_SampleStatistic_error_handler__FPFPCc_v 00C8:error__15SampleStatisticPCc 0140:tval__Fdi 02BC:reset__15SampleStatistic 02F8:__apl__15SampleStatisticd 0338:mean__15SampleStatistic 0354:var__15SampleStatistic 0384:stdDev__15SampleStatistic 03C8:confidence__15SampleStatistici 0450:confidence__15SampleStatisticd 04C8:__as__15SampleStatisticRC15SampleStatistic 04F8:__15SampleStatisticRC15SampleStatistic 051C:_vt$15SampleStatistic
+            40FFFFFFFF810B0C24000053E8........C74338FFFFFF:
+              0. 2A 5EA4 0938 0000:_IO_file_init 0028:_IO_file_close_it 00BC:_IO_file_finish 00FC:_IO_file_fopen 01F0:_IO_file_attach 021C:_IO_file_setbuf 0260:_IO_do_write 0328:_IO_file_underflow 03D0:_IO_file_overflow 04B0:_IO_file_sync 0514:_IO_file_seekoff 072C:_IO_file_read 0764:_IO_file_seek 077C:_IO_file_stat 0790:_IO_file_close 07A0:_IO_file_write 0808:_IO_file_xsputn
+          DD450CDD4514D9C98B451CC74304........8903C74304:
+            0. 00 0000 01AC 0000:__6NormalddP3RNG 0044:mean__6Normal 0050:mean__6Normald 0068:variance__6Normal 0074:variance__6Normald 00A8:__cl__6Normal 0148:__as__6NormalRC6Normal 0178:__6NormalRC6Normal 019C:_vt$6Normal
+          FF35........E8........5053E8........B8FFFFFFFF8B5D:
+            0. 0F D7F5 01EC 0000:omflib_set_error 0024:omflib_close 00B0:omflib_hash 01A0:omflib_module_name
+        0C:
+          6A006A016A00FF7508E8........83C41083F8FF751FE8:
+            0. 00 0000 0048 0000:_IO_fgetpos
+          8B55108B4D148B45188902894A04FF751C6A5552FF7508FFD3:
+            0. 11 ECE9 12A8 01B0:_md_parse
+  56538B:
+    35........4E78338D36A1........8B1CB0837B140074206A00:
+      0. 02 9E9D 0054 0000:wm_close_all
+    4D0C8B5D0831D2EB10908D04D28D04820FB61383C2E031C24389:
+      0. A6 B47C 0258 0000:?
+    5D088B:
+      03F6C420740D53E8........89C683C404EB0B31F6A820:
+        0. 15 4563 0060 0000:_IO_fclose
+      35........85F67505BE........85DB750BBB01000000:
+        0. 08 6382 003C 0000:__builtin_new
+      731C8B53048B0329D085C07E08505256E8........8B43:
+        0. 5C 9035 00B0 003C:wm_vprintf
+      75:
+        0C813B10FA776D7526837B1000740653E8........C7:
+          0. 20 C7B3 0040 0000:wm_update
+        10813B10FA776D75418B43488B53648D5402FF520345:
+          0. 0A A013 005C 0000:wm_clr_eol
+    7508:
+      813E10FA776D75:
+        4856E8........89C383C40485DB7C3974:
+          0. 02 6E40 0060 0000:wm_down
+        6456E8........83C40485C07C57FF0D:
+          0. 00 0000 007C 0000:wm_delete
+      8B:
+        4D0C8B55108B5D14EB1F908A064684C074118A02880142:
+          0. 5F 455B 01D0 0000:_wm_copy2 0040:_wm_clrline2 0064:_wm_line2 00B8:_wm_move2 011C:_wm_putc2 0160:_wm_puts2 0194:_wm_putsa2 01B0:_wm_puta2
+        5D:
+          0C:
+            6A0056E80504000083C408F6C301740656E8:
+              0. 00 0000 06A0 0000:_$_7Obstack 0028:base__7Obstack 0034:next_free__7Obstack 0040:alignment_mask__7Obstack 004C:chunk_size__7Obstack 0058:size__7Obstack 0068:room__7Obstack 0078:grow__7ObstackPCvi 00B0:grow__7ObstackPCvic 0100:grow__7ObstackPCc 0158:grow__7Obstackc 018C:blank__7Obstacki 01B4:finish__7Obstackc 01F0:copy__7ObstackPCvi 0230:copy__7ObstackPCvic 0288:copy__7ObstackPCc 02E8:copy__7Obstackc 0324:alloc__7Obstacki 0354:free__7ObstackPv 037C:grow_fast__7Obstackc 0390:blank_fast__7Obstacki 03A0:shrink__7Obstacki 03C0:__7Obstackii 0418:_free__7ObstackPv 0480:newchunk__7Obstacki 04E8:finish__7Obstack 0528:contains__7ObstackPv 0564:OK__7Obstack 0620:__as__7ObstackRC7Obstack 063C:__7ObstackRC7Obstack 0658:__as__Q27Obstack14_obstack_chunkRCQ27Obstack14_obstack_chunk 0678:__Q27Obstack14_obstack_chunkRCQ27Obstack14_obstack_chunk 0698:__Q27Obstack14_obstack_chunk
+            83FBFE7508B8FFFFFFFFEB54908B1689D02B460485:
+              0. 19 462B 0100 0074:v_fopen 00C4:v_fclose
+            8D04DD0000000050E8........8906895E04C74608:
+              0. 7B DFD1 0250 0000:__9AllocRingi 0050:find__9AllocRingPv 0080:clear__9AllocRing 00CC:free__9AllocRingPv 0100:_$_9AllocRing 0128:contains__9AllocRingPv 0140:alloc__9AllocRingi 01D0:__as__9AllocRingRC9AllocRing 01F0:__9AllocRingRC9AllocRing 0210:__as__Q29AllocRing10AllocQNodeRCQ29AllocRing10AllocQNode 022C:__Q29AllocRing10AllocQNodeRCQ29AllocRing10AllocQNode 0248:__Q29AllocRing10AllocQNode
+          108B45148B4D188B550C80CE01F7C2F9F0FF1F756583:
+            0. 24 C3BB 00D8 0000:dbopen 00A4:__dbpanic
+  575653:
+    833D........000F84B500000031F63935........7E3531FF90:
+      0. 02 47AC 00D0 0000:wm_exit
+    8B:
+      1D........85DB747C8B535C89D7037B288B436089C603732C:
+        0. 06 D296 0D0C 0000:_wm_cursor1 009C:_wm_store1 00C4:_wm_clrline1 00F0:_wm_line1 014C:_wm_allvisible 016C:_wm_hide2 020C:_wm_hide1 0294:_wm_unhide1 03E0:_wm_clr1 0418:_wm_border1 06C4:_wm_put1 0700:_wm_jam1 0734:_wm_idx1 0764:_wm_copy1 0910:wm_init 0AA8:wm_create 0C94:wm_attrib 0CAC:wm_cursor 0CCC:wm_chide 0CE0:wm_cvis 0D00:wm_get_cursor
+      45088B:
+        750C8B581C837B100074166A00FF7310FF33E8:
+          0. 00 0000 0548 0000:__rec_get 00D0:__rec_fpipe 0234:__rec_vpipe 0390:__rec_fmap 04A8:__rec_vmap
+        7D0C8B75108B581C837B100074166A00FF7310FF33E8:
+          0. 00 0000 01EC 0000:__rec_delete 0110:__rec_dleaf
+      4D08813910FA776D757351E8........89C783C40485FF7C64:
+        0. 0B A6B1 008C 0000:wm_bottom
+      55088B721C837E100074166A00FF7610FF36E8........C746:
+        0. 1D 1FF1 022C 0000:__bt_close 0120:__bt_sync
+      5D08:
+        668B7D108B433839433C7C4783C020894338C1E00350FF:
+          0. 03 F413 009C 0000:omflib_add_pub
+        85DB7F0731C0EB298D760083FB017507B801000000EB1A:
+          0. 24 37F4 0044 0000:sqrt__Fl
+        8B:
+          550C:
+            668B3B0FB7C7668B744304662B7204FF7204FF32:
+              0. 07 0FD6 11B8 0078:__delpair 018C:__split_page 0614:__addel 07A0:__add_ovflpage 085C:__get_page 0A3C:__put_page 0BA8:__ibitmap 0F1C:__free_ovflpage
+            8B7D1085D2743D8D041783F81F7721B820000000:
+              0. 68 5775 0088 0000:_BS_clear
+          750C8B7D10837B2400741C83FF01750EF64301017408:
+            0. 0A 01CF 0048 0000:_IO_seekoff
+      75:
+        08:
+          813E10FA776D0F85:
+            970000008B466839450C7E0389450C:
+              0. 2E 9DD2 00B4 0000:wm_scroll
+            A3000000837D10000F8E990000008B:
+              0. 3A 00DA 00C0 0000:wm_del_line
+            A7000000837D10000F8E9D0000008B:
+              0. 42 BEA8 00C4 0000:wm_ins_line
+          8B:
+            5D:
+              0C8B7D1056E8........C706........83C404895E:
+                0. 05 5BC4 0300 0000:__3ACGUii 00A8:reset__3ACG 0190:_$_3ACG 01D0:asLong__3ACG 0290:__as__3ACGRC3ACG 02BC:__3ACGRC3ACG 02E0:_vt$3ACG
+              148B7D1885DB746C83BEC401000003774083BEC001:
+                0. 08 3C78 0150 0000:__rec_ret
+            7D0C:
+              89FB8D368B56048B460829D085C07E0D39D87602:
+                0. 0F 86B9 0048 0000:_IO_ignore
+              8B5D1085FF743B8D043B83F81F771DB920000000:
+                0. 70 F8E9 0090 0000:_BS_any
+            7E4C8B56108B5E1429D374118B47485352578B4034FF:
+              0. 27 8C64 0A20 0124:_IO_vfprintf
+        0C:
+          85F67E7E8D76008B1D........2B1D........89DF39DE:
+            0. 0D 7656 0118 0094:_v_puts_len 00F4:v_puts
+          8B7D1089F30FAFDF85DB750731C0EB1D8D760053FF7508:
+            0. 04 DE19 0040 0000:_IO_fread
+      7D:
+        08:
+          813F10FA776D75:
+            4B57E8........83C40485C07C3E89C1:
+              0. 05 6DA4 0064 0000:wm_top
+            6D837F140074676A0057E8........C7:
+              0. 0E FBAE 0088 0000:wm_close
+          8B:
+            4D0C89FE0FAFF185C9741389F031D2F7F189C339FB74:
+              0. 0A 2464 004C 0000:_tcalloc
+            5F1C837B100074166A00FF7310FF33E8........C743:
+              0. 38 121B 0264 0000:__rec_close 00BC:__rec_sync
+            750C:
+              837E1CFF751AFF751056E8........83C40885C0:
+                0. 2D 01DA 007C 0000:omflib_copy_lib
+              85FF750856E8........EB4085F6750C57E8:
+                0. 00 0000 0060 0000:_trealloc
+              8B5D1085F6743B8D043383F81F7721B820000000:
+                0. 60 8B3F 0080 0000:_BS_invert
+                1. 68 FEF9 0088 0000:_BS_set
+        0C31F63935........7E5A90A1........8B1CB0837B1400:
+          0. 47 2712 0078 0000:wm_find
+  68........E8........C705........00000000C9C3909090:
+    0. 00 0000 001C 0000:?
+  6A:
+    00:
+      68........E8........C9C38D76005589E56A0468F00F000068:
+        0. 00 0000 002C 0000:_GLOBAL_$D$_libgxx_io_ob 0014:_GLOBAL_$I$_libgxx_io_ob
+      6A01A1........4850A1........48506A006A00E8........C9C3:
+        0. 00 0000 0020 0000:v_scrollup
+      FF7508A1........4850A1........4850FF35........6A00E8:
+        0. 00 0000 0028 0000:v_delline
+    01FF7508A1........4850A1........4850FF35........6A00E8:
+      0. 00 0000 0028 0000:v_insline
+    0268........E8........C9C38D76005589E56A1468........E8:
+      0. 00 0000 0028 0000:_GLOBAL_$D$_libgxx_fmtq 0014:_GLOBAL_$I$_libgxx_fmtq
+    046A01A1........4850A1........48506A006A00E8........FF35:
+      0. 00 0000 0034 0000:v_clear
+    1B68........6A02E8........68FF000000E8........90:
+      0. 00 0000 001C 0000:__pure_virtual
+  81EC:
+    000100005756538B4D08813910FA776D0F85E00000008B450C2B41:
+      0. 50 2FD1 0108 0000:wm_move
+    8C0200005756538B5D0C899D98FDFFFFC7858CFDFFFF00000000C7:
+      0. 42 28B0 10BC 0000:_IO_vfscanf
+  83:
+    3D........007514C705........0100000068........E8:
+      0. 04 4E56 0024 0000:__ctordtorTerm (REF 0017: __DTOR_LIST__)
+      1. 04 4E56 0024 0000:__ctordtorInit (REF 0017: __CTOR_LIST__)
+    EC:
+      04:
+        538B5D14C745FC000000008D45FC50FF7510FF750CFF7508E8:
+          0. 00 0000 004C 0000:vscan__9streambufPCcPcP3ios 0034:scan__9streambufPCce
+        56538B:
+          45088B75108B581C837B100074166A00FF7310FF33E8:
+            0. 00 0000 0BCC 0000:__bt_delete 0818:__bt_dleaf
+          5D:
+            08:
+              8B550C83FAFE7509B8FFFFFFFFEB618D368B731C8B:
+                0. 24 F210 0114 0084:wm_fopen 00D8:wm_fclose
+              E8........8B308D45FC5053E8........83C40885:
+                0. 04 6BC5 0060 0000:gethostbyname
+            0C8A4D08884DFC8D43025068........E8........89:
+              0. 24 B360 0044 0000:chr__Fci
+        575653:
+          6A298B450C50E8........83C40483EC:
+            04D91C246A2C8B:
+              0. 04 2C99 0188 0000:__ls__FR7ostreamRCt7complex1Zf 007C:__rs__FR7istreamRt7complex1Zf
+            08DD1C246A2C8B:
+              0. 04 2C99 01A0 0000:__ls__FR7ostreamRCt7complex1Zd 007C:__rs__FR7istreamRt7complex1Zd
+            0CDB3C246A2C8B:
+              0. 04 2C99 01A4 0000:__ls__FR7ostreamRCt7complex1Zr 007C:__rs__FR7istreamRt7complex1Zr
+          8A4D10884DFC8B4D08C74104000000008B018A501284D2:
+            0. 37 425D 00DC 0000:get__7istreamR9streambufc
+          8B:
+            45088B581C837B100074166A00FF7310FF33E8:
+              0. 00 0000 00C0 0000:__bt_get (009F: 90)
+              1. 00 0000 017C 0000:__rec_seq (009F: 02)
+            750C:
+              30D28B5D0889DF88D0FCB9FFFFFFFFF2AE89CBF7:
+                0. 08 859A 006C 0000:str__FPCci
+              8B5D1085DB751530C089F7FCB9FFFFFFFFF2AE89:
+                0. 41 E778 0340 0000:_IO_str_init_static 00AC:_IO_str_init_readonly 00CC:_IO_str_overflow 01E0:_IO_str_underflow 0230:_IO_str_count 024C:_IO_str_seekoff 02E8:_IO_str_pbackfail 0310:_IO_str_finish
+            7D:
+              088B75108A4D14884DFCC747040000000085F67F0C:
+                0. 37 FFD7 0358 0000:getline__7istreamPcic 00F0:get__7istreamPcic 01B8:_sb_readline__FP9streambufRlc 02B8:gets__7istreamPPcc
+              108B75148B550C8B128B4D0C0FB741040FB7444214:
+                0. 23 E966 0310 0000:__bt_ret 01AC:__bt_cmp 0268:__bt_defcmp 02B4:__bt_defpfx
+              14C745FC00000000837D08007406837D0C007515E8:
+                0. 00 0000 0124 0000:_IO_getdelim
+        8D45FC50:
+          E8........85C07407C745FCFFFFFFFF8B45FCC9C390:
+            0. 00 0000 0020 0000:gethostid
+          FF75:
+            08E8........85C074:
+              0631C0C9C38D368B45FCC9:
+                0. 04 67E6 0024 0000:getenv
+              07C745FC000000008B45FC:
+                0. 04 4E56 0024 0000:getnetbyname (REF 000E: __getnetbyname)
+                1. 04 4E56 0024 0000:getprotobyname (REF 000E: __getprotobyname)
+                2. 04 4E56 0024 0000:getprotobynumber (REF 000E: __getprotobynumber)
+                3. 04 4E56 0024 0000:getnetbyaddr (REF 000E: __getnetbyaddr)
+            0CFF7508E8........85C07407C745FC00000000:
+              0. 08 A529 0028 0000:getservbyport (REF 0011: __getservbyport)
+              1. 08 A529 0028 0000:getservbyname (REF 0011: __getservbyname)
+        D9450883EC08DD1C24E8........D95DFCD945FCC9C35589E58B:
+          0. 08 F256 005C 0000:abs__Ff 001C:abs__Fd 0030:abs__Fr
+      08:
+        538B5D08DD432CD8C8DD55F8DC433483EC08DD1C24E8:
+          0. 0A 49AD 0264 0000:setState__9LogNormal 0058:__9LogNormalddP3RNG 00FC:mean__9LogNormal 0108:mean__9LogNormald 0174:variance__9LogNormal 0180:variance__9LogNormald 01E8:__cl__9LogNormal 0200:__as__9LogNormalRC9LogNormal 0230:__9LogNormalRC9LogNormal 0254:_vt$9LogNormal
+        575653:
+          8B:
+            45088B7D0C8B75148B581C837B100074166A00FF7310:
+              0. 03 B3F7 0598 0000:__bt_seq 0554:__bt_setcur
+            5D088B750C8B4D108A55148855FC85F67C743973647E:
+              0. 4A 6978 00A0 0000:wm_putc_at
+              1. 4A 8A53 00A0 0000:wm_putca_at
+            75088B7D:
+              108B550C8955FC8D76008B5E082B5E0485DB:
+                0. 04 F71E 00B0 0000:_IO_getline
+              148A550C8855F8668B5D108855FC837D1800:
+                0. 1B F22F 0200 0000:omflib_write_record 0110:omflib_write_module
+            7D088B:
+              5D14813F10FA776D0F85B900000085DB0F8EB1:
+                0. 43 4DEF 00DC 0000:wm_ins_char
+              75:
+                0C8B5D10E8........8B008945F88D45FC50:
+                  0. 04 86AC 0070 0000:gethostbyaddr
+                148B450CC1E80589F1C1E905894DFC894DF8:
+                  0. E0 C1E2 0100 0000:_BS_lcompare_0
+          8D4514508D451050FF750CFF7508E8........83C41085:
+            0. 16 B610 0128 0000:_vgl_line
+          BE010000008B7D0C8B450889B8D800000031DBC745FC00:
+            0. 8C A62B 011C 0000:seed__18__random_generatorUl 00A4:__long_random__FUl 0108:_GLOBAL_$I$seed__18__random_generatorUl
+        8B:
+          4508F765108945F88955FC8B4508F765140145FC8B4510F765:
+            0. 0C 8D98 002C 0000:__muldi3
+          5508C745F8........8955FC8B45F88B55FCC9C3905589E583:
+            0. 08 F125 0258 0000:setbase__Fi 001C:setfill__Fi 0038:setprecision__Fi 0054:setw__Fi 0070:resetiosflags__FUl 008C:setiosflags__FUl 00A8:__iomanip_setbase__FR3iosi 00F0:__iomanip_setfill__FR3iosi 0104:__iomanip_setprecision__FR3iosi 0114:__iomanip_setw__FR3iosi 0124:__iomanip_setiosflags__FR3iosUl 0134:__iomanip_resetiosflags__FR3iosUl 0148:__as__t6smanip1ZUlRCt6smanip1ZUl 0164:__t6smanip1ZUlRCt6smanip1ZUl 0180:__as__t6smanip1ZiRCt6smanip1Zi 019C:__t6smanip1ZiRCt6smanip1Zi 01B8:__ls__FR7ostreamRCt6smanip1ZUl 01D4:__ls__FR7ostreamRCt6smanip1Zi 01F0:__rs__FR7istreamRCt6smanip1ZUl 020C:__rs__FR7istreamRCt6smanip1Zi 0228:__t6smanip1ZUlPFR3iosUl_R3iosUl 0240:__t6smanip1ZiPFR3iosi_R3iosi
+        D97DFC668B45FC660D000C668945FED96DFEDD4508DB5DF8D96D:
+          0. 08 5572 0028 0000:__fixdfsi
+      0C575653:
+        817D080080000077478B450883C00850E8........89C3:
+          0. 32 86F2 0150 0000:_tmalloc
+        837D18000F8E:
+          D9000000908B4D088B59642B5D0C895DFC:
+            0. 37 C4B2 00F4 0000:wm_puta_at
+          E2000000908B4D088B59642B5D0C895DFC:
+            0. 37 C4B2 0100 0000:wm_putsa_at
+        8B:
+          4D08:
+            83C12C8B5508898ABC010000BB0100000083C208:
+              0. 0D CD7A 029C 0000:__bt_search
+            8B7514813910FA776D0F85D100000085F60F8EC9:
+              0. 4B A3E8 00F4 0000:wm_del_char
+          5D08:
+            837D10000F8E:
+              F10000008D368B435C8B736429C6:
+                0. 37 7E24 01A4 0110:_wm_puts_len 0178:wm_puts
+              F30000008D368B435C8B736429C6:
+                0. 34 6C1C 0114 0000:wm_putsa
+            8A4D0C884DFC:
+              80F90A0F84880000008B735C89F1:
+                0. 45 C0E1 00D8 0000:wm_putc
+              8B735C89F1034B48894DF88B4B60:
+                0. 3C 3667 00D0 0000:wm_putca
+          7D:
+            088B4F68894DFC8B4F64894DF88B476C8D0C00894D:
+              0. 20 AD78 0078 0000:wm_attrib_all
+            0C8B5D108B75146A04578D45FC50E8........6A04:
+              0. 09 8CD2 026C 0000:__ovfl_get 00EC:__ovfl_put 01C8:__ovfl_delete
+      10:
+        538B55088B4D0C85C974448D5A04891AC74220........C64216:
+          0. 3A A57A 2B10 0000:__7ostreami 00AC:opfx__7ostream 00D4:osfx__7ostream 00EC:put__7ostreamc 0120:put__7ostreamUc 0154:put__7ostreamSc 0188:write__7ostreamPCUci 019C:write__7ostreamPCSci 01B0:write__7ostreamPCvi 01C4:__ls__7ostreamUc 01D8:__ls__7ostreamSc 01EC:__ls__7ostreamPCUc 01FC:__ls__7ostreamPCSc 020C:__ls__7ostreams 0220:__ls__7ostreamUs 0234:__ls__7ostreamb 0248:__ls__7ostreamf 0260:__ls__7ostreamr 0290:__ls__7ostreamPFR7ostream_R7ostream 02A0:__ls__7ostreamPFR3ios_R3ios 02B8:ostreambuf__C7ostream 02C4:__7istreami 0378:get__7istreamPUcic 0390:get__7istreamRUc 03A0:getline__7istreamPUcic 03B8:get__7istreamRSc 03C8:get__7istreamPScic 03E0:getline__7istreamPScic 03F8:read__7istreamPUci 040C:read__7istreamPSci 0420:read__7istreamPvi 0434:ipfx__7istreami 0498:ipfx0__7istream 04E0:ipfx1__7istream 0520:isfx__7istream 0528:get__7istream 0594:gcount__7istream 05A0:putback__7istreamc 05DC:unget__7istream 0618:unget__7istreamc 0654:istreambuf__C7istream 0660:__rs__7istreamPUc 0670:__rs__7istreamPSc 0680:__rs__7istreamRUc 0690:__rs__7istreamRSc 06A0:__rs__7istreamPFR3ios_R3ios 06B8:__rs__7istreamPFR7istream_R7istream 06C8:_$_7istream 075C:_$_7ostream 07F0:__8iostreami 093C:dec__FR3ios 0950:hex__FR3ios 0964:oct__FR3ios 0978:__7istreamiP9streambufP7ostream 0A70:skip_ws__FP9streambuf 0AA8:get__7istreamRc 0B28:peek__7istream 0B9C:ignore__7istreamii 0C34:read__7istreamPci 0C9C:sync__7istream 0CD4:seekg__7istreaml 0CFC:seekg__7istreamlQ23ios8seek_dir 0D28:tellg__7istream 0D54:__rs__7istreamRc 0DD4:__rs__7istreamPc 1144:__rs__7istreamRs 1188:__rs__7istreamRUs 11CC:__rs__7istreamRi 1210:__rs__7istreamRUi 1254:__rs__7istreamRl 1298:__rs__7istreamRUl 12DC:__rs__7istreamRx 1320:__rs__7istreamRUx 1364:__rs__7istreamRb 13B4:__rs__7istreamRr 1410:__rs__7istreamRd 1470:__rs__7istreamRf 14CC:__rs__7istreamP9streambuf 1580:__ls__7ostreamc 1878:__ls__7ostreami 18D0:__ls__7ostreamUi 191C:__ls__7ostreaml 1974:__ls__7ostreamUl 19C0:__ls__7ostreamx 1A18:__ls__7ostreamUx 1A50:__ls__7ostreamd 1B38:__ls__7ostreamPCc 1C20:__ls__7ostreamP9streambuf 1CA8:__7ostreamiP9streambufP7ostream 1D9C:seekp__7ostreaml 1DC4:seekp__7ostreamlQ23ios8seek_dir 1DF0:tellp__7ostream 1E1C:flush__7ostream 1E48:flush__FR7ostream 1E58:ws__FR7istream 1EBC:_skip_ws__7istream 1EF8:ends__FR7ostream 1F28:endl__FR7ostream 1F5C:write__7ostreamPCci 1FA4:do_osfx__7ostream 1FE0:__8iostreamiP9streambufP7ostream 2174:close__3ios 21B0:skip__7istreami 21D8:__as__13Iostream_initRC13Iostream_init 21EC:__13Iostream_initRC13Iostream_init 2200:__13Iostream_init 2208:__7ostreamiRC7ostream 2290:__22_IO_ostream_withassigniRC22_IO_ostream_withassign 2360:__22_IO_ostream_withassigni 2454:_$_22_IO_ostream_withassign 2530:__7istreamiRC7istream 25C0:__22_IO_istream_withassigniRC22_IO_istream_withassign 2698:__22_IO_istream_withassigni 2794:_$_22_IO_istream_withassign 2870:__8iostreamiRC8iostream 2998:_$_8iostream 2AC0:_vt$22_IO_ostream_withassign$3ios 2AD0:_vt$22_IO_istream_withassign$3ios 2AE0:_vt$8iostream$3ios 2AF0:_vt$7istream$3ios 2B00:_vt$7ostream$3ios
+        575653:
+          30C08B7D14FCB9FFFFFFFFF2AE89C8F7D0488945F885C0:
+            0. 4E EA44 0114 0000:wm_puts_at
+          8B:
+            45088B75108B581C837B100074166A00FF7310FF33E8:
+              0. 00 0000 0474 0000:__rec_put 02B4:__rec_iput
+            7D088D772C89B7BC010000C745FC01000000C745F800:
+              0. 0C C2D6 018C 0000:__rec_search
+        8D55F08B4D148B451051508B4D0C8B4508515052E8........8B:
+          0. 08 0B7A 0028 0000:__divdi3 (REF 001B: _lldiv)
+          1. 08 0B7A 0028 0000:__udivdi3 (REF 001B: _ulldiv)
+          2. 08 3F41 0028 0000:__umoddi3 (REF 001B: _ulldiv)
+          3. 08 3F41 0028 0000:__moddi3 (REF 001B: _lldiv)
+      14:
+        56538B5D080FB603F680........040F849500000031F68D7600:
+          0. 08 2E93 00E0 0000:inet_network (00B7: 90)
+          1. 08 2E93 00E4 0000:inet_addr (00B7: 5B)
+        575653:
+          8B7D08C745F000000000C745FC00000000837D10007424:
+            0. A4 AE18 0460 0000:__get_buf 0324:__buf_init 0358:__buf_free 040C:__reclaim_buf
+          8D4514508D451050FF750CFF7508E8........83C41085:
+            0. 16 859A 0280 0000:_ega_line
+      18:
+        5756538B45088B550C8B4D108B5D148B75188B7D1C8945E88955:
+          0. 12 E866 0040 0000:recvfrom (REF 0032: __recvfrom)
+          1. 12 E866 0040 0000:sendto (REF 0032: __sendto)
+        8B45088945F0C745E800010000C745EC08000000C745F4000000:
+          0. 22 745C 0114 0000:hcreate 0050:hsearch 00F0:hdestroy
+      1C:
+        56538B5D088B750C803D........0175256A0068........E8:
+          0. 00 0000 0068 0000:v_getctype
+        803D........0175:
+          3566C705........000066C705........00:
+            0. 04 45FF 0060 0000:v_hidecursor
+          4D66C705........22006A0068........E8:
+            0. 00 0000 0078 0000:v_hardware
+        8B45088B550C:
+          3905........764A3915........7642A3:
+            0. 00 0000 0060 0000:v_gotoxy
+          83F81F775583FA1F7750803D........01753166:
+            0. 03 AE66 0068 0000:v_ctype
+      20:
+        538B4D0C8A5D0885C90F8E9A000000803D........01753A885D:
+          0. 03 736C 00B4 0000:v_putn
+        56538B5D088B750C803D........01751D6A008D45FC508D45FE:
+          0. 02 F6B7 0144 005C:v_init
+        5756538B:
+          45108B550C8B7A10897DEC8B08894DE88B40048945FC:
+            0. 48 1EDB 0AA4 0000:__big_insert 024C:__big_delete 0384:__find_bigpair 045C:__find_last_page 04BC:__big_return 07FC:__big_keydata 0934:__big_split
+          4D148B5D18837D10007D7B85DB7D338D45F089CA89D9:
+            0. 1A 247F 0118 0000:_lldiv
+          75:
+            088B7D1485FF0F8ED7000000803D........017520:
+              0. 17 BD5B 00F8 0000:v_putline
+            108B7D148B5D188B4D1C85DB0F8E5D010000803D:
+              0. 00 0000 0184 0000:v_scroll
+      245756538B:
+        75088B:
+          4D0C8B1D........85DB746B8B45140FAF05:
+            0. 00 0000 0168 0000:v_putmask
+          7D1485FF0F8ECD000000803D........017524:
+            0. 1B FBBB 00EC 0000:v_getline
+        7D0C85FF0F8E00010000803D........0175338A05:
+          0. 00 0000 011C 0000:v_putm
+      285756538B7D088B5D10837D18000F84910300008B4D142B4D0C89:
+        0. FF 4EDE 03B4 0000:_BS_copy
+      2C5756538B75088B7D10837D18000F84E10300008B4D142B4D0C89:
+        0. FF 99BB 0404 0000:_BS_xor
+        1. FF A336 0404 0000:_BS_and
+      30:
+        56538B5D088B750C85F674498D435489435089038B4350C7401C:
+          0. 00 0000 08A8 0000:__8PlotFilei 0150:__8PlotFileii 02A0:__8PlotFileiPCcii 03F8:cmd__8PlotFilec 0430:__ls__8PlotFilei 049C:__ls__8PlotFilePCc 04B8:arc__8PlotFileiiiiii 0510:box__8PlotFileiiii 0564:circle__8PlotFileiii 0598:cont__8PlotFileii 05C0:dot__8PlotFileiiiiPCi 0624:erase__8PlotFile 0638:label__8PlotFilePCc 0664:line__8PlotFileiiii 06A4:linemod__8PlotFilePCc 06D0:move__8PlotFileii 06F8:point__8PlotFileii 0720:space__8PlotFileiiii 0760:__8PlotFileiRC8PlotFile 07F8:_$_8PlotFile 0898:_vt$8PlotFile$3ios
+        5756538B7D088B5D0C85DB74498D475889475089078B4750C740:
+          0. 01 952A 0794 0000:__9ipfstreamiPCcii 02BC:__9opfstreamiPCcii 0504:__9opfstreamiRC9opfstream 059C:_$_9opfstream 063C:__9ipfstreamiRC9ipfstream 06D4:_$_9ipfstream 0774:_vt$9opfstream$3ios 0784:_vt$9ipfstream$3ios
+      345756538B:
+        750C8B5D108B7D148D45CC5056E8........83C40885:
+          0. 14 0472 0588 0000:mpool_open 0098:mpool_filter 00E8:mpool_new 0180:mpool_get 0324:mpool_put 033C:mpool_close 039C:mpool_sync
+        7D08A1........85C07402FFD0837F38007C178B4748:
+          0. 34 33F7 009C 0000:_IO_file_doallocate
+      385756538B:
+        45088B:
+          701C837E100074166A00FF7610FF36E8:
+            0. 00 0000 04E0 0000:__bt_put
+          750C8B7D1C83F80F0F8785010000FF2485:
+            0. 00 0000 06B0 0000:_BS_blt
+        751C668B4520668945F68B4D0C8339017518568D45F6:
+          0. 79 969C 0E00 0000:__bt_split
+      445756538B45088B5510F68020020000080F84A6020000837D0C00:
+        0. FF 67C7 0658 0000:__bt_pgin 02CC:__bt_pgout
+      50:
+        56538B5D088B750C85F6744C8D436089435889435089038B4358:
+          0. 03 D8DC 08A4 0000:__5SFilei 01F0:size__5SFile 01FC:setsize__5SFilei 0210:__5SFileiPCciii 0414:__5SFileiii 0610:open__5SFilePCciii 0634:get__5SFilePv 0654:put__5SFilePv 0674:__vc__5SFilel 06A4:__5SFileiRC5SFile 07F4:_$_5SFile 0894:_vt$5SFile$3ios
+        5756538B7D108B5D1C31F68B552083E20E8955E4C745E0000000:
+          0. 26 322B 055C 0000:_IO_outfloat
+      58575653B8........2B05........3DFF0400007F0AC705:
+        0. 00 0000 0280 0000:form__FPCce 0160:dec__Fli 018C:dec__Fii 01B8:dec__FUli 01CC:dec__FUii 01E0:hex__Fli 01F4:hex__Fii 0208:hex__FUli 021C:hex__FUii 0230:oct__Fli 0244:oct__Fii 0258:oct__FUli 026C:oct__FUii
+  8A45083C0A74216A010FBEC050E8........FF05........83C408A1:
+    0. 00 0000 006C 0000:v_putc
+  8B:
+    45:
+      08:
+        0FBF4028C9C3696E76616C6964206275636B6574206163636573:
+          0. 1C 292F 03C8 0000:buckets__15SampleHistogram 0024:bucketThreshold__15SampleHistogrami 0054:inBucket__15SampleHistogrami 0084:SampleHistogramMinimum 0088:SampleHistogramMaximum 009C:__15SampleHistogramddd 0198:_$_15SampleHistogram 01E0:__apl__15SampleHistogramd 0228:similarSamples__15SampleHistogramd 0280:printBuckets__15SampleHistogramR7ostream 031C:reset__15SampleHistogram 0354:__as__15SampleHistogramRC15SampleHistogram 0384:__15SampleHistogramRC15SampleHistogram 03A8:_vt$15SampleHistogram
+        2B450CC9C3905589E50FBF55080FBF450C29C289D0C9C38D7600:
+          0. FF 5BC1 0130 0000:compare__Fii 000C:compare__Fss 0020:compare__FScSc 0034:compare__FUlUl 0054:compare__FUiUi 0074:compare__FUsUs 0098:compare__FUcUc 00B8:compare__Fff 00EC:compare__Fdd 0120:compare__FPCcT0
+        66C7400C0100C7400403000000C7400808000000C74010000000:
+          0. 33 DA31 2F04 0C10:_IO_strtod 1E08:_IO_dtoa
+        83:
+          7850000F94C025FF000000C9C35589E5538B5D086A0053E8:
+            0. 00 0000 1828 0000:is_static__C12strstreambuf 0014:__12strstreambuf 0044:__12strstreambufi 0078:__12strstreambufPFUl_PvPFPv_v 00B0:__12strstreambufPciT1 00E8:__12strstreambufPUciT1 0120:__12strstreambufPCci 0154:__12strstreambufPCUci 0188:__12strstreambufPSciT1 01C0:__12strstreambufPCSci 01F4:frozen__12strstreambuf 0208:freeze__12strstreambufi 0228:rdbuf__13strstreambase 0234:__13strstreambasei 0308:_$_13strstreambase 03A8:__10ostrstreamiPcii 04B4:pcount__10ostrstream 04C8:str__10ostrstream 04DC:freeze__10ostrstreami 0500:frozen__10ostrstream 0518:__9strstreamiPcii 06C8:pcount__9strstream 06DC:str__9strstream 06F0:freeze__9strstreami 0714:frozen__9strstream 0750:__10istrstreamiPCci 0918:__10ostrstreami 0AC8:__9strstreami 0D1C:__13strstreambaseiPcii 0E5C:str__12strstreambuf 0E70:pcount__12strstreambuf 0E80:overflow__12strstreambufi 0E90:underflow__12strstreambuf 0EA0:init_dynamic__12strstreambufPFUl_PvPFPv_vi 0F1C:init_static__12strstreambufPciT1 0F34:init_readonly__12strstreambufPCci 0F48:_$_12strstreambuf 0F84:seekoff__12strstreambuflQ23ios8seek_diri 0F9C:pbackfail__12strstreambufi 0FAC:__13strstreambaseiRC13strstreambase 1044:__9strstreamiRC9strstream 113C:_$_9strstream 1234:__10ostrstreamiRC10ostrstream 1364:_$_10ostrstream 1498:__10istrstreamiRC10istrstream 15D0:_$_10istrstream 1704:__as__12strstreambufRC12strstreambuf 1734:__12strstreambufRC12strstreambuf 1758:_vt$9strstream$3ios 1768:_vt$10ostrstream$3ios 1778:_vt$10istrstream$3ios 1788:_vt$13strstreambase$3ios 1798:_vt$12strstreambuf
+          C004C9C3905589E58B45088B403CF7D0C1E81FC9C35589E58B:
+            0. 6B 7177 1D08 0000:rdbuf__C11fstreambase 000C:is_open__C11fstreambase 001C:setbuf__11fstreambasePci 003C:filedesc__11fstreambase 0054:raw__11fstreambase 0078:_$_11fstreambase 0118:__8ifstreami 0224:__8ifstreamii 0334:__8ifstreamiiPci 0448:__8ifstreamiPCcii 055C:open__8ifstreamPCcii 0574:__8ofstreami 0678:__8ofstreamii 0780:__8ofstreamiiPci 088C:__8ofstreamiPCcii 0998:open__8ofstreamPCcii 09B0:__7fstreami 0B58:__7fstreamii 0D04:__7fstreamiPCcii 0EB4:__7fstreamiiPci 1064:open__7fstreamPCcii 107C:__11fstreambasei 1174:__11fstreambaseii 127C:__11fstreambaseiPCcii 1394:__11fstreambaseiiPci 14A8:open__11fstreambasePCcii 14E0:close__11fstreambase 1500:attach__11fstreambasei 1524:__11fstreambaseiRC11fstreambase 15BC:__7fstreamiRC7fstream 16B4:_$_7fstream 17AC:__8ofstreamiRC8ofstream 18DC:_$_8ofstream 1A10:__8ifstreamiRC8ifstream 1B48:_$_8ifstream 1C7C:_vt$7fstream$3ios 1C8C:_vt$8ofstream$3ios 1C9C:_vt$8ifstream$3ios 1CAC:_vt$11fstreambase$3ios 1CBC:__fb_init__11fstreambase
+          F8FF741125FF00000050FF750CE8........C9C390B8FFFFFF:
+            0. 04 C3DB 0024 0000:_IO_ungetc
+        85C0:
+          740650E8........C9C39090:
+            0. 00 0000 0014 0000:__builtin_delete
+          7D02F7D8C9C39090:
+            0. 00 0000 0010 0000:abs__Fl
+        8B:
+          000FB700C9C38D76005589E58B45088B00668338000F94C025:
+            0. 68 45FB 4668 0000:length__C6String 0010:empty__C6String 0028:chars__C6String 0038:allocation__C6String 0048:length__C9SubString 0054:empty__C9SubString 006C:chars__C9SubString 0080:__6String 0090:__6StringRC6String 00AC:__6StringPCc 00CC:__6StringPCci 00EC:__6StringRC9SubString 011C:__6Stringc 0144:_$_6String 0178:__9SubStringRC9SubString 019C:__9SubStringR6Stringii 01C0:_$_9SubString 01D4:__as__6StringRC6String 01F0:__as__6StringPCc 0210:__as__6StringRC9SubString 0240:__as__6Stringc 0268:__as__9SubStringPCc 0284:__as__9SubStringc 02AC:__as__9SubStringRC6String 02D0:__as__9SubStringRC9SubString 02FC:cat__FRC6StringT0R6String 032C:cat__FRC6StringRC9SubStringR6String 0368:cat__FRC6StringPCcR6String 0390:cat__FRC6StringcR6String 03C4:cat__FRC9SubStringRC6StringR6String 03FC:cat__FRC9SubStringT0R6String 0440:cat__FRC9SubStringPCcR6String 0470:cat__FRC9SubStringcR6String 04AC:cat__FPCcRC6StringR6String 04D4:cat__FPCcRC9SubStringR6String 0504:cat__FPCcT0R6String 0524:cat__FPCccR6String 0550:cat__FRC6StringN20R6String 0590:cat__FRC6StringT0RC9SubStringR6String 05DC:cat__FRC6StringT0PCcR6String 0610:cat__FRC6StringT0cR6String 0650:cat__FRC6StringRC9SubStringT0R6String 0698:cat__FRC6StringRC9SubStringT1R6String 06EC:cat__FRC6StringRC9SubStringPCcR6String 072C:cat__FRC6StringRC9SubStringcR6String 0778:cat__FRC6StringPCcT0R6String 07AC:cat__FRC6StringPCcRC9SubStringR6String 07EC:cat__FRC6StringPCcT1R6String 0818:cat__FRC6StringPCccR6String 0850:cat__FPCcRC6StringT1R6String 0884:cat__FPCcRC6StringRC9SubStringR6String 08C4:cat__FPCcRC6StringT0R6String 08F0:cat__FPCcRC6StringcR6String 0928:cat__FPCcRC9SubStringRC6StringR6String 0964:cat__FPCcRC9SubStringT1R6String 09AC:cat__FPCcRC9SubStringT0R6String 09E0:cat__FPCcRC9SubStringcR6String 0A24:cat__FPCcT0RC6StringR6String 0A50:cat__FPCcT0RC9SubStringR6String 0A84:cat__FPCcN20R6String 0AA8:cat__FPCcT0cR6String 0AD8:__apl__6StringRC6String 0B08:__apl__6StringRC9SubString 0B40:__apl__6StringPCc 0B68:__apl__6Stringc 0B98:__pl__FRC6StringT0 0BD4:__pl__FRC6StringRC9SubString 0C1C:__pl__FRC6StringPCc 0C54:__pl__FRC6Stringc 0C90:__pl__FRC9SubStringRC6String 0CD4:__pl__FRC9SubStringT0 0D24:__pl__FRC9SubStringPCc 0D64:__pl__FRC9SubStringc 0DA8:__pl__FPCcRC6String 0DE0:__pl__FPCcRC9SubString 0E20:reverse__FRC6String 0E48:upcase__FRC6String 0E70:downcase__FRC6String 0E98:capitalize__FRC6String 0EC0:prepend__6StringRC6String 0EE4:prepend__6StringPCc 0F00:prepend__6Stringc 0F24:prepend__6StringRC9SubString 0F50:reverse__6String 0F68:upcase__6String 0F80:downcase__6String 0F98:capitalize__6String 0FC0:__vc__6Stringi 0FEC:__vc__C6Stringi 1018:elem__C6Stringi 1048:firstchar__C6String 1070:lastchar__C6String 10A0:index__C6Stringci 10BC:index__C6StringPCci 10D8:index__C6StringRC6Stringi 10FC:index__C6StringRC9SubStringi 1128:index__C6StringRC5Regexi 114C:contains__C6Stringc 116C:contains__C6StringPCc 118C:contains__C6StringRC6String 11B4:contains__C6StringRC9SubString 11E4:contains__C6Stringci 1214:contains__C6StringPCci 1238:contains__C6StringRC6Stringi 1264:contains__C6StringRC9SubStringi 1298:contains__C6StringRC5Regex 12C0:contains__C6StringRC5Regexi 12E4:matches__C6StringRC9SubStringi 1318:matches__C6StringRC6Stringi 1344:matches__C6StringPCci 1368:matches__C6Stringci 1398:matches__C6StringRC5Regexi 13D8:contains__C9SubStringPCc 1400:contains__C9SubStringRC6String 1430:contains__C9SubStringRC9SubString 1468:contains__C9SubStringc 1490:contains__C9SubStringRC5Regex 14C0:matches__C9SubStringRC5Regex 14F4:gsub__6StringRC6StringT1 151C:gsub__6StringRC9SubStringRC6String 154C:gsub__6StringRC5RegexRC6String 156C:gsub__6StringPCcRC6String 158C:gsub__6StringPCcT1 15A4:__ls__FR7ostreamRC6String 15C4:__eq__FRC6StringT0 15E0:__ne__FRC6StringT0 15FC:__gt__FRC6StringT0 1618:__ge__FRC6StringT0 1630:__lt__FRC6StringT0 1644:__le__FRC6StringT0 1660:__eq__FRC6StringRC9SubString 167C:__ne__FRC6StringRC9SubString 1698:__gt__FRC6StringRC9SubString 16B4:__ge__FRC6StringRC9SubString 16CC:__lt__FRC6StringRC9SubString 16E0:__le__FRC6StringRC9SubString 16FC:__eq__FRC6StringPCc 1718:__ne__FRC6StringPCc 1734:__gt__FRC6StringPCc 1750:__ge__FRC6StringPCc 1768:__lt__FRC6StringPCc 177C:__le__FRC6StringPCc 1798:__eq__FRC9SubStringRC6String 17B4:__ne__FRC9SubStringRC6String 17D0:__gt__FRC9SubStringRC6String 17E4:__ge__FRC9SubStringRC6String 1800:__lt__FRC9SubStringRC6String 181C:__le__FRC9SubStringRC6String 1834:__eq__FRC9SubStringT0 1850:__ne__FRC9SubStringT0 186C:__gt__FRC9SubStringT0 1888:__ge__FRC9SubStringT0 18A0:__lt__FRC9SubStringT0 18B4:__le__FRC9SubStringT0 18D0:__eq__FRC9SubStringPCc 18EC:__ne__FRC9SubStringPCc 1908:__gt__FRC9SubStringPCc 1924:__ge__FRC9SubStringPCc 193C:__lt__FRC9SubStringPCc 1950:__le__FRC9SubStringPCc 196C:_substr__6Stringii 19C4:error__C6StringPCc 19D8:__opPCc__C6String 1A04:Salloc__FP6StrRepPCcii 1C20:alloc__6Stringi 1C44:Scopy__FP6StrRepPC6StrRep 1D50:Scat__FP6StrRepPCciT1i 1EC8:Scat__FP6StrRepPCciT1iT1i 20AC:Sprepend__FP6StrRepPCci 2214:fcompare__FRC6StringT0 2290:compare__FRC6StringPCc 22D8:compare__FRC6StringT0 2324:compare__FRC6StringRC9SubString 2378:compare__FRC9SubStringRC6String 23CC:compare__FRC9SubStringT0 2430:compare__FRC9SubStringPCc 2488:search__C6Stringiic 24F0:search__C6StringiiPCci 260C:match__C6StringiiiPCci 26BC:assign__9SubStringPC6StrRepPCci 28C4:_gsub__6StringPCciT1i 2B2C:_gsub__6StringRC5RegexPCci 2D68:del__6Stringii 2DDC:del__6StringRC5Regexi 2E10:del__6StringPCci 2E5C:del__6StringRC6Stringi 2E90:del__6StringRC9SubStringi 2ECC:del__6Stringci 2EF8:at__6Stringii 2F48:__cl__6Stringii 2F98:before__6Stringi 2FDC:through__6Stringi 3020:after__6Stringi 3074:from__6Stringi 30C4:at__6StringRC6Stringi 3130:at__6StringRC9SubStringi 31A4:at__6StringRC5Regexi 3210:at__6StringPCci 3290:at__6Stringci 32F0:before__6StringRC6Stringi 3350:before__6StringRC9SubStringi 33B8:before__6StringRC5Regexi 3418:before__6Stringci 3470:before__6StringPCci 34E8:through__6StringRC6Stringi 3554:through__6StringRC9SubStringi 35C8:through__6StringRC5Regexi 3630:through__6Stringci 368C:through__6StringPCci 3708:after__6StringRC6Stringi 3780:after__6StringRC9SubStringi 37FC:after__6Stringci 3864:after__6StringRC5Regexi 38D8:after__6StringPCci 3960:from__6StringRC6Stringi 39CC:from__6StringRC9SubStringi 3A40:from__6StringRC5Regexi 3AAC:from__6Stringci 3B10:from__6StringPCci 3B94:split__FRC6StringP6StringiT0 3C48:split__FRC6StringP6StringiRC5Regex 3CF0:join__FP6StringiRC6String 3E34:Sreverse__FPC6StrRepP6StrRep 3E7C:Supcase__FPC6StrRepP6StrRep 3EC0:Sdowncase__FPC6StrRepP6StrRep 3F04:Scapitalize__FPC6StrRepP6StrRep 3FA0:replicate__Fci 3FE8:replicate__FRC6Stringi 405C:common_prefix__FRC6StringT0i 40E4:common_suffix__FRC6StringT0i 415C:__rs__FR7istreamR6String 42A4:readline__FR7istreamR6Stringci 43B4:__ls__FR7ostreamRC9SubString 441C:freq__C6StringRC9SubString 4470:freq__C6StringRC6String 44B8:freq__C6StringPCc 44F8:freq__C6Stringc 4550:OK__C6String 45A0:OK__C9SubString 4600:_GLOBAL_$D$length__C6String 4618:_GLOBAL_$I$length__C6String 4628:__as__6StrRepRC6StrRep 4644:__6StrRepRC6StrRep 4660:__6StrRep
+          40:
+            04C9C3905589E58B45088B550C8B480489500489C8C9C390:
+              0. FF E4CE 0F18 0000:tie__C3ios 000C:tie__3iosP7ostream 0020:fill__C3ios 002C:fill__3ioss 0044:flags__C3ios 0050:flags__3iosUl 0064:precision__C3ios 0070:precision__3iosi 0088:setf__3iosUl 00A0:setf__3iosUlUl 00C4:unsetf__3iosUl 00DC:width__C3ios 00E8:width__3iosi 00FC:_throw_failure__C3ios 0104:clear__3iosi 011C:set__3iosi 012C:setstate__3iosi 013C:good__C3ios 0150:eof__C3ios 0160:fail__C3ios 0170:bad__C3ios 0180:rdstate__C3ios 018C:__opPv__C3ios 01A4:__nt__C3ios 01B4:exceptions__C3ios 01C0:exceptions__3iosi 01D0:rdbuf__C3ios 01DC:rdbuf__3iosP9streambuf 01FC:sync_with_stdio__3ios 0208:unset__3ios11state_value 0218:__Q23ios4Init 0220:set_offset__12streammarkeri 0230:saving__12streammarker 023C:_vtable__9streambuf 0248:xchain__9streambuf 0254:gptr__C9streambuf 0270:pptr__C9streambuf 027C:egptr__C9streambuf 0298:epptr__C9streambuf 02A4:pbase__C9streambuf 02B0:eback__C9streambuf 02CC:base__C9streambuf 02D8:ebuf__C9streambuf 02E4:blen__C9streambuf 02F4:xput_char__9streambufc 0308:xflags__9streambuf 0314:xflags__9streambufi 0328:xsetflags__9streambufi 0338:xsetflags__9streambufii 0350:gbump__9streambufi 036C:pbump__9streambufi 037C:setp__9streambufPcT1 0394:setg__9streambufPcN21 03C4:shortbuf__9streambuf 03D0:in_backup__9streambuf 03E0:Gbase__9streambuf 03FC:eGptr__9streambuf 0418:Bbase__9streambuf 0434:Bptr__9streambuf 0440:eBptr__9streambuf 045C:Nbase__9streambuf 0468:eNptr__9streambuf 0474:have_backup__9streambuf 0488:have_markers__9streambuf 049C:put_mode__9streambuf 04AC:pubseekoff__9streambuflQ23ios8seek_diri 04C4:pubseekpos__9streambufli 04D8:unbuffered__9streambuf 04E8:linebuffered__9streambuf 04F8:unbuffered__9streambufi 0514:linebuffered__9streambufi 0530:allocate__9streambuf 0560:allocbuf__9streambuf 0574:in_avail__9streambuf 0584:out_waiting__9streambuf 0594:sputn__9streambufPCci 05B4:padn__9streambufci 05CC:sgetn__9streambufPci 05E0:sputc__9streambufi 060C:sbumpc__9streambuf 062C:sgetc__9streambuf 065C:snextc__9streambuf 06A8:stossc__9streambuf 06BC:is_open__C7filebuf 06CC:fd__C7filebuf 06E4:is_reading__7filebuf 0718:cur_ptr__7filebuf 0760:file_ptr__7filebuf 077C:init__3iosP9streambufP7ostream 07C8:__3iosP9streambufP7ostream 081C:_$_3ios 0854:_un_link__9streambuf 0864:_link_in__9streambuf 0874:switch_to_get_mode__9streambuf 0884:free_backup_area__9streambuf 0894:__overflow__FP9streambufi 08B0:underflow__9streambuf 08BC:uflow__9streambuf 08CC:overflow__9streambufi 08D8:xsputn__9streambufPCci 08EC:xsgetn__9streambufPci 0900:ignore__9streambufi 0948:sync__9streambuf 0950:pbackfail__9streambufi 0960:setbuf__9streambufPci 09F8:seekpos__9streambufli 0A18:sseekpos__9streambufli 0A2C:setb__9streambufPcT1i 0A44:doallocate__9streambuf 0A54:doallocbuf__9streambuf 0A64:__9streambufi 0A84:_$_9streambuf 0AB4:seekoff__9streambuflQ23ios8seek_diri 0AC0:sseekoff__9streambuflQ23ios8seek_diri 0AD8:sputbackc__9streambufc 0AEC:sungetc__9streambuf 0AFC:get_column__9streambuf 0B2C:set_column__9streambufi 0B40:flush_all__9streambuf 0B4C:flush_all_linebuffered__9streambuf 0B58:sys_stat__9streambufPv 0B70:sys_read__9streambufPci 0B78:sys_write__9streambufPCci 0B80:sys_seek__9streambuflQ23ios8seek_dir 0B8C:sys_close__9streambuf 0B94:__12streammarkerP9streambuf 0BAC:_$_12streammarker 0BD4:delta__12streammarkerR12streammarker 0BE4:delta__12streammarker 0BF4:seekmark__9streambufR12streammarkeri 0C08:unsave_markers__9streambuf 0C18:readable__3ios 0C2C:writable__3ios 0C40:is_open__3ios 0C60:_GLOBAL_$D$tie__C3ios 0C6C:_GLOBAL_$I$tie__C3ios 0C74:__as__7filebufRC7filebuf 0CA4:__7filebufRC7filebuf 0CC8:__as__9streambufRC9streambuf 0CF8:__9streambufRC9streambuf 0D1C:__as__12streammarkerRC12streammarker 0D3C:__12streammarkerRC12streammarker 0D5C:__3iosRC3ios 0D80:__as__Q23ios4InitRCQ23ios4Init 0D94:__Q23ios4InitRCQ23ios4Init 0DA8:__as__11_ios_fieldsRC11_ios_fields 0DC4:__11_ios_fieldsRC11_ios_fields 0DE0:__11_ios_fields 0DE8:_vt$7filebuf 0E78:_vt$9streambuf 0F08:_vt$3ios
+            0CC9C3905589E58B45088B550C8950048B080FBF511001D0:
+              0. 65 7FF7 02A4 0000:seed1__4MLCG 000C:seed1__4MLCGi 0028:seed2__4MLCG 0034:seed2__4MLCGi 0050:reseed__4MLCGii 0074:__4MLCGii 00A8:reset__4MLCG 0140:asLong__4MLCG 023C:__as__4MLCGRC4MLCG 0268:__4MLCGRC4MLCG 028C:_vt$4MLCG
+            4CC9C3905589E58B45088B00C1E801340183E001C9C38D36:
+              0. 1A 6BC3 09F0 0000:stdiofile__C8stdiobuf 000C:buffered__C8stdiobuf 0020:__12istdiostreamiP5_FILE 016C:rdbuf__12istdiostream 0178:buffered__C12istdiostream 018C:buffered__12istdiostreami 01A0:__12ostdiostreamiP5_FILE 02E4:rdbuf__12ostdiostream 02F0:buffered__C12ostdiostream 0304:buffered__12ostdiostreami 0318:__8stdiobufP5_FILE 034C:_$_8stdiobuf 0380:sys_read__8stdiobufPci 03DC:sys_write__8stdiobufPCci 0408:sys_seek__8stdiobuflQ23ios8seek_dir 0440:sys_close__8stdiobuf 045C:sync__8stdiobuf 049C:overflow__8stdiobufi 04DC:xsputn__8stdiobufPCci 0514:buffered__8stdiobufi 0548:__12ostdiostreamiRC12ostdiostream 062C:_$_12ostdiostream 0718:__12istdiostreamiRC12istdiostream 0800:_$_12istdiostream 08EC:__as__8stdiobufRC8stdiobuf 091C:__8stdiobufRC8stdiobuf 0940:_vt$12ostdiostream$3ios 0950:_vt$12istdiostream$3ios 0960:_vt$8stdiobuf
+            54C9C3905589E58B45088B4050C9C3905589E5538B5D086A:
+              0. 03 1554 0D20 0000:line_number__8parsebuf 000C:line_length__8parsebuf 0018:__8parsebuf 0054:left__C15string_parsebuf 0060:right__C15string_parsebuf 006C:setbuf__8parsebufPci 0074:tell_in_line__8parsebuf 007C:pbackfail__8parsebufi 00BC:current_line__8parsebuf 00C4:seekoff__8parsebuflQ23ios8seek_diri 0138:_$_8parsebuf 0154:__15string_parsebufPcii 01E4:underflow__15string_parsebuf 029C:current_line__15string_parsebuf 02BC:tell_in_line__15string_parsebuf 02F0:seek_in_line__15string_parsebufi 0330:__16general_parsebufP9streambufi 03A0:_$_16general_parsebuf 03E4:underflow__16general_parsebuf 051C:current_line__16general_parsebuf 0530:tell_in_line__16general_parsebuf 0554:seek_in_line__16general_parsebufi 05F0:__13func_parsebufPFPv_PcPv 0690:tell_in_line__13func_parsebuf 0700:current_line__13func_parsebuf 070C:seek_in_line__13func_parsebufi 07D8:underflow__13func_parsebuf 08EC:seek_in_line__8parsebufi 08F4:__as__16general_parsebufRC16general_parsebuf 0924:__16general_parsebufRC16general_parsebuf 0948:__as__13func_parsebufRC13func_parsebuf 0978:__13func_parsebufRC13func_parsebuf 099C:_$_13func_parsebuf 09B8:__as__15string_parsebufRC15string_parsebuf 09E8:__15string_parsebufRC15string_parsebuf 0A0C:_$_15string_parsebuf 0A28:__as__8parsebufRC8parsebuf 0A58:__8parsebufRC8parsebuf 0A7C:_vt$16general_parsebuf 0B24:_vt$13func_parsebuf 0BCC:_vt$15string_parsebuf 0C74:_vt$8parsebuf
+            58C9C390:
+              0. 00 0000 000C 0000:wm_get_attrib
+            5CC9C390:
+              0. 00 0000 000C 0000:wm_getx
+            60C9C390:
+              0. 00 0000 000C 0000:wm_gety
+          550C:
+            813810FA776D7503895018C9C39090:
+              0. 00 0000 0018 0000:wm_wrap
+            8A0A8808EB0590EB028D36C9C38D365589E5538B55088B:
+              0. 95 6BD2 272C 0000:assign__t18string_char_traits1ZcRcRCc 0018:eq__t18string_char_traits1ZcRCcT1 0040:ne__t18string_char_traits1ZcRCcT1 0068:lt__t18string_char_traits1ZcRCcT1 0090:eos__t18string_char_traits1Zc 00A4:is_del__t18string_char_traits1Zcc 00E0:compare__t18string_char_traits1ZcPCcT1Ul 0110:length__t18string_char_traits1ZcPCc 0138:copy__t18string_char_traits1ZcPcPCcUl 0168:move__t18string_char_traits1ZcPcPCcUl 0198:set__t18string_char_traits1ZcPcRCcUl 01F0:set__t7__bsrep2ZcZt18string_char_traits1ZcUlcUl 0234:move__t7__bsrep2ZcZt18string_char_traits1ZcUlPCcUl 026C:copy__t7__bsrep2ZcZt18string_char_traits1ZcUlPCcUl 02A4:excess_slop__t7__bsrep2ZcZt18string_char_traits1ZcUlUl 02D4:create__t7__bsrep2ZcZt18string_char_traits1ZcUl 0324:frob_size__t7__bsrep2ZcZt18string_char_traits1ZcUl 035C:__nw__t7__bsrep2ZcZt18string_char_traits1ZcUlUl 0384:_find__t12basic_string2ZcZt18string_char_traits1ZcPCccUlUl 03E0:check_realloc__Ct12basic_string2ZcZt18string_char_traits1ZcUl 0444:alloc__t12basic_string2ZcZt18string_char_traits1ZcUlb 04FC:replace__t12basic_string2ZcZt18string_char_traits1ZcUlUlRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 05E8:replace__t12basic_string2ZcZt18string_char_traits1ZcUlUlPCcUl 07A8:replace__t12basic_string2ZcZt18string_char_traits1ZcUlUlUlc 0980:resize__t12basic_string2ZcZt18string_char_traits1ZcUlc 0A18:copy__t12basic_string2ZcZt18string_char_traits1ZcPcUlUl 0AA4:find__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0B44:find__Ct12basic_string2ZcZt18string_char_traits1ZccUl 0B90:rfind__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0C40:rfind__Ct12basic_string2ZcZt18string_char_traits1ZccUl 0CC0:find_first_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0D2C:find_last_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0D94:find_first_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0E00:find_first_not_of__Ct12basic_string2ZcZt18string_char_traits1ZccUl 0E6C:find_last_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 0ED4:find_last_not_of__Ct12basic_string2ZcZt18string_char_traits1ZccUl 0F40:compare__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 1040:compare__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUlUl 10F0:clone__t7__bsrep2ZcZt18string_char_traits1Zc 114C:__t7__bsrep2ZcZt18string_char_traits1ZcRCt7__bsrep2ZcZt18string_char_traits1Zc 1174:__t7__bsrep2ZcZt18string_char_traits1Zc 1180:__as__t18string_char_traits1ZcRCt18string_char_traits1Zc 1198:__t18string_char_traits1ZcRCt18string_char_traits1Zc 11B0:__t18string_char_traits1Zc 11BC:__ge__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 11EC:__ge__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 1218:__ge__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 1248:__le__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 1274:__le__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 12A4:__le__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 12D0:__gt__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 12FC:__gt__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 1328:__gt__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 1354:__lt__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 1380:__lt__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 13AC:__lt__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 13D8:__ne__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 1404:__ne__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 1430:__ne__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 145C:__eq__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 1488:__eq__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 14B4:__eq__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 14E0:__pl__FRCt12basic_string2ZcZt18string_char_traits1Zcc 1544:__pl__FcRCt12basic_string2ZcZt18string_char_traits1Zc 15AC:__pl__FRCt12basic_string2ZcZt18string_char_traits1ZcPCc 1604:__pl__FPCcRCt12basic_string2ZcZt18string_char_traits1Zc 1660:__pl__FRCt12basic_string2ZcZt18string_char_traits1ZcT0 16BC:end__Ct12basic_string2ZcZt18string_char_traits1Zc 16F4:begin__Ct12basic_string2ZcZt18string_char_traits1Zc 1720:end__t12basic_string2ZcZt18string_char_traits1Zc 1754:begin__t12basic_string2ZcZt18string_char_traits1Zc 1780:compare__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 17B4:substr__Ct12basic_string2ZcZt18string_char_traits1ZcUlUl 17E4:find_last_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 1818:find_last_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 1858:find_first_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 188C:find_first_not_of__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 18CC:find_last_of__Ct12basic_string2ZcZt18string_char_traits1ZccUl 1900:find_last_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 1934:find_last_of__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 1974:find_first_of__Ct12basic_string2ZcZt18string_char_traits1ZccUl 19A8:find_first_of__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 19DC:find_first_of__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 1A1C:rfind__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 1A50:rfind__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 1A90:find__Ct12basic_string2ZcZt18string_char_traits1ZcPCcUl 1AC4:find__Ct12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUl 1B04:reserve__t12basic_string2ZcZt18string_char_traits1ZcUl 1B10:resize__t12basic_string2ZcZt18string_char_traits1ZcUl 1B38:c_str__Ct12basic_string2ZcZt18string_char_traits1Zc 1B60:terminate__Ct12basic_string2ZcZt18string_char_traits1Zc 1BA8:at__Ct12basic_string2ZcZt18string_char_traits1ZcUl 1BF8:at__t12basic_string2ZcZt18string_char_traits1ZcUl 1C44:__vc__t12basic_string2ZcZt18string_char_traits1ZcUl 1C7C:__vc__Ct12basic_string2ZcZt18string_char_traits1ZcUl 1CC4:selfish__t12basic_string2ZcZt18string_char_traits1Zc 1CEC:unique__t12basic_string2ZcZt18string_char_traits1Zc 1D28:eos__t12basic_string2ZcZt18string_char_traits1Zc 1D40:replace__t12basic_string2ZcZt18string_char_traits1ZcPcT1Ulc 1D90:replace__t12basic_string2ZcZt18string_char_traits1ZcPcT1PCc 1DD0:replace__t12basic_string2ZcZt18string_char_traits1ZcPcT1PCcUl 1E14:replace__t12basic_string2ZcZt18string_char_traits1ZcPcT1RCt12basic_string2ZcZt18string_char_traits1Zc 1E58:replace__t12basic_string2ZcZt18string_char_traits1ZcUlUlc 1E90:replace__t12basic_string2ZcZt18string_char_traits1ZcUlUlPCc 1ECC:remove__t12basic_string2ZcZt18string_char_traits1ZcPcT1 1F0C:remove__t12basic_string2ZcZt18string_char_traits1ZcPc 1F44:remove__t12basic_string2ZcZt18string_char_traits1ZcUlUl 1F70:insert__t12basic_string2ZcZt18string_char_traits1ZcPcUlc 1FB4:insert__t12basic_string2ZcZt18string_char_traits1ZcPcc 1FF8:insert__t12basic_string2ZcZt18string_char_traits1ZcUlUlc 2030:insert__t12basic_string2ZcZt18string_char_traits1ZcUlPCc 2064:insert__t12basic_string2ZcZt18string_char_traits1ZcUlPCcUl 2094:insert__t12basic_string2ZcZt18string_char_traits1ZcUlRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 20C4:__apl__t12basic_string2ZcZt18string_char_traits1Zcc 20F4:__apl__t12basic_string2ZcZt18string_char_traits1ZcPCc 2118:__apl__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1Zc 2140:__as__t12basic_string2ZcZt18string_char_traits1Zcc 2170:__as__t12basic_string2ZcZt18string_char_traits1ZcPCc 2194:assign__t12basic_string2ZcZt18string_char_traits1ZcUlc 21CC:assign__t12basic_string2ZcZt18string_char_traits1ZcPCc 21FC:assign__t12basic_string2ZcZt18string_char_traits1ZcPCcUl 2228:assign__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 2258:append__t12basic_string2ZcZt18string_char_traits1ZcUlc 2298:append__t12basic_string2ZcZt18string_char_traits1ZcPCc 22C8:append__t12basic_string2ZcZt18string_char_traits1ZcPCcUl 2300:append__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 233C:swap__t12basic_string2ZcZt18string_char_traits1ZcRt12basic_string2ZcZt18string_char_traits1Zc 2358:_$_t12basic_string2ZcZt18string_char_traits1Zc 2394:__t12basic_string2ZcZt18string_char_traits1ZcUlc 23D8:__t12basic_string2ZcZt18string_char_traits1ZcPCc 240C:__t12basic_string2ZcZt18string_char_traits1ZcPCcUl 2444:__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1ZcUlUl 2484:__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1Zc 24B4:__t12basic_string2ZcZt18string_char_traits1Zc 24D8:__as__t12basic_string2ZcZt18string_char_traits1ZcRCt12basic_string2ZcZt18string_char_traits1Zc 2528:empty__Ct12basic_string2ZcZt18string_char_traits1Zc 2554:max_size__Ct12basic_string2ZcZt18string_char_traits1Zc 2570:capacity__Ct12basic_string2ZcZt18string_char_traits1Zc 259C:size__Ct12basic_string2ZcZt18string_char_traits1Zc 25C4:length__Ct12basic_string2ZcZt18string_char_traits1Zc 25EC:data__Ct12basic_string2ZcZt18string_char_traits1Zc 2620:repup__t12basic_string2ZcZt18string_char_traits1ZcPt7__bsrep2ZcZt18string_char_traits1Zc 265C:rep__Ct12basic_string2ZcZt18string_char_traits1Zc 2678:release__t7__bsrep2ZcZt18string_char_traits1Zc 26A0:grab__t7__bsrep2ZcZt18string_char_traits1Zc 26E0:__vc__t7__bsrep2ZcZt18string_char_traits1ZcUl 2710:data__t7__bsrep2ZcZt18string_char_traits1Zc
+            8B4D10813810FA776D75:
+              1583FA1F770B83F91F77068950:
+                0. 05 3FA6 002C 0000:wm_ctype
+              1D85D27C143950647E0F85C97C:
+                0. 0D FA0F 0034 0000:wm_gotoxy
+        A3........C9C3909090:
+          0. 00 0000 0010 0000:v_attrib
+        C700........C74004........C9C38D76005589E556538B5D08:
+          0. 13 D80B 1498 0000:__8Rational 0018:_$_8Rational 0068:__8RationalRC8Rational 0098:__8RationalRC7Integer 00BC:__8RationalRC7IntegerT1 00F8:__8Rationall 011C:__8Rationali 0140:__8Rationalll 0178:__8Rationalii 01B0:__8RationallUl 01E8:__8RationalUll 0220:__8RationalUlUl 0258:__as__8RationalRC8Rational 0288:__eq__FRC8RationalT0 02C4:__ne__FRC8RationalT0 0300:__lt__FRC8RationalT0 0314:__le__FRC8RationalT0 0330:__gt__FRC8RationalT0 034C:__ge__FRC8RationalT0 0364:sign__FRC8Rational 038C:negate__8Rational 03A4:__apl__8RationalRC8Rational 03BC:__ami__8RationalRC8Rational 03D4:__aml__8RationalRC8Rational 03EC:__adv__8RationalRC8Rational 0404:numerator__C8Rational 040C:denominator__C8Rational 0418:__opd__C8Rational 042C:__mn__FRC8RationalT0 0484:__mx__FRC8RationalT0 04DC:__pl__FRC8RationalT0 0508:__mi__FRC8RationalT0 0534:__ml__FRC8RationalT0 0560:__dv__FRC8RationalT0 0594:error__C8RationalPCc 05BC:normalize__8Rational 0684:add__FRC8RationalT0R8Rational 076C:sub__FRC8RationalT0R8Rational 0854:mul__FRC8RationalT0R8Rational 0898:div__FRC8RationalT0R8Rational 093C:invert__8Rational 09E0:compare__FRC8RationalT0 0ABC:__8Rationald 0C18:trunc__FRC8Rational 0C44:pow__FRC8RationalRC7Integer 0C70:__mi__FRC8Rational 0CB0:abs__FRC8Rational 0D0C:sqr__FRC8Rational 0D58:floor__FRC8Rational 0E00:ceil__FRC8Rational 0EA8:round__FRC8Rational 0F54:pow__FRC8Rationall 1000:__ls__FR7ostreamRC8Rational 104C:__rs__FR7istreamR8Rational 120C:OK__C8Rational 12CC:fits_in_float__C8Rational 139C:fits_in_double__C8Rational 1468:_GLOBAL_$D$__8Rational 1484:_GLOBAL_$I$__8Rational
+        C9C35589E5C9C38D76005589E556538B5D088B750C8B038B8090:
+          0. 09 4EAA 0458 0000:__5RegexRC5Regex 0008:__as__5RegexRC5Regex 0010:_$_5Regex 0074:__5RegexPCciiT1 015C:match_info__C5RegexRiT1i 01A8:search__C5RegexPCciRii 0204:match__C5RegexPCcii 025C:OK__C5Regex 029C:_GLOBAL_$D$__5RegexRC5Regex 039C:_GLOBAL_$I$__5RegexRC5Regex
+        D9E8DC7008DD5810C9C35589E58B5508DD450CDD4514D9C98B45:
+          0. 04 261D 0134 0000:setState__7Weibull 0010:__7WeibullddP3RNG 0044:alpha__7Weibull 0050:alpha__7Weibulld 006C:beta__7Weibull 0078:beta__7Weibulld 0090:__cl__7Weibull 00D0:__as__7WeibullRC7Weibull 0100:__7WeibullRC7Weibull 0124:_vt$7Weibull
+        FF:
+          30E8CF170000C9C3905589E58B4508FF30E83B170000C9C390:
+            0. 08 128F 50AC 0000:fits_in_long__C7Integer 0010:as_long__C7Integer 0020:__7Integer 0030:__7IntegerP6IntRep 0040:__7Integeri 005C:__7Integerl 0078:__7IntegerUl 0094:__7IntegerRC7Integer 00B0:_$_7Integer 00E8:__as__7IntegerRC7Integer 0104:__as__7Integerl 0120:initialized__C7Integer 0134:compare__FRC7IntegerT0 0148:ucompare__FRC7IntegerT0 015C:compare__FRC7Integerl 0170:ucompare__FRC7Integerl 0184:compare__FlRC7Integer 0198:ucompare__FlRC7Integer 01AC:add__FRC7IntegerT0R7Integer 01D0:sub__FRC7IntegerT0R7Integer 01F4:mul__FRC7IntegerT0R7Integer 0214:div__FRC7IntegerT0R7Integer 0234:mod__FRC7IntegerT0R7Integer 0254:and__FRC7IntegerT0R7Integer 0278:or__FRC7IntegerT0R7Integer 029C:xor__FRC7IntegerT0R7Integer 02C0:lshift__FRC7IntegerT0R7Integer 02E4:rshift__FRC7IntegerT0R7Integer 0308:pow__FRC7IntegerT0R7Integer 0334:add__FRC7IntegerlR7Integer 0354:sub__FRC7IntegerlR7Integer 0378:mul__FRC7IntegerlR7Integer 0398:div__FRC7IntegerlR7Integer 03B8:mod__FRC7IntegerlR7Integer 03D8:and__FRC7IntegerlR7Integer 03F8:or__FRC7IntegerlR7Integer 0418:xor__FRC7IntegerlR7Integer 0438:lshift__FRC7IntegerlR7Integer 0458:rshift__FRC7IntegerlR7Integer 0478:pow__FRC7IntegerlR7Integer 0498:abs__FRC7IntegerR7Integer 04B4:negate__FRC7IntegerR7Integer 04D0:complement__FRC7IntegerR7Integer 04EC:add__FlRC7IntegerR7Integer 050C:sub__FlRC7IntegerR7Integer 052C:mul__FlRC7IntegerR7Integer 054C:and__FlRC7IntegerR7Integer 056C:or__FlRC7IntegerR7Integer 058C:xor__FlRC7IntegerR7Integer 05AC:__eq__FRC7IntegerT0 05CC:__eq__FRC7Integerl 05E8:__ne__FRC7IntegerT0 0608:__ne__FRC7Integerl 0624:__lt__FRC7IntegerT0 063C:__lt__FRC7Integerl 0654:__le__FRC7IntegerT0 0674:__le__FRC7Integerl 0690:__gt__FRC7IntegerT0 06B0:__gt__FRC7Integerl 06CC:__ge__FRC7IntegerT0 06E8:__ge__FRC7Integerl 0700:__apl__7IntegerRC7Integer 0724:__apl__7Integerl 0744:__pp__7Integer 0764:__ami__7IntegerRC7Integer 0788:__ami__7Integerl 07AC:__mm__7Integer 07CC:__aml__7IntegerRC7Integer 07EC:__aml__7Integerl 0808:__aad__7IntegerRC7Integer 0828:__aad__7Integerl 0848:__aor__7IntegerRC7Integer 0868:__aor__7Integerl 0888:__aer__7IntegerRC7Integer 08A8:__aer__7Integerl 08C8:__adv__7IntegerRC7Integer 08E8:__adv__7Integerl 0904:__als__7IntegerRC7Integer 0924:__als__7Integerl 0940:__ars__7IntegerRC7Integer 0960:__ars__7Integerl 0980:__mn__FRC7IntegerT0 09BC:__mx__FRC7IntegerT0 09F8:abs__7Integer 0A10:negate__7Integer 0A28:complement__7Integer 0A40:sign__FRC7Integer 0A68:even__FRC7Integer 0A8C:odd__FRC7Integer 0AA8:Itoa__FRC7Integerii 0AC0:lg__FRC7Integer 0AD0:__pl__FRC7IntegerT0 0B00:__pl__FRC7Integerl 0B30:__pl__FlRC7Integer 0B60:__mi__FRC7IntegerT0 0B90:__mi__FRC7Integerl 0BC0:__mi__FlRC7Integer 0BF0:__ml__FRC7IntegerT0 0C1C:__ml__FRC7Integerl 0C48:__ml__FlRC7Integer 0C74:sqr__FRC7Integer 0CA0:__ad__FRC7IntegerT0 0CD0:__ad__FRC7Integerl 0D00:__ad__FlRC7Integer 0D30:__or__FRC7IntegerT0 0D60:__or__FRC7Integerl 0D90:__or__FlRC7Integer 0DC0:__er__FRC7IntegerT0 0DF0:__er__FRC7Integerl 0E20:__er__FlRC7Integer 0E50:__dv__FRC7IntegerT0 0E7C:__dv__FRC7Integerl 0EA8:__md__FRC7IntegerT0 0ED4:__md__FRC7Integerl 0F00:__ls__FRC7IntegerT0 0F30:__ls__FRC7Integerl 0F5C:__rs__FRC7IntegerT0 0F8C:__rs__FRC7Integerl 0FBC:pow__FRC7Integerl 0FE8:Ipow__Fll 1018:pow__FRC7IntegerT0 1050:abs__FRC7Integer 1078:__mi__FRC7Integer 10A0:__co__FRC7Integer 10C8:atoI__FPCci 10F0:gcd__FRC7IntegerT0 1118:__amd__7IntegerRC7Integer 1168:__amd__7Integerl 1200:Ialloc__FP6IntRepPCUsiii 12E0:Icalloc__FP6IntRepi 1380:Iresize__FP6IntRepi 14C4:Icopy__FP6IntRepPC6IntRep 1608:Icopy_long__FP6IntRepl 162C:Icopy_ulong__FP6IntRepUl 16F8:Icopy_zero__FP6IntRep 1720:Icopy_one__FP6IntRepi 1758:Itolong__FPC6IntRep 17DC:Iislong__FPC6IntRep 1828:compare__FPC6IntRepT0 18A8:ucompare__FPC6IntRepT0 18F8:compare__FPC6IntRepl 19C0:ucompare__FPC6IntRepl 1A48:add__FPC6IntRepiT0iP6IntRep 1E64:add__FPC6IntRepilP6IntRep 2200:multiply__FPC6IntRepT0P6IntRep 2598:multiply__FPC6IntReplP6IntRep 2A8C:div__FPC6IntRepT0P6IntRep 2C90:div__FPC6IntReplP6IntRep 2ED0:divide__FRC7IntegerlR7IntegerRl 31E8:divide__FRC7IntegerT0R7IntegerT2 34A0:mod__FPC6IntRepT0P6IntRep 36B8:mod__FPC6IntReplP6IntRep 391C:lshift__FPC6IntReplP6IntRep 3B44:lshift__FPC6IntRepT0iP6IntRep 3B70:bitop__FPC6IntRepT0P6IntRepc 3D60:bitop__FPC6IntReplP6IntRepc 3F2C:compl__FPC6IntRepP6IntRep 3FC4:setbit__FR7Integerl 4044:clearbit__FR7Integerl 40B4:testbit__FRC7Integerl 40F8:gcd__FPC6IntRepT0 43A8:lg__FPC6IntRep 43F8:power__FPC6IntReplP6IntRep 455C:abs__FPC6IntRepP6IntRep 459C:negate__FPC6IntRepP6IntRep 4618:sqrt__FRC7Integer 4708:lcm__FRC7IntegerT0 4818:atoIntRep__FPCci 4920:Itoa__FPC6IntRepii 497C:__ls__FR7ostreamRC7Integer 49D0:printon__C7IntegerR7ostreamii 4A8C:cvtItoa__FPC6IntRepPcRiiiiicci 4C80:dec__FRC7Integeri 4C94:oct__FRC7Integeri 4CA8:hex__FRC7Integeri 4CBC:__rs__FR7istreamR7Integer 4FA0:OK__C7Integer 5058:error__C7IntegerPCc 506C:__as__6IntRepRC6IntRep 5088:__6IntRepRC6IntRep 50A4:__6IntRep
+          70F8E8........C9C3:
+            0. 00 0000 0010 0000:_tfree
+      0C:
+        6A03FF30FF7508E8........83C40C83F8FF751EE8........83:
+          0. 05 0D77 003C 0000:_IO_fsetpos
+        85C0740A83F8017411EB1B8D7600E8........B801000000C9C3:
+          0. 01 3E9B 0030 0000:_DLL_InitTerm
+        C9C35589E58B450CC9C3:
+          0. 00 0000 0010 0000:__nw__FUlPv 0008:__vn__FUlPv
+    4D08:
+      8039007D30BA........833D........00741C8D76008B0239C8:
+        0. 31 2579 0B88 0000:_IO_un_link 0040:_IO_link_in 0060:_IO_least_marker 0088:_IO_switch_to_main_get_area 00B4:_IO_switch_to_backup_area 00E0:_IO_switch_to_get_mode 0148:_IO_free_backup_area 0180:__overflow 02D8:__underflow 0358:__uflow 03E0:_IO_setb 0420:_IO_doallocbuf 0458:_IO_default_underflow 0464:_IO_default_uflow 0490:_IO_default_xsputn 052C:_IO_sgetn 0544:_IO_default_xsgetn 05D8:_IO_sync 05E0:_IO_default_setbuf 0660:_IO_default_seekpos 067C:_IO_default_doallocate 06B4:_IO_init 0728:_IO_default_sync 0730:_IO_default_finish 0794:_IO_default_seekoff 07A0:_IO_sputbackc 07CC:_IO_sungetc 07F4:_IO_set_column 0808:_IO_adjust_column 0838:_IO_get_column 0868:_IO_flush_all 08AC:_IO_flush_all_linebuffered 08DC:_IO_unbuffer_all 0910:_IO_cleanup 0920:_IO_init_marker 0960:_IO_remove_marker 098C:_IO_marker_difference 09A0:_IO_marker_delta 09D4:_IO_seekmark 0A24:_IO_unsave_markers 0A48:_IO_nobackup_pbackfail 0A74:_IO_default_pbackfail 0B5C:_IO_default_seek 0B68:_IO_default_stat 0B74:_IO_default_read 0B80:_IO_default_write
+      8B:
+        414C85C075178B41486A010FBF909000000001CA528B809400:
+          0. 4B E2C2 0618 0000:get_stream__11indirectbuf 0028:put_stream__11indirectbuf 0050:lookup_stream__11indirectbufi 0058:__11indirectbufP9streambufT1i 0094:_$_11indirectbuf 0130:xsputn__11indirectbufPCci 0174:xsgetn__11indirectbufPci 01AC:overflow__11indirectbufi 0248:underflow__11indirectbuf 0290:seekoff__11indirectbuflQ23ios8seek_diri 0374:seekpos__11indirectbufli 0454:sync__11indirectbuf 04F8:pbackfail__11indirectbufi 052C:__as__11indirectbufRC11indirectbuf 055C:__11indirectbufRC11indirectbuf 0580:_vt$11indirectbuf
+        450C39C8744D8B008B118B0085C07509C6421204EB078D7600:
+          0. 98 C4CF 00B8 0000:__as__22_IO_istream_withassignR7istream 0060:__as__22_IO_ostream_withassignR7ostream
+        550C:
+          C7:
+            01........8B0289410489C8EB00C9C38D365589E556:
+              0. 09 3906 0B84 0000:__9exceptionRCPCc 001C:_$_9exception 004C:what__C9exception 005C:__9exception 0070:do_raise__9exception 0078:__11logic_errorRCPCc 00A0:_$_11logic_error 00C4:__12domain_errorRCPCc 00EC:_$_12domain_error 0110:__16invalid_argumentRCPCc 0138:_$_16invalid_argument 015C:__12length_errorRCPCc 0184:_$_12length_error 01A8:__12out_of_rangeRCPCc 01D0:_$_12out_of_range 01F4:__13runtime_errorRCPCc 021C:_$_13runtime_error 0240:__13runtime_error 0264:__11range_errorRCPCc 028C:_$_11range_error 02B0:__14overflow_errorRCPCc 02D8:_$_14overflow_error 02FC:__8bad_castRCPCc 0324:_$_8bad_cast 0354:__10bad_typeid 0384:_$_10bad_typeid 03A8:_GLOBAL_$D$__9exceptionRCPCc 0514:_GLOBAL_$I$__9exceptionRCPCc 06D4:__as__10bad_typeidRC10bad_typeid 06FC:__10bad_typeidRC10bad_typeid 0720:__as__8bad_castRC8bad_cast 0748:__8bad_castRC8bad_cast 076C:__as__14overflow_errorRC14overflow_error 0794:__14overflow_errorRC14overflow_error 07B8:__as__11range_errorRC11range_error 07E0:__11range_errorRC11range_error 0804:__as__13runtime_errorRC13runtime_error 082C:__13runtime_errorRC13runtime_error 0850:__as__12out_of_rangeRC12out_of_range 0878:__12out_of_rangeRC12out_of_range 089C:__as__12length_errorRC12length_error 08C4:__12length_errorRC12length_error 08E8:__as__16invalid_argumentRC16invalid_argument 0910:__16invalid_argumentRC16invalid_argument 0934:__as__12domain_errorRC12domain_error 095C:__12domain_errorRC12domain_error 0980:__as__11logic_errorRC11logic_error 09A8:__11logic_errorRC11logic_error 09CC:__as__9exceptionRC9exception 09FC:__9exceptionRC9exception 0A24:_vt$10bad_typeid 0A44:_vt$8bad_cast 0A64:_vt$14overflow_error 0A84:_vt$11range_error 0AA4:_vt$13runtime_error 0AC4:_vt$12out_of_range 0AE4:_vt$12length_error 0B04:_vt$16invalid_argument 0B24:_vt$12domain_error 0B44:_vt$11logic_error 0B64:_vt$9exception
+            4204000000008B81D40100008942088B028981D40100:
+              0. 07 24C7 0084 0000:__bt_free 0030:__bt_new
+          DD45108B4518C74104........8901C74104........89:
+            0. 63 7AAE 0114 0000:__8BinomialidP3RNG 002C:n__8Binomial 0038:n__8Binomiali 004C:u__8Binomial 0058:u__8Binomiali 006C:__cl__8Binomial 00B0:__as__8BinomialRC8Binomial 00E0:__8BinomialRC8Binomial 0104:_vt$8Binomial
+      BA0100000031C039CA730A8D760001D24039CA72F9C9C3909090:
+        0. 00 0000 0020 0000:__log2
+    5508:
+      31C0:
+        83FA01760C8D7600C1EA014083FA0177F7C9C390:
+          0. 00 0000 001C 0000:lg__FUl
+        EB0A8D36EB068D36EB028D36C9C38D365589E58B550831C0:
+          0. 61 568C 101C 0000:__rtti_get_node_type__C9type_info 0018:__rtti_get_name__C9type_info 0030:__rtti_compare__C9type_infoRC9type_info 004C:__rtti_match__C9type_infoRC9type_infoiPv 0074:_$_9type_info 00A4:__9type_info 00B8:name__C9type_info 00E4:__eq__C9type_infoRC9type_info 011C:__ne__C9type_infoRC9type_info 0154:__19__builtin_type_infoQ219__builtin_type_info16builtin_type_val 0180:__rtti_get_node_type__C19__builtin_type_info 0190:__rtti_get_name__C19__builtin_type_info 01A0:__rtti_compare__C19__builtin_type_infoRC9type_info 01EC:__fast_compare__FPCcT0 0250:__16__user_type_infoPCc 027C:__rtti_get_node_type__C16__user_type_info 0290:__rtti_get_name__C16__user_type_info 02A0:__rtti_compare__C16__user_type_infoRC9type_info 0340:__17__class_type_infoPCcPP9type_infoPiT3PQ217__class_type_info11access_modei 0398:__rtti_get_node_type__C17__class_type_info 03AC:__19__pointer_type_infoR9type_info 03D8:__rtti_get_node_type__C19__pointer_type_info 03EC:__rtti_get_name__C19__pointer_type_info 03FC:__rtti_compare__C19__pointer_type_infoRC9type_info 0494:__16__attr_type_infoQ216__attr_type_info8attr_valR9type_info 04C4:__rtti_get_node_type__C16__attr_type_info 04D8:__rtti_get_name__C16__attr_type_info 04E8:__rtti_compare__C16__attr_type_infoRC9type_info 0558:__16__func_type_infoPCc 0580:__rtti_get_node_type__C16__func_type_info 0594:__16__ptmf_type_infoPCc 05BC:__rtti_get_node_type__C16__ptmf_type_info 05D0:__16__ptmd_type_infoR9type_infoT1 0600:__rtti_get_node_type__C16__ptmd_type_info 0614:__rtti_compare__C16__ptmd_type_infoRC9type_info 06B0:__rtti_match__C17__class_type_infoRC9type_infoiPv 07DC:__rtti_match__C19__pointer_type_infoRC9type_infoiPv 0908:__throw_type_match_rtti 0A58:_GLOBAL_$D$__rtti_get_node_type__C9type_info 0BC4:_GLOBAL_$I$__rtti_get_node_type__C9type_info 0D4C:_$_16__ptmd_type_info 0D70:_$_16__ptmf_type_info 0D94:_$_16__func_type_info 0DB8:_$_16__attr_type_info 0DDC:_$_19__pointer_type_info 0E00:_$_17__class_type_info 0E24:_$_16__user_type_info 0E48:_$_19__builtin_type_info 0E6C:_vt$16__ptmd_type_info 0E9C:_vt$16__ptmf_type_info 0ECC:_vt$16__func_type_info 0EFC:_vt$16__attr_type_info 0F2C:_vt$19__pointer_type_info 0F5C:_vt$17__class_type_info 0F8C:_vt$16__user_type_info 0FBC:_vt$19__builtin_type_info 0FEC:_vt$9type_info
+      3915........750689D0C9C38D3685D2742CC705:
+        0. 00 0000 007C 0000:sync_with_stdio__3iosi
+      85D27E388B0D........498D76004AA1........85C07F1AA1:
+        0. 00 0000 0058 0000:v_backsp
+      8B:
+        450C:
+          81FABF000000770BC1E21825FFFFFF00EB1D9081FAFFFF:
+            0. 1C 870E 0044 0000:inet_makeaddr
+          C74204........890289D0C9C38D365589E58B45088B00:
+            0. 57 7F6C 0094 0000:__6RandomP3RNG 0018:generator__6Random 0024:generator__6RandomP3RNG 0034:__as__6RandomRC6Random 0060:__6RandomRC6Random 0084:_vt$6Random
+        4D0CA1........8902A1........8901C9C3909090:
+          0. 00 0000 001C 0000:v_getxy (REF 000A: _v_x)
+          1. 00 0000 001C 0000:v_dimen (REF 000A: _v_width)
+      A1........85:
+        C0741890395004770B39500876068B00C9C38D36:
+          0. 28 E9B3 0158 002C:__find_first_exception_table_match 00B8:__throw_type_match 00D8:__register_exceptions 0138:__unwind_function
+        D27505BA........8915........C9C356697274:
+          0. 26 3794 0058 0000:_set_new_handler 0040:__default_new_handler
+      D9450CD94510D9C9D91AD95A0489D0EB0190C9C38D365589E58B:
+        0. D1 14A5 155C 0000:__t7complex1Zfff 001C:real__Ct7complex1Zf 002C:imag__Ct7complex1Zf 003C:real__FRCt7complex1Zf 0058:imag__FRCt7complex1Zf 0080:sqrt__FRCt7complex1Zf 01CC:sinh__FRCt7complex1Zf 0288:sin__FRCt7complex1Zf 0344:pow__FfRCt7complex1Zf 03A4:pow__FRCt7complex1Zfi 0478:pow__FRCt7complex1Zff 04D0:pow__FRCt7complex1ZfT0 059C:log__FRCt7complex1Zf 0600:exp__FRCt7complex1Zf 0668:cosh__FRCt7complex1Zf 0724:cos__FRCt7complex1Zf 07E0:__dv__FfRCt7complex1Zf 0938:__dv__FRCt7complex1ZfT0 0B38:__adv__t7complex1ZfRCt7complex1Zf 0C7C:__dv__FRCt7complex1Zff 0CD0:__as__t7complex1ZfRCt7complex1Zf 0CF0:__t7complex1ZfRCt7complex1Zf 0D10:norm__FRCt7complex1Zf 0D60:conj__FRCt7complex1Zf 0DB0:polar__Fff 0E2C:arg__FRCt7complex1Zf 0E6C:abs__FRCt7complex1Zf 0EB0:__ne__FfRCt7complex1Zf 0F04:__ne__FRCt7complex1Zff 0F58:__ne__FRCt7complex1ZfT0 0FC8:__eq__FfRCt7complex1Zf 1018:__eq__FRCt7complex1Zff 1068:__eq__FRCt7complex1ZfT0 10D4:__mi__FRCt7complex1Zf 1124:__pl__FRCt7complex1Zf 1138:__ml__FfRCt7complex1Zf 1190:__ml__FRCt7complex1Zff 11E8:__ml__FRCt7complex1ZfT0 12A0:__mi__FfRCt7complex1Zf 12F4:__mi__FRCt7complex1Zff 1348:__mi__FRCt7complex1ZfT0 13C0:__pl__FfRCt7complex1Zf 1414:__pl__FRCt7complex1Zff 1468:__pl__FRCt7complex1ZfT0 14E0:__apl__t7complex1ZfRCt7complex1Zf 1500:__ami__t7complex1ZfRCt7complex1Zf 1520:__aml__t7complex1ZfRCt7complex1Zf
+      DB6D0CDB6D18D9C9DB3ADB7A0C89D0EB0190C9C38D365589E556:
+        0. 09 7476 1668 0000:__t7complex1Zrrr 001C:__t7complex1ZrRCt7complex1Zf 004C:__t7complex1ZrRCt7complex1Zd 007C:real__Ct7complex1Zr 008C:imag__Ct7complex1Zr 009C:real__FRCt7complex1Zr 00B8:imag__FRCt7complex1Zr 00D4:__t7complex1ZfRCt7complex1Zr 0104:__t7complex1ZdRCt7complex1Zr 014C:sqrt__FRCt7complex1Zr 02A4:sinh__FRCt7complex1Zr 035C:sin__FRCt7complex1Zr 0414:pow__FrRCt7complex1Zr 0468:pow__FRCt7complex1Zri 055C:pow__FRCt7complex1Zrr 05AC:pow__FRCt7complex1ZrT0 0670:log__FRCt7complex1Zr 06C8:exp__FRCt7complex1Zr 071C:cosh__FRCt7complex1Zr 07D4:cos__FRCt7complex1Zr 0890:__dv__FrRCt7complex1Zr 09F0:__dv__FRCt7complex1ZrT0 0C6C:__adv__t7complex1ZrRCt7complex1Zr 0DE8:__dv__FRCt7complex1Zrr 0E38:__as__t7complex1ZrRCt7complex1Zr 0E5C:__t7complex1ZrRCt7complex1Zr 0E80:norm__FRCt7complex1Zr 0ED0:conj__FRCt7complex1Zr 0F14:polar__Frr 0F74:arg__FRCt7complex1Zr 0FB4:abs__FRCt7complex1Zr 0FF8:__ne__FrRCt7complex1Zr 104C:__ne__FRCt7complex1Zrr 10A0:__ne__FRCt7complex1ZrT0 1110:__eq__FrRCt7complex1Zr 1160:__eq__FRCt7complex1Zrr 11B0:__eq__FRCt7complex1ZrT0 121C:__mi__FRCt7complex1Zr 1264:__pl__FRCt7complex1Zr 128C:__ml__FrRCt7complex1Zr 12D8:__ml__FRCt7complex1Zrr 1324:__ml__FRCt7complex1ZrT0 13D4:__mi__FrRCt7complex1Zr 1420:__mi__FRCt7complex1Zrr 1468:__mi__FRCt7complex1ZrT0 14D4:__pl__FrRCt7complex1Zr 151C:__pl__FRCt7complex1Zrr 1564:__pl__FRCt7complex1ZrT0 15D0:__apl__t7complex1ZrRCt7complex1Zr 15F4:__ami__t7complex1ZrRCt7complex1Zr 1618:__aml__t7complex1ZrRCt7complex1Zr
+      DD450C:
+        8B4514C74204........8902C74204........DD5A0889:
+          0. 3F 0C25 0118 0000:__7PoissondP3RNG 0024:mean__7Poisson 0030:mean__7Poissond 0048:__cl__7Poisson 00A8:__as__7PoissonRC7Poisson 00DC:__7PoissonRC7Poisson 0108:_vt$7Poisson
+          1. 3B 4688 00F4 0000:__9GeometricdP3RNG 0024:mean__9Geometric 0030:mean__9Geometricd 0048:__cl__9Geometric 0084:__as__9GeometricRC9Geometric 00B8:__9GeometricRC9Geometric 00E4:_vt$9Geometric
+          2. 3C 6393 00E0 0000:__14NegativeExpntldP3RNG 0024:mean__14NegativeExpntl 0030:mean__14NegativeExpntld 0048:__cl__14NegativeExpntl 0070:__as__14NegativeExpntlRC14NegativeExpntl 00A4:__14NegativeExpntlRC14NegativeExpntl 00D0:_vt$14NegativeExpntl
+        DD4514:
+          8B451CC74204........8902C74204........D8:
+            0. 96 29FD 012C 0000:__7UniformddP3RNG 005C:low__7Uniform 0068:low__7Uniformd 0084:high__7Uniform 0090:high__7Uniformd 00AC:__cl__7Uniform 00C8:__as__7UniformRC7Uniform 00F8:__7UniformRC7Uniform 011C:_vt$7Uniform
+          D9C9DD1ADD5A0889D0EB0190C9C38D365589E556:
+            0. 09 7476 14BC 0000:__t7complex1Zddd 001C:__t7complex1ZdRCt7complex1Zf 004C:real__Ct7complex1Zd 005C:imag__Ct7complex1Zd 006C:real__FRCt7complex1Zd 0088:imag__FRCt7complex1Zd 00A4:__t7complex1ZfRCt7complex1Zd 00E8:sqrt__FRCt7complex1Zd 0230:sinh__FRCt7complex1Zd 02D8:sin__FRCt7complex1Zd 0380:pow__FdRCt7complex1Zd 03CC:pow__FRCt7complex1Zdi 04CC:pow__FRCt7complex1Zdd 0518:pow__FRCt7complex1ZdT0 05D0:log__FRCt7complex1Zd 0624:exp__FRCt7complex1Zd 0674:cosh__FRCt7complex1Zd 071C:cos__FRCt7complex1Zd 07C8:__dv__FdRCt7complex1Zd 091C:__dv__FRCt7complex1ZdT0 0B14:__adv__t7complex1ZdRCt7complex1Zd 0C68:__dv__FRCt7complex1Zdd 0CB4:__as__t7complex1ZdRCt7complex1Zd 0CDC:__t7complex1ZdRCt7complex1Zd 0D04:norm__FRCt7complex1Zd 0D54:conj__FRCt7complex1Zd 0D98:polar__Fdd 0DEC:arg__FRCt7complex1Zd 0E24:abs__FRCt7complex1Zd 0E64:__ne__FdRCt7complex1Zd 0EB8:__ne__FRCt7complex1Zdd 0F0C:__ne__FRCt7complex1ZdT0 0F7C:__eq__FdRCt7complex1Zd 0FCC:__eq__FRCt7complex1Zdd 101C:__eq__FRCt7complex1ZdT0 1088:__mi__FRCt7complex1Zd 10D0:__pl__FRCt7complex1Zd 10F8:__ml__FdRCt7complex1Zd 1144:__ml__FRCt7complex1Zdd 1190:__ml__FRCt7complex1ZdT0 123C:__mi__FdRCt7complex1Zd 1288:__mi__FRCt7complex1Zdd 12D0:__mi__FRCt7complex1ZdT0 133C:__pl__FdRCt7complex1Zd 1384:__pl__FRCt7complex1Zdd 13CC:__pl__FRCt7complex1ZdT0 1438:__apl__t7complex1ZdRCt7complex1Zd 1458:__ami__t7complex1ZdRCt7complex1Zd 1478:__aml__t7complex1ZdRCt7complex1Zd
+  8D45:
+    0C50FF7508:
+      68........E8........C9C39090:
+        0. 00 0000 0018 0000:_IO_printf
+      E8........C9C3909090:
+        0. 00 0000 0014 0000:v_printf
+    10:
+      50FF750CFF7508E8........C9C3:
+        0. 00 0000 0014 0000:wm_printf
+      6A0050FF750CFF7508E8........C9C39090:
+        0. 00 0000 0018 0000:_IO_fscanf
+  A1........:
+    2B05........506A20E8........C9C3:
+      0. 00 0000 0018 0000:v_clreol
+    C9C39090:
+      0. 00 0000 000C 0000:v_getattr (REF 0004: _v_attr)
+    FF05........C9C35589E5B8010000008B15........85D0:
+      0. 06 1830 0150 0000:xalloc__3ios 0010:bitalloc__3ios 00DC:iword__3iosi 00F0:pword__3iosi 0100:iword__C3iosi 0128:pword__C3iosi
+  C705........25000000B8FFFFFFFFC9C3:
+    0. 00 0000 0014 0000:munmap
+  C9C3909090:
+    0. 00 0000 0008 0000:regerror
+  DD45088B551085D27507DDD8D9E8C9C390D9EEDDE9DFE080E44480F440:
+    0. 70 1FED 0090 0000:pow__Fdl 0050:pow__Fll
+  E8........:
+    5589E5E8........5589E58B45088B15........A3:
+      0. 00 0000 0058 0000:__default_terminate__Fv 0008:__default_unexpected__Fv 0010:set_terminate__FPFv_v 0028:set_unexpected__FPFv_v 0040:terminate__Fv 004C:unexpected__Fv
+    68........E8........C9C3:
+      0. 00 0000 0014 0000:__main
+  F6450C017408FF7508E8........C9C3905589E5F6450C017408FF7508:
+    0. 01 3E9B 0F84 0000:_$_5Fix16 0014:_$_5Fix32 0030:round__5Fix16d 0090:__5Fix16s 00A4:__5Fix16i 00BC:__opd__C5Fix16 00D4:__5Fix16 00E4:__5Fix16RC5Fix16 00F8:__5Fix16d 0118:__as__5Fix16RC5Fix16 012C:__as__5Fix16d 014C:__5Fix32 015C:__5Fix32i 0174:__opd__C5Fix32 0184:__5Fix32RC5Fix32 0198:__5Fix32RC5Fix16 01B0:__5Fix32d 01D0:__5Fix16RC5Fix32 01E4:__as__5Fix16RC5Fix32 01F8:__as__5Fix32RC5Fix32 020C:__as__5Fix32RC5Fix16 0224:__as__5Fix32d 0244:mantissa__FR5Fix16 024C:mantissa__FRC5Fix16 025C:value__FRC5Fix16 0274:__pl__C5Fix16 028C:__mi__C5Fix16 02A4:__pl__FRC5Fix16T0 02EC:__mi__FRC5Fix16T0 0338:__ml__FRC5Fix16T0 0358:__ls__FRC5Fix16i 0374:__rs__FRC5Fix16i 0390:__apl__5Fix16RC5Fix16 03D4:__ami__5Fix16RC5Fix16 041C:__aml__5Fix16RC5Fix16 0440:__adv__5Fix16RC5Fix16 0468:__als__5Fix16i 0488:__ars__5Fix16i 04A8:__eq__FRC5Fix16T0 04C4:__ne__FRC5Fix16T0 04E0:__ge__FRC5Fix16T0 04FC:__le__FRC5Fix16T0 0518:__gt__FRC5Fix16T0 0534:__lt__FRC5Fix16T0 0550:__rs__FR7istreamR5Fix16 0590:__ls__FR7ostreamRC5Fix16 05B8:__ml__FRC5Fix16i 05D4:__ml__FiRC5Fix16 05F0:__aml__5Fix16i 0614:round__5Fix32d 065C:mantissa__FR5Fix32 0664:mantissa__FRC5Fix32 0674:value__FRC5Fix32 0684:__pl__C5Fix32 0698:__mi__C5Fix32 06B0:__pl__FRC5Fix32T0 06F0:__mi__FRC5Fix32T0 0730:__ls__FRC5Fix32i 0748:__rs__FRC5Fix32i 0760:__apl__5Fix32RC5Fix32 0798:__ami__5Fix32RC5Fix32 07D4:__aml__5Fix32RC5Fix32 07F8:__adv__5Fix32RC5Fix32 081C:__als__5Fix32i 0838:__ars__5Fix32i 0854:__eq__FRC5Fix32T0 086C:__ne__FRC5Fix32T0 0884:__ge__FRC5Fix32T0 089C:__le__FRC5Fix32T0 08B4:__gt__FRC5Fix32T0 08CC:__lt__FRC5Fix32T0 08E4:__rs__FR7istreamR5Fix32 0920:__ls__FR7ostreamRC5Fix32 0940:__ml__FRC5Fix32i 0958:__ml__FiRC5Fix32 0970:__aml__5Fix32i 09A8:assign__5Fix16d 0A88:assign__5Fix32d 0B48:__ml__FRC5Fix32T0 0BD4:__dv__FRC5Fix16T0 0C88:__dv__FRC5Fix32T0 0D3C:overflow__C5Fix16Rs 0D4C:overflow__C5Fix32Ri 0D5C:range_error__C5Fix16Rs 0D6C:range_error__C5Fix32Ri 0D7C:set_Fix16_overflow_handler__FPFRs_v 0D94:set_Fix32_overflow_handler__FPFRi_v 0DAC:set_overflow_handler__FPFRs_vPFRi_v 0DC8:set_Fix16_range_error_handler__FPFRs_v 0DE0:set_Fix32_range_error_handler__FPFRi_v 0DF8:set_range_error_handler__FPFRs_vPFRi_v 0E14:Fix16_overflow_saturate__FRs 0E30:Fix16_ignore__FRs 0E5C:Fix16_warning__FRs 0E70:Fix16_overflow_warning_saturate__FRs 0EB4:Fix16_abort__FRs 0ECC:Fix32_ignore__FRi 0ED4:Fix32_overflow_saturate__FRi 0F14:Fix32_warning__FRi 0F28:Fix32_overflow_warning_saturate__FRi 0F6C:Fix32_abort__FRi (0F62: 90)
+    1. 01 3E9B 12F8 0000:_$_5Fix24 0014:_$_5Fix48 0028:__5Fix24l 0038:__5Fix24i 0050:__opd__C5Fix24 0060:__5Fix24 0070:__5Fix24RC5Fix24 0084:__5Fix24d 00A4:__5Fix24RC5Fix48 00B8:__as__5Fix24RC5Fix24 00CC:__as__5Fix24d 00EC:__as__5Fix24RC5Fix48 0100:mantissa__FR5Fix24 0108:mantissa__FRC5Fix24 0118:value__FRC5Fix24 0128:__pl__C5Fix24 013C:__mi__C5Fix24 0154:__pl__FRC5Fix24T0 0194:__mi__FRC5Fix24T0 01D4:__ml__FRC5Fix24i 01EC:__ml__FiRC5Fix24 0204:__ls__FRC5Fix24i 021C:__rs__FRC5Fix24i 0238:__apl__5Fix24RC5Fix24 0270:__ami__5Fix24RC5Fix24 02AC:__aml__5Fix24RC5Fix24 02D0:__adv__5Fix24RC5Fix24 02F4:__als__5Fix24i 0310:__ars__5Fix24i 032C:__aml__5Fix24i 0344:__eq__FRC5Fix24T0 035C:__ne__FRC5Fix24T0 0374:__ge__FRC5Fix24T0 038C:__le__FRC5Fix24T0 03A4:__gt__FRC5Fix24T0 03BC:__lt__FRC5Fix24T0 03D4:__rs__FR7istreamR5Fix24 0410:__ls__FR7ostreamRC5Fix24 0430:__5Fix48G8twolongs 045C:__opd__C5Fix48 04C8:__5Fix48 04E0:__5Fix48RC5Fix48 04FC:__5Fix48RC5Fix24 0514:__5Fix48d 0538:__as__5Fix48RC5Fix48 0554:__as__5Fix48RC5Fix24 056C:__as__5Fix48d 0590:mantissa__FR5Fix48 0598:mantissa__FRC5Fix48 05B8:value__FRC5Fix48 0624:__pl__C5Fix48 0644:__mi__C5Fix48 0678:__ml__FiRC5Fix48 0694:__apl__5Fix48RC5Fix48 06C0:__ami__5Fix48RC5Fix48 06EC:__aml__5Fix48i 0718:__als__5Fix48i 0744:__ars__5Fix48i 0770:__eq__FRC5Fix48T0 0794:__ne__FRC5Fix48T0 07BC:__ge__FRC5Fix48T0 07D4:__le__FRC5Fix48T0 07EC:__gt__FRC5Fix48T0 081C:__lt__FRC5Fix48T0 084C:__rs__FR7istreamR5Fix48 089C:__ls__FR7ostreamRC5Fix48 093C:assign__5Fix24d 0A34:assign__5Fix48d 0B78:__ml__FRC5Fix24T0 0C68:__dv__FRC5Fix24T0 0D3C:__pl__FRC5Fix48T0 0DA8:__mi__FRC5Fix48T0 0E1C:__ml__FRC5Fix48i 0EE0:__ls__FRC5Fix48i 0F44:__rs__FRC5Fix48i 0FD8:overflow__C5Fix24Ri 0FE8:overflow__C5Fix48R8twolongs 0FF8:range_error__C5Fix24Ri 1008:range_error__C5Fix48R8twolongs 1018:set_Fix24_overflow_handler__FPFRi_v 1030:set_Fix48_overflow_handler__FPFR8twolongs_v 1048:set_overflow_handler__FPFRi_vPFR8twolongs_v 1064:set_Fix24_range_error_handler__FPFRi_v 107C:set_Fix48_range_error_handler__FPFR8twolongs_v 1094:set_range_error_handler__FPFRi_vPFR8twolongs_v 10B0:Fix24_overflow_saturate__FRi 10CC:Fix24_ignore__FRi 10F8:Fix24_warning__FRi 110C:Fix24_overflow_warning_saturate__FRi 1150:Fix24_abort__FRi 1168:Fix48_ignore__FR8twolongs 1170:Fix48_overflow_saturate__FR8twolongs 11C4:Fix48_warning__FR8twolongs 11D8:Fix48_overflow_warning_saturate__FR8twolongs 121C:Fix48_abort__FR8twolongs 1234:__as__3$_5RC3$_5 1250:__3$_5RC3$_5 126C:__3$_5 1274:Fix24_shift 1278:Fix24_fs 1280:Fix24_mult 1288:Fix24_div 1290:Fix24_max 1298:Fix24_min 12A0:Fix24_msb 12A4:Fix24_lsb 12A8:Fix24_m_max 12AC:Fix24_m_min 12B0:Fix48_fs 12B8:Fix48_max 12C0:Fix48_min 12C8:Fix48_div_u 12D0:Fix48_div_l 12D8:Fix48_msb 12E0:Fix48_lsb 12E8:Fix48_m_max 12F0:Fix48_m_min (0F62: 89)
+  FF75:
+    08E8........:
+      89C285D27C07:
+        25FFFFFF00C9C389D025000000C03D:
+          0. 14 AF3A 0034 0000:inet_lnaof
+        C1E818C9C38D3689D025000000C03D:
+          0. 18 05A5 0038 0000:inet_netof
+      C9C3:
+        8D76005589E5538B5D086A0053E8........C7:
+          0. 02 05AD 0324 0000:init__7filebuf 0010:__7filebuf 0038:__7filebufi 006C:__7filebufiPci 00B0:_$_7filebuf 00FC:open__7filebufPCcii 01F0:open__7filebufPCcT1 0204:attach__7filebufi 0214:setbuf__7filebufPci 0228:doallocate__7filebuf 0238:overflow__7filebufi 0248:underflow__7filebuf 0258:sync__7filebuf 0268:seekoff__7filebuflQ23ios8seek_diri 0280:close__7filebuf 029C:sys_read__7filebufPci 02B0:sys_seek__7filebuflQ23ios8seek_dir 02C4:sys_write__7filebufPCci 02D8:sys_stat__7filebufPv 02E8:sys_close__7filebuf 02F8:xsputn__7filebufPCci 030C:xsgetn__7filebufPci 0320:_7filebuf$openprot
+        909090:
+          0. 00 0000 0010 0000:__builtin_vec_new (REF 0007: __builtin_new)
+          1. 00 0000 0010 0000:_getsockhandle (REF 0007: __getsockhandle)
+          2. 00 0000 0010 0000:_IO_strerror (REF 0007: strerror)
+          3. 00 0000 0010 0000:__builtin_vec_delete (REF 0007: __builtin_delete)
+    0CFF7508E8........:
+      83C40883F8FF750AB8FFFFFFFFC9C38D7600:
+        0. 02 5039 0054 0000:_impsockhandle
+      C9C3:
+        0. 00 0000 0010 0000:listen (REF 000A: __listen)
+        1. 00 0000 0010 0000:shutdown (REF 000A: __shutdown)
+        2. 00 0000 0010 0000:gethostname (REF 000A: __gethostname)
+    10FF750CFF7508E8:
+      47170000C9C3905589E58B4508C1E805C9C390:
+        0. 14 20C2 1F18 0000:previous__C6BitSetii 0014:BitSet_index__Fi 0020:BitSet_pos__Fi 002C:__6BitSet 003C:__6BitSetRC6BitSet 0058:_$_6BitSet 008C:__as__6BitSetRC6BitSet 00A8:__ne__FRC6BitSetT0 00C4:__gt__FRC6BitSetT0 00D4:__ge__FRC6BitSetT0 00E4:and__FRC6BitSetT0R6BitSet 0108:or__FRC6BitSetT0R6BitSet 012C:xor__FRC6BitSetT0R6BitSet 0150:diff__FRC6BitSetT0R6BitSet 0174:complement__FRC6BitSetR6BitSet 0190:__ad__FRC6BitSetT0 01C0:__or__FRC6BitSetT0 01F0:__er__FRC6BitSetT0 0220:__mi__FRC6BitSetT0 0250:__co__FRC6BitSet 0278:__aad__6BitSetRC6BitSet 0298:__aor__6BitSetRC6BitSet 02B8:__aer__6BitSetRC6BitSet 02D8:__ami__6BitSetRC6BitSet 02F8:complement__6BitSet 0310:virtual_bit__C6BitSet 0320:first__C6BitSeti 0344:test__C6BitSeti 0394:set__6BitSet 03B4:__9BitSetBitRC9BitSetBit 03CC:__9BitSetBitP6BitSeti 03E4:_$_9BitSetBit 03F8:__opi__C9BitSetBit 044C:__as__9BitSetBiti 047C:__as__9BitSetBitRC9BitSetBit 050C:__vc__6BitSeti 0544:error__C6BitSetPCc 0578:BitSetalloc__FP9BitSetRepPCUliii 066C:BitSetresize__FP9BitSetRepi 07D4:BitSetcopy__FP9BitSetRepPC9BitSetRep 0920:__eq__FRC6BitSetT0 0A40:__le__FRC6BitSetT0 0B04:__lt__FRC6BitSetT0 0C60:lcompare__FRC6BitSetT0 0D50:empty__C6BitSet 0D88:count__C6BitSeti 0E08:BitSetcmpl__FPC9BitSetRepP9BitSetRep 0E90:BitSetop__FPC9BitSetRepT0P9BitSetRepc 1234:set__6BitSeti 1290:clear__6BitSet 12C4:clear__6BitSeti 1320:invert__6BitSeti 136C:set__6BitSetii 1428:clear__6BitSetii 14EC:invert__6BitSetii 1594:test__C6BitSetii 166C:next__C6BitSetii 1758:prev__C6BitSetii 1844:last__C6BitSeti 1874:BitSettoa__FRC6BitSetccc 19FC:shorttoBitSet__FUs 1A90:longtoBitSet__FUl 1B1C:atoBitSet__FPCcccc 1C34:__ls__FR7ostreamRC6BitSet 1C6C:printon__C6BitSetR7ostreamccc 1E88:OK__C6BitSet 1ED0:__as__9BitSetRepRC9BitSetRep 1EF0:__9BitSetRepRC9BitSetRep 1F10:__9BitSetRep
+      B31C0000C9C3905589E58B4508C1E805C9C390:
+        0. 14 20C2 4088 0000:previous__C9BitStringiUi 0014:BitStr_index__Fi 0020:BitStr_pos__Fi 002C:__9BitString 003C:__9BitStringRC9BitString 0058:__9BitStringRC12BitSubString 0088:_$_9BitString 00BC:shorttoBitString__FUs 0118:longtoBitString__FUl 016C:__as__9BitStringRC9BitString 0188:__as__9BitStringUi 01B4:__as__9BitStringRC12BitSubString 01E4:__12BitSubStringRC12BitSubString 0204:__12BitSubStringR9BitStringii 0224:_$_12BitSubString 0238:__10BitPatternRC9BitStringT1 026C:__10BitPatternRC10BitPattern 029C:__10BitPattern 02B4:_$_10BitPattern 02FC:and__FRC9BitStringT0R9BitString 031C:or__FRC9BitStringT0R9BitString 033C:xor__FRC9BitStringT0R9BitString 035C:diff__FRC9BitStringT0R9BitString 037C:cat__FRC9BitStringT0R9BitString 039C:cat__FRC9BitStringUiR9BitString 03BC:rshift__FRC9BitStringiR9BitString 03DC:lshift__FRC9BitStringiR9BitString 03FC:complement__FRC9BitStringR9BitString 0418:__aad__9BitStringRC9BitString 0438:__aor__9BitStringRC9BitString 0458:__aer__9BitStringRC9BitString 0478:__als__9BitStringi 0494:__ars__9BitStringi 04B4:__ami__9BitStringRC9BitString 04D4:__apl__9BitStringRC9BitString 04F4:__apl__9BitStringUi 0510:complement__9BitString 0528:__ad__FRC9BitStringT0 0554:__or__FRC9BitStringT0 0580:__er__FRC9BitStringT0 05AC:__ls__FRC9BitStringi 05D8:__rs__FRC9BitStringi 0608:__mi__FRC9BitStringT0 0634:__pl__FRC9BitStringT0 0660:__pl__FRC9BitStringUi 068C:__co__FRC9BitString 06B4:length__C9BitString 06C0:empty__C9BitString 06D8:index__C9BitStringRC9BitStringi 06FC:index__C9BitStringRC12BitSubStringi 072C:contains__C9BitStringRC9BitString 0754:contains__C9BitStringRC12BitSubString 0788:contains__C9BitStringRC9BitStringi 07AC:matches__C9BitStringRC9BitStringi 07D0:contains__C9BitStringRC12BitSubStringi 0800:matches__C9BitStringRC12BitSubStringi 0830:contains__C9BitStringRC10BitPattern 0850:contains__C9BitStringRC10BitPatterni 0870:matches__C9BitStringRC10BitPatterni 0890:index__C9BitStringRC10BitPatterni 08AC:length__C12BitSubString 08B8:empty__C12BitSubString 08CC:__ne__FRC9BitStringT0 08E8:__gt__FRC9BitStringT0 08F8:__ge__FRC9BitStringT0 0908:first__C9BitStringUi 091C:last__C9BitStringUi 0934:index__C9BitStringUii 0968:right_trim__9BitStringUi 0998:left_trim__9BitStringUi 09D8:test__C9BitStringi 0A10:__9BitStrBitRC9BitStrBit 0A28:__9BitStrBitR9BitStringi 0A40:_$_9BitStrBit 0A54:__opUi__C9BitStrBit 0A8C:__as__9BitStrBitUi 0ABC:__vc__9BitStringi 0AF0:_substr__9BitStringii 0B4C:error__C9BitStringPCc 0B80:BStr_alloc__FP9BitStrRepPCUliii 0CA0:BStr_resize__FP9BitStrRepi 0DE8:BStr_copy__FP9BitStrRepPC9BitStrRep 0F74:__eq__FRC9BitStringT0 0FB4:__le__FRC9BitStringT0 1000:__lt__FRC9BitStringT0 1088:lcompare__FRC9BitStringT0 10A8:count__C9BitStringUi 10DC:cmpl__FPC9BitStrRepP9BitStrRep 1134:and__FPC9BitStrRepT0P9BitStrRep 11E0:or__FPC9BitStrRepT0P9BitStrRep 12FC:xor__FPC9BitStrRepT0P9BitStrRep 1418:diff__FPC9BitStrRepT0P9BitStrRep 1518:cat__FPC9BitStrRepT0P9BitStrRep 164C:cat__FPC9BitStrRepUiP9BitStrRep 16F8:lshift__FPC9BitStrRepiP9BitStrRep 1858:set__9BitStringi 18B0:assign__9BitStringiUi 1934:clear__9BitStringi 198C:clear__9BitString 19AC:set__9BitString 1A08:invert__9BitStringi 1A50:set__9BitStringii 1AB4:clear__9BitStringii 1B18:invert__9BitStringii 1B7C:test__C9BitStringii 1BBC:next__C9BitStringiUi 1CC4:prev__C9BitStringiUi 1D94:search__C9BitStringiiPCUlii 24E8:search__C10BitPatternPCUlii 29BC:match__C9BitStringiiiPCUlii 2B74:match__C10BitPatternPCUliii 2CC8:__as__12BitSubStringRC9BitString 2EB0:__as__12BitSubStringRC12BitSubString 30F0:at__9BitStringii 3140:before__9BitStringi 3188:after__9BitStringi 31DC:at__9BitStringRC9BitStringi 3248:before__9BitStringRC9BitStringi 32A8:after__9BitStringRC9BitStringi 331C:at__9BitStringRC12BitSubStringi 3384:before__9BitStringRC12BitSubStringi 33E8:after__9BitStringRC12BitSubStringi 345C:at__9BitStringRC10BitPatterni 34C0:before__9BitStringRC10BitPatterni 3518:after__9BitStringRC10BitPatterni 3584:common_prefix__FRC9BitStringT0i 36B0:common_suffix__FRC9BitStringT0i 37CC:reverse__FRC9BitString 3880:atoBitString__FPCccc 3948:atoBitPattern__FPCcccc 3A68:printon__C9BitStringR7ostreamcc 3AF4:BitStringtoa__FRC9BitStringcc 3C30:__ls__FR7ostreamRC9BitString 3C64:BitPatterntoa__FRC10BitPatternccc 3DC8:printon__C10BitPatternR7ostreamccc 3E9C:__ls__FR7ostreamRC10BitPattern 3EE4:OK__C9BitString 3F40:OK__C12BitSubString 3FA4:OK__C10BitPattern 3FE8:_GLOBAL_$D$previous__C9BitStringiUi 4000:_GLOBAL_$I$previous__C9BitStringiUi 4010:__as__10BitPatternRC10BitPattern 4040:__as__9BitStrRepRC9BitStrRep 4060:__9BitStrRepRC9BitStrRep 4080:__9BitStrRep
+      ........:
+        83C40C85C07D08B8FFFFFFFFC9C390:
+          0. 02 5039 0058 0000:accept (REF 000D: __accept)
+          1. 02 5039 0058 0000:socket (REF 000D: __socket)
+        C9C390:
+          5589E5:
+            8D451050FF750CFF75:
+              0. 02 C1AA 0028 0000:vform__9streambufPCcPc 0014:form__9streambufPCce
+            FF7510FF750CFF7508:
+              0. 01 3E9B 005C 0000:_IO_read 0014:_IO_write 0028:_IO_lseek 003C:_IO_close 004C:_IO_fstat
+          ..:
+            0. 00 0000 0014 0000:connect (REF 000D: __connect)
+            1. 00 0000 0014 0000:getpeername (REF 000D: __getpeername)
+            2. 00 0000 0014 0000:getsockname (REF 000D: __getsockname)
+            3. 00 0000 0014 0000:bind (REF 000D: __bind)
+    14FF7510FF750CFF7508E8........C9C39090:
+      0. 00 0000 0018 0000:send (REF 0010: __send)
+      1. 00 0000 0018 0000:recv (REF 0010: __recv)
+    18:
+      0FBE451450FF7510FF750CFF7508E8........C9C390:
+        0. 00 0000 001C 0000:sgetline__9streambufPcUlci
+      FF7514FF7510FF750CFF7508E8........C9C3909090:
+        0. 00 0000 001C 0000:setsockopt (REF 0013: __setsockopt)
+        1. 00 0000 001C 0000:getsockopt (REF 0013: __getsockopt)
+57494E444F57530057494E444F57434F4D5041540057494E444F574150490056:
+  0. FF D828 05DC 02B8:_md_get_token 02C4:_md_get_number 02D0:_md_get_string 02DC:_md_get_linenumber 034C:_md_next_token 0500:_md_use_file 0564:_md_open 05B0:_md_close
+59405589E5C705........0100000068........E8........DD05........DA:
+  0. 01 1E1A 009A 0002:start_timer 003A:return_elapsed_time
+5F504F5349585F4F5054494F4E5F4F52444552005589E5538B5D088B450C8B55:
+  0. 1D 9D5E 0400 0014:__6GetOptiPPcPCc 0098:exchange__6GetOptPPc 01A8:__cl__6GetOpt 03C8:__as__6GetOptRC6GetOpt 03E4:__6GetOptRC6GetOpt
+6274585858585858008D76005589E581EC9C0100005756538B751431DBE8B207:
+  0. 70 74C4 0850 000C:__bt_open 0808:__bt_fd
+668B54240466C1E208668915........66C705........010F66C705:
+  0. 05 94E3 0080 0000:_ega_clear
+6F626A00726200905589E581EC040200005756538B5D0C8B7D10538DB500FFFF:
+  0. 03 5EEC 0088 0008:omflib_add_module
+72:
+  008D365589E583EC585756538B7D148B5D18837D0800741CFF7510FF750CFF:
+    0. 03 2FDA 02F0 0004:__rec_open 02A8:__rec_fd
+  6200496E76616C6964206C69627261727920686561646572008D365589E583:
+    0. 09 F74E 06E8 001C:omflib_open 016C:omflib_read_dictionary 0264:omflib_make_mod_tab 043C:omflib_module_count 0484:omflib_module_info 0510:omflib_find_symbol 0694:omflib_find_module 06D4:omflib_page_pos
+7374642F6261737472696E672E68002128706F73203E3D206C656E6774682028:
+  0. 16 F328 0260 0024:getline__FR7istreamRt12basic_string2ZcZt18string_char_traits1Zcc 0124:__ls__FR7ostreamRCt12basic_string2ZcZt18string_char_traits1Zc 015C:__rs__FR7istreamRt12basic_string2ZcZt18string_char_traits1Zc
+7669727475616C206D656D6F7279206578686175737465640A008D365589E56A:
+  0. 02 80A2 0544 007C:tparam 00B8:tgoto (0521: 90)
+  1. 02 80A2 07D4 00B4:tgetnum 00E4:tgetflag 0108:tgetstr 023C:tputs 0334:tgetent (0521: 5C)
+83EC:
+  04:
+    538B5C2410803D........01751A833D........0075116A008D44240B:
+      0. 04 612D 0070 0000:_vgl_hline
+    56538B7424:
+      108B5C24143935........:
+        0F87D20000003935........0F:
+          0. 07 8188 00F4 0000:_ega_set
+        77:
+          6F3935........7267391D:
+            0. 00 0000 008C 0000:_vgl_set
+          773935........726F391D:
+            0. 00 0000 0098 0000:_vgl_get
+      148B5C2418833D........00754468C903000068C8030000:
+        0. 01 3E9B 00FC 0000:g_vgapal
+    5756538B:
+      7424188B5C241C8B7C2420803D........01751A833D:
+        0. 00 0000 007C 0000:_vgl_vline
+      7C24148B7424188B5C241C803D........01751A833D:
+        0. 00 0000 00E8 0000:_ega_vline
+    833D........00752E68DA03000068DA030000E8........83C40885C0:
+      0. 04 D808 0098 0000:g_waitv
+  0C5756538B:
+    5C241C8B44242089DA035424244A8D0480C1E0040305:
+      0. 00 0000 014C 0000:_ega_hline
+    7C241C8B442420393D........0F8702010000393D:
+      0. 08 296D 0128 0000:_ega_get
+  10555756538B7424248B5C24288B6C242C8B7C243039FB7E0689D889FB89:
+    0. 0D E66F 01C4 0000:g_box
+  1CC64424010F89E050506A10E8........0FB644240C83C40C83C41CC390:
+    0. 16 FF08 056C 0000:_ggetmode 0020:_gsetmode 0044:g_wmode 0048:g_lock 007C:g_unlockall 0098:g_unlock 00C0:g_modeset 01C8:g_mode
+  20555756538B44243C408B7C243CC744242C00000000C744241800000000:
+    0. 66 77DD 0988 087C:g_ellipse
+  28555756538B5C243C8B4C24408D41FF8B54245029C28954241C395C244C:
+    0. FF 0315 04B0 0374:g_triangle
+875C24045089E029D883E0FC89E38D3681EB0010000039C372068503EBF28D36:
+  0. 0C 5272 002C 0000:__probe
+8B:
+  442404:
+    31D2F7742408C390:
+      0. 00 0000 000C 0000:__udivsi3
+    86C4:
+      C1C01086C4C3:
+        0. 00 0000 000C 0000:_swapl
+      C390:
+        0. 00 0000 0008 0000:_swaps
+    99F77C2408C39090:
+      0. 00 0000 000C 0000:__divsi3
+  542404F6C201750B89D0C1E81F01D0C1F801C389D0C1E81F01D0C1F80140C3:
+    0. 1C AFC5 01C0 0020:_gline_clip 017C:g_line
+A1........0FAF05........50FF742408FF35........E8........83C40CC3:
+  0. 00 0000 0020 0000:_vgl_clear
+B8FFFFFFFFC38D36FF742408FF742408A1........FFD083C408C300000000:
+  0. 00 0000 0040 0008:g_get
+C2040090EBFE9090:
+  0. 00 0000 0008 0000:_emx_init 0004:_emx_syscall
+C38D7600:
+  56538B74240C8B5C24108B5424143935........7F:
+    663935:
+      0. 08 409C 00A8 0000:_no_hline 0004:g_hline
+    6A3935:
+      0. 08 90FB 00AC 0000:_no_vline 0004:g_vline
+  83EC04803D........01751A833D........0075116A008D44240750:
+    0. 03 65C2 007C 0004:g_clear
+  FF74240CFF74240CFF74240CA1........FFD083C40CC300000000:
+    0. 00 0000 0040 0004:g_set
+E0:
+  3F:
+    00000000000000400000003F5589E583EC1C538B4D08C701........803D:
+      0. 00 0000 0322 000E:__3RNG 0166:asFloat__3RNG 01EA:asDouble__3RNG 0276:__as__3RNGRC3RNG 028A:__3RNGRC3RNG 029A:__as__20PrivateRNGDoubleTypeRC20PrivateRNGDoubleType 02B6:__20PrivateRNGDoubleTypeRC20PrivateRNGDoubleType 02D2:__20PrivateRNGDoubleType 02DA:__as__20PrivateRNGSingleTypeRC20PrivateRNGSingleType 02EE:__20PrivateRNGSingleTypeRC20PrivateRNGSingleType 0302:__20PrivateRNGSingleType 030A:_vt$3RNG
+    5589E583EC:
+      088B4D08DD4108D8C8DC7110DD05........DEC1D97DFC8B55:
+        0. 51 BA81 0252 0002:setState__6Erlang 005A:__6ErlangddP3RNG 00CE:mean__6Erlang 00E2:mean__6Erlangd 013A:variance__6Erlang 014E:variance__6Erlangd 01AA:__cl__6Erlang 01EE:__as__6ErlangRC6Erlang 021E:__6ErlangRC6Erlang 0242:_vt$6Erlang
+      0C538B5D08DD4308D8C8DC7B10D9E8D9C1D8E1D9CAD8C1DEFA:
+        0. 0C 0708 023A 0002:setState__14HyperGeometric 004E:__14HyperGeometricddP3RNG 00B6:mean__14HyperGeometric 00CA:mean__14HyperGeometricd 011A:variance__14HyperGeometric 012E:variance__14HyperGeometricd 0182:__cl__14HyperGeometric 01D6:__as__14HyperGeometricRC14HyperGeometric 0206:__14HyperGeometricRC14HyperGeometric 022A:_vt$14HyperGeometric
+  415589E583EC08DD4508DD05........D8D1DFE080E4457424DEE9D97DFC8B:
+    0. 3E 414C 005E 0002:__fixunsdfsi
+  435589E583EC0CD97DFC668B45FC660D000C668945FED96DFE:
+    D94508DC15:
+      0. 00 0000 004E 0002:__fixunssfdi
+    DB6D08DC15:
+      0. 00 0000 004E 0002:__fixunsxfdi
+    DD4508DC15:
+      0. 00 0000 004E 0002:__fixunsdfdi
+FCFFFFFFFFFFDF7F5589E5538B5D08D9EEDD05........0FB7038D48FFD9E8EB:
+  0. 29 6E8B 02B8 0008:Itodouble__FPC6IntRep 0080:Iisdouble__FPC6IntRep 0110:ratio__FRC7IntegerT0 0298:as_double__C7Integer 02A8:fits_in_double__C7Integer

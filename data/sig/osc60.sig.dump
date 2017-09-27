@@ -1,0 +1,2201 @@
+0FB7:
+  44240450E8........C20400:
+    0. 00 0000 000E 0000:?SetBitmap@SECBitmapButton@@QAEHH@Z (REF 0007: ?SetBitmap@SECBitmapButton@@QAEHPBD@Z)
+  54240CFF7424108B0152FF742410FF742410FF90:
+    E8000000C21000:
+      0. 00 0000 001D 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z
+    F0000000C21000:
+      0. 00 0000 001D 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z
+33C0C20400:
+  0. 00 0000 0005 0000:?dummy_consume_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z
+51:
+  535556:
+    578B7C24188BD9895C24108B77148B4E048B0685C9750F578BCBFF56:
+      0. 6D 953A 008D 0000:?first_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+    8B742414578BE98BBEDC01000033C9896C24108B47108946748B4714:
+      0. 36 B089 00DE 0000:?start_pass_1_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+  55568B742410894C24085733FF8B4E5C397E648B86DC0100008D6C09047E1E:
+    0. 25 FA11 0045 0000:?alloc_fs_workspace@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+53:
+  55:
+    56:
+      57:
+        6A0E8BF16A42FF15........50FF15........8B1D........8BF885:
+          0. 2E 5C93 01AA 0000:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z
+          1. 2E 84B0 01AA 0000:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z
+        8B:
+          3D........6A0E8BF16A42FFD750FF15........8B1D........8B:
+            0. 11 50F0 01A2 0000:?SECLoadDibArchive@SECImage@@IAEHAAVCArchive@@@Z
+          7C2414:
+            8BF1837F10648B6F3474188B0757C74014110000008B078B:
+              0. 79 A81B 0179 0000:?jpeg_simple_progression@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            BB00040000536A018B47048BB7D80100008BE957FF108946:
+              0. 94 8963 00B4 0000:?build_ycc_rgb_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+      8B:
+        74241057:
+          32DB8BBEC40100008BE9385F1174086A0258E9800000008B:
+            0. 55 6797 00A6 0000:?consume_markers@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z
+          33:
+            DB:
+              389EC90000006A018BF95D740C8B06568968148B06FF:
+                0. 0F FF0D 00A7 0000:?transdecode_master_selection@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              8B:
+                3E6890010000538BE956E8........83C40C8BCD89:
+                  0. 06 1EEB 0060 0000:?jpeg_create_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                BE:
+                  680100008BE98B47102BC30F84BD000000487416:
+                    0. 1A 6E60 018F 0000:?prepare_for_pass@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                  B40100008BE9385F087427885F088B86DC010000:
+                    0. FF A327 0133 0000:?prepare_for_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            ED8B3E68E0010000558BD956E8........83C40C8BCB89:
+              0. 07 A118 006F 0000:?jpeg_create_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          6A:
+            018BF933DB5D399EB001000075228B86C8010000568BCF:
+              0. 06 7874 0222 0000:?read_markers@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z
+            0C8B46046A015D8BD95556FF108BF889BE7C010000C707:
+              0. 00 0000 01A2 0000:?jinit_color_converter@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            188B46046A018BD956FF106A038BF85D89BED80100006A:
+              0. 03 0D6F 0125 0000:?jinit_color_deconverter@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8BF9837E106474188B0656C74014110000008B068B4E1089:
+            0. 35 065B 00F7 0000:?jpeg_set_defaults@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        F157:
+          837E:
+            480074088D4E44E8........8B5C24148D7E445357E8:
+              0. 00 0000 0050 0000:?SetBitmap@SECBitmapButton@@QAEHPBD@Z (REF 001E: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+              1. 00 0000 0050 0000:?SetBitmap@SECBitmapButton@@QAEHPBG@Z (REF 001E: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+            4C0074088D4E48E8........8B5C24148D7E485357E8:
+              0. 00 0000 0050 0000:?SetBitmap@SECBitmapButton@@QAEHPBD@Z (REF 001E: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+              1. 00 0000 0050 0000:?SetBitmap@SECBitmapButton@@QAEHPBG@Z (REF 001E: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+          8B5E:
+            440FAF5E48438D049D0800000050E8........8BF866C707:
+              0. 15 7219 008E 0000:?CreatePalette@SECColorWell@@MAEXXZ
+            480FAF5E4C438D049D0800000050E8........8BF866C707:
+              0. 15 D84D 008E 0000:?CreatePalette@SECColorWell@@MAEXXZ
+    8B1D........:
+      568BF1578B462C85C0741A50FFD350FF15........FF762C:
+        0. 05 97DC 016C 0000:?CopyImage@SECImage@@QAEHPAV1@@Z
+      8B2D........568BF1578B3D........8B463085C0741250:
+        0. 58 290A 0084 0000:?PreLoadImage@SECImage@@MAEHXZ
+  56:
+    578B:
+      7C24108BD9:
+        68001000008B77148B4E1C8B4620508B11FF52:
+          3485C077:
+            0. 4E 3823 006E 0000:?fill_input_buffer@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          3C85C077:
+            0. 4E 3823 006E 0000:?fill_input_buffer@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+        8B47148BB788010000568B008946108B47148B40048946:
+          0. 02 F096 0045 0000:?finish_pass_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+      F1:
+        8B8E:
+          900000006A015A8DBE900000006A0233DB583BCB8956688956:
+            0. 2F E61E 0057 0000:?Reset@SECColorWell@@MAEXXZ
+          940000006A015A8DBE940000006A0233DB583BCB89566C8956:
+            0. 32 97F9 005A 0000:?Reset@SECColorWell@@MAEXXZ
+        E8........8B44241085C0750433DBEB038B58:
+          1CFF761C8B3D:
+            0. 00 0000 0068 0000:?OnKillFocus@SECOtherButton@@IAEXPAVCWnd@@@Z
+          20FF76208B3D:
+            0. 00 0000 0068 0000:?OnKillFocus@SECOtherButton@@IAEXPAVCWnd@@@Z
+    8B:
+      74240C:
+        33DB57:
+          538BF956E8........389ED80000007519568BCFE8:
+            0. 00 0000 00B9 0000:?jinit_compress_master@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          8BF98B46103DC8000000744E3DC90000007463B9CA0000:
+            0. 75 E698 00A8 0000:?jpeg_consume_input@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z
+        57:
+          33FF8B96D40000003BD7745A8B86680100008B401C8D04C08B:
+            0. BD 3320 00DD 0000:?select_scan_parameters@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          6A:
+            018B:
+              D95F5756897E20E8........80BED900000000740E8B:
+                0. 1A EE16 0074 0000:?transencode_master_selection@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z
+              F9:
+                5B53568BCFE8........4B79F46A508BCFFF760456:
+                  0. 01 3E9B 0037 0000:?self_destruct@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+                8B065B5356C74014630000008B06FF50048B86C801:
+                  0. 7E 29EA 009E 0000:?get_soi@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+            306A018B46048BD956FF108BF889BE84010000C707:
+              0. 00 0000 008B 0000:?jinit_forward_dct@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            406A018B46048BD956FF108986CC010000C700........8D:
+              0. 44 BEFE 0064 0000:?jinit_phuff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8B:
+            D9:
+              56:
+                8B86680100008DBE7801000080600C008B07FF50088B:
+                  0. 0D 433B 002D 0000:?pass_startup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                E8........568BCBE8........8B86CC010000568BCB:
+                  0. 26 8BF4 0046 0000:?start_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              817E10:
+                CE00000074188B0656C74014110000008B068B4E:
+                  0. 88 67CF 00A8 0000:?jpeg_read_raw_data@SECJpeg@@IAEIPAUjpeg_decompress_struct@@PAPAPADI@Z
+                CF0000008BBEB401000074188B0656C740141100:
+                  0. 4D 0F48 006D 0000:?jpeg_new_colormap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              837E106674188B0656C74014110000008B068B4E108948:
+                0. 99 1A14 00B9 0000:?jpeg_write_raw_data@SECJpeg@@IAEIPAUjpeg_compress_struct@@PAPAPADI@Z
+              8B4620508B7814FF570C84C075168B46208BCB8B00C740:
+                0. 1E FFAC 003E 0000:?dump_buffer@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z
+            F956E8........33DB385E0C7539568BCFE8........8B46:
+              0. 10 3525 0086 0000:?emit_restart@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@H@Z
+        8BD9:
+          817E10CA000000752156E8........807E4000740EC74610:
+            0. A6 0AD6 00CF 0000:?jpeg_start_decompress@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          8B463885C076425733FFD1F8740347EBF98BC78BCBC1E004:
+            0. 06 C55A 0056 0000:?emit_eobrun@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z
+      F1:
+        33DB8B46743BC37421578B3D........50FFD750FF15........FF76:
+          0. 06 2E43 0075 0000:?InitCache@SECImage@@IAEHKG@Z
+        578B7C2414837E4C008BDF750F8B4E2857FF7424148B01FF50:
+          34EB24:
+            0. 18 7E4E 0086 0000:?GetCache@SECImage@@IAEKPAXK@Z
+          3CEB24:
+            0. 18 7E4E 0086 0000:?GetCache@SECImage@@IAEKPAXK@Z
+        E8........8BD88B44240C0C0B6A00506A008BCEE8........8BCEE8:
+          0. 00 0000 0044 0000:?OnSetStyle@SECOwnerDrawButton@@MAEJIJ@Z
+  8B5C24:
+    0855568B43045768800500006A0153FF108BF0B80001000003F0506A:
+      0. 0F 85FF 0088 0000:?prepare_range_limit_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+    0C33C0568AC78BF150FF742410E8........81E3FF0000008BCE53FF:
+      0. 04 FA4A 002D 0000:?emit_2bytes@SECJpeg@@IAEXPAUjpeg_compress_struct@@H@Z
+558BEC:
+  51:
+    51:
+      53:
+        56:
+          578B7D:
+            08:
+              33DB894DFC57895F04E8........8B4DFC6A505789:
+                0. 03 8920 0119 0000:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (00F5: 00)
+                1. 03 8920 011B 0000:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (00F5: C2)
+                2. 03 8920 011E 0000:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (00F5: 5E)
+                3. 03 8920 0120 0000:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (00F5: 2C)
+              894DFC8B77148B1E8B460485C075138B4DFC57FF56:
+                0. BF D97B 00DF 0000:?next_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+            103B7D14894DFC0F8DFE0000008B4D0C8D043F8945F8:
+              0. 19 A05A 011E 0000:?median_cut@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAUbox@@HH@Z
+          8B:
+            75:
+              08:
+                33DB:
+                  3BF357895DFC7505895D08EB068B460489450839:
+                    0. 2D E6B3 012B 0000:?StretchDIBits@SECImage@@QAEHPAVCDC@@HHHHHHHHPBXPAUtagBITMAPINFO@@IK@Z
+                  57894D:
+                    F8399EE40000008BBE88010000742A395F:
+                      0. 6B 969C 00B8 0000:?encode_mcu_gather@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+                    FC395E348B7E3C895DF87E1A83C710FF37:
+                      0. 05 005A 00D3 0000:?write_frame_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                  894DFC389ED9000000740856E8........EB6639:
+                    0. 40 91B2 00A5 0000:?write_scan_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                57:
+                  6A:
+                    018BD98B86:
+                      100100005F3BC7895DF875508B8E14:
+                        0. 8C 8EEF 01AE 0000:?per_scan_setup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                      580100005F3BC7895DF8754F8B8E5C:
+                        0. 89 DD58 018A 0000:?per_scan_setup@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+                    746A018B460456894DFCFF108BD833FF807D0C00:
+                      0. 0B 26F2 00FD 0000:?jinit_d_coef_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+                  894DF88B7E148B47048B1F85C0894508751056FF57:
+                    0. 86 A615 00A6 0000:?skip_variable@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                83650800837E20008B9EB80100008B86C40000007E76:
+                  0. 7C 18D6 009C 0000:?set_bottom_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              0C5733FF894DFC8B:
+                46088B5E188945F80FAFD88B461085:
+                  0. 79 C024 0099 0000:?do_sarray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_sarray_control@@E@Z
+                5E088B4610C1E307895DF80FAF5E18:
+                  0. 7A 7AFF 009A 0000:?do_barray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_barray_control@@E@Z
+            F1578B46308B402085C08BD875040FB75E20837E04187508:
+              0. 1E 880B 0141 0000:?CreatePalette@SECImage@@MAEHXZ
+        8B5D0856578B:
+          7314894DFC8B46048B3E85C0894508751053FF56:
+            0. D5 CFCF 00F5 0000:?get_dri@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          7D108B430481FFF0C99A3B894DFC8945F876086A:
+            0. 03 C90E 010A 0000:?alloc_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HI@Z
+      56:
+        578B7D0C8B771CC1E6038D0436508B4508FF7018FFB008010000:
+          0. 04 BE7E 008F 0000:?h2v1_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+        8B:
+          7508:
+            57:
+              894DF88B86640100008BBE880100008945FC8B46148B:
+                0. 21 5085 00BB 0000:?encode_mcu_DC_refine@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+              8BF9817E10CA000000897DF874188B0656C740141100:
+                0. 2A 8467 0209 0000:?jpeg_calc_output_dimensions@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            6A546A018B460456894DF8FF108365FC008986D0010000:
+              0. 02 E588 007B 0000:?jinit_inverse_dct@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          F1:
+            8D45F857508B4610FF7008FF15........8B45F88946308B:
+              0. 11 C676 012B 0000:?InitDC@SECMemDC@@IAEXXZ
+            E8........8D45FC8BCE508D45F850FF7510FF750CE8:
+              0. 00 0000 0046 0000:?OnLButtonDown@SECColorWell@@IAEXIVCPoint@@@Z
+      8365F8005356578BF98B47:
+        1C85C07507C745F801000000837DF800:
+          0. 16 114D 00BF 0000:?UnSubclassAttached@SECWndListener@@MAEHXZ
+        2085C07507C745F801000000837DF800:
+          0. 16 B735 00BF 0000:?UnSubclassAttached@SECWndListener@@MAEHXZ
+      894D:
+        F8:
+          6A346A01FF75088B45088B40048B4DF8FF108945FC8B4508:
+            0. 0E 721E 00B5 0000:?jinit_merged_upsampler@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8B45088B80D40100008945FC8B45:
+            1C8B008B4D188D048150:
+              0. 2E E468 004E 0000:?merged_1v_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+            FC806028008B45FC8B4D:
+              0. 0B 1921 002B 0000:?start_pass_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          C745FC01000000C9C3:
+            0. 00 0000 0011 0000:?crucial_function@SECJpeg@@IAEXXZ
+        FCB8F0C99A3B8B4D1033D2C1E107F7F1538B5D0856578B7B04:
+          0. 32 7712 00A9 0000:?alloc_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@HII@Z
+      8B45:
+        08:
+          5356578B780433F6894DF833DB8B474085C0741D83380075:
+            0. 57 0E80 0189 0000:?realize_virt_arrays@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+          8B48:
+            208B405C8945F88B451848894DFC785C8B4D10538B55:
+              0. 5A 1D5A 007A 0000:?null_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z
+            348B40188945F88B451848894DFC785D8B4D14538BD9:
+              0. 5B 7880 007B 0000:?null_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z
+        10538B5D1856578B7D083BC3894DF8895DFC7D185350FF750C:
+          0. 02 FEFA 00E6 0000:?jpeg_huff_decode@SECJpeg@@IAEHPAUbitread_working_state@@JHPAUd_derived_tbl@@H@Z
+        14568B7508578B0033FF39BE48010000894DF88945FC7E5389:
+          0. 3B A2A5 0078 0000:?h2v2_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+    53:
+      56:
+        57:
+          894DFCB80100000085C074116A7068........E8........85:
+            0. 13 F565 0033 0000:?SetMessageHandled@SECWndListener@@UAEXH@Z
+          8B7D08:
+            6A:
+              08894DFC8BB7CC0100005B8D8FC8010000578B460C:
+                0. 4A 0F56 006A 0000:?progressive_process_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                1. 47 7E51 0067 0000:?process_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+              206A018B470457894DFCFF108B4DFC8BF033DB89B7:
+                0. 07 401F 00B5 0000:?jinit_c_master_control@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+              446A018B470457894DFCFF108B4DFC8BF08B450CBB:
+                0. 0C C9A7 006B 0000:?transencode_coef_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z
+            894DFC8BB7:
+              6C0100008B46083B870C01000073708D5E:
+                0. 75 A07B 0095 0000:?process_data_simple_main@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAII@Z
+              700100008B45108B003B45140F83230100:
+                0. 76 4159 014B 0000:?pre_process_data@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAIIPAPAPAD2I@Z
+              B8010000807E300075:
+                168B87BC0100008D:
+                  0. 4C BEBD 006C 0000:?process_data_simple_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z
+                208B56408B87BC01:
+                  0. 8A 2BD1 011A 0000:?process_data_context_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z
+              C0010000837E18008D5E1875156A018B47:
+                0. 74 6776 0094 0000:?post_process_prepass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+        8B7508:
+          33DB894DFC395E1475228B4604576A285356FF108B4DFC:
+            0. 24 29AB 006C 0000:?jpeg_stdio_src@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAVCFile@@@Z
+          57:
+            33DB:
+              568BBE74010000894DFC895F08E8........8B45:
+                0. 38 BD8A 00A1 0000:?coefct_start_pass_coef@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z
+              8BF9:
+                385D0C897DFC740E8B0656C7401404000000:
+                  0. 18 B366 00B3 0000:?jinit_c_prep_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+                395E1C897DFC760F395E18760A395E347E05:
+                  0. FF B13F 01CC 0000:?initial_setup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            68D800000056894DFCE8........33DB8D7E40833F00:
+              0. 08 AB01 0084 0000:?write_tables_only@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            6A:
+              1C8BD98B46046A0156895DFCFF108BF833C989BEC0:
+                0. 05 2E37 0089 0000:?jinit_d_post_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+              2C894DFC8B46045B536A0156FF108BF889BEDC0100:
+                0. 0B 2596 0123 0000:?jinit_2pass_quantizer@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              508BF98B46046A0156897DFCFF10807D0C008BD889:
+                0. 07 D264 00DD 0000:?jinit_d_main_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+              686A018B460456894DFCFF10807D0C008BD8899E74:
+                0. 05 0A71 00B6 0000:?jinit_c_coef_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+            894DFC:
+              568BBEB4010000E8........8B4DFC56E8:
+                0. 00 0000 01D7 0000:?master_selection@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              837E106474198B0656C74014110000008B068B:
+                0. FF 5EF6 02A9 0000:?jpeg_set_colorspace@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_COLOR_SPACE@@@Z
+              8B:
+                3E8B5E04837D10190F8DBB000000837E0800:
+                  0. D1 E032 00F1 0000:?jpeg_fill_bit_buffer@SECJpeg@@IAEEPAUbitread_working_state@@JHH@Z
+                BEDC010000837E4C008B47188945087407C7:
+                  0. 0F 626B 010D 0000:?start_pass_2_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+            8B7D10894DFC8B5E0481FFF0C99A3B7E086A0356E8:
+              0. 00 0000 0099 0000:?alloc_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HJ@Z
+            BFCC000000894DFC397E1074108B86B401000056FF10:
+              0. 9A 4AC5 00BA 0000:?output_pass_setup@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          894DFC33DB8B8EDC010000395E64894D087E44578D7934:
+            0. 30 7CAE 0066 0000:?create_odither_tables@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8B550C576AFF8B068B9EB001000056894DFCC740147300:
+            0. AC A5DE 00F3 0000:?jpeg_resync_to_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@H@Z
+        8D45FC5750B9........FF7508E8........8B45FC8B78048B58:
+          0. 34 4B64 005F 0000:?UnplugAllListeners@SECWndListener@@KGJPAUHWND__@@IIJH@Z
+          1. 34 C26B 005F 0000:?UnplugAllListeners@SECWndListener@@KGJPAUHWND__@@IIJH@Z
+      578B7D08894DFC807F0C00751F8B5D1085DB7618568B750C0FBE06:
+        0. 08 1970 0037 0000:?emit_buffered_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@PADI@Z
+      8B5D:
+        0856578B:
+          7D0C8B73:
+            0485FF894DFC7C0583FF027C138B0353C7:
+              0. 84 8E6C 00EF 0000:?free_pool@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z
+            1485FF894DFC7E198B46043BF87E0D8B4D:
+              0. 05 2924 0037 0000:?skip_input_data@SECJpeg@@IAEXPAUjpeg_decompress_struct@@J@Z
+          B3C0010000894DFC837E180075156A008B4304FF76:
+            0. 6F 2307 008F 0000:?post_process_2pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+        0C568B75085783FB018B7E04894DFC74138B0656C740140B00:
+          0. 13 2936 0066 0000:?request_virt_sarray@SECJpeg@@IAEPAUjvirt_sarray_control@@PAUjpeg_common_struct@@HEIII@Z (002B: 40)
+          1. 13 2936 0066 0000:?request_virt_barray@SECJpeg@@IAEPAUjvirt_barray_control@@PAUjpeg_common_struct@@HEIII@Z (002B: 44)
+    568B:
+      7508:
+        57:
+          894DFC8B4620480F84260100006A025A2BC2746248740D:
+            0. FF CFE3 0190 0000:?default_decompress_parms@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8BF968DA00000056897DFCE8........8B86100100008B:
+            0. 08 E502 00E6 0000:?emit_sos@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          B8DCFF000039461C8BF9897DFC7F053946187E158B0E56:
+            0. FF 1083 01E8 0000:?initial_setup@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        6A406A018B460456894DFCFF1089866C01000033D2C700:
+          0. 00 0000 0089 0000:?jinit_c_main_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+      F1837E:
+        780074378D45FC508D451050FF7510FF750CE8:
+          0. 27 CACF 0050 0000:?OnMouseMove@SECColorWell@@IAEXIVCPoint@@@Z
+        7C0074378D45FC508D451050FF7510FF750CE8:
+          0. 27 4435 0050 0000:?OnMouseMove@SECColorWell@@IAEXIVCPoint@@@Z
+    807D10008B450C568B750857894DFC740A8B7C866083450C10EB048B:
+      0. 38 A070 00DC 0000:?emit_dht@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z
+    837D100053568B7508:
+      57894DFC8B5E0C75148B46208B00C740142500:
+        0. 43 C872 00AC 0000:?emit_bits@SECJpeg@@IAEEPAUcomp_working_state@@IH@Z
+      894DFC8B5E1C75148B46208B00C74014250000:
+        0. 5C 8EAA 00B9 0000:?emit_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@IH@Z
+    894DFC:
+      8B:
+        45:
+          08:
+            33C98A484885C9750F8B550833C08A824001000085C0:
+              0. FF 55A8 0C62 0000:?use_merged_upsample@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 010C:?jpeg_calc_output_dimensions@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 045A:?prepare_range_limit_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 054E:?master_selection@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 08E5:?prepare_for_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0B0D:?finish_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0B56:?jpeg_new_colormap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0C0B:?jinit_master_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            50:
+              8B4D:
+                088B118B4DFCFF52088B4508508B4DFCE8:
+                  0. 00 0000 02DB 0000:?error_exit@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0028:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 006A:?emit_message@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 00CF:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAG@Z 0222:?reset_error_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0247:?jpeg_std_error@SECJpeg@@IAEPAUjpeg_error_mgr@@PAU2@@Z (02AC: 00)
+                  1. 00 0000 02DD 0000:?error_exit@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0028:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 006A:?emit_message@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 00CF:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAG@Z 0224:?reset_error_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0249:?jpeg_std_error@SECJpeg@@IAEPAUjpeg_error_mgr@@PAU2@@Z (02AC: 80)
+                  2. 00 0000 02CE 0000:?error_exit@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0028:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 006A:?emit_message@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 00CF:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAD@Z 0215:?reset_error_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 023A:?jpeg_std_error@SECJpeg@@IAEPAUjpeg_error_mgr@@PAU2@@Z (02AC: 04)
+                  3. 00 0000 02D0 0000:?error_exit@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0028:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 006A:?emit_message@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 00CF:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAD@Z 0217:?reset_error_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 023C:?jpeg_std_error@SECJpeg@@IAEPAUjpeg_error_mgr@@PAU2@@Z (02AC: 5D)
+                FC:
+                  8B118B4DFCFF92C40000008BE55DC20800:
+                    0. 00 0000 001F 0000:?AttachWnd@SECWndListener@@UAEHPAVCWnd@@H@Z
+                  E8........8B:
+                    4DFCC701........8B45FC8B:
+                      0. 05 1E44 0025 0000:??0?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@QAE@H@Z (REF 000F: ??0CMapPtrToPtr@@QAE@H@Z)
+                      1. 05 1E44 0025 0000:??0?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@QAE@H@Z (REF 000F: ??0CPtrList@@QAE@H@Z)
+                      2. 05 1E44 0025 0000:??0?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@QAE@H@Z (REF 000F: ??0?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@QAE@H@Z)
+                    E55DC20400:
+                      0. 00 0000 0019 0000:?RemoveKey@?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@QAEHPAUHWND__@@@Z (REF 000F: ?RemoveKey@CMapPtrToPtr@@QAEHPAX@Z)
+                      1. 00 0000 0019 0000:?GetNext@?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@QAEAAPAVSECWndListener@@AAPAU__POSITION@@@Z (REF 000F: ?GetNext@CPtrList@@QAEAAPAXAAPAU__POSITION@@@Z)
+                      2. 00 0000 0019 0000:?AddTail@?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@QAEPAU__POSITION@@PAVSECWndListener@@@Z (REF 000F: ?AddTail@CPtrList@@QAEPAU__POSITION@@PAX@Z)
+              E8........8B45FC8BE55DC20400:
+                0. 00 0000 0019 0000:??0AFX_CLASSINIT@@QAE@PAUCRuntimeClass@@@Z
+            8378106474288B4D088B11C74214110000008B45088B:
+              0. 22 6159 0827 0000:?jpeg_write_coefficients@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z 0092:?jpeg_copy_critical_parameters@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_compress_struct@@@Z 034A:?transencode_master_selection@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z 0402:?start_iMCU_row@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0483:?start_pass_coef@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z 04D4:?compress_output@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z 0780:?transencode_coef_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z
+              1. 2F 7CCA 0327 0000:?jpeg_start_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z 00BD:?jpeg_write_scanlines@SECJpeg@@IAEIPAUjpeg_compress_struct@@PAPADI@Z 01E7:?jpeg_write_raw_data@SECJpeg@@IAEIPAUjpeg_compress_struct@@PAPAPADI@Z
+            8B08C74114330000008B55088B028B4D0C8948188B55:
+              0. 40 499A 143A 0000:?out_of_memory@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 0032:?alloc_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HI@Z 0206:?alloc_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HJ@Z 0306:?alloc_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@HII@Z 040C:?alloc_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@HII@Z 0526:?request_virt_sarray@SECJpeg@@IAEPAUjvirt_sarray_control@@PAUjpeg_common_struct@@HEIII@Z 05CA:?request_virt_barray@SECJpeg@@IAEPAUjvirt_barray_control@@PAUjpeg_common_struct@@HEIII@Z 066E:?realize_virt_arrays@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0942:?do_sarray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_sarray_control@@E@Z 0A94:?do_barray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_barray_control@@E@Z 0BE9:?access_virt_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@PAUjvirt_sarray_control@@IIE@Z 0DFC:?access_virt_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@PAUjvirt_barray_control@@IIE@Z 1012:?free_pool@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 11CD:?self_destruct@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 1231:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (13CB: 03)
+              1. 40 499A 143C 0000:?out_of_memory@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 0032:?alloc_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HI@Z 0206:?alloc_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HJ@Z 0306:?alloc_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@HII@Z 040C:?alloc_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@HII@Z 0526:?request_virt_sarray@SECJpeg@@IAEPAUjvirt_sarray_control@@PAUjpeg_common_struct@@HEIII@Z 05CA:?request_virt_barray@SECJpeg@@IAEPAUjvirt_barray_control@@PAUjpeg_common_struct@@HEIII@Z 066E:?realize_virt_arrays@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0942:?do_sarray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_sarray_control@@E@Z 0A94:?do_barray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_barray_control@@E@Z 0BE9:?access_virt_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@PAUjvirt_sarray_control@@IIE@Z 0DFC:?access_virt_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@PAUjvirt_barray_control@@IIE@Z 1012:?free_pool@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 11CD:?self_destruct@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 1231:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (13CB: D2)
+              2. 40 499A 142D 0000:?out_of_memory@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 0032:?alloc_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HI@Z 0206:?alloc_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HJ@Z 0306:?alloc_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@HII@Z 040C:?alloc_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@HII@Z 0526:?request_virt_sarray@SECJpeg@@IAEPAUjvirt_sarray_control@@PAUjpeg_common_struct@@HEIII@Z 05CA:?request_virt_barray@SECJpeg@@IAEPAUjvirt_barray_control@@PAUjpeg_common_struct@@HEIII@Z 066E:?realize_virt_arrays@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0942:?do_sarray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_sarray_control@@E@Z 0A94:?do_barray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_barray_control@@E@Z 0BE9:?access_virt_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@PAUjvirt_sarray_control@@IIE@Z 0DFC:?access_virt_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@PAUjvirt_barray_control@@IIE@Z 1012:?free_pool@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 11CD:?self_destruct@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 1231:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (13CB: 04)
+              3. 40 499A 142F 0000:?out_of_memory@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 0032:?alloc_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HI@Z 0206:?alloc_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@HJ@Z 0306:?alloc_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@HII@Z 040C:?alloc_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@HII@Z 0526:?request_virt_sarray@SECJpeg@@IAEPAUjvirt_sarray_control@@PAUjpeg_common_struct@@HEIII@Z 05CA:?request_virt_barray@SECJpeg@@IAEPAUjvirt_barray_control@@PAUjpeg_common_struct@@HEIII@Z 066E:?realize_virt_arrays@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0942:?do_sarray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_sarray_control@@E@Z 0A94:?do_barray_io@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUjvirt_barray_control@@E@Z 0BE9:?access_virt_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@PAUjvirt_sarray_control@@IIE@Z 0DFC:?access_virt_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@PAUjvirt_barray_control@@IIE@Z 1012:?free_pool@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z 11CD:?self_destruct@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 1231:?jinit_memory_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z (13CB: 5D)
+          0C:
+            50:
+              8B4D08518B4DFCE8........8BE55DC20800:
+                0. 00 0000 001D 0000:?SetAt@?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@QAEXPAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@Z (REF 0013: ?SetAt@CMapPtrToPtr@@QAEXPAX0@Z)
+                1. 00 0000 001D 0000:?Lookup@?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@QBEHPAXAAPAUSECWndListener_MsgProcInfo_tag@@@Z (REF 0013: ?Lookup@CMapPtrToPtr@@QBEHPAXAAPAX@Z)
+              E8........83C4048BE55DC20800558BEC51894DFC:
+                0. 05 3C67 0405 0000:?jpeg_get_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@I@Z 0019:?jpeg_free_small@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z 0032:?jpeg_get_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@J@Z 0052:?jpeg_free_large@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z 0087:?jpeg_mem_available@SECJpeg@@IAEJPAUjpeg_common_struct@@JJJ@Z 00A0:?read_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z 0134:?write_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z 0192:?close_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@@Z 02B2:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z 03E6:?jpeg_mem_init@SECJpeg@@IAEJPAUjpeg_common_struct@@@Z 03F8:?jpeg_mem_term@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+              FF15........83C4048BE55DC20800558BEC51894D:
+                0. 07 71C9 040A 0000:?jpeg_get_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@I@Z 001A:?jpeg_free_small@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z 0034:?jpeg_get_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@J@Z 0054:?jpeg_free_large@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z 0089:?jpeg_mem_available@SECJpeg@@IAEJPAUjpeg_common_struct@@JJJ@Z 00A2:?read_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z 0136:?write_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z 0194:?close_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@@Z 02B6:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z 03EB:?jpeg_mem_init@SECJpeg@@IAEJPAUjpeg_common_struct@@@Z 03FD:?jpeg_mem_term@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+            8B4D088D4401FF99F77D0C8BE55DC20800558BEC5189:
+              0. 8E 961F 0100 0000:?jdiv_round_up@SECJpeg@@IAEJJJ@Z 001B:?jround_up@SECJpeg@@IAEJJJ@Z 0041:?jcopy_sample_rows@SECJpeg@@IAEXPAPADH0HHI@Z 00BD:?jcopy_block_row@SECJpeg@@IAEXPAY0EA@F0I@Z 00E1:?jzero_far@SECJpeg@@IAEXPAXI@Z
+          FC:
+            8B40:
+              4C8BE55DC3:
+                0. 00 0000 0011 0000:?IsPlugged@SECWndPlugIn@@UAEHXZ
+              508BE55DC3:
+                0. 00 0000 0011 0000:?GetMessageHandleStatus@SECWndListener@@QAEKXZ
+              548BE55DC3:
+                0. 00 0000 0011 0000:?GetMessageHandleStatus@SECWndListener@@QAEKXZ
+            C7:
+              00........8B4DFCE8........8BE55DC3:
+                0. 00 0000 001C 0000:??1SECPopupColorWell@@UAE@XZ
+              40:
+                50000000008BE55DC3:
+                  0. 00 0000 0015 0000:?ClearMessageHandleStatus@SECWndListener@@QAEXXZ
+                54000000008BE55DC3:
+                  0. 00 0000 0015 0000:?ClearMessageHandleStatus@SECWndListener@@QAEXXZ
+        4DFCE8........8B:
+          45:
+            0883E00185C074098B4DFC51E8:
+              0. 00 0000 002B 0000:??_GSECWndPlugIn@@UAEPAXI@Z (REF 000B: ??1SECWndPlugIn@@UAE@XZ)
+              1. 00 0000 002B 0000:??_GSECWndListener@@UAEPAXI@Z (REF 000B: ??1SECWndListener@@UAE@XZ)
+              2. 00 0000 002B 0000:??_G?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAEPAXI@Z (REF 000B: ??1?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAE@XZ)
+              3. 00 0000 002B 0000:??_G?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAEPAXI@Z (REF 000B: ??1?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ)
+              4. 00 0000 002B 0000:??_G?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAEPAXI@Z (REF 000B: ??1?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ)
+              5. 00 0000 002B 0000:??_GSECJpeg@@UAEPAXI@Z (REF 000B: ??1SECJpeg@@UAE@XZ)
+              6. 00 0000 002B 0000:??_GSECImage@@UAEPAXI@Z (REF 000B: ??1SECImage@@UAE@XZ)
+              7. 00 0000 002B 0000:??_GSECDib@@UAEPAXI@Z (REF 000B: ??1SECDib@@UAE@XZ)
+              8. 00 0000 002B 0000:??_GSECMemDC@@UAEPAXI@Z (REF 000B: ??1SECMemDC@@UAE@XZ)
+              9. 00 0000 002B 0000:??_GSECOtherButton@@UAEPAXI@Z (REF 000B: ??1SECOtherButton@@UAE@XZ)
+              10. 00 0000 002B 0000:??_GSECColorWell@@UAEPAXI@Z (REF 000B: ??1SECColorWell@@UAE@XZ)
+              11. 00 0000 002B 0000:??_GSECPopupColorWell@@UAEPAXI@Z (REF 000B: ??1SECPopupColorWell@@UAE@XZ)
+              12. 00 0000 002B 0000:??_GSECOwnerDrawButton@@UAEPAXI@Z (REF 000B: ??1SECOwnerDrawButton@@UAE@XZ)
+              13. 00 0000 002B 0000:??_GSECWellButton@@UAEPAXI@Z (REF 000B: ??1SECWellButton@@UAE@XZ)
+              14. 00 0000 002B 0000:??_GSECBitmapButton@@UAEPAXI@Z (REF 000B: ??1SECBitmapButton@@UAE@XZ)
+              15. 00 0000 002B 0000:??_GSECMenuButton@@UAEPAXI@Z (REF 000B: ??1SECMenuButton@@UAE@XZ)
+            FCC74010010000008B45FC8BE55DC3:
+              0. 0B 529F 0232 0000:??0SECRect@@QAE@XZ 0020:??0SECRect@@QAE@H@Z 0041:??0SECRect@@QAE@ABUtagRECT@@H@Z 0066:??4SECRect@@QAEAAV0@ABVCRect@@@Z 00A4:?SetHorzOrient@SECRect@@QAEXH@Z 00BA:?LT@SECRect@@QAEXH@Z 00E3:?RB@SECRect@@QAEXH@Z 010D:?OffTL@SECRect@@QAEXH@Z 0136:?OffBR@SECRect@@QAEXH@Z 0160:?GetLT@SECRect@@QAEHXZ 0181:?GetRB@SECRect@@QAEHXZ 01A3:?GetOffTL@SECRect@@QAEHXZ 01C4:?GetOffBR@SECRect@@QAEHXZ 01E6:?PrimarySize@SECRect@@QAEHXZ 020C:?SecondarySize@SECRect@@QAEHXZ
+          E55DC3:
+            0. 00 0000 0013 0000:??1?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ (REF 000B: ??1?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ)
+            1. 00 0000 0013 0000:??1?$_CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ (REF 000B: ??1CPtrList@@UAE@XZ)
+            2. 00 0000 0013 0000:??1CColorDialog@@UAE@XZ (REF 000B: ??1CCommonDialog@@UAE@XZ)
+            3. 00 0000 0013 0000:??1CCommonDialog@@UAE@XZ (REF 000B: ??1CDialog@@UAE@XZ)
+            4. 00 0000 0013 0000:??1?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAE@XZ (REF 000B: ??1CMapPtrToPtr@@UAE@XZ)
+        E55D:
+          C2:
+            0400558BEC83EC18894DE88B45142B45108945F083:
+              0. FF 3095 0E4C 0000:?start_pass_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 000D:?expand_right_edge@SECJpeg@@IAEXPAPADHII@Z 0089:?sep_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAPADI1I@Z 011D:?int_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 0293:?fullsize_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 02EC:?h2v1_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 03CD:?h2v2_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 04EF:?h2v2_smooth_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 0998:?fullsize_smooth_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z 0C24:?jinit_downsampler@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            0C00:
+              0. 00 0000 000D 0000:?InitAdditionalColors@SECColorWell@@MAEXPAUtagPALETTEENTRY@@HH@Z
+          C3:
+            0. 00 0000 000B 0000:?OnBnClicked@SECOwnerDrawButton@@MAEXXZ
+      B8........8BE55DC3558BEC:
+        51894DFC:
+          8B4DFCE8........8B:
+            0. 04 0B2A 30EA 0000:?GetMessageMap@SECOtherButton@@MBEPBUAFX_MSGMAP@@XZ 0010:??0SECOtherButton@@QAE@XZ 002F:??1SECOtherButton@@UAE@XZ 004B:?OnKillFocus@SECOtherButton@@IAEXPAVCWnd@@@Z 00B3:?OnGetDlgCode@SECOtherButton@@IAEIXZ 00C3:?OnKeyDown@SECOtherButton@@IAEXIII@Z 01A2:?GetRuntimeClass@SECColorWell@@UBEPAUCRuntimeClass@@XZ 01B2:?GetMessageMap@SECColorWell@@MBEPBUAFX_MSGMAP@@XZ 01C2:??0SECColorWell@@QAE@XZ (l)0282:?InitSysColors@@YAXXZ 02E2:??1SECColorWell@@UAE@XZ 038B:?Reset@SECColorWell@@MAEXXZ 0456:?Create@SECColorWell@@UAEHKHHPAVCWnd@@IHHPAUCCreateContext@@@Z 07B6:?CalculateSize@SECColorWell@@IAE?AVCRect@@PAVCWnd@@HHH@Z 098E:?CreatePalette@SECColorWell@@MAEXXZ (l)0AE3:?InitSystemColors@@YAHPAUtagPALETTEENTRY@@H@Z 0C51:?SetGridSize@SECColorWell@@MAEXXZ 0C70:?GetColorDialogFlags@SECColorWell@@MBEKXZ 0C93:?SetColor@SECColorWell@@QAEXK@Z 0F16:?GetColor@SECColorWell@@QBEKXZ 0F4A:?SetMouseTracking@SECColorWell@@QAEXH@Z 0F73:?GetMouseTracking@SECColorWell@@QBEHXZ 0F97:?SetPaletteRealization@SECColorWell@@QAEXH@Z 0FC3:?GetPaletteRealization@SECColorWell@@QBEHXZ 0FEA:?GetClassStyle@SECColorWell@@MBEIXZ 0FF7:?HasFocusRectangle@SECColorWell@@MBEHXZ 1007:?GetInternalRect@SECColorWell@@IAEXAAVCRect@@@Z 1052:?GetCellRect@SECColorWell@@IAEXABVCRect@@AAV2@HH@Z 117D:?GetCellRect@SECColorWell@@IAEXAAVCRect@@HH@Z 122C:?InvalidateCell@SECColorWell@@IAEXHH@Z 1289:?DrawFocusRect@SECColorWell@@IAEXXZ 1346:?DrawCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z 1522:?DrawSelectedCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z 173B:?Paint@SECColorWell@@IAEXAAVCDC@@0@Z 1A05:?GetPaletteColor@SECColorWell@@IBEKHH@Z 1ACE:?GetPaletteIndex@SECColorWell@@IBEHHH@Z 1B7A:?HitTest@SECColorWell@@IAEHVCPoint@@AAH1@Z 1CC6:?NotifyChange@SECColorWell@@MAEXXZ 1D1C:?ChangeSelection@SECColorWell@@IAEXHH@Z 1DD5:?HandleSelection@SECColorWell@@MAEXHHW4SelTypes@1@@Z 1E74:?OnPaint@SECColorWell@@IAEXXZ 207C:?OnLButtonDown@SECColorWell@@IAEXIVCPoint@@@Z 20F0:?OnClickedOther@SECColorWell@@IAEXXZ 21C7:?OnMouseMove@SECColorWell@@IAEXIVCPoint@@@Z 2252:?OnSetFocus@SECColorWell@@IAEXPAVCWnd@@@Z 22D1:?OnCtlColor@SECColorWell@@IAEPAUHBRUSH__@@PAVCDC@@PAVCWnd@@I@Z 2319:?OnKillFocus@SECColorWell@@IAEXPAVCWnd@@@Z 2356:?OnGetDlgCode@SECColorWell@@IAEIXZ 2392:?OnKeyDown@SECColorWell@@IAEXIII@Z 26D9:?OnSysColorChange@SECColorWell@@IAEXXZ 2763:?Dump@SECColorWell@@UBEXAAVCDumpContext@@@Z 2956:?AssertValid@SECColorWell@@UBEXXZ 29FF:?GetRuntimeClass@SECPopupColorWell@@UBEPAUCRuntimeClass@@XZ 2A0F:?GetMessageMap@SECPopupColorWell@@MBEPBUAFX_MSGMAP@@XZ 2A1F:??0SECPopupColorWell@@QAE@XZ 2A80:?Reset@SECPopupColorWell@@UAEXXZ 2AA0:?Create@SECPopupColorWell@@UAEHKAAVCRect@@PAVCWnd@@HPAUCCreateContext@@@Z 2C08:?IsCreated@SECPopupColorWell@@QBEHXZ 2C1C:?SetNotifyWindow@SECPopupColorWell@@QAEXPAVCWnd@@@Z 2C48:?GetClassStyle@SECPopupColorWell@@MBEIXZ 2C58:?HasFocusRectangle@SECPopupColorWell@@MBEHXZ 2C65:?HandleSelection@SECPopupColorWell@@MAEXHHW4SelTypes@SECColorWell@@@Z 2CBA:?NotifyChange@SECPopupColorWell@@MAEXXZ 2D0A:?PostNcDestroy@SECPopupColorWell@@MAEXXZ 2D35:?OnKeyDown@SECPopupColorWell@@IAEXIII@Z 2DD4:?OnKeyUp@SECPopupColorWell@@IAEXIII@Z 2E2E:?OnClickedOther@SECPopupColorWell@@IAEXXZ 2E80:?OnLButtonDown@SECPopupColorWell@@IAEXIVCPoint@@@Z 3011:?OnKillFocus@SECPopupColorWell@@IAEXPAVCWnd@@@Z 303B:?Dump@SECPopupColorWell@@UBEXAAVCDumpContext@@@Z 30AD:?AssertValid@SECPopupColorWell@@UBEXXZ 30C0:?DDX_Color@@YAXPAVCDataExchange@@AAVSECColorWell@@AAK@Z
+          B8........8BE55DC3:
+            0. 0B 529F 027B 0000:?GetRuntimeClass@SECWndPlugIn@@UBEPAUCRuntimeClass@@XZ 0010:?GetMessageMap@SECWndPlugIn@@MBEPBUAFX_MSGMAP@@XZ 0020:??0SECWndPlugIn@@QAE@XZ 0071:??1SECWndPlugIn@@UAE@XZ 0097:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z 00B7:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z 0120:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z 015A:?DefWindowProcA@SECWndPlugIn@@MAEJIIJ@Z 0195:?AssertValid@SECWndPlugIn@@MBEXXZ 01DC:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z 025C:?UnPlug@SECWndPlugIn@@UAEXXZ (REF 0187: ?DefWindowProcA@CWnd@@MAEJIIJ@Z)
+            1. 0B 529F 027B 0000:?GetRuntimeClass@SECWndPlugIn@@UBEPAUCRuntimeClass@@XZ 0010:?GetMessageMap@SECWndPlugIn@@MBEPBUAFX_MSGMAP@@XZ 0020:??0SECWndPlugIn@@QAE@XZ 0071:??1SECWndPlugIn@@UAE@XZ 0097:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z 00B7:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z 0120:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z 015A:?DefWindowProcW@SECWndPlugIn@@MAEJIIJ@Z 0195:?AssertValid@SECWndPlugIn@@MBEXXZ 01DC:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z 025C:?UnPlug@SECWndPlugIn@@UAEXXZ (REF 0187: ?DefWindowProcW@CWnd@@MAEJIIJ@Z)
+        E8........:
+          5DC3558BEC6A056A:
+            0. 02 B559 2E81 0000:?GetRuntimeClass@SECOwnerDrawButton@@UBEPAUCRuntimeClass@@XZ 002D:?GetMessageMap@SECOwnerDrawButton@@MBEPBUAFX_MSGMAP@@XZ 003D:??0SECOwnerDrawButton@@QAE@XZ (l)00A7:?InitSysColors@@YAXXZ 00ED:??1SECOwnerDrawButton@@UAE@XZ 0109:?AttachButton@SECOwnerDrawButton@@UAEHHPAVCWnd@@@Z 024F:?Create@SECOwnerDrawButton@@UAEHPBGKABUtagRECT@@PAVCWnd@@H@Z 027A:?PreDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 0287:?PostDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 0294:?DrawFocus@SECOwnerDrawButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 0354:?DrawButton@SECOwnerDrawButton@@MAE?AVCRect@@PAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 06AA:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z 08F0:?OnSetStyle@SECOwnerDrawButton@@MAEJIJ@Z 0942:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ 0979:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z 09C1:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z 0A61:?OnGetDlgCode@SECOwnerDrawButton@@IAEIXZ 0A71:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 0CE9:?Dump@SECOwnerDrawButton@@UBEXAAVCDumpContext@@@Z 0D02:?AssertValid@SECOwnerDrawButton@@UBEXXZ 0D15:?GetRuntimeClass@SECWellButton@@UBEPAUCRuntimeClass@@XZ 0D25:?GetMessageMap@SECWellButton@@MBEPBUAFX_MSGMAP@@XZ 0D35:??0SECWellButton@@QAE@XZ 0DF6:??1SECWellButton@@UAE@XZ 0E7E:?CreatePalette@SECWellButton@@MAEXXZ 0EF6:?CreatePopup@SECWellButton@@MAEXXZ 0FD6:?GetColorDialogFlags@SECWellButton@@MBEKXZ 0FF9:?SetColor@SECWellButton@@QAEXK@Z 1065:?GetColor@SECWellButton@@QBEKXZ 10BC:?SetPaletteRealization@SECWellButton@@QAEXH@Z 10E5:?GetPaletteRealization@SECWellButton@@QBEHXZ 1109:?SetOtherButton@SECWellButton@@QAEXH@Z 1132:?GetOtherButton@SECWellButton@@QBEHXZ 1156:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z 11C2:?OnBnClicked@SECWellButton@@MAEXXZ 11EA:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1249:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1294:?DrawFocus@SECWellButton@@MAEXPAVCDC@@AAVCRect@@@Z 12D1:?DrawSpecific@SECWellButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z (l)14A0:?DrawDownArrow@@YAXPAVCDC@@PAVCPen@@PAVCBrush@@HHHH@Z 1529:?OnColorChange@SECWellButton@@IAEJIJ@Z 1590:?OnCustomColor@SECWellButton@@IAEJIJ@Z 1693:?Dump@SECWellButton@@UBEXAAVCDumpContext@@@Z 16FA:?AssertValid@SECWellButton@@UBEXXZ 1759:?DDX_Color@@YAXPAVCDataExchange@@AAVSECWellButton@@AAK@Z 1783:?GetRuntimeClass@SECBitmapButton@@UBEPAUCRuntimeClass@@XZ 1793:?GetMessageMap@SECBitmapButton@@MBEPBUAFX_MSGMAP@@XZ 17A3:??0SECBitmapButton@@QAE@XZ 1833:??1SECBitmapButton@@UAE@XZ 1887:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBGPAVCWnd@@@Z 194B:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z 198F:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z 1A61:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z 1A9D:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ 1AD1:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z 1B1A:?SizeToContent@SECBitmapButton@@QAEXXZ 1D45:?SetBitmap@SECBitmapButton@@QAEHPBG@Z 1DC5:?SetBitmap@SECBitmapButton@@QAEHH@Z 1DE3:?CalcLayout@SECBitmapButton@@MAEXXZ 21F4:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z 240A:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z 2612:?OnSysColorChange@SECBitmapButton@@IAEXXZ 2662:?OnSize@SECBitmapButton@@IAEXIHH@Z 2691:?Dump@SECBitmapButton@@UBEXAAVCDumpContext@@@Z 2799:?AssertValid@SECBitmapButton@@UBEXXZ 27AC:?GetRuntimeClass@SECMenuButton@@UBEPAUCRuntimeClass@@XZ 27BC:?GetMessageMap@SECMenuButton@@MBEPBUAFX_MSGMAP@@XZ 27CC:??0SECMenuButton@@QAE@XZ 283D:??1SECMenuButton@@UAE@XZ 28A9:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z 295F:?Create@SECMenuButton@@UAEHPBGKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z 29D4:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBGPAUHMENU__@@W4Direction@1@AAI@Z 2A81:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z 2B13:?GetDirection@SECMenuButton@@QBE?AW4Direction@1@XZ 2B3A:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z 2BA3:?OnBnClicked@SECMenuButton@@MAEXXZ 2CC1:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 2CE6:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z 2D9C:?PostNcDestroy@SECMenuButton@@MAEXXZ 2DC3:?Dump@SECMenuButton@@UBEXAAVCDumpContext@@@Z 2E45:?AssertValid@SECMenuButton@@UBEXXZ (2E35: 14)
+            1. 02 B559 2E58 0000:?GetRuntimeClass@SECOwnerDrawButton@@UBEPAUCRuntimeClass@@XZ 002D:?GetMessageMap@SECOwnerDrawButton@@MBEPBUAFX_MSGMAP@@XZ 003D:??0SECOwnerDrawButton@@QAE@XZ (l)00A7:?InitSysColors@@YAXXZ 00ED:??1SECOwnerDrawButton@@UAE@XZ 0109:?AttachButton@SECOwnerDrawButton@@UAEHHPAVCWnd@@@Z 024F:?Create@SECOwnerDrawButton@@UAEHPBDKABUtagRECT@@PAVCWnd@@H@Z 027A:?PreDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 0287:?PostDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 0294:?DrawFocus@SECOwnerDrawButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 0354:?DrawButton@SECOwnerDrawButton@@MAE?AVCRect@@PAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 06AA:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z 08F0:?OnSetStyle@SECOwnerDrawButton@@MAEJIJ@Z 0942:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ 0979:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z 09C1:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z 0A61:?OnGetDlgCode@SECOwnerDrawButton@@IAEIXZ 0A71:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 0CE9:?Dump@SECOwnerDrawButton@@UBEXAAVCDumpContext@@@Z 0D02:?AssertValid@SECOwnerDrawButton@@UBEXXZ 0D15:?GetRuntimeClass@SECWellButton@@UBEPAUCRuntimeClass@@XZ 0D25:?GetMessageMap@SECWellButton@@MBEPBUAFX_MSGMAP@@XZ 0D35:??0SECWellButton@@QAE@XZ 0DF6:??1SECWellButton@@UAE@XZ 0E7E:?CreatePalette@SECWellButton@@MAEXXZ 0EF6:?CreatePopup@SECWellButton@@MAEXXZ 0FD6:?GetColorDialogFlags@SECWellButton@@MBEKXZ 0FF9:?SetColor@SECWellButton@@QAEXK@Z 1065:?GetColor@SECWellButton@@QBEKXZ 10BC:?SetPaletteRealization@SECWellButton@@QAEXH@Z 10E5:?GetPaletteRealization@SECWellButton@@QBEHXZ 1109:?SetOtherButton@SECWellButton@@QAEXH@Z 1132:?GetOtherButton@SECWellButton@@QBEHXZ 1156:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z 11C2:?OnBnClicked@SECWellButton@@MAEXXZ 11EA:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1249:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1294:?DrawFocus@SECWellButton@@MAEXPAVCDC@@AAVCRect@@@Z 12D1:?DrawSpecific@SECWellButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z (l)14A0:?DrawDownArrow@@YAXPAVCDC@@PAVCPen@@PAVCBrush@@HHHH@Z 1529:?OnColorChange@SECWellButton@@IAEJIJ@Z 1590:?OnCustomColor@SECWellButton@@IAEJIJ@Z 1693:?Dump@SECWellButton@@UBEXAAVCDumpContext@@@Z 16FA:?AssertValid@SECWellButton@@UBEXXZ 1759:?DDX_Color@@YAXPAVCDataExchange@@AAVSECWellButton@@AAK@Z 1783:?GetRuntimeClass@SECBitmapButton@@UBEPAUCRuntimeClass@@XZ 1793:?GetMessageMap@SECBitmapButton@@MBEPBUAFX_MSGMAP@@XZ 17A3:??0SECBitmapButton@@QAE@XZ 1833:??1SECBitmapButton@@UAE@XZ 1887:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBDPAVCWnd@@@Z 194B:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z 198F:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z 1A61:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z 1A9D:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ 1AD1:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z 1B1A:?SizeToContent@SECBitmapButton@@QAEXXZ 1D45:?SetBitmap@SECBitmapButton@@QAEHPBD@Z 1DC5:?SetBitmap@SECBitmapButton@@QAEHH@Z 1DE3:?CalcLayout@SECBitmapButton@@MAEXXZ 21F4:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z 240A:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z 2612:?OnSysColorChange@SECBitmapButton@@IAEXXZ 2662:?OnSize@SECBitmapButton@@IAEXIHH@Z 2691:?Dump@SECBitmapButton@@UBEXAAVCDumpContext@@@Z 2799:?AssertValid@SECBitmapButton@@UBEXXZ 27AC:?GetRuntimeClass@SECMenuButton@@UBEPAUCRuntimeClass@@XZ 27BC:?GetMessageMap@SECMenuButton@@MBEPBUAFX_MSGMAP@@XZ 27CC:??0SECMenuButton@@QAE@XZ 283D:??1SECMenuButton@@UAE@XZ 28A9:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z 2936:?Create@SECMenuButton@@UAEHPBDKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z 29AB:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBDPAUHMENU__@@W4Direction@1@AAI@Z 2A58:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z 2AEA:?GetDirection@SECMenuButton@@QBE?AW4Direction@1@XZ 2B11:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z 2B7A:?OnBnClicked@SECMenuButton@@MAEXXZ 2C98:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 2CBD:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z 2D73:?PostNcDestroy@SECMenuButton@@MAEXXZ 2D9A:?Dump@SECMenuButton@@UBEXAAVCDumpContext@@@Z 2E1C:?AssertValid@SECMenuButton@@UBEXXZ (2E35: C3)
+          E8........5DC355:
+            0. 05 7D82 0B28 0000:?GetRuntimeClass@SECWndListener@@UBEPAUCRuntimeClass@@XZ 006E:?GetMessageMap@SECWndListener@@MBEPBUAFX_MSGMAP@@XZ 007E:??0SECWndListener@@QAE@XZ 00B1:??1SECWndListener@@UAE@XZ 010E:?SetMessageHandleStatus@SECWndListener@@UAEXK@Z 0124:?PlugInTo@SECWndListener@@UAEHPAVCWnd@@@Z 0177:?UnPlug@SECWndListener@@UAEXXZ 01A2:?OnSubclassMessage@SECWndListener@@MAEHIIJ@Z 01CF:?OnSubclassMessage@SECWndListener@@MAEHIIJAAJ@Z 01F4:?SubclassAttached@SECWndListener@@MAEHPAVCWnd@@@Z 0257:?AddListenerEntry@SECWndListener@@MAEHPAUSECWndListener_MsgProcInfo_tag@@@Z 0312:?SubclassNewListenerEntry@SECWndListener@@MAEHPAUHWND__@@@Z 04B2:?IsWindowProc@SECWndListener@@MAEHPAUHWND__@@@Z 0505:?UnSubclassAttached@SECWndListener@@MAEHXZ 0781:?SubclassWndProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z 079F:?SubclassDlgProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z 07BD:?SubclassProc@SECWndListener@@KGJPAUHWND__@@IIJH@Z 09D5:?UnplugAllListeners@SECWndListener@@KGJPAUHWND__@@IIJH@Z
+      E8........8BE55DC3:
+        0. 00 0000 0010 0000:??1AFX_EXCEPTION_LINK@@QAE@XZ
+    8A550C53568B750857894DFC8B7E148B1F8B47048896C80000008A55:
+      0. FF 6646 032C 0000:?get_sof@SECJpeg@@IAEEPAUjpeg_decompress_struct@@EE@Z
+    8B:
+      45:
+        08:
+          5356578B50048BB0DC01000068FC0700006A0150FF1205FC03:
+            0. 7E 3D02 009E 0000:?init_error_limit@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          568BF18845FC33C98065FF008ACCC1E8108845FE8D45FC506A:
+            0. 0B 3B93 0046 0000:?SetColor@SECWellButton@@QAEXK@Z
+            1. 0B 5AF0 0046 0000:?SetColor@SECWellButton@@QAEXK@Z
+          8B:
+            48188B40208945FC8B451848894D08783F8B4D148B550C53:
+              0. 3C A72F 005C 0000:?grayscale_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z
+            887C0100008B40188945088B45188B49084878678B551453:
+              0. 67 6115 0087 0000:?rgb_gray_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z
+        0C5356:
+          570FBF302B7510894DFC8BC67903F7D84E33FF85C07405:
+            0. 1B 8416 013E 0000:?encode_one_block@SECJpeg@@IAEEPAUcomp_working_state@@PAFHPAUc_derived_tbl@@2@Z
+          8B7508578BF98B5C8640897DFC85DB75158B0E56C74114:
+            0. 3F 3787 00D3 0000:?emit_dqt@SECJpeg@@IAEHPAUjpeg_compress_struct@@H@Z
+        14538B5D10568B750C894DFC8D0C03573B4E048B7D08894D1477:
+          0. 52 CCF0 012F 0000:?access_virt_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@PAUjvirt_sarray_control@@IIE@Z (00BC: 00)
+          1. 52 CCF0 0132 0000:?access_virt_barray@SECJpeg@@IAEPAPAY0EA@FPAUjpeg_common_struct@@PAUjvirt_barray_control@@IIE@Z (00BC: C9)
+        20538B5D0856578B7D1C8BB3C0010000894DFC2B078B4E103BC1:
+          0. 4E 99F5 006E 0000:?post_process_1pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+      4D142B4D1085C9894DFC7E428B450C85C07E3B53568B7508578945:
+        0. 37 7649 0057 0000:?expand_right_edge@SECJpeg@@IAEXPAPADHII@Z
+    8D45FC506A016A00FF71:
+      48FF15........0FB645FE0FB64DFDC1E008:
+        0. 0D CD54 002D 0000:?GetColor@SECWellButton@@QBEKXZ
+      4CFF15........0FB645FE0FB64DFDC1E008:
+        0. 0D CD54 002D 0000:?GetColor@SECWellButton@@QBEKXZ
+    B8F0C99A3B33D2F7751053894DFC8B4D0856578B79048BF085F67F11:
+      0. 2D 09AB 00A0 0000:?alloc_sarray@SECJpeg@@IAEPAPADPAUjpeg_common_struct@@HII@Z
+  53:
+    56:
+      578BF133FF397E4C75138B4E28FF750C8B01FF7508FF50:
+        388B450C:
+          0. 26 6AA1 0093 0000:?PutCache@SECImage@@IAEKPAXK@Z
+        408B450C:
+          0. 26 6AA1 0093 0000:?PutCache@SECImage@@IAEKPAXK@Z
+      8B75:
+        0857FF750C8BD956E8........8B46348BCB8D4440085056E8:
+          0. 00 0000 00BD 0000:?emit_sof@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4COMP_JPEG_MARKER@@@Z
+        0C8BD9576A008B4E0CFF75148B01FF50:
+          283B45148B7D087410:
+            0. 42 F7E4 0062 0000:?read_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z
+          303B45148B7D087410:
+            0. 42 3DBF 0062 0000:?read_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z
+        108BD93B75147D1F578D7EFFFF750C8BCB6A0156FF750857FF:
+          0. 03 2FDA 0034 0000:?expand_bottom_edge@SECJpeg@@IAEXPAPADIHH@Z
+        148BD981FEFDFF0000773AFF750CFF7508E8........8D4602:
+          0. 07 EAFA 0052 0000:?write_any_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBDI@Z
+    8BD98B4D0C56578B7D08C1E1058B4704516A01578BCBFF106A1F8BF0:
+      0. 1D 3E7F 0081 0000:?select_colors@SECJpeg@@IAEXPAUjpeg_decompress_struct@@H@Z
+  56:
+    578B7D0C8BC7C1E00250E8........598BF056576A006A0F89750CFF:
+      0. 01 54B7 00AE (l)0000:?InitSystemColors@@YAHPAUtagPALETTEENTRY@@H@Z
+    8B:
+      75:
+        08578BF9:
+          817E10CD00000074188B0656C74014110000008B068B:
+            0. 6B 9536 008B 0000:?jpeg_read_scanlines@SECJpeg@@IAEIPAUjpeg_decompress_struct@@PAPADI@Z
+          837E106574188B0656C74014110000008B068B4E1089:
+            0. 93 88F8 00B3 0000:?jpeg_write_scanlines@SECJpeg@@IAEIPAUjpeg_compress_struct@@PAPADI@Z
+          FF7618FFB6080100006A00FF75146A00FF7510E8:
+            0. 00 0000 0045 0000:?fullsize_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+        0C578BF98B4E0C6A00FF75148B01FF50:
+          283B451474138B450850:
+            0. 23 C483 0043 0000:?write_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z
+          303B451474138B450850:
+            0. 23 644C 0043 0000:?write_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@PAXJJ@Z
+      F1:
+        8D4D208B0651FF75208BCEFF751CFF7508FF90:
+          04010000FF7518:
+            0. 16 7E0C 0045 0000:?Create@SECMenuButton@@UAEHPBDKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z (REF 0036: ?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z)
+            1. 16 7E0C 0045 0000:?Create@SECMenuButton@@UAEHPBGKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z (REF 0036: ?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z)
+          0C010000FF7518:
+            0. 16 7E0C 0045 0000:?Create@SECMenuButton@@UAEHPBDKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z (REF 0036: ?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z)
+            1. 16 7E0C 0045 0000:?Create@SECMenuButton@@UAEHPBGKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z (REF 0036: ?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z)
+        FF75:
+          0C:
+            8D4E:
+              78E8........8B451033C985C08986800000008B45:
+                0. 19 653B 004C 0000:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBDPAUHMENU__@@W4Direction@1@AAI@Z (REF 0039: _strlen)
+                1. 19 653B 004C 0000:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBGPAUHMENU__@@W4Direction@1@AAI@Z (REF 0039: _wcslen)
+              7CE8........8B451033C985C08986840000008B45:
+                0. 19 653B 004C 0000:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBDPAUHMENU__@@W4Direction@1@AAI@Z
+                1. 1A 765F 004D 0000:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBGPAUHMENU__@@W4Direction@1@AAI@Z
+            FF7508E8........8D4D0C516A0150FF76:
+              40FF15:
+                0. 00 0000 003C 0000:?GetPaletteColor@SECColorWell@@IBEKHH@Z
+              44FF15:
+                0. 00 0000 003C 0000:?GetPaletteColor@SECColorWell@@IBEKHH@Z
+          10FF750C68........6A00FF7508E8........FF75108BCE:
+            0. 04 87C6 0037 0000:?jpeg_set_linear_quality@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z
+  6AFF68........64A1........50648925........:
+    51894DF08B4DF0E8:
+      0. 00 0000 0447 0000:??0SECMemDC@@QAE@AAVCDC@@VCRect@@@Z 00C5:??0SECMemDC@@QAE@PAVCDC@@VCRect@@@Z 018A:??1SECMemDC@@UAE@XZ 02C7:?InitDC@SECMemDC@@IAEXXZ
+    83EC:
+      0C:
+        689C000000:
+          0. 01 3E9B 0E20 0000:?CreateObject@SECJpeg@@SGPAVCObject@@XZ 0067:?GetRuntimeClass@SECJpeg@@UBEPAUCRuntimeClass@@XZ 0095:??5@YGAAVCArchive@@AAV0@AAPAVSECJpeg@@@Z 00B1:??0SECJpeg@@QAE@XZ 0135:??1SECJpeg@@UAE@XZ 0151:?SECoutput_init@SECJpeg@@AAEXPAUjpeg_decompress_struct@@@Z 036B:?DoLoadImage@SECJpeg@@MAEHPAVCFile@@@Z 07CC:?DoSaveImage@SECJpeg@@MAEHPAVCFile@@@Z 0DEC:?Serialize@SECJpeg@@UAEXAAVCArchive@@@Z 0E05:?AssertValid@SECJpeg@@UBEXXZ (0DFE: C3)
+          1. 01 3E9B 0E2A 0000:?CreateObject@SECJpeg@@SGPAVCObject@@XZ 0067:?_GetBaseClass@SECJpeg@@KGPAUCRuntimeClass@@XZ 0071:?GetRuntimeClass@SECJpeg@@UBEPAUCRuntimeClass@@XZ 009F:??5@YGAAVCArchive@@AAV0@AAPAVSECJpeg@@@Z 00BB:??0SECJpeg@@QAE@XZ 013F:??1SECJpeg@@UAE@XZ 015B:?SECoutput_init@SECJpeg@@AAEXPAUjpeg_decompress_struct@@@Z 0375:?DoLoadImage@SECJpeg@@MAEHPAVCFile@@@Z 07D6:?DoSaveImage@SECJpeg@@MAEHPAVCFile@@@Z 0DF6:?Serialize@SECJpeg@@UAEXAAVCArchive@@@Z 0E0F:?AssertValid@SECJpeg@@UBEXXZ (0DFE: 4D)
+        6A7CE8:
+          0. 00 0000 0293 0000:?CreateObject@SECDib@@SGPAVCObject@@XZ 0064:?GetRuntimeClass@SECDib@@UBEPAUCRuntimeClass@@XZ 0092:??5@YGAAVCArchive@@AAV0@AAPAVSECDib@@@Z 00AE:??0SECDib@@QAE@XZ 00D7:??1SECDib@@UAE@XZ 00F3:?DoLoadImage@SECDib@@MAEHPAVCFile@@@Z 010C:?DoSaveImage@SECDib@@MAEHPAVCFile@@@Z 025F:?Serialize@SECDib@@UAEXAAVCArchive@@@Z 0278:?AssertValid@SECDib@@UBEXXZ (0272: C3)
+          1. 00 0000 029D 0000:?CreateObject@SECDib@@SGPAVCObject@@XZ 0064:?_GetBaseClass@SECDib@@KGPAUCRuntimeClass@@XZ 006E:?GetRuntimeClass@SECDib@@UBEPAUCRuntimeClass@@XZ 009C:??5@YGAAVCArchive@@AAV0@AAPAVSECDib@@@Z 00B8:??0SECDib@@QAE@XZ 00E1:??1SECDib@@UAE@XZ 00FD:?DoLoadImage@SECDib@@MAEHPAVCFile@@@Z 0116:?DoSaveImage@SECDib@@MAEHPAVCFile@@@Z 0269:?Serialize@SECDib@@UAEXAAVCArchive@@@Z 0282:?AssertValid@SECDib@@UBEXXZ (0272: 4D)
+        894DEC8B4D:
+          0. 02 3824 2A37 0000:??0SECImage@@QAE@XZ 01D7:??1SECImage@@UAE@XZ 02F0:?CopyImage@SECImage@@QAEHPAV1@@Z (l)051C:$copy_image_fail$39642 05A0:?ConvertImage@SECImage@@QAEHPAV1@@Z 06E4:?dwGetWidth@SECImage@@QAEKXZ 06F5:?dwGetHeight@SECImage@@QAEKXZ 0706:?CalcPadding@SECImage@@IAEKKK@Z 0769:?LastByte@SECImage@@IAEKKK@Z 07B5:?CalcBytesPerLine@SECImage@@IAEKKK@Z 0824:?PadBits@SECImage@@IAEHXZ 0976:?UnPadBits@SECImage@@IAEHXZ 0A9D:?PreSaveImage@SECImage@@MAEHXZ 0AAD:?PostSaveImage@SECImage@@MAEHXZ 0ABD:?OnCleanupAllocFiles@SECImage@@MAEXXZ 0B2A:?SaveImage@SECImage@@UAEHPAVCFile@@@Z 0BA8:?SaveImage@SECImage@@UAEHPBD@Z 0CE8:?PreLoadImage@SECImage@@MAEHXZ 0DFE:?PostLoadImage@SECImage@@MAEHXZ 0F30:?LoadImageA@SECImage@@UAEHPAVCFile@@@Z 10B2:?LoadImageA@SECImage@@UAEHPBD@Z 1197:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBD@Z 128B:?CreateFromBitmap@SECImage@@QAEHPAVCDC@@PAVCBitmap@@@Z 1619:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@@Z 17AC:?StretchDIBits@SECImage@@QAEHPAVCDC@@HHHHHHHHPBXPAUtagBITMAPINFO@@IK@Z 19C9:?CreatePalette@SECImage@@MAEHXZ 1C8A:?NumColors@SECImage@@QAEGXZ 1CF8:?NumBytes@SECImage@@QAEKXZ 1D62:?LoadCache@SECImage@@IAEKXZ 1DFE:?InitCache@SECImage@@IAEHKG@Z 1EE0:?GetCache@SECImage@@IAEKPAXK@Z 2012:?PutCache@SECImage@@IAEKPAXK@Z 2170:?FlushCache@SECImage@@IAEXXZ 21BD:?FreeCache@SECImage@@IAEXXZ 2221:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z (l)2477:$sec_dib_load_err$40138 252E:?SECLoadDibArchive@SECImage@@IAEHAAVCArchive@@@Z (l)278B:$sec_dib_ar_load_err$40201 2845:?Serialize@SECImage@@UAEXAAVCArchive@@@Z 2992:?AssertValid@SECImage@@UBEXXZ (REF 03BC: $SG39641)
+          1. 02 3824 2A37 0000:??0SECImage@@QAE@XZ 01D7:??1SECImage@@UAE@XZ 02F0:?CopyImage@SECImage@@QAEHPAV1@@Z (l)051C:$copy_image_fail$39580 05A0:?ConvertImage@SECImage@@QAEHPAV1@@Z 06E4:?dwGetWidth@SECImage@@QAEKXZ 06F5:?dwGetHeight@SECImage@@QAEKXZ 0706:?CalcPadding@SECImage@@IAEKKK@Z 0769:?LastByte@SECImage@@IAEKKK@Z 07B5:?CalcBytesPerLine@SECImage@@IAEKKK@Z 0824:?PadBits@SECImage@@IAEHXZ 0976:?UnPadBits@SECImage@@IAEHXZ 0A9D:?PreSaveImage@SECImage@@MAEHXZ 0AAD:?PostSaveImage@SECImage@@MAEHXZ 0ABD:?OnCleanupAllocFiles@SECImage@@MAEXXZ 0B2A:?SaveImage@SECImage@@UAEHPAVCFile@@@Z 0BA8:?SaveImage@SECImage@@UAEHPBG@Z 0CE8:?PreLoadImage@SECImage@@MAEHXZ 0DFE:?PostLoadImage@SECImage@@MAEHXZ 0F30:?LoadImageW@SECImage@@UAEHPAVCFile@@@Z 10B2:?LoadImageW@SECImage@@UAEHPBG@Z 1197:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBG@Z 128B:?CreateFromBitmap@SECImage@@QAEHPAVCDC@@PAVCBitmap@@@Z 1619:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@@Z 17AC:?StretchDIBits@SECImage@@QAEHPAVCDC@@HHHHHHHHPBXPAUtagBITMAPINFO@@IK@Z 19C9:?CreatePalette@SECImage@@MAEHXZ 1C8A:?NumColors@SECImage@@QAEGXZ 1CF8:?NumBytes@SECImage@@QAEKXZ 1D62:?LoadCache@SECImage@@IAEKXZ 1DFE:?InitCache@SECImage@@IAEHKG@Z 1EE0:?GetCache@SECImage@@IAEKPAXK@Z 2012:?PutCache@SECImage@@IAEKPAXK@Z 2170:?FlushCache@SECImage@@IAEXXZ 21BD:?FreeCache@SECImage@@IAEXXZ 2221:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z (l)2477:$sec_dib_load_err$40076 252E:?SECLoadDibArchive@SECImage@@IAEHAAVCArchive@@@Z (l)278B:$sec_dib_ar_load_err$40139 2845:?Serialize@SECImage@@UAEXAAVCArchive@@@Z 2992:?AssertValid@SECImage@@UBEXXZ (REF 03BC: $SG39579)
+          2. 02 3824 2A37 0000:??0SECImage@@QAE@XZ 01D7:??1SECImage@@UAE@XZ 02F0:?CopyImage@SECImage@@QAEHPAV1@@Z (l)051C:$copy_image_fail$39324 05A0:?ConvertImage@SECImage@@QAEHPAV1@@Z 06E4:?dwGetWidth@SECImage@@QAEKXZ 06F5:?dwGetHeight@SECImage@@QAEKXZ 0706:?CalcPadding@SECImage@@IAEKKK@Z 0769:?LastByte@SECImage@@IAEKKK@Z 07B5:?CalcBytesPerLine@SECImage@@IAEKKK@Z 0824:?PadBits@SECImage@@IAEHXZ 0976:?UnPadBits@SECImage@@IAEHXZ 0A9D:?PreSaveImage@SECImage@@MAEHXZ 0AAD:?PostSaveImage@SECImage@@MAEHXZ 0ABD:?OnCleanupAllocFiles@SECImage@@MAEXXZ 0B2A:?SaveImage@SECImage@@UAEHPAVCFile@@@Z 0BA8:?SaveImage@SECImage@@UAEHPBD@Z 0CE8:?PreLoadImage@SECImage@@MAEHXZ 0DFE:?PostLoadImage@SECImage@@MAEHXZ 0F30:?LoadImageA@SECImage@@UAEHPAVCFile@@@Z 10B2:?LoadImageA@SECImage@@UAEHPBD@Z 1197:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBD@Z 128B:?CreateFromBitmap@SECImage@@QAEHPAVCDC@@PAVCBitmap@@@Z 1619:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@@Z 17AC:?StretchDIBits@SECImage@@QAEHPAVCDC@@HHHHHHHHPBXPAUtagBITMAPINFO@@IK@Z 19C9:?CreatePalette@SECImage@@MAEHXZ 1C8A:?NumColors@SECImage@@QAEGXZ 1CF8:?NumBytes@SECImage@@QAEKXZ 1D62:?LoadCache@SECImage@@IAEKXZ 1DFE:?InitCache@SECImage@@IAEHKG@Z 1EE0:?GetCache@SECImage@@IAEKPAXK@Z 2012:?PutCache@SECImage@@IAEKPAXK@Z 2170:?FlushCache@SECImage@@IAEXXZ 21BD:?FreeCache@SECImage@@IAEXXZ 2221:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z (l)2477:$sec_dib_load_err$39820 252E:?SECLoadDibArchive@SECImage@@IAEHAAVCArchive@@@Z (l)278B:$sec_dib_ar_load_err$39883 2845:?Serialize@SECImage@@UAEXAAVCArchive@@@Z 2992:?AssertValid@SECImage@@UBEXXZ (REF 03BC: $SG39323)
+          3. 02 3824 2A37 0000:??0SECImage@@QAE@XZ 01D7:??1SECImage@@UAE@XZ 02F0:?CopyImage@SECImage@@QAEHPAV1@@Z (l)051C:$copy_image_fail$39262 05A0:?ConvertImage@SECImage@@QAEHPAV1@@Z 06E4:?dwGetWidth@SECImage@@QAEKXZ 06F5:?dwGetHeight@SECImage@@QAEKXZ 0706:?CalcPadding@SECImage@@IAEKKK@Z 0769:?LastByte@SECImage@@IAEKKK@Z 07B5:?CalcBytesPerLine@SECImage@@IAEKKK@Z 0824:?PadBits@SECImage@@IAEHXZ 0976:?UnPadBits@SECImage@@IAEHXZ 0A9D:?PreSaveImage@SECImage@@MAEHXZ 0AAD:?PostSaveImage@SECImage@@MAEHXZ 0ABD:?OnCleanupAllocFiles@SECImage@@MAEXXZ 0B2A:?SaveImage@SECImage@@UAEHPAVCFile@@@Z 0BA8:?SaveImage@SECImage@@UAEHPBG@Z 0CE8:?PreLoadImage@SECImage@@MAEHXZ 0DFE:?PostLoadImage@SECImage@@MAEHXZ 0F30:?LoadImageW@SECImage@@UAEHPAVCFile@@@Z 10B2:?LoadImageW@SECImage@@UAEHPBG@Z 1197:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBG@Z 128B:?CreateFromBitmap@SECImage@@QAEHPAVCDC@@PAVCBitmap@@@Z 1619:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@@Z 17AC:?StretchDIBits@SECImage@@QAEHPAVCDC@@HHHHHHHHPBXPAUtagBITMAPINFO@@IK@Z 19C9:?CreatePalette@SECImage@@MAEHXZ 1C8A:?NumColors@SECImage@@QAEGXZ 1CF8:?NumBytes@SECImage@@QAEKXZ 1D62:?LoadCache@SECImage@@IAEKXZ 1DFE:?InitCache@SECImage@@IAEHKG@Z 1EE0:?GetCache@SECImage@@IAEKPAXK@Z 2012:?PutCache@SECImage@@IAEKPAXK@Z 2170:?FlushCache@SECImage@@IAEXXZ 21BD:?FreeCache@SECImage@@IAEXXZ 2221:?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z (l)2477:$sec_dib_load_err$39758 252E:?SECLoadDibArchive@SECImage@@IAEHAAVCArchive@@@Z (l)278B:$sec_dib_ar_load_err$39821 2845:?Serialize@SECImage@@UAEXAAVCArchive@@@Z 2992:?AssertValid@SECImage@@UBEXXZ (REF 03BC: $SG39261)
+      6C5657894D8C:
+        0. 03 71AF 1CD5 0000:?Rotate90@SECImage@@QAEHH@Z 09ED:?Crop@SECImage@@QAEHJJJJ@Z 0EFB:?FlipHorz@SECImage@@QAEHXZ 13E8:?FlipVert@SECImage@@QAEHXZ 1529:?Contrast@@YAXHPAUtagRGBQUAD@@@Z 1A2B:?ContrastImage@SECImage@@QAEXF@Z (1CB1: 02)
+        1. 03 71AF 1CD9 0000:?Rotate90@SECImage@@QAEHH@Z 09ED:?Crop@SECImage@@QAEHJJJJ@Z 0EFB:?FlipHorz@SECImage@@QAEHXZ 13E8:?FlipVert@SECImage@@QAEHXZ 1529:?Contrast@@YAXHPAUtagRGBQUAD@@@Z 1A2F:?ContrastImage@SECImage@@QAEXF@Z (1CB1: 03)
+      745356578B45:
+        0. 0A F93F 0316 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z (02E7: 5B) (REF 002A: $SG39563)
+        1. 0A F93F 0316 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z (02E7: 5B) (REF 002A: $SG39625)
+        2. 0A F93F 0312 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z (02E7: C3) (REF 002A: $SG39245)
+        3. 0A F93F 0312 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z (02E7: C3) (REF 002A: $SG39307)
+  81EC:
+    0C:
+      010000:
+        53568B7508894DF08B86500100008B9EBC01000048895D:
+          0. FF D106 0562 0000:?decompress_smooth_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z
+        8B4508894DF48B80840100008B4808894DFC8B4D0C8B49:
+          0. FF 1934 0151 0000:?forward_DCT@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPADPAY0EA@FIII@Z
+      0200008B4508894DF48B80840100008B481C894DFC8B4D0C8B49:
+        0. FF 6096 0167 0000:?forward_DCT_float@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPADPAY0EA@FIII@Z
+      05000053568B7510576A01833E005B75118B4508680005000053:
+        0. C1 BB39 0126 0000:?jpeg_make_c_derived_tbl@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUJHUFF_TBL@@PAPAUc_derived_tbl@@@Z
+    18010000538B5D0856894DFC8B835C0100008BB3880100008945F4:
+      0. 2E 9855 01F7 0000:?encode_mcu_AC_refine@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+    1C:
+      0200005356578BF1E8........8BCEE8........8D85E4FDFFFF:
+        0. 04 95B3 0262 0000:?DoSaveImage@SECJpeg@@MAEHPAVCFile@@@Z
+      05000053568B751057833E0075128B450868D40600006A01508B:
+        0. FF F7B0 01F0 0000:?jpeg_make_d_derived_tbl@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUJHUFF_TBL@@PAPAUd_derived_tbl@@@Z
+    24:
+      0100008B45088B4D1053568BB0540100008B450C5781C6800000:
+        0. FF 68BF 03FA 0000:?jpeg_idct_ifast@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+      0400008B550C538B5D14568B45088D4C1218578B7D10D1F98B70:
+        0. FF 1FA5 01A6 0000:?find_nearby_colors@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHHQAD@Z
+    280200008365F800837D180057B980000000B8FFFFFF7F8DBDD8FD:
+      0. FF 3500 011F 0000:?find_best_colors@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HHHHQAD1@Z
+    2C0A000053568B75085733FF894DFC39BED00000007F138B0656C7:
+      0. FF 6C4A 0365 0000:?validate_script@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+    340100008B45088B551053568BB0540100008B450C81C680000000:
+      0. FF 9D62 04DA 0000:?jpeg_idct_islow@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+    380200008B45088B5510DD05........8B805401000053DD05:
+      0. 00 0000 03E0 0000:?jpeg_idct_float@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+    3C02000053568B750857894DF48B5E148B43048B3B85C089450875:
+      0. FF 548C 02B6 0000:?get_dht@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+    50:
+      01000053568B750857894DF86A018B86A40100008B8EAC010000:
+        0. 2B B4B0 03A7 0000:?decode_mcu_AC_refine@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z
+      0800005356576A428D45B86A00894DFC50E8........68040400:
+        0. 0B 93CA 01E1 0000:?jpeg_gen_optimal_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUJHUFF_TBL@@QAJ@Z
+    58010000898DA8FEFFFF8B45088B885401000081C180000000894D:
+      0. FF C0AE 092E 0000:?jpeg_idct_islow@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+    68:
+      010000898D98FEFFFF8B45088B885401000081C180000000894D:
+        0. FF E77E 0754 0000:?jpeg_idct_ifast@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+      020000538D8598FDFFFF568BF150E8........89851CFEFFFF8D:
+        0. 09 92B5 0224 0000:?DoLoadImage@SECJpeg@@MAEHPAVCFile@@@Z
+    880100008B450853C17D0C028B90DC01000056C17D1003C17D1402:
+      0. 30 0C99 00D7 0000:?fill_inverse_cmap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HHH@Z
+    900100008B4508568DB570FEFFFF8B105650FF520C5EC9C20400:
+      0. 00 0000 001F 0000:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+    A00000008B45085356578B88540100008B450C81C180000000C745:
+      0. FF 6079 030C 0000:?jpeg_idct_4x4@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+    A4000000898D5CFFFFFF8B4508898570FFFFFFC7459407000000EB:
+      0. FF C09B 0465 0000:?jpeg_fdct_float@SECJpeg@@IAEXPAN@Z
+    C4000000898D3CFFFFFF8B45088B885401000081C180000000894D:
+      0. FF 0203 082F 0000:?jpeg_idct_4x4@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z 051B:?jpeg_idct_2x2@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z 07CE:?jpeg_idct_1x1@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+    C80000008B4508568DB538FFFFFF8B105650FF520C5EC9C20400:
+      0. 00 0000 001F 0000:?output_message@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+    CC0000006683A534FFFFFF0056FF75088BF18B4D0CE8........85:
+      0. 12 B2E7 006D 0000:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z
+    D0020000898D54FDFFFF8B45088B885401000081C180000000894D:
+      0. FF 44E5 0769 0000:?jpeg_idct_float@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+  83:
+    7D1003568BF1751D8B4D08FF35........8B01FF50:
+      2C8D8688000000:
+        0. 15 6E4B 003E 0000:?OnCtlColor@SECColorWell@@IAEPAUHBRUSH__@@PAVCDC@@PAVCWnd@@I@Z
+      348D868C000000:
+        0. 15 6E4B 003E 0000:?OnCtlColor@SECColorWell@@IAEPAUHBRUSH__@@PAVCDC@@PAVCWnd@@I@Z
+    EC:
+      08894D:
+        F8:
+          8B4508:
+            817810CA00000075:
+              188B4D08518B4DF8E8:
+                0. 00 0000 023C 0000:?jpeg_read_coefficients@SECJpeg@@IAEPAPAUjvirt_barray_control@@PAUjpeg_decompress_struct@@@Z 011A:?transdecode_master_selection@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              338B4D08518B4DF8E8:
+                0. 00 0000 05E3 0000:?jpeg_start_decompress@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 0165:?output_pass_setup@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 0288:?jpeg_read_scanlines@SECJpeg@@IAEIPAUjpeg_decompress_struct@@PAPADI@Z 0368:?jpeg_read_raw_data@SECJpeg@@IAEIPAUjpeg_decompress_struct@@PAPAPADI@Z 047C:?jpeg_start_output@SECJpeg@@IAEEPAUjpeg_decompress_struct@@H@Z 0514:?jpeg_finish_output@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+            8B:
+              08C74114630000006A018B5508528B45088B10:
+                0. FF AB33 30D2 0000:?get_soi@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 011F:?get_sof@SECJpeg@@IAEEPAUjpeg_decompress_struct@@EE@Z 079F:?get_sos@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z (l)0AC9:$id_found$39749 0D47:?get_app0@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 1124:?get_app14@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 1407:?get_dac@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 16D3:?get_dht@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 1D7E:?get_dqt@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 21DA:?get_dri@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 23E7:?skip_variable@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 252E:?next_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 276E:?first_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 28BA:?read_markers@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z 2D4D:?read_restart_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 2E38:?jpeg_resync_to_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@H@Z 2FB3:?reset_marker_reader@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 300E:?jinit_marker_reader@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z (2FB2: 00)
+              4814894DFC:
+                68001000006A018B5508528B4508:
+                  0. 4E B27D 0143 0000:?init_destination@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0049:?empty_output_buffer@SECJpeg@@IAEEPAUjpeg_compress_struct@@@Z 008F:?term_destination@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 00E2:?jpeg_stdio_dest@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAVCFile@@@Z
+                8B55FC:
+                  8B028A4D0C88088B55FC8B:
+                    0. 6B AA84 0CD6 0000:?emit_byte@SECJpeg@@IAEXPAUjpeg_compress_struct@@H@Z 0077:?emit_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4COMP_JPEG_MARKER@@@Z 00A5:?emit_2bytes@SECJpeg@@IAEXPAUjpeg_compress_struct@@H@Z 00E0:?emit_dqt@SECJpeg@@IAEHPAUjpeg_compress_struct@@H@Z 0215:?emit_dht@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z 0369:?emit_dac@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0376:?emit_dri@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 03B8:?emit_sof@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4COMP_JPEG_MARKER@@@Z 04EC:?emit_sos@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 064A:?emit_jfif_app0@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0737:?emit_adobe_app14@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 081A:?write_any_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBDI@Z 0881:?write_file_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 08D5:?write_frame_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0A56:?write_scan_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0B61:?write_file_trailer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0B7F:?write_tables_only@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0C4E:?jinit_marker_writer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                  C64224018BE55DC2040055:
+                    0. 38 B63C 0202 0000:?init_source@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 001F:?fill_input_buffer@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 00E9:?skip_input_data@SECJpeg@@IAEXPAUjpeg_decompress_struct@@J@Z 0148:?term_source@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0155:?jpeg_stdio_src@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAVCFile@@@Z
+              88:
+                70010000894DFC837D0C00741A8B55088B02:
+                  0. 8B 55ED 0811 0000:?start_pass_prep@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z 006C:?expand_bottom_edge@SECJpeg@@IAEXPAPADIHH@Z 00B7:?pre_process_data@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAIIPAPAPAD2I@Z 02CB:?pre_process_context@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAIIPAPAPAD2I@Z 05C0:?create_context_buffer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 070B:?jinit_c_prep_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+                74010000894DFC8B550883BA10010000017E:
+                  0. 88 90C6 0A09 0000:?coefct_start_iMCU_row@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0081:?coefct_start_pass_coef@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z 0176:?compress_data@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z 042B:?compress_first_pass@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z 06E3:?coefct_compress_output@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z 08E6:?jinit_c_coef_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+                BC010000894DFC8B550883BA58010000017E:
+                  0. 80 3AAA 1578 0000:?start_iMCU_row@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0084:?jdcoefct_start_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 00AA:?start_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0112:?decompress_onepass@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z 03CA:?dummy_consume_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z 03D9:?consume_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z 0616:?decompress_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z 0836:?smoothing_ok@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 098F:?decompress_smooth_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z 13E8:?jinit_d_coef_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+                D4010000894DFC8B55FC8B45088B88480100:
+                  0. FF 16B2 0AB4 0000:?start_pass_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0036:?sep_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 0196:?fullsize_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 01AB:?noop_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 01C1:?int_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 02DA:?h2v1_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 0374:?h2v2_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 0446:?h2v1_fancy_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 05B3:?h2v2_fancy_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z 07D8:?jinit_upsampler@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          C745FC01000000EB098B45FC83E8018945FC837DFC007E:
+            0. D9 97BF 00F9 0000:?jpeg_abort@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 0055:?jpeg_destroy@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z 008F:?jpeg_alloc_quant_table@SECJpeg@@IAEPAUJQUANT_TBL@@PAUjpeg_common_struct@@@Z 00C4:?jpeg_alloc_huff_table@SECJpeg@@IAEPAUJHUFF_TBL@@PAUjpeg_common_struct@@@Z
+        FC6A008B4508508B4DFCE8........8B4D0833D28A91D800:
+          0. 0E 7C47 012A 0000:?jinit_compress_master@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+      0C:
+        5356:
+          578B7D:
+            08894DF48BB7D40100008B46603B87480100007C53:
+              0. B3 4DA8 00D3 0000:?sep_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+            0C8B5D108B771CC1E6038D0436508B4508FF7018FF:
+              0. 07 E264 00A8 0000:?h2v2_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+          8B750880650B005780BEC8000000008BBEBC0100000F84A9:
+            0. B5 BA6F 00D5 0000:?smoothing_ok@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+        8365FC00:
+          53568B7508894DF48B4E3C837E34008B9E8001000089:
+            0. 5B 1B41 007B 0000:?sep_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAPADI1I@Z
+          568B7508894DF883BE58010000000F8E840000008D86:
+            0. 61 789B 00A7 0000:?latch_quant_tables@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        894D:
+          F48B45088B08894DF868:
+            900100006A008B550852E8:
+              0. 00 0000 0454 0000:?jpeg_create_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 00DC:?jpeg_destroy_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 00F5:?jpeg_abort_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 010E:?jpeg_suppress_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z 01AE:?jpeg_finish_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0342:?jpeg_write_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBDI@Z 03BC:?jpeg_write_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            E00100006A008B550852E8:
+              0. 00 0000 07FE 0000:?jpeg_create_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 00E2:?jpeg_destroy_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 00FB:?jpeg_abort_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0114:?jpeg_set_marker_processor@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HP81@AEE0@Z@Z 018A:?default_decompress_parms@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0473:?jpeg_read_header@SECJpeg@@IAEHPAUjpeg_decompress_struct@@E@Z 052B:?jpeg_consume_input@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z 063C:?jpeg_input_complete@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 0695:?jpeg_has_multiple_scans@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 06EE:?jpeg_finish_decompress@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          F88B45088B88:
+            6C010000894DFC8B550833C08A82D8000000:
+              0. 3E 8EDB 0255 0000:?start_pass_main@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z 0084:?process_data_simple_main@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAII@Z 017D:?jinit_c_main_controller@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+            C0010000894DFC8B550C8955F4837DF40074:
+              0. 28 856F 04CB 0000:?start_pass_dpost@SECJpeg@@IAEXPAUjpeg_decompress_struct@@W4J_BUF_MODE@@@Z 0125:?post_process_1pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 01CB:?post_process_prepass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 02CD:?post_process_2pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 03DC:?jinit_d_post_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+      10:
+        5356:
+          578B:
+            7D108BD98D471C508D45F050FF15........FF35:
+              0. 00 0000 0254 0000:?DrawButton@SECOwnerDrawButton@@MAE?AVCRect@@PAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z
+            F1E8........8B463066C745F0424D8BCE8B38E8:
+              0. 00 0000 00C3 0000:?DoSaveImage@SECDib@@MAEHPAVCFile@@@Z
+            F933F68B47103BC68945F07505E8........33C06639:
+              0. 75 3F15 017C 0000:?ContrastImage@SECImage@@QAEXF@Z
+          8B750857:
+            33DB894DFC8BBECC010000399EA0010000897DF0:
+              0. BB 8F11 0136 0000:?start_pass_huff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            894D:
+              F48B56208B46048B9EB80100008BBE4C0100:
+                0. 8F DF7C 00AF 0000:?alloc_funny_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              F88B7E148B47048B1F85C0894508751456FF:
+                0. FF BEE2 016C 0000:?get_dac@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+        56:
+          8B:
+            750C578BF9F6461010745B8D461C508D45F050FF15:
+              0. 00 0000 0074 0000:?DrawFocus@SECOwnerDrawButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z
+            F1:
+              57:
+                837E100075086A0158E9A0000000FF76188BCEFF7604:
+                  0. 01 3E9B 00BC 0000:?UnPadBits@SECImage@@IAEHXZ
+                8B46188D0CC51F000000C1E90381E1FCFFFF1F837E10:
+                  0. 0D 0EDB 00D7 0000:?PadBits@SECImage@@IAEHXZ
+              837E10007505E8........FF76188BCEFF7604E8:
+                0. 00 0000 00C7 0000:?FlipVert@SECImage@@QAEHXZ
+          8D45F0:
+            8BF150FF76:
+              1CFF15........:
+                8B4E408B01FF90E00000:
+                  0. 06 D08B 0071 0000:?CreatePopup@SECWellButton@@MAEXXZ
+                FF75108D45F0FF750C50:
+                  0. 02 ABB7 006E 0000:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z (004B: 00)
+                  1. 02 ABB7 0077 0000:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z (004B: E8)
+              20FF15........:
+                8B4E448B01FF90E80000:
+                  0. 06 DDA8 0071 0000:?CreatePopup@SECWellButton@@MAEXXZ
+                FF75108D45F0FF750C50:
+                  0. 02 ABB7 006E 0000:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z (004B: 00)
+                  1. 02 ABB7 0077 0000:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z (004B: E8)
+            FF750C8BF1FF750850E8........6A018D45F06A0150:
+              0. 02 ABB7 003A 0000:?InvalidateCell@SECColorWell@@IAEXHH@Z
+        894DF08B45:
+          088B:
+            80D40100008945F468000400006A01FF75088B:
+              0. F7 C7E1 0117 0000:?merge_build_ycc_rgb_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            88:
+              7C010000894DF468002000006A018B550852:
+                0. FF 64F3 0A13 0000:?rgb_ycc_start@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0114:?rgb_ycc_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z 028B:?rgb_gray_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z 0379:?cmyk_ycck_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z 0520:?grayscale_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z 05AC:?null_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z 0662:?null_method@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 066F:?jinit_color_converter@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+              D4010000894DF468000400006A018B550852:
+                0. FF A3F9 0944 0000:?merge_build_ycc_rgb_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0126:?start_pass_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0154:?merged_2v_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 026F:?merged_1v_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z 02C7:?h2v1_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPAD@Z 0515:?h2v2_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPAD@Z 0871:?jinit_merged_upsampler@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0930:?crucial_function@SECJpeg@@IAEXXZ
+              D8010000894DF468000400006A018B550852:
+                0. FF 8748 07EA 0000:?build_ycc_rgb_table@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0126:?ycc_rgb_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z 028E:?null_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z 0347:?grayscale_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z 0377:?ycck_cmyk_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z 0511:?start_pass_dcolor@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 051E:?jinit_color_deconverter@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          0C8B4D088D5481408955FC8B45088378106474288B:
+            0. 37 384D 0EB5 0000:?jpeg_add_quant_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBIHE@Z 00EF:?jpeg_set_linear_quality@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z 0132:?jpeg_quality_scaling@SECJpeg@@IAEHH@Z 017F:?jpeg_set_quality@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z 01AF:?add_huff_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUJHUFF_TBL@@PBF2@Z 020F:?std_huff_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0290:?jpeg_set_defaults@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 043A:?jpeg_default_colorspace@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 04F4:?jpeg_set_colorspace@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_COLOR_SPACE@@@Z 0B02:?fill_a_scan@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHHHH@Z 0B51:?fill_scans@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHHHH@Z 0BBE:?fill_dc_scans@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHH@Z 0C57:?jpeg_simple_progression@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        8A450C53568B75085733DB8BBE88010000894DFC89772088470C:
+          0. 1A CFF0 0198 0000:?start_pass_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+        8B:
+          4508:
+            5356578B50048BB07C01000068002000006A0150FF1289:
+              0. A3 6831 00C3 0000:?rgb_ycc_start@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            568BF18B4814F7D1F6C1010F84B000000053578BCEE8:
+              0. 00 0000 00D7 0000:?Serialize@SECImage@@UAEXAAVCArchive@@@Z
+            8B5514568B88DC0100008B705C8B40648975F08B491889:
+              0. 6D 368E 008D 0000:?color_quantize@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+          4D088B81DC0100008B40188B108955FC8B50048B40088955F8:
+            0. 70 9B66 0090 0000:?color_quantize3@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+        8D45F0568BF150E8........FF75108D45F08BCEFF750CFF7508:
+          0. 02 F6B7 002B 0000:?GetCellRect@SECColorWell@@IAEXAAVCRect@@HH@Z
+      14:
+        5356:
+          578B7D08894DFC8B87080100008BB7700100008D04408945:
+            0. 8E 312E 01F0 0000:?pre_process_context@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAIIPAPAPAD2I@Z
+          8B75:
+            0857:
+              33FF894DFC8B86A00100008B9ECC0100003BC789:
+                0. FF 1865 02B4 0000:?start_pass_phuff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+              6A01894DF08B56548B5E648955EC5F4783FB018B:
+                0. 66 8698 00DE 0000:?select_ncolors@SECJpeg@@IAEHPAUjpeg_decompress_struct@@QAH@Z
+              894DF08B46148BBE880100008B9E640100008B00:
+                0. 20 12CB 011A 0000:?encode_mcu_DC_first@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+            0C8BD957895DFC837E106474188B0656C74014110000:
+              0. 2E CC18 01CC 0000:?jpeg_copy_critical_parameters@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_compress_struct@@@Z
+        568B7508576A348B46046A0156894DF4C645FF01FF108BF889BE:
+          0. 0A 7B0E 016A 0000:?jinit_downsampler@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        807D0C00568B750857894DFC8BBE880100007410C74704:
+          0. 00 0000 0197 0000:?start_pass_huff@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+        894D:
+          EC8B45088B80D40100008945F08B45F00FB6402885C0743A:
+            0. 23 83F4 0111 0000:?merged_2v_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADPAIIPAPAD2I@Z
+          F48B450881781CDCFF00007F0C8B4D08817918DCFF00007E:
+            0. FF C812 090A 0000:?initial_setup@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 031E:?per_scan_setup@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 05C5:?latch_quant_tables@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 06A3:?start_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0703:?finish_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 071F:?consume_markers@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z 0836:?reset_input_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 089D:?jinit_input_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        8B4D088B817C0100008B4918894DFC8B4D188B4008490F88DB00:
+          0. E1 19F5 0101 0000:?rgb_ycc_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z
+      18:
+        53:
+          56:
+            578B7D08894DFC8B87640100008BB7880100008B9F5C0100:
+              0. 29 4017 0181 0000:?encode_mcu_AC_first@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+            8D45E857508B450C6A188BF1FF7004FF15........8B462C:
+              0. 02 458D 0212 0000:?CreateFromBitmap@SECImage@@QAEHPAVCDC@@PAVCBitmap@@@Z
+          8B5D0C568D45F8578B7D108BF150895DF8897DFCFF76:
+            1CFF15:
+              0. 00 0000 010B 0000:?OnLButtonDown@SECPopupColorWell@@IAEXIVCPoint@@@Z
+            20FF15:
+              0. 00 0000 010E 0000:?OnLButtonDown@SECPopupColorWell@@IAEXIVCPoint@@@Z
+        568B750857894DF48B8688010000508945ECE8........33FF6A:
+          0. 11 14C9 00C7 0000:?finish_pass_gather_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        894DE8:
+          538B4D14568B7508836508008B118B4D0C8B86D4010000:
+            0. A6 63EA 00EF 0000:?int_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+          8B45088B88:
+            88010000894D:
+              F48B55F48B45088942208B4D:
+                0. 37 85F3 1265 0000:?start_pass_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z 02D7:?dump_buffer@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z 0345:?emit_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@IH@Z 049C:?flush_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z 04CD:?emit_symbol@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@HH@Z 053E:?emit_buffered_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@PADI@Z 0588:?emit_eobrun@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z 063A:?emit_restart@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@H@Z 074E:?encode_mcu_DC_first@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 0918:?encode_mcu_AC_first@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 0B6C:?encode_mcu_DC_refine@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 0C96:?encode_mcu_AC_refine@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 105A:?finish_pass_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 10C7:?finish_pass_gather_phuff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 11EB:?jinit_phuff_encoder@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+              F88B550C81E2FF00000085D2:
+                0. 08 0F2B 1468 0000:?start_pass_huff@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z 0251:?jpeg_make_c_derived_tbl@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUJHUFF_TBL@@PAPAUc_derived_tbl@@@Z 0427:?dump_buffer@SECJpeg@@IAEEPAUcomp_working_state@@@Z 0477:?emit_bits@SECJpeg@@IAEEPAUcomp_working_state@@IH@Z 05D2:?flush_bits@SECJpeg@@IAEEPAUcomp_working_state@@@Z 0612:?encode_one_block@SECJpeg@@IAEEPAUcomp_working_state@@PAFHPAUc_derived_tbl@@2@Z 0836:?emit_restart@SECJpeg@@IAEEPAUcomp_working_state@@H@Z 0935:?encode_mcu_huff@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 0AD9:?finish_pass_huff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0B7B:?htest_one_block@SECJpeg@@IAEXPAFHQAJ1@Z 0CC0:?encode_mcu_gather@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z 0DD4:?jpeg_gen_optimal_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUJHUFF_TBL@@QAJ@Z 12A6:?finish_pass_gather@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 13DC:?jinit_huff_encoder@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            CC010000894DF88B550883BAA00100000075:
+              0. FF 3FC2 0FE8 0000:?start_pass_huff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 01B7:?jpeg_make_d_derived_tbl@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUJHUFF_TBL@@PAPAUd_derived_tbl@@@Z 050D:?jpeg_fill_bit_buffer@SECJpeg@@IAEEPAUbitread_working_state@@JHH@Z (l)0641:$no_more_data$39707 06DB:?jpeg_huff_decode@SECJpeg@@IAEHPAUbitread_working_state@@JHPAUd_derived_tbl@@H@Z 0840:?process_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 08F6:?decode_mcu@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z (l)0AA7:$label1$39788 (l)0C67:$label2$39811 (l)0D82:$skip_ACs$39799 (l)0E34:$label3$39833 0F6E:?jinit_huff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z (0EC8: 00)
+        8B:
+          45:
+            08:
+              53565783C008C745E8080000008B48148B70F88B78108D:
+                0. FF B09F 01E0 0000:?jpeg_fdct_ifast@SECJpeg@@IAEXPAH@Z
+              8B5514894DF08B88DC0100008B405C85D28B49188945E8:
+                0. 71 3C7F 00BB 0000:?pass2_no_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+            1C568B75148B4D18FF750C8975E88D5406FF488955F0894D:
+              0. 1E 535A 0067 (l)0000:?DrawDownArrow@@YAXPAVCDC@@PAVCPen@@PAVCBrush@@HHHH@Z
+          4D08568B75188B817C0100008B49184E894DF88B40080F8812:
+            0. FF 868E 013A 0000:?cmyk_ycck_convert@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPADPAPAPADIH@Z
+      1C:
+        53:
+          568B:
+            750857894D:
+              F88B7E148B078945088B470485C08945FC75:
+                0. D4 EE53 024D 0000:?get_dqt@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+              FC8B7E148B96C80100008B4704807A51008B:
+                0. FF BDF3 02D6 0000:?get_sos@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+            F1578B46:
+              440FAF4648C1E00250E8........8BF88B4644:
+                0. 0E D34E 0178 0000:?SetColor@SECColorWell@@QAEXK@Z
+              480FAF464CC1E00250E8........8BF88B4648:
+                0. 0E E773 017B 0000:?SetColor@SECColorWell@@QAEXK@Z
+          8B5D0C56578B731C8B7D08C1E6038B870801000056FF771840:
+            0. 0A 090F 0159 0000:?fullsize_smooth_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+        56:
+          894DE48B45088B88B8010000894DF88B55088B824C01000089:
+            0. FF D36C 0987 0000:?alloc_funny_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 011D:?make_funny_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 02A4:?set_wraparound_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 03E1:?set_bottom_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 04D6:?start_pass_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@W4J_BUF_MODE@@@Z 0590:?process_data_simple_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z 0637:?process_data_context_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z 0810:?process_data_crank_post@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z 0842:?jinit_d_main_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z
+          8B750857:
+            33FF8B86880100006A048945F08D45EC57894DFC50:
+              0. 01 3E9B 00F0 0000:?finish_pass_gather@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            894DEC837E4C018BBEDC010000750DC745F4FE0100:
+              0. 83 0115 0134 0000:?create_colorindex@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        894DEC8B450883781C00761B8B4D088379180076128B5508837A:
+          0. FF E33E 12C3 0000:?initial_setup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 033E:?validate_script@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0992:?select_scan_parameters@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0B1D:?per_scan_setup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 0E04:?prepare_for_pass@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 109D:?pass_startup@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 10DD:?finish_pass_master@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 1195:?jinit_c_master_control@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+        8B45:
+          0853565783C008C745E4080000008B48148B50F88D340A2B:
+            0. FF BCF4 02FA 0000:?jpeg_fdct_islow@SECJpeg@@IAEXPAH@Z
+          148B4D088B008945EC33C03981480100008945F48945FC0F:
+            0. FF 9B52 0121 0000:?h2v2_fancy_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+      20:
+        5356:
+          8B750C578B7D08894DE88B5E1C8B87040100008B8F080100:
+            0. 35 6970 00F3 0000:?int_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+          8D45E0578BF150E8........8B7D108B5D1433C9890F394E:
+            0. 19 61DB 00D2 0000:?HitTest@SECColorWell@@IAEHVCPoint@@AAH1@Z
+            1. 19 6DCE 00CF 0000:?HitTest@SECColorWell@@IAEHVCPoint@@AAH1@Z
+        568B750857894DE88B86700100008BBE080100008945EC8B4634:
+          0. 74 8BCB 0116 0000:?create_context_buffer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        8365E800568B7508894DFC8B8684010000837E34008945F08B46:
+          0. 92 9589 01C6 0000:?start_pass_fdctmgr@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        894DE08B45088B88DC010000894DE48B55E48B42188945E88B4D:
+          0. FF D93B 1ED3 0000:?prescan_quantize@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 00E0:?find_biggest_color_pop@SECJpeg@@IAEPAUbox@@PAU2@H@Z 014E:?find_biggest_volume@SECJpeg@@IAEPAUbox@@PAU2@H@Z 01B3:?update_box@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUbox@@@Z (l)02A5:$have_c0min$39700 (l)0345:$have_c0max$39713 (l)03E5:$have_c1min$39726 (l)0485:$have_c1max$39739 (l)0527:$have_c2min$39752 (l)05C9:$have_c2max$39765 06CC:?median_cut@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAUbox@@HH@Z 08AB:?compute_color@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUbox@@H@Z 0A52:?select_colors@SECJpeg@@IAEXPAUjpeg_decompress_struct@@H@Z 0B2A:?find_nearby_colors@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHHQAD@Z 106D:?find_best_colors@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HHHHQAD1@Z 12E5:?fill_inverse_cmap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HHH@Z 14D4:?pass2_no_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 15FD:?pass2_fs_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 19F2:?init_error_limit@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 1AF4:?finish_pass1@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 1B35:?finish_pass2@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 1B42:?start_pass_2_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z 1CE2:?new_color_map_2_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 1D04:?jinit_2pass_quantizer@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z (1DB3: 00)
+        8B45:
+          10538B5D0C56578BF1:
+            8945F08B451433FF68........8BCB:
+              0. 0A 86A2 012C 0000:?CalculateSize@SECColorWell@@IAE?AVCRect@@PAVCWnd@@HHH@Z
+            FF35........8945F08B451433FF8B:
+              0. 0B 2DD3 0130 0000:?CalculateSize@SECColorWell@@IAE?AVCRect@@PAVCWnd@@HHH@Z
+          14538BD9565789:
+            437C8B03FF90D000000033C08BCB505050:
+              0. 08 96BB 00D2 0000:?Create@SECPopupColorWell@@UAEHKAAVCRect@@PAVCWnd@@HPAUCCreateContext@@@Z
+            83800000008B03FF90D800000033C08BCB:
+              0. 0B AF11 00D5 0000:?Create@SECPopupColorWell@@UAEHKAAVCRect@@PAVCWnd@@HPAUCCreateContext@@@Z
+      24:
+        53568B750857:
+          68B80000006A018B460456894DF8FF108BD8899E:
+            0. 0D 391A 01D6 0000:?jinit_upsampler@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          894DF86A018B8EAC0100008BBECC0100005BD3E3:
+            0. 14 7238 00F2 0000:?decode_mcu_DC_refine@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z
+        8365F80053568B75088B864C0100008B9EB8010000837E200089:
+          0. CC 1C5B 00EC 0000:?set_wraparound_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        8B4D08568B81D80100008B515C8BB1540100008955FC8B480889:
+          0. F0 06B2 0110 0000:?ycc_rgb_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z
+      28:
+        53:
+          56:
+            8B:
+              7508:
+                57894DF88B7E148B47048B1F85C0894508751456FF:
+                  0. FF C006 019C 0000:?get_app14@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                894DFC8B9E500100008B86BC0100004B894508895D:
+                  0. FF 9147 017B 0000:?decompress_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z
+              F1576A088B4E045F8BC1FF761899F7FF518BCE8945E4E8:
+                0. 00 0000 02B3 0000:?FlipHorz@SECImage@@QAEHXZ
+            8D45D8578BF1506A18FF76:
+              48FF15........8D45F050FF76:
+                0. 03 165E 01EF 0000:?CalcLayout@SECBitmapButton@@MAEXXZ
+              4CFF15........8D45F050FF76:
+                0. 03 1B7D 01EF 0000:?CalcLayout@SECBitmapButton@@MAEXXZ
+          8B5D08894DFC568B43148B8B88010000576A068B108D710C89:
+            0. 1C 1A65 0078 0000:?finish_pass_huff@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        56:
+          894DDC8B45088B4864894DFC8B55088B42548945F4C745E401:
+            0. DA 3BCF 1105 0000:?select_ncolors@SECJpeg@@IAEHPAUjpeg_decompress_struct@@QAH@Z 017D:?output_value@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHH@Z 01A1:?largest_input_value@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHH@Z 01C6:?create_colormap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 038C:?create_colorindex@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0538:?make_odither_array@SECJpeg@@IAEPAY0BA@HPAUjpeg_decompress_struct@@H@Z 05FD:?create_odither_tables@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 06AE:?color_quantize@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 079B:?color_quantize3@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 08C6:?quantize_ord_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 0A14:?quantize3_ord_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 0BBD:?quantize_fs_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z 0E1F:?alloc_fs_workspace@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0E86:?start_pass_1_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@E@Z 0FE1:?finish_pass_1_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0FEE:?new_color_map_1_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 1015:?jinit_1pass_quantizer@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8B750833D2573956208B86D00100008BBEC4000000894DF489:
+            0. 68 4710 01F9 0000:?start_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        83:
+          65F80053578B7D088B874C0100008B9FB8010000837F200089:
+            0. FF 277F 0142 0000:?make_funny_pointers@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          7D0800750733C0E9E3000000B88200000039450C7517FF7518:
+            0. 0B 3A51 00FA 0000:?SubclassProc@SECWndListener@@KGJPAUHWND__@@IIJH@Z
+        8B:
+          4508:
+            5356578B7D0C8B80DC0100008B5F0C8B48188B178B7704:
+              0. FF D21F 03B0 0000:?update_box@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUbox@@@Z
+            894DEC568BB0DC0100008B48648B405C894DFC8945F88B:
+              0. 26 D846 00F1 0000:?quantize_ord_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+          4D08:
+            578B81D80100008B795C8B8954010000897DDC894D088B:
+              0. FF 0B9E 0136 0000:?ycck_cmyk_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z
+            6A08DD05........8D41105ADD4028DC40F0DD5DF8DD40:
+              0. 7C 2CAA 021C 0000:?jpeg_fdct_float@SECJpeg@@IAEXPAN@Z
+          5508568B82DC0100008B48188B318975E88B71048B49088975:
+            0. E2 283C 0102 0000:?quantize3_ord_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+      2C:
+        53:
+          568B750857894DFC8B9EDC010000895DDC83C3205356E8:
+            0. 00 0000 0130 0000:?create_colormap@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8B5D0C568B45108B731C578B7D0883C0FCC1E6038945108D14:
+            0. 10 AAD0 0273 0000:?h2v2_smooth_downsample@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPAD2@Z
+        568BF18065FE008065FF005733FFFF7618897DF8897DF4FF7604:
+          0. 01 3E9B 027B 0000:?Crop@SECImage@@QAEHJJJJ@Z
+      30:
+        538B5D08894DF4568B4B148B838801000083BBE400000000578B:
+          0. 2E 76DB 0110 0000:?encode_mcu_huff@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAY0EA@F@Z
+        894DD48B45088B88CC010000894DF08B550833C083BAA0010000:
+          0. FF 9BAE 14A5 0000:?start_pass_phuff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 043B:?progressive_process_restart@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z 04FB:?decode_mcu_DC_first@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z (l)0699:$label1$39720 07F6:?decode_mcu_AC_first@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z (l)097F:$label2$39762 0B81:?decode_mcu_DC_refine@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z 0CF8:?decode_mcu_AC_refine@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z (l)0EFE:$label3$39839 (l)1377:$undoit$39836 13C5:?jinit_phuff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z (1385: 00)
+      345356:
+        578B7D088B87DC0100008B501833C08945088945E88945E4:
+          0. FF 1ACA 0140 0000:?compute_color@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUbox@@H@Z
+        8B7508:
+          57894DF88B7E148B47048B1F85C0894508751456FF:
+            0. FF E796 0266 0000:?get_app0@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+          894DEC578B8E240100008B860C0100008BBE740100:
+            0. A4 CB51 01FA 0000:?compress_data@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z
+        8D45E8578BF150FF76:
+          1CFF15........33DB399E80000000:
+            0. 1E 61CA 00B1 0000:?OnBnClicked@SECMenuButton@@MAEXXZ
+          20FF15........33DB399E84000000:
+            0. 1E 67CA 00B2 0000:?OnBnClicked@SECMenuButton@@MAEXXZ
+      38:
+        53568B75088365080057894DDC83BE10010000008BBE74010000:
+          0. FF 9C48 018F 0000:?coefct_compress_output@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z
+        8365D80053568B7508894DFC578B9E0C0100008B8E740100008B:
+          0. D3 35C8 01EC 0000:?compress_first_pass@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z
+        894DD48B45088B8884010000894DF4C745E8000000008B55088B:
+          0. FF 012B 0AF3 0000:?start_pass_fdctmgr@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z 02B0:?forward_DCT@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPADPAY0EA@FIII@Z 0684:?forward_DCT_float@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAUjpeg_component_info@@PAPADPAY0EA@FIII@Z 0A07:?jinit_forward_dct@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        DD05........568B750CDD5DE00FB64602D9EEDD5DD0DD05:
+          0. 00 0000 0304 0000:?Contrast@@YAXHPAUtagRGBQUAD@@@Z (02E3: C3)
+          1. 00 0000 0308 0000:?Contrast@@YAXHPAUtagRGBQUAD@@@Z (02E3: 88)
+      3C53568B7508:
+        57894DF48B9EA40100008B86AC01000083BE2C0100:
+          0. 18 F912 022D 0000:?decode_mcu_AC_first@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z
+        8365080057894DF883BE58010000008BBEBC010000:
+          0. FF 9882 01C3 0000:?consume_data@SECJpeg@@IAEHPAUjpeg_decompress_struct@@@Z
+      40:
+        5356578B7D08894DF48BB76C0100008B87500100008B9FBC0100:
+          0. 37 B039 01F0 0000:?decompress_onepass@SECJpeg@@IAEHPAUjpeg_decompress_struct@@PAPAPAD@Z
+        8B4508894DE0538B48648B98DC010000894DFC8B485C8B805401:
+          0. 35 C263 018A 0000:?quantize_fs_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+      448B45085356578B80540100008D7DBC0580000000C74508080000:
+        0. FF A647 01AC 0000:?jpeg_idct_2x2@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+      48:
+        56894DCC8B45088B88D0010000894DE8C745FC00000000C745E4:
+          0. 5C FACF 03CE 0000:?start_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z 0320:?jinit_inverse_dct@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        894DB88B45088B80D40100008945C48B45088B80540100008945:
+          0. FF 98F1 0240 0000:?h2v1_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPAD@Z
+      50:
+        538B5D0856578B83CC0100008B93AC01000083BB2C0100000089:
+          0. 12 0257 0208 0000:?decode_mcu_DC_first@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z
+        894D:
+          B08B4508:
+            8945BCC745D007000000EB098B4DD083E901894D:
+              0. FF 1BBE 04A8 0000:?jpeg_fdct_islow@SECJpeg@@IAEXPAH@Z
+            8B80D40100008945C88B45088B80540100008945:
+              0. FF CFE4 0345 0000:?h2v2_merged_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPAD@Z
+          FC538B4D0856578B99CC01000083B92C01000000895DE874:
+            0. 0C B08C 03D7 0000:?decode_mcu@SECJpeg@@IAEEPAUjpeg_decompress_struct@@PAPAY0EA@F@Z
+      58894DA88B45088945B4C745C807000000EB098B4DC883E901894D:
+        0. FF 60D0 0387 0000:?jpeg_fdct_ifast@SECJpeg@@IAEXPAH@Z
+      648B4508894DB4568B88DC0100008BB0540100008975F4894D9C8B:
+        0. FF 3F4E 0272 0000:?pass2_fs_dither@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+      688065980056FF75088BF18B4D0CE8........85C0740D8D4D986A:
+        0. 05 1FC0 005D 0000:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z
+      7453568B75088365080057894DD88B86240100008BBE7401000048:
+        0. FF 6578 0212 0000:?compress_output@SECJpeg@@IAEEPAUjpeg_compress_struct@@PAPAPAD@Z
+  8B:
+    45:
+      08:
+        0FBF002B450C7902F7D833C985C0740541D1F875FB8B45108B55:
+          0. 0D 3110 0099 0000:?htest_one_block@SECJpeg@@IAEXPAFHQAJ1@Z
+        33C9394D0C7E2A8B5510C700010000008950148B55148950188B:
+          0. 1B 3675 003B 0000:?fill_scans@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHHHH@Z
+        5356:
+          578B500468000400006A0150FF128B4D0C8BF8C1E109897D:
+            0. 08 E475 005E 0000:?make_odither_array@SECJpeg@@IAEPAY0BA@HPAUjpeg_decompress_struct@@H@Z
+          8B88DC0100008B585C8B45148B711885C07E50578B7D0C89:
+            0. 51 C9EB 0071 0000:?prescan_quantize@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAD1H@Z
+        5685C08BF17433578B78:
+          1C8D4508B9........5057E8:
+            0. 25 3181 0045 0000:?SubclassAttached@SECWndListener@@MAEHPAVCWnd@@@Z
+          208D4508B9........5057E8:
+            0. 25 75CA 0045 0000:?SubclassAttached@SECWndListener@@MAEHPAVCWnd@@@Z
+        833800740F8B4D0CE8........8B4D1089015DC38B45108B4D0C:
+          0. 03 DBDD 0029 0000:?DDX_Color@@YAXPAVCDataExchange@@AAVSECColorWell@@AAK@Z (REF 000F: ?GetColor@SECColorWell@@QBEKXZ)
+          1. 03 DBDD 0029 0000:?DDX_Color@@YAXPAVCDataExchange@@AAVSECWellButton@@AAK@Z (REF 000F: ?GetColor@SECWellButton@@QBEKXZ)
+        85C074038B4004FF7524FF7520FF751CFF7518FF7514FF7510FF:
+          0. 08 B905 0030 0000:?GrayStringA@CDC@@UAEHPAVCBrush@@P6GHPAUHDC__@@JH@ZJHHHHH@Z (REF 0028: GrayStringA)
+          1. 08 B905 0030 0000:?GrayStringW@CDC@@UAEHPAVCBrush@@P6GHPAUHDC__@@JH@ZJHHHHH@Z (REF 0028: GrayStringW)
+        8B4D0C8948048B4D108948148B4D148948188B4D1889481C8B4D:
+          0. 11 CD68 0031 0000:?fill_a_scan@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHHHH@Z
+        FF705C8B450CFF75186A00FF7514FF7510FF30E8........5DC2:
+          0. 02 B6FD 0022 0000:?grayscale_convert@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPAPADIPAPADH@Z
+      0C:
+        53568B7508578BD9837E10648D7C864074188B0656C740141100:
+          0. 19 27E6 0097 0000:?jpeg_add_quant_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBIHE@Z
+        8B4D:
+          08538B5D18568D34818B45148B4D105785DB8D3C817E1AFF:
+            0. 0F EB0F 0040 0000:?jcopy_sample_rows@SECJpeg@@IAEXPAPADH0HHI@Z
+          108B55148B4050668B098B128B000FAFC18B4D0883C004C1:
+            0. 1E 818C 003E 0000:?jpeg_idct_1x1@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAFPAPADI@Z
+      1083E801894510837D10007C118B4D08FF55148B4D08034D0C894D:
+        0. 07 66A2 0027 0000:??_H@YGXPAXIHP6EX0@Z@Z
+      14:
+        568BF1508B4D108946:
+          408D464450894E74E8........5985C059:
+            0. 17 3AB2 0055 0000:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z (REF 0018: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+            1. 17 3AB2 0055 0000:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z (REF 0018: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+          448D464850894E78E8........5985C059:
+            0. 17 3AB2 0055 0000:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z (REF 0018: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+            1. 17 3AB2 0055 0000:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z (REF 0018: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+        83651400:
+          538B5D08568B3083BB48010000007E398B5510572BD6:
+            0. 39 C649 0059 0000:?h2v1_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+          568B308B450883B848010000000F8E83000000538B5D:
+            0. 85 F735 00A5 0000:?h2v1_fancy_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+    55:
+      08807A0C0074128B450C8B4D108B44825CFF04888D0488EB208B45:
+        0. 18 E3E0 0042 0000:?emit_symbol@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@HH@Z
+      0C:
+        81FAFE00000075118B45088B4D108B80C801000089480CEB3D81:
+          0. 40 08D3 0060 0000:?jpeg_set_marker_processor@SECJpeg@@IAEXPAUjpeg_decompress_struct@@HP81@AEE0@Z@Z
+        83FA047F338B450833C985D289107E0F568D7004890E4183C604:
+          0. 2D 2C83 0055 0000:?fill_dc_scans@SECJpeg@@IAEPAUjpeg_scan_info@@PAU2@HHH@Z
+  8D55108B0152FF7510FF750CFF7508FF90:
+    D00000005DC20C00:
+      0. 00 0000 001C 0000:?OnSubclassMessage@SECWndListener@@MAEHIIJ@Z
+    D80000005DC20C00:
+      0. 00 0000 001C 0000:?OnSubclassMessage@SECWndListener@@MAEHIIJ@Z
+  A1........5DC3558BEC51894DFCB8........8BE55DC3558BEC:
+    51894D:
+      0. 05 7D8D 316B 0000:?_GetBaseMessageMap@SECOtherButton@@KGPBUAFX_MSGMAP@@XZ 000A:?GetMessageMap@SECOtherButton@@MBEPBUAFX_MSGMAP@@XZ 001A:??0SECOtherButton@@QAE@XZ 0039:??1SECOtherButton@@UAE@XZ 0055:?OnKillFocus@SECOtherButton@@IAEXPAVCWnd@@@Z 00BD:?OnGetDlgCode@SECOtherButton@@IAEIXZ 00CD:?OnKeyDown@SECOtherButton@@IAEXIII@Z 01AC:?_GetBaseClass@SECColorWell@@KGPAUCRuntimeClass@@XZ 01B6:?GetRuntimeClass@SECColorWell@@UBEPAUCRuntimeClass@@XZ 01C6:?_GetBaseMessageMap@SECColorWell@@KGPBUAFX_MSGMAP@@XZ 01D0:?GetMessageMap@SECColorWell@@MBEPBUAFX_MSGMAP@@XZ 01E0:??0SECColorWell@@QAE@XZ (l)02A0:?InitSysColors@@YAXXZ 0300:??1SECColorWell@@UAE@XZ 03A9:?Reset@SECColorWell@@MAEXXZ 0477:?Create@SECColorWell@@UAEHKHHPAVCWnd@@IHHPAUCCreateContext@@@Z 07DD:?CalculateSize@SECColorWell@@IAE?AVCRect@@PAVCWnd@@HHH@Z 09B9:?CreatePalette@SECColorWell@@MAEXXZ (l)0B0E:?InitSystemColors@@YAHPAUtagPALETTEENTRY@@H@Z 0C7C:?SetGridSize@SECColorWell@@MAEXXZ 0C9B:?GetColorDialogFlags@SECColorWell@@MBEKXZ 0CBE:?SetColor@SECColorWell@@QAEXK@Z 0F44:?GetColor@SECColorWell@@QBEKXZ 0F78:?SetMouseTracking@SECColorWell@@QAEXH@Z 0FA1:?GetMouseTracking@SECColorWell@@QBEHXZ 0FC5:?SetPaletteRealization@SECColorWell@@QAEXH@Z 0FF1:?GetPaletteRealization@SECColorWell@@QBEHXZ 1018:?GetClassStyle@SECColorWell@@MBEIXZ 1025:?HasFocusRectangle@SECColorWell@@MBEHXZ 1035:?GetInternalRect@SECColorWell@@IAEXAAVCRect@@@Z 1080:?GetCellRect@SECColorWell@@IAEXABVCRect@@AAV2@HH@Z 11B1:?GetCellRect@SECColorWell@@IAEXAAVCRect@@HH@Z 1263:?InvalidateCell@SECColorWell@@IAEXHH@Z 12C0:?DrawFocusRect@SECColorWell@@IAEXXZ 137D:?DrawCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z 155C:?DrawSelectedCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z 1778:?Paint@SECColorWell@@IAEXAAVCDC@@0@Z 1A45:?GetPaletteColor@SECColorWell@@IBEKHH@Z 1B11:?GetPaletteIndex@SECColorWell@@IBEHHH@Z 1BC0:?HitTest@SECColorWell@@IAEHVCPoint@@AAH1@Z 1D0F:?NotifyChange@SECColorWell@@MAEXXZ 1D65:?ChangeSelection@SECColorWell@@IAEXHH@Z 1E21:?HandleSelection@SECColorWell@@MAEXHHW4SelTypes@1@@Z 1EC3:?OnPaint@SECColorWell@@IAEXXZ 20CB:?OnLButtonDown@SECColorWell@@IAEXIVCPoint@@@Z 213F:?OnClickedOther@SECColorWell@@IAEXXZ 2216:?OnMouseMove@SECColorWell@@IAEXIVCPoint@@@Z 22A1:?OnSetFocus@SECColorWell@@IAEXPAVCWnd@@@Z 2323:?OnCtlColor@SECColorWell@@IAEPAUHBRUSH__@@PAVCDC@@PAVCWnd@@I@Z 236B:?OnKillFocus@SECColorWell@@IAEXPAVCWnd@@@Z 23A8:?OnGetDlgCode@SECColorWell@@IAEIXZ 23E7:?OnKeyDown@SECColorWell@@IAEXIII@Z 273A:?OnSysColorChange@SECColorWell@@IAEXXZ 27C4:?Dump@SECColorWell@@UBEXAAVCDumpContext@@@Z 29BA:?AssertValid@SECColorWell@@UBEXXZ 2A66:?_GetBaseClass@SECPopupColorWell@@KGPAUCRuntimeClass@@XZ 2A70:?GetRuntimeClass@SECPopupColorWell@@UBEPAUCRuntimeClass@@XZ 2A80:?_GetBaseMessageMap@SECPopupColorWell@@KGPBUAFX_MSGMAP@@XZ 2A8A:?GetMessageMap@SECPopupColorWell@@MBEPBUAFX_MSGMAP@@XZ 2A9A:??0SECPopupColorWell@@QAE@XZ 2AFB:?Reset@SECPopupColorWell@@UAEXXZ 2B1B:?Create@SECPopupColorWell@@UAEHKAAVCRect@@PAVCWnd@@HPAUCCreateContext@@@Z 2C86:?IsCreated@SECPopupColorWell@@QBEHXZ 2C9A:?SetNotifyWindow@SECPopupColorWell@@QAEXPAVCWnd@@@Z 2CC6:?GetClassStyle@SECPopupColorWell@@MBEIXZ 2CD6:?HasFocusRectangle@SECPopupColorWell@@MBEHXZ 2CE3:?HandleSelection@SECPopupColorWell@@MAEXHHW4SelTypes@SECColorWell@@@Z 2D38:?NotifyChange@SECPopupColorWell@@MAEXXZ 2D88:?PostNcDestroy@SECPopupColorWell@@MAEXXZ 2DB3:?OnKeyDown@SECPopupColorWell@@IAEXIII@Z 2E52:?OnKeyUp@SECPopupColorWell@@IAEXIII@Z 2EAC:?OnClickedOther@SECPopupColorWell@@IAEXXZ 2EFE:?OnLButtonDown@SECPopupColorWell@@IAEXIVCPoint@@@Z 3092:?OnKillFocus@SECPopupColorWell@@IAEXPAVCWnd@@@Z 30BC:?Dump@SECPopupColorWell@@UBEXAAVCDumpContext@@@Z 312E:?AssertValid@SECPopupColorWell@@UBEXXZ 3141:?DDX_Color@@YAXPAVCDataExchange@@AAVSECColorWell@@AAK@Z
+    A1:
+      0. 00 0000 028F 0000:?_GetBaseClass@SECWndPlugIn@@KGPAUCRuntimeClass@@XZ 000A:?GetRuntimeClass@SECWndPlugIn@@UBEPAUCRuntimeClass@@XZ 001A:?_GetBaseMessageMap@SECWndPlugIn@@KGPBUAFX_MSGMAP@@XZ 0024:?GetMessageMap@SECWndPlugIn@@MBEPBUAFX_MSGMAP@@XZ 0034:??0SECWndPlugIn@@QAE@XZ 0085:??1SECWndPlugIn@@UAE@XZ 00AB:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z 00CB:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z 0134:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z 016E:?DefWindowProcA@SECWndPlugIn@@MAEJIIJ@Z 01A9:?AssertValid@SECWndPlugIn@@MBEXXZ 01F0:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z 0270:?UnPlug@SECWndPlugIn@@UAEXXZ (REF 019B: ?DefWindowProcA@CWnd@@MAEJIIJ@Z)
+      1. 00 0000 028F 0000:?_GetBaseClass@SECWndPlugIn@@KGPAUCRuntimeClass@@XZ 000A:?GetRuntimeClass@SECWndPlugIn@@UBEPAUCRuntimeClass@@XZ 001A:?_GetBaseMessageMap@SECWndPlugIn@@KGPBUAFX_MSGMAP@@XZ 0024:?GetMessageMap@SECWndPlugIn@@MBEPBUAFX_MSGMAP@@XZ 0034:??0SECWndPlugIn@@QAE@XZ 0085:??1SECWndPlugIn@@UAE@XZ 00AB:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z 00CB:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z 0134:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z 016E:?DefWindowProcW@SECWndPlugIn@@MAEJIIJ@Z 01A9:?AssertValid@SECWndPlugIn@@MBEXXZ 01F0:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z 0270:?UnPlug@SECWndPlugIn@@UAEXXZ (REF 019B: ?DefWindowProcW@CWnd@@MAEJIIJ@Z)
+    E8:
+      0. 00 0000 2EE6 0000:?_GetBaseClass@SECOwnerDrawButton@@KGPAUCRuntimeClass@@XZ 000A:?GetRuntimeClass@SECOwnerDrawButton@@UBEPAUCRuntimeClass@@XZ 0037:?_GetBaseMessageMap@SECOwnerDrawButton@@KGPBUAFX_MSGMAP@@XZ 0041:?GetMessageMap@SECOwnerDrawButton@@MBEPBUAFX_MSGMAP@@XZ 0051:??0SECOwnerDrawButton@@QAE@XZ (l)00BB:?InitSysColors@@YAXXZ 0101:??1SECOwnerDrawButton@@UAE@XZ 011D:?AttachButton@SECOwnerDrawButton@@UAEHHPAVCWnd@@@Z 0263:?Create@SECOwnerDrawButton@@UAEHPBGKABUtagRECT@@PAVCWnd@@H@Z 028E:?PreDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 029B:?PostDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 02A8:?DrawFocus@SECOwnerDrawButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 0368:?DrawButton@SECOwnerDrawButton@@MAE?AVCRect@@PAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 06BE:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z 0904:?OnSetStyle@SECOwnerDrawButton@@MAEJIJ@Z 0956:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ 098D:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z 09D5:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z 0A75:?OnGetDlgCode@SECOwnerDrawButton@@IAEIXZ 0A85:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 0CFD:?Dump@SECOwnerDrawButton@@UBEXAAVCDumpContext@@@Z 0D16:?AssertValid@SECOwnerDrawButton@@UBEXXZ 0D29:?_GetBaseClass@SECWellButton@@KGPAUCRuntimeClass@@XZ 0D33:?GetRuntimeClass@SECWellButton@@UBEPAUCRuntimeClass@@XZ 0D43:?_GetBaseMessageMap@SECWellButton@@KGPBUAFX_MSGMAP@@XZ 0D4D:?GetMessageMap@SECWellButton@@MBEPBUAFX_MSGMAP@@XZ 0D5D:??0SECWellButton@@QAE@XZ 0E1E:??1SECWellButton@@UAE@XZ 0EA6:?CreatePalette@SECWellButton@@MAEXXZ 0F1E:?CreatePopup@SECWellButton@@MAEXXZ 0FFE:?GetColorDialogFlags@SECWellButton@@MBEKXZ 1021:?SetColor@SECWellButton@@QAEXK@Z 108D:?GetColor@SECWellButton@@QBEKXZ 10E4:?SetPaletteRealization@SECWellButton@@QAEXH@Z 110D:?GetPaletteRealization@SECWellButton@@QBEHXZ 1131:?SetOtherButton@SECWellButton@@QAEXH@Z 115A:?GetOtherButton@SECWellButton@@QBEHXZ 117E:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z 11EA:?OnBnClicked@SECWellButton@@MAEXXZ 1212:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1271:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 12BC:?DrawFocus@SECWellButton@@MAEXPAVCDC@@AAVCRect@@@Z 12F9:?DrawSpecific@SECWellButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z (l)14C8:?DrawDownArrow@@YAXPAVCDC@@PAVCPen@@PAVCBrush@@HHHH@Z 1551:?OnColorChange@SECWellButton@@IAEJIJ@Z 15B8:?OnCustomColor@SECWellButton@@IAEJIJ@Z 16BB:?Dump@SECWellButton@@UBEXAAVCDumpContext@@@Z 1722:?AssertValid@SECWellButton@@UBEXXZ 1781:?DDX_Color@@YAXPAVCDataExchange@@AAVSECWellButton@@AAK@Z 17AB:?_GetBaseClass@SECBitmapButton@@KGPAUCRuntimeClass@@XZ 17B5:?GetRuntimeClass@SECBitmapButton@@UBEPAUCRuntimeClass@@XZ 17C5:?_GetBaseMessageMap@SECBitmapButton@@KGPBUAFX_MSGMAP@@XZ 17CF:?GetMessageMap@SECBitmapButton@@MBEPBUAFX_MSGMAP@@XZ 17DF:??0SECBitmapButton@@QAE@XZ 186F:??1SECBitmapButton@@UAE@XZ 18C3:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBGPAVCWnd@@@Z 1987:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z 19CB:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z 1A9D:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z 1AD9:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ 1B0D:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z 1B56:?SizeToContent@SECBitmapButton@@QAEXXZ 1D81:?SetBitmap@SECBitmapButton@@QAEHPBG@Z 1E01:?SetBitmap@SECBitmapButton@@QAEHH@Z 1E1F:?CalcLayout@SECBitmapButton@@MAEXXZ 2230:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z 2446:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z 264E:?OnSysColorChange@SECBitmapButton@@IAEXXZ 269E:?OnSize@SECBitmapButton@@IAEXIHH@Z 26CD:?Dump@SECBitmapButton@@UBEXAAVCDumpContext@@@Z 27D5:?AssertValid@SECBitmapButton@@UBEXXZ 27E8:?_GetBaseClass@SECMenuButton@@KGPAUCRuntimeClass@@XZ 27F2:?GetRuntimeClass@SECMenuButton@@UBEPAUCRuntimeClass@@XZ 2802:?_GetBaseMessageMap@SECMenuButton@@KGPBUAFX_MSGMAP@@XZ 280C:?GetMessageMap@SECMenuButton@@MBEPBUAFX_MSGMAP@@XZ 281C:??0SECMenuButton@@QAE@XZ 288D:??1SECMenuButton@@UAE@XZ 28FC:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z 29B2:?Create@SECMenuButton@@UAEHPBGKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z 2A27:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBGPAUHMENU__@@W4Direction@1@AAI@Z 2AD8:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z 2B6A:?GetDirection@SECMenuButton@@QBE?AW4Direction@1@XZ 2B91:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z 2BFD:?OnBnClicked@SECMenuButton@@MAEXXZ 2D1D:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 2D42:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z 2DF8:?PostNcDestroy@SECMenuButton@@MAEXXZ 2E22:?Dump@SECMenuButton@@UBEXAAVCDumpContext@@@Z 2EA7:?AssertValid@SECMenuButton@@UBEXXZ (2E9B: 75)
+      1. 00 0000 2EBC 0000:?_GetBaseClass@SECOwnerDrawButton@@KGPAUCRuntimeClass@@XZ 000A:?GetRuntimeClass@SECOwnerDrawButton@@UBEPAUCRuntimeClass@@XZ 0037:?_GetBaseMessageMap@SECOwnerDrawButton@@KGPBUAFX_MSGMAP@@XZ 0041:?GetMessageMap@SECOwnerDrawButton@@MBEPBUAFX_MSGMAP@@XZ 0051:??0SECOwnerDrawButton@@QAE@XZ (l)00BB:?InitSysColors@@YAXXZ 0101:??1SECOwnerDrawButton@@UAE@XZ 011D:?AttachButton@SECOwnerDrawButton@@UAEHHPAVCWnd@@@Z 0263:?Create@SECOwnerDrawButton@@UAEHPBDKABUtagRECT@@PAVCWnd@@H@Z 028E:?PreDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 029B:?PostDrawButton@SECOwnerDrawButton@@MAEXPAVCDC@@0@Z 02A8:?DrawFocus@SECOwnerDrawButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 0368:?DrawButton@SECOwnerDrawButton@@MAE?AVCRect@@PAVCDC@@PAUtagDRAWITEMSTRUCT@@@Z 06BE:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z 0904:?OnSetStyle@SECOwnerDrawButton@@MAEJIJ@Z 0956:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ 098D:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z 09D5:?OnLButtonUp@SECOwnerDrawButton@@IAEXIVCPoint@@@Z 0A75:?OnGetDlgCode@SECOwnerDrawButton@@IAEIXZ 0A85:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 0CFD:?Dump@SECOwnerDrawButton@@UBEXAAVCDumpContext@@@Z 0D16:?AssertValid@SECOwnerDrawButton@@UBEXXZ 0D29:?_GetBaseClass@SECWellButton@@KGPAUCRuntimeClass@@XZ 0D33:?GetRuntimeClass@SECWellButton@@UBEPAUCRuntimeClass@@XZ 0D43:?_GetBaseMessageMap@SECWellButton@@KGPBUAFX_MSGMAP@@XZ 0D4D:?GetMessageMap@SECWellButton@@MBEPBUAFX_MSGMAP@@XZ 0D5D:??0SECWellButton@@QAE@XZ 0E1E:??1SECWellButton@@UAE@XZ 0EA6:?CreatePalette@SECWellButton@@MAEXXZ 0F1E:?CreatePopup@SECWellButton@@MAEXXZ 0FFE:?GetColorDialogFlags@SECWellButton@@MBEKXZ 1021:?SetColor@SECWellButton@@QAEXK@Z 108D:?GetColor@SECWellButton@@QBEKXZ 10E4:?SetPaletteRealization@SECWellButton@@QAEXH@Z 110D:?GetPaletteRealization@SECWellButton@@QBEHXZ 1131:?SetOtherButton@SECWellButton@@QAEXH@Z 115A:?GetOtherButton@SECWellButton@@QBEHXZ 117E:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z 11EA:?OnBnClicked@SECWellButton@@MAEXXZ 1212:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 1271:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z 12BC:?DrawFocus@SECWellButton@@MAEXPAVCDC@@AAVCRect@@@Z 12F9:?DrawSpecific@SECWellButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z (l)14C8:?DrawDownArrow@@YAXPAVCDC@@PAVCPen@@PAVCBrush@@HHHH@Z 1551:?OnColorChange@SECWellButton@@IAEJIJ@Z 15B8:?OnCustomColor@SECWellButton@@IAEJIJ@Z 16BB:?Dump@SECWellButton@@UBEXAAVCDumpContext@@@Z 1722:?AssertValid@SECWellButton@@UBEXXZ 1781:?DDX_Color@@YAXPAVCDataExchange@@AAVSECWellButton@@AAK@Z 17AB:?_GetBaseClass@SECBitmapButton@@KGPAUCRuntimeClass@@XZ 17B5:?GetRuntimeClass@SECBitmapButton@@UBEPAUCRuntimeClass@@XZ 17C5:?_GetBaseMessageMap@SECBitmapButton@@KGPBUAFX_MSGMAP@@XZ 17CF:?GetMessageMap@SECBitmapButton@@MBEPBUAFX_MSGMAP@@XZ 17DF:??0SECBitmapButton@@QAE@XZ 186F:??1SECBitmapButton@@UAE@XZ 18C3:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBDPAVCWnd@@@Z 1987:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@HPAVCWnd@@@Z 19CB:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@0ABVCRect@@PAVCWnd@@H@Z 1A9D:?Create@SECBitmapButton@@UAEHPBDKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z 1AD9:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ 1B0D:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z 1B56:?SizeToContent@SECBitmapButton@@QAEXXZ 1D81:?SetBitmap@SECBitmapButton@@QAEHPBD@Z 1E01:?SetBitmap@SECBitmapButton@@QAEHH@Z 1E1F:?CalcLayout@SECBitmapButton@@MAEXXZ 2230:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z 2446:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z 264E:?OnSysColorChange@SECBitmapButton@@IAEXXZ 269E:?OnSize@SECBitmapButton@@IAEXIHH@Z 26CD:?Dump@SECBitmapButton@@UBEXAAVCDumpContext@@@Z 27D5:?AssertValid@SECBitmapButton@@UBEXXZ 27E8:?_GetBaseClass@SECMenuButton@@KGPAUCRuntimeClass@@XZ 27F2:?GetRuntimeClass@SECMenuButton@@UBEPAUCRuntimeClass@@XZ 2802:?_GetBaseMessageMap@SECMenuButton@@KGPBUAFX_MSGMAP@@XZ 280C:?GetMessageMap@SECMenuButton@@MBEPBUAFX_MSGMAP@@XZ 281C:??0SECMenuButton@@QAE@XZ 288D:??1SECMenuButton@@UAE@XZ 28FC:?AttachButton@SECMenuButton@@UAEHHPAVCWnd@@PAUHMENU__@@W4Direction@1@@Z 2989:?Create@SECMenuButton@@UAEHPBDKABVCRect@@PAVCWnd@@HPAUHMENU__@@W4Direction@1@@Z 29FE:?Initialise@SECMenuButton@@MAE?AW4Alignment@SECBitmapButton@@PBDPAUHMENU__@@W4Direction@1@AAI@Z 2AAE:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z 2B40:?GetDirection@SECMenuButton@@QBE?AW4Direction@1@XZ 2B67:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z 2BD3:?OnBnClicked@SECMenuButton@@MAEXXZ 2CF3:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z 2D18:?OnLButtonUp@SECMenuButton@@IAEXIVCPoint@@@Z 2DCE:?PostNcDestroy@SECMenuButton@@MAEXXZ 2DF8:?Dump@SECMenuButton@@UBEXAAVCDumpContext@@@Z 2E7D:?AssertValid@SECMenuButton@@UBEXXZ (2E9B: C3)
+  B8........5DC3558BEC51894DFCB8........8BE55DC3558BECE8:
+    0. 00 0000 0B3C 0000:?_GetBaseClass@SECWndListener@@KGPAUCRuntimeClass@@XZ 000A:?GetRuntimeClass@SECWndListener@@UBEPAUCRuntimeClass@@XZ 0078:?_GetBaseMessageMap@SECWndListener@@KGPBUAFX_MSGMAP@@XZ 0082:?GetMessageMap@SECWndListener@@MBEPBUAFX_MSGMAP@@XZ 0092:??0SECWndListener@@QAE@XZ 00C5:??1SECWndListener@@UAE@XZ 0122:?SetMessageHandleStatus@SECWndListener@@UAEXK@Z 0138:?PlugInTo@SECWndListener@@UAEHPAVCWnd@@@Z 018B:?UnPlug@SECWndListener@@UAEXXZ 01B6:?OnSubclassMessage@SECWndListener@@MAEHIIJ@Z 01E3:?OnSubclassMessage@SECWndListener@@MAEHIIJAAJ@Z 0208:?SubclassAttached@SECWndListener@@MAEHPAVCWnd@@@Z 026B:?AddListenerEntry@SECWndListener@@MAEHPAUSECWndListener_MsgProcInfo_tag@@@Z 0326:?SubclassNewListenerEntry@SECWndListener@@MAEHPAUHWND__@@@Z 04C6:?IsWindowProc@SECWndListener@@MAEHPAUHWND__@@@Z 0519:?UnSubclassAttached@SECWndListener@@MAEHXZ 0795:?SubclassWndProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z 07B3:?SubclassDlgProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z 07D1:?SubclassProc@SECWndListener@@KGJPAUHWND__@@IIJH@Z 09E9:?UnplugAllListeners@SECWndListener@@KGJPAUHWND__@@IIJH@Z
+  FF75:
+    188B450C0C0BFF7514FF751050FF7508E8........5DC21400:
+      0. 00 0000 001E 0000:?Create@SECOwnerDrawButton@@UAEHPBGKABUtagRECT@@PAVCWnd@@H@Z (REF 0016: ?Create@CButton@@QAEHPBGKABUtagRECT@@PAVCWnd@@I@Z)
+      1. 00 0000 001E 0000:?Create@SECOwnerDrawButton@@UAEHPBDKABUtagRECT@@PAVCWnd@@H@Z (REF 0016: ?Create@CButton@@QAEHPBDKABUtagRECT@@PAVCWnd@@I@Z)
+    20:
+      8B010FB75514FF751CFF751852FF7510FF750CFF7508FF90:
+        F400:
+          0. 06 052A 0026 0000:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z
+        FC00:
+          0. 06 052A 0026 0000:?Create@SECBitmapButton@@UAEHPBGKW4Alignment@1@HABVCRect@@PAVCWnd@@H@Z
+      FF751CFF7518FF7514FF7510FF750CFF7508FF7104FF15:
+        0. 00 0000 0025 0000:?ExtTextOutA@CDC@@UAEHHHIPBUtagRECT@@PBDIPAH@Z (REF 001D: ExtTextOutA)
+        1. 00 0000 0025 0000:?ExtTextOutW@CDC@@UAEHHHIPBUtagRECT@@PBGIPAH@Z (REF 001D: ExtTextOutW)
+    24FF7520FF751CFF7518FF7514FF7510FF750CFF7104FF15:
+      0. 00 0000 0038 0000:?TabbedTextOutA@CDC@@UAE?AVCSize@@HHPBDHHPAHH@Z (REF 001D: TabbedTextOutA)
+      1. 00 0000 0038 0000:?TabbedTextOutW@CDC@@UAE?AVCSize@@HHPBGHHPAHH@Z (REF 001D: TabbedTextOutW)
+56:
+  57:
+    8B:
+      7C24:
+        0C:
+          578B87880100008BB768010000FF50088B461033C92BC1742048:
+            0. 39 B7DC 0059 0000:?finish_pass_master@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          8B:
+            4720508B7014FF560C84C0740C8B0689078B4604894704B001:
+              0. 05 FF73 0025 0000:?dump_buffer@SECJpeg@@IAEEPAUcomp_working_state@@@Z
+            B7BC010000837E10007420807F4900741357E8........84C0:
+              0. 05 B250 003E 0000:?start_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            F157E8........85C0740F8B06578BCEFF90:
+              D800000085C075:
+                0. 13 F0A9 0033 0000:?PlugInTo@SECWndListener@@UAEHPAVCWnd@@@Z
+              E000000085C075:
+                0. 13 9829 0033 0000:?PlugInTo@SECWndListener@@UAEHPAVCWnd@@@Z
+        1033F633C085FF7E:
+          188B4C240C83C1188B113BD67E058D41E88BF2:
+            0. 0B F1D4 002B 0000:?find_biggest_volume@SECJpeg@@IAEPAUbox@@PAU2@H@Z
+          1E8B4C240C83C11C8B113BD67E0B8379FC007E:
+            0. 11 32E9 0031 0000:?find_biggest_color_pop@SECJpeg@@IAEPAUbox@@PAU2@H@Z
+      F133FF397E:
+        4C750433C0EB28FF7424188BCE897E3C897E40FF742418FF:
+          0. 08 77FF 003C 0000:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z
+        50750433C0EB28FF7424188BCE897E40897E44FF742418FF:
+          0. 08 77FF 003C 0000:?OnWndMsg@SECWndPlugIn@@UAEHIIJPAJ@Z
+      F9:
+        6A0CE8........598BF032C05666C706000366C74602010088460688:
+          0. 0A 4178 0041 0000:?CreatePalette@SECWellButton@@MAEXXZ
+        8B775C85F674148BC68B368B480885C974F18B016A01FF5004EBE88D:
+          0. 03 0CFC 002A 0000:?OnCleanupAllocFiles@SECImage@@MAEXXZ
+    FF7424108BF1E8........6A016A00FF76:
+      1CFF15........FF761CFF15:
+        0. 00 0000 0050 0000:?OnColorChange@SECWellButton@@IAEJIJ@Z
+      20FF15........FF7620FF15:
+        0. 00 0000 0050 0000:?OnColorChange@SECWellButton@@IAEJIJ@Z
+  68FF000000FF74240C8BF1E8........FF74240C8BCEFF74240CE8:
+    0. 04 68F6 0024 0000:?emit_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4COMP_JPEG_MARKER@@@Z
+  8B:
+    35........:
+      578BF9FF77:
+        1CFFD650E8........68........8BC8E8:
+          0. 00 0000 00B8 0000:?OnKeyDown@SECOtherButton@@IAEXIII@Z
+        20FFD650E8........68........8BC8E8:
+          0. 00 0000 00B8 0000:?OnKeyDown@SECOtherButton@@IAEXIII@Z
+      6A:
+        10FFD66A14A3........FFD66A0FA3........FFD66A10A3:
+          0. 00 0000 0036 (l)0000:?InitSysColors@@YAXXZ
+        14FFD66A10A3........FFD66A0FA3........FFD66A15A3:
+          0. 00 0000 0048 (l)0000:?InitSysColors@@YAXXZ
+    442408FF74241433D28BB0C0010000FF742414FF74241452525250FF5604:
+      0. 04 39AD 0024 0000:?process_data_crank_post@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAPADPAII@Z
+    7424:
+      08:
+        0FAF74240C8BC683E01F75078BC6C1E803EB1B6A2032D2592BC88B:
+          0. 17 C2D4 0037 0000:?CalcBytesPerLine@SECImage@@IAEKKK@Z
+        57:
+          68:
+            D80000008BF956E8........80BEEC000000007408568BCFE8:
+              0. 00 0000 003A 0000:?write_file_header@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            DD0000008BF956E8........6A04568BCFE8........FFB6E4:
+              0. 07 37CD 0030 0000:?emit_dri@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            E00000008BF956E8........6A10568BCFE8........6A4A56:
+              0. 03 A2C1 00A8 0000:?emit_jfif_app0@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            EE0000008BF956E8........6A0E568BCFE8........6A4156:
+              0. 03 A2C1 0090 0000:?emit_adobe_app14@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            ........8D465068........508BF956E8........68:
+              0. 00 0000 0063 0000:?std_huff_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          6A:
+            1C8B46046A018BF956FF108986B401000080600800568BCFC7:
+              0. 01 78F0 0036 0000:?jinit_master_decompress@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            588B46046A018BF956FF108986DC0100008360440083603400:
+              0. 04 575D 0093 0000:?jinit_1pass_quantizer@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            5C8B46046A008BF956FF108986C8010000C700........8B86:
+              0. 05 D1EA 0081 0000:?jinit_marker_reader@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          8BF9:
+            56E8........84C074358B068008FFFF06FF4E04750C568B:
+              0. 02 632D 0074 0000:?emit_restart@SECJpeg@@IAEEPAUcomp_working_state@@H@Z
+            83:
+              7E106474188B0656C74014110000008B068B4E10894818:
+                0. 13 8691 0078 0000:?jpeg_start_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+                1. 1B 9B3E 0061 0000:?jpeg_write_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+                2. 0C FCCD 0060 0000:?jpeg_write_coefficients@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUjvirt_barray_control@@@Z
+              BE:
+                B001000000750A56E8........84C0742F8B86C80100:
+                  0. 6D 23AA 008D 0000:?read_restart_marker@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                FC0000000075128B461083F865742283F866741D83F8:
+                  0. 37 A70B 0057 0000:?jpeg_write_marker@SECJpeg@@IAEXPAUjpeg_compress_struct@@HPBDI@Z
+            8B:
+              0656FF5008568BCFE8........5F5EC20400:
+                0. 00 0000 001B 0000:?error_exit@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+              4610:
+                3D:
+                  C8000000741F3DC900000074188B0656C7401411:
+                    0. 15 07BD 006C 0000:?jpeg_read_header@SECJpeg@@IAEHPAUjpeg_decompress_struct@@E@Z
+                  CA000000750F56E8........C74610D1000000EB:
+                    0. 85 1129 00A5 0000:?jpeg_read_coefficients@SECJpeg@@IAEPAPAUjvirt_barray_control@@PAUjpeg_decompress_struct@@@Z
+                  CD00000074073DCE00000075:
+                    1B807E400074158B:
+                      0. 65 97C1 0085 0000:?jpeg_finish_output@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                    33807E4000752D8B:
+                      0. 78 0B21 00A3 0000:?jpeg_finish_decompress@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+                  CF000000741F3DCC00000074188B0656C7401411:
+                    0. 3B 2EB6 0064 0000:?jpeg_start_output@SECJpeg@@IAEEPAUjpeg_decompress_struct@@H@Z
+                83F865742483F866741F83F86774418B0656C74014:
+                  0. D2 9364 00FB 0000:?jpeg_finish_compress@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+              86C4010000568060100080601100C700........C64014:
+                0. 1D 8A14 003D 0000:?reset_input_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        6A:
+          01568B4604FF50248A460CF6D81BC083E06483C0648946105EC2:
+            0. 02 2768 0022 0000:?jpeg_abort@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+          076A7F56E8........:
+            8366180083661C005EC20400:
+              0. 00 0000 001B 0000:?flush_bits@SECJpeg@@IAEXPAUcp_phuff_entropy_encoder@@@Z
+            84C0740A8366080083660C00B0015EC204:
+              0. 01 78F0 0021 0000:?flush_bits@SECJpeg@@IAEEPAUcomp_working_state@@@Z
+          186A:
+            008B460456FF108986C40100008060100080601100C700:
+              0. 00 0000 0040 0000:?jinit_input_controller@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+            018B460456FF10898678010000C700........8B86780100:
+              0. 04 037A 0060 0000:?jinit_marker_writer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          486A018B460456FF106A048986CC010000C700........C74004:
+            0. 00 0000 0039 0000:?jinit_huff_decoder@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          6C6A018B460456FF10:
+            6A04898688010000C700........8D485C:
+              0. 15 9324 0035 0000:?jinit_phuff_encoder@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            8986880100006A04C700........83C02C:
+              0. 18 55C1 0038 0000:?jinit_huff_encoder@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        837E1400750D8B46046A1C6A0056FF108946148B76148B44240CC7:
+          0. 02 B991 003B 0000:?jpeg_stdio_dest@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAVCFile@@@Z
+        8A54240C578B46148BF98B088811FF00FF4804751A568BCFFF500C:
+          0. 19 4F83 0039 0000:?emit_byte@SECJpeg@@IAEXPAUjpeg_compress_struct@@H@Z
+        8B46:
+          0485C0740456FF502883660400836610005EC20400:
+            0. 00 0000 001C 0000:?jpeg_destroy@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+          103D:
+            C80000007C073DD20000007E168B0656C7401411000000:
+              0. 19 B115 0039 0000:?jpeg_input_complete@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+            CA0000007C073DD20000007E168B0656C7401411000000:
+              0. 19 0A09 0039 0000:?jpeg_has_multiple_scans@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+      0C833E00750BFF742408E8........89066A22FF742414FF36E8:
+        0. 00 0000 0046 0000:?add_huff_table@SECJpeg@@IAEXPAUjpeg_compress_struct@@PAPAUJHUFF_TBL@@PBF2@Z
+    F1:
+      57:
+        8B:
+          4E288B464C8B5674508B3952FF57:
+            34836654008946505F5EC3:
+              0. 00 0000 001E 0000:?LoadCache@SECImage@@IAEKXZ
+            3C836654008946505F5EC3:
+              0. 00 0000 001E 0000:?LoadCache@SECImage@@IAEKXZ
+          7C240C8B06897E28FF50:
+            2885C0750433C0EB198B06578BCEFF5030:
+              0. 16 46F1 0036 0000:?SaveImage@SECImage@@UAEHPAVCFile@@@Z
+            3085C0750433C0EB198B06578BCEFF5038:
+              0. 16 72EE 0036 0000:?SaveImage@SECImage@@UAEHPAVCFile@@@Z
+        FF76:
+          1CFF15........50E8........8BF885FF7422538BCEE8:
+            0. 00 0000 003E 0000:?NotifyChange@SECColorWell@@MAEXXZ
+          20FF15........50E8........8BF885FF7422538BCEE8:
+            0. 00 0000 003E 0000:?NotifyChange@SECColorWell@@MAEXXZ
+      83:
+        7E:
+          48007417578D7E448BCFE8........FF764057E8........59595F:
+            0. 03 7AD8 0029 0000:?OnSysColorChange@SECBitmapButton@@IAEXXZ
+          4C007417578D7E488BCFE8........FF764457E8........59595F:
+            0. 03 7AD8 0029 0000:?OnSysColorChange@SECBitmapButton@@IAEXXZ
+          540074:
+            1C8B4C24086A00FF764CE8........8B4C240C6A00FF7650:
+              0. 01 3E9B 0029 0000:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z
+            30538B5C240C578D7E446A01578BCBE8........89464CFF:
+              0. 04 DB58 003D 0000:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z
+          580074:
+            1C8B4C24086A00FF7650E8........8B4C240C6A00FF7654:
+              0. 01 3E9B 0029 0000:?PostDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z
+            30538B5C240C578D7E486A01578BCBE8........894650FF:
+              0. 04 DB58 003D 0000:?PreDrawButton@SECWellButton@@MAEXPAVCDC@@0@Z
+          7C0074:
+            088D4E78E8........:
+              8BCEE8........5EC3:
+                0. 00 0000 001A 0000:?PostNcDestroy@SECMenuButton@@MAEXXZ
+              FF7424088D4E78E8........5EC204:
+                0. 01 78F0 0021 0000:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z
+            266A10FF15........F6C48074198B8E900000008B542408:
+              0. 09 DD90 0056 0000:?OnSetFocus@SECColorWell@@IAEXPAVCWnd@@@Z
+        BE800000000074:
+          088D4E7CE8........:
+            8BCEE8........5EC3:
+              0. 00 0000 001D 0000:?PostNcDestroy@SECMenuButton@@MAEXXZ
+            FF7424088D4E7CE8:
+              0. 04 C85F 0024 0000:?SetMenu@SECMenuButton@@QAEXPAUHMENU__@@@Z
+          266A10FF15........F6C48074198B8E940000008B:
+            0. 0C CA6F 0059 0000:?OnSetFocus@SECColorWell@@IAEXPAVCWnd@@@Z
+      8B:
+        06FF:
+          50:
+            0C8B46188BCE8D04C51F000000C1E80325FCFFFF1F894614E8:
+              0. 00 0000 00A8 0000:?PostLoadImage@SECImage@@MAEHXZ
+            148B46188BCE8D04C51F000000C1E80325FCFFFF1F894614E8:
+              0. 00 0000 00A8 0000:?PostLoadImage@SECImage@@MAEHXZ
+          90:
+            E80000008BCEE8........836654005EC3:
+              0. 00 0000 0018 0000:?UnPlug@SECWndListener@@UAEXXZ
+            F00000008BCEE8........836658005EC3:
+              0. 00 0000 0018 0000:?UnPlug@SECWndListener@@UAEXXZ
+        46:
+          5485C076108B4E2850FF76748B11FF52:
+            38836654005EC3:
+              0. 00 0000 001C 0000:?FlushCache@SECImage@@IAEXXZ
+            40836654005EC3:
+              0. 00 0000 001C 0000:?FlushCache@SECImage@@IAEXXZ
+          7485C07422578B3D........50FFD750FF15........FF7674FFD7:
+            0. 03 C3FD 003A 0000:?FreeCache@SECImage@@IAEXXZ
+        4E:
+          40:
+            85C974078B016A01FF50048B4424088946405EC20400:
+              0. 00 0000 001C 0000:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z
+            E8........85C0750A8B068BCEFF90EC0000005EC3:
+              0. 00 0000 001B 0000:?OnBnClicked@SECWellButton@@MAEXXZ
+          44:
+            85C974078B016A01FF50048B4424088946445EC20400:
+              0. 00 0000 001C 0000:?SetPopup@SECWellButton@@QAEXPAVSECPopupColorWell@@@Z
+            E8........85C0750A8B068BCEFF90F40000005EC3:
+              0. 00 0000 001B 0000:?OnBnClicked@SECWellButton@@MAEXXZ
+        86:
+          9800000085C0741F6A006A006866040000FF701CFF15........FF:
+            0. 01 54B7 002E 0000:?OnClickedOther@SECPopupColorWell@@IAEXXZ
+          9C00000085C0741F6A006A006866040000FF7020FF15........FF:
+            0. 01 54B7 002E 0000:?OnClickedOther@SECPopupColorWell@@IAEXXZ
+      E8........:
+        33C0C706........:
+          66394622760AC7868400000001000000:
+            0. 29 D0FB 0049 0000:??0SECJpeg@@QAE@XZ
+          8946:
+            3C89464489464089464889464C8B:
+              0. 03 FFA7 0023 0000:??0SECWndPlugIn@@QAE@XZ
+            4089464889464489464C8946508B:
+              0. 03 FFA7 0023 0000:??0SECWndPlugIn@@QAE@XZ
+        83:
+          66:
+            2C00C706........8BC65EC3:
+              0. 00 0000 0016 0000:??0SECDib@@QAE@XZ
+            4800C74644........C706........A1........8946:
+              0. 02 0254 002D 0000:??0SECBitmapButton@@QAE@XZ
+            4C00C74648........C706........A1........8946:
+              0. 02 3368 002D 0000:??0SECBitmapButton@@QAE@XZ
+            500083665400C706........8BC65EC3:
+              0. 00 0000 001A 0000:??0SECWndListener@@QAE@XZ
+            540083665800C706........8BC65EC3:
+              0. 00 0000 001A 0000:??0SECWndListener@@QAE@XZ
+            7C00C74678........83A68000000000C706:
+              0. 0E 5161 002E 0000:??0SECMenuButton@@QAE@XZ
+          7C240820750A8B068BCEFF90:
+            C40000005EC20C00:
+              0. 00 0000 001D 0000:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z
+            CC0000005EC20C00:
+              0. 00 0000 001D 0000:?OnKeyUp@SECOwnerDrawButton@@IAEXIII@Z
+          A6:
+            80000000008D467CC700........83A68400000000C7:
+              0. 01 4E95 0033 0000:??0SECMenuButton@@QAE@XZ
+            98000000005EC3:
+              0. 00 0000 0011 0000:?Reset@SECPopupColorWell@@UAEXXZ
+            9C000000005EC3:
+              0. 00 0000 0011 0000:?Reset@SECPopupColorWell@@UAEXXZ
+        8B068BCEFF90:
+          000100005EC20C00:
+            0. 00 0000 0016 0000:?OnSize@SECBitmapButton@@IAEXIHH@Z
+          E400000085C0740B836674008BCEE8:
+            0. 00 0000 0025 0000:?OnKillFocus@SECColorWell@@IAEXPAVCWnd@@@Z
+          EC00000085C0740B836678008BCEE8:
+            0. 00 0000 0025 0000:?OnKillFocus@SECColorWell@@IAEXPAVCWnd@@@Z
+          F80000005EC20C00:
+            0. 00 0000 0016 0000:?OnSize@SECBitmapButton@@IAEXIHH@Z
+        C706........8BC65EC3:
+          0. 00 0000 0012 0000:??0SECOtherButton@@QAE@XZ
+        E8........:
+          6A016A00FF76:
+            1CFF15........5EC3:
+              0. 00 0000 001C 0000:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ
+            20FF15........5EC3:
+              0. 00 0000 001C 0000:?OnSysColorChange@SECOwnerDrawButton@@IAEXXZ
+          83BE:
+            8C00000000740B8D8E88000000E8:
+              0. 00 0000 0048 0000:?OnSysColorChange@SECColorWell@@IAEXXZ
+            9000000000740B8D8E8C000000E8:
+              0. 00 0000 0048 0000:?OnSysColorChange@SECColorWell@@IAEXXZ
+        F644240801740756E8........598BC65EC20400:
+          0. 00 0000 001C 0000:??_GSECWndListener@@UAEPAXI@Z (REF 0004: ??1SECWndListener@@UAE@XZ)
+          1. 00 0000 001C 0000:??_G?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAEPAXI@Z (REF 0004: ??1?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAE@XZ)
+          2. 00 0000 001C 0000:??_G?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAEPAXI@Z (REF 0004: ??1?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ)
+          3. 00 0000 001C 0000:??_GSECJpeg@@UAEPAXI@Z (REF 0004: ??1SECJpeg@@UAE@XZ)
+          4. 00 0000 001C 0000:??_GSECImage@@UAEPAXI@Z (REF 0004: ??1SECImage@@UAE@XZ)
+          5. 00 0000 001C 0000:??_GCBitmap@@UAEPAXI@Z (REF 0004: ??1CBitmap@@UAE@XZ)
+          6. 00 0000 001C 0000:??_GCGdiObject@@UAEPAXI@Z (REF 0004: ??1CGdiObject@@UAE@XZ)
+          7. 00 0000 001C 0000:??_GCPalette@@UAEPAXI@Z (REF 0004: ??1CPalette@@UAE@XZ)
+          8. 00 0000 001C 0000:??_GSECDib@@UAEPAXI@Z (REF 0004: ??1SECDib@@UAE@XZ)
+          9. 00 0000 001C 0000:??_GSECMemDC@@UAEPAXI@Z (REF 0004: ??1SECMemDC@@UAE@XZ)
+          10. 00 0000 001C 0000:??_GSECOtherButton@@UAEPAXI@Z (REF 0004: ??1SECOtherButton@@UAE@XZ)
+          11. 00 0000 001C 0000:??_GSECColorWell@@UAEPAXI@Z (REF 0004: ??1SECColorWell@@UAE@XZ)
+          12. 00 0000 001C 0000:??_GCBrush@@UAEPAXI@Z (REF 0004: ??1CBrush@@UAE@XZ)
+          13. 00 0000 001C 0000:??_GSECPopupColorWell@@UAEPAXI@Z (REF 0004: ??1SECPopupColorWell@@UAE@XZ)
+          14. 00 0000 001C 0000:??_GSECOwnerDrawButton@@UAEPAXI@Z (REF 0004: ??1SECOwnerDrawButton@@UAE@XZ)
+          15. 00 0000 001C 0000:??_GSECWellButton@@UAEPAXI@Z (REF 0004: ??1SECWellButton@@UAE@XZ)
+          16. 00 0000 001C 0000:??_GSECBitmapButton@@UAEPAXI@Z (REF 0004: ??1SECBitmapButton@@UAE@XZ)
+          17. 00 0000 001C 0000:??_GSECMenuButton@@UAEPAXI@Z (REF 0004: ??1SECMenuButton@@UAE@XZ)
+          18. 00 0000 001C 0000:??_GCMenu@@UAEPAXI@Z (REF 0004: ??1CMenu@@UAE@XZ)
+          19. 00 0000 001C 0000:??_GSECWndPlugIn@@UAEPAXI@Z (REF 0004: ??1SECWndPlugIn@@UAE@XZ)
+      FF:
+        7424:
+          08:
+            56FF15........8B44240C8946108BC65EC20800:
+              0. 00 0000 001B 0000:??0SECRect@@QAE@ABUtagRECT@@H@Z
+            E8........:
+              C706........8BC65EC20400:
+                0. 00 0000 0018 0000:??0?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@QAE@H@Z
+              FF15........8B068BCEFF50:
+                585EC20400:
+                  0. 00 0000 001D 0000:?OnKillFocus@SECPopupColorWell@@IAEXPAVCWnd@@@Z
+                605EC20400:
+                  0. 00 0000 001D 0000:?OnKillFocus@SECPopupColorWell@@IAEXPAVCWnd@@@Z
+            FF76:
+              1CFF15........8B4660F7D8508B465CF7D850FF742410:
+                0. 02 ABB7 002A 0000:?GetInternalRect@SECColorWell@@IAEXAAVCRect@@@Z
+              20FF15........8B4664F7D8508B4660F7D850FF742410:
+                0. 02 ABB7 002A 0000:?GetInternalRect@SECColorWell@@IAEXAAVCRect@@@Z
+          0C:
+            8B06FF50:
+              1085C0744153576A08E8........33DB593BC3740B:
+                0. 05 4BC0 0055 0000:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBD@Z (002F: 00)
+              1885C0744153576A08E8........33DB593BC3740B:
+                0. 05 4BC0 0055 0000:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@PBD@Z (002F: 00)
+            E8........FF7424108BCE50FF742410E8........5EC20C00:
+              0. 00 0000 0020 0000:?jpeg_set_quality@SECJpeg@@IAEXPAUjpeg_compress_struct@@HE@Z
+            FF74240CE8........:
+              837C24100275178B068BCEFF90:
+                C40000:
+                  0. 03 207E 0032 0000:?HandleSelection@SECPopupColorWell@@MAEXHHW4SelTypes@SECColorWell@@@Z
+                CC0000:
+                  0. 03 207E 0032 0000:?HandleSelection@SECPopupColorWell@@MAEXHHW4SelTypes@SECColorWell@@@Z
+              8B068BCEFF90:
+                C40000005EC20C00:
+                  0. 00 0000 001E 0000:?HandleSelection@SECColorWell@@MAEXHHW4SelTypes@1@@Z
+                CC0000005EC20C00:
+                  0. 00 0000 001E 0000:?HandleSelection@SECColorWell@@MAEXHHW4SelTypes@1@@Z
+        76:
+          68FF766CE8........8B44240C8B4C240850894E6C518BCE894668:
+            0. 01 3E9B 0029 0000:?ChangeSelection@SECColorWell@@IAEXHH@Z
+          6CFF7670E8........8B44240C8B4C240850894E70518BCE89466C:
+            0. 01 3E9B 0029 0000:?ChangeSelection@SECColorWell@@IAEXHH@Z
+578B7C240C85FF741C568B35........57FFD650FF15........57FFD650FF15:
+  0. 00 0000 0029 0000:?jpeg_free_large@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z
+68:
+  D9000000FF742408E8........C20400:
+    0. 00 0000 0011 0000:?write_file_trailer@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+  ........E8........:
+    59C3:
+      0. 00 0000 000C 0000:? (REF 0006: _atexit)
+    C3:
+      0. 00 0000 000B 0000:? (REF 0001: ?classSECJpeg@SECJpeg@@2UCRuntimeClass@@A)
+6A:
+  00:
+    6A006A31FF71:
+      1CFF15........50E8........C3:
+        0. 00 0000 0016 0000:?GetFont@CWnd@@QBEPAVCFont@@XZ
+      20FF15........50E8........C3:
+        0. 00 0000 0016 0000:?GetFont@CWnd@@QBEPAVCFont@@XZ
+    FF:
+      71:
+        1CFF15........C3:
+          0. 00 0000 000C 0000:?BeginModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+        20FF15........C3:
+          0. 00 0000 000C 0000:?BeginModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+      742414FF742414FF742414FF742414E8........C21000:
+        0. 00 0000 001A 0000:?SubclassDlgProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z
+  01FF:
+    71:
+      1CFF15........C3:
+        0. 00 0000 000C 0000:?EndModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+      20FF15........C3:
+        0. 00 0000 000C 0000:?EndModalState@CWnd@@UAEXXZ (REF 0007: EnableWindow)
+    742414FF742414FF742414FF742414E8........C21000:
+      0. 00 0000 001A 0000:?SubclassWndProc@SECWndListener@@KGJPAUHWND__@@IIJ@Z
+  04FF742408FF15........33C985C00F9EC18BC1C20400:
+    0. 00 0000 0018 0000:?IsWindowProc@SECWndListener@@MAEHPAUHWND__@@@Z
+  0558A3........A3........C3:
+    0. 00 0000 000E 0000:? (REF 0004: _indents)
+  0AB9........E8........C3:
+    0. 00 0000 000D 0000:? (REF 0003: ?m_mapHwndToListenerList@SECWndListener@@1V?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@A)
+  FF6AFFFF742410FF15........FF7424088B442408FF7004FF15........C2:
+    0. 02 87C1 0022 0000:?DrawFocus@SECWellButton@@MAEXPAVCDC@@AAVCRect@@@Z
+83:
+  61:
+    1C00C701........E9:
+      0. 00 0000 000F 0000:??1SECWndPlugIn@@UAE@XZ (REF 0006: ??_7SECWndPlugIn@@6B@)
+    2000C701........E9:
+      0. 00 0000 000F 0000:??1SECWndPlugIn@@UAE@XZ (REF 0006: ??_7SECWndPlugIn@@6B@)
+    4C0083611C00C3:
+      0. 00 0000 0009 0000:?UnPlug@SECWndPlugIn@@UAEXXZ
+    500083612000C3:
+      0. 00 0000 0009 0000:?UnPlug@SECWndPlugIn@@UAEXXZ
+  79:
+    1000:
+      74:
+        038B01C38B4104C3:
+          0. 00 0000 000D 0000:?GetLT@SECRect@@QAEHXZ
+        048B41:
+          04C38B01C3:
+            0. 00 0000 000D 0000:?GetOffTL@SECRect@@QAEHXZ
+          08C38B410CC3:
+            0. 00 0000 000E 0000:?GetRB@SECRect@@QAEHXZ
+          0CC38B4108C3:
+            0. 00 0000 000E 0000:?GetOffBR@SECRect@@QAEHXZ
+        068B41082B01C38B410C2B4104C3:
+          0. 00 0000 0013 0000:?PrimarySize@SECRect@@QAEHXZ
+        078B410C2B4104C38B41082B01C3:
+          0. 00 0000 0013 0000:?SecondarySize@SECRect@@QAEHXZ
+      8B44240474:
+        048901EB03894104C20400:
+          0. 00 0000 0014 0000:?LT@SECRect@@QAEXH@Z
+        058941:
+          04EB028901C20400:
+            0. 00 0000 0014 0000:?OffTL@SECRect@@QAEXH@Z
+          08EB0389410CC20400:
+            0. 00 0000 0015 0000:?RB@SECRect@@QAEXH@Z
+          0CEB03894108C20400:
+            0. 00 0000 0015 0000:?OffBR@SECRect@@QAEXH@Z
+    4C00:
+      7419837940007413FF74240CFF74240CFF74240CE8........EB0233:
+        0. 04 85D1 0024 0000:?DefWindowProcW@SECWndPlugIn@@MAEJIIJ@Z (REF 0019: ?DefWindowProcW@CWnd@@MAEJIIJ@Z)
+        1. 04 85D1 0024 0000:?DefWindowProcA@SECWndPlugIn@@MAEJIIJ@Z (REF 0019: ?DefWindowProcA@CWnd@@MAEJIIJ@Z)
+      750433C0EB15FF742410FF742410FF742410FF742410E8........C2:
+        0. 02 D69A 0022 0000:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+    5000:
+      7419837944007413FF74240CFF74240CFF74240CE8........EB0233:
+        0. 04 85D1 0024 0000:?DefWindowProcW@SECWndPlugIn@@MAEJIIJ@Z (REF 0019: ?DefWindowProcW@CWnd@@MAEJIIJ@Z)
+        1. 04 85D1 0024 0000:?DefWindowProcA@SECWndPlugIn@@MAEJIIJ@Z (REF 0019: ?DefWindowProcA@CWnd@@MAEJIIJ@Z)
+      750433C0EB15FF742410FF742410FF742410FF742410E8........C2:
+        0. 02 D69A 0022 0000:?OnCmdMsg@SECWndPlugIn@@UAEHIHPAXPAUAFX_CMDHANDLERINFO@@@Z
+    7C00B881000000740383C002C3:
+      0. 00 0000 000F 0000:?OnGetDlgCode@SECColorWell@@IAEIXZ
+  7C24:
+    042075128B016A02FF71:
+      68FF716CFF90C8000000EB05E8........C20C:
+        0. 01 78F0 0021 0000:?OnKeyUp@SECPopupColorWell@@IAEXIII@Z
+      6CFF7170FF90D0000000EB05E8........C20C:
+        0. 01 78F0 0021 0000:?OnKeyUp@SECPopupColorWell@@IAEXIII@Z
+    08:
+      0056578B7C240C8BB770010000740E8B0757C74014040000008B07FF:
+        0. 1F 9486 003F 0000:?start_pass_prep@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z
+      0253568B74240C578BD98BBE74010000740E8B0656C7401404000000:
+        0. 0C 3C94 0036 0000:?start_pass_coef@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z
+  A1:
+    9C00000000C3:
+      0. 00 0000 0008 0000:?PostNcDestroy@SECPopupColorWell@@MAEXXZ
+    A000000000C3:
+      0. 00 0000 0008 0000:?PostNcDestroy@SECPopupColorWell@@MAEXXZ
+  B9:
+    8000000000B881000000740383C002C3:
+      0. 00 0000 0012 0000:?OnGetDlgCode@SECColorWell@@IAEIXZ
+    84000000007409FF742404E8........C20400:
+      0. 00 0000 0015 0000:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z
+    88000000007409FF742404E8........C20400:
+      0. 00 0000 0015 0000:?DrawItem@SECMenuButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z
+    9800000000568DB1980000007418E8........508B066A006865040000FF:
+      0. 04 413E 002A 0000:?NotifyChange@SECPopupColorWell@@MAEXXZ
+    9C00000000568DB19C0000007418E8........508B066A006865040000FF:
+      0. 04 4C1D 002A 0000:?NotifyChange@SECPopupColorWell@@MAEXXZ
+8A542408568B742408576A048D46405F8B0885C9740688910001000083C0044F:
+  0. 2C 41A2 004C 0000:?jpeg_suppress_tables@SECJpeg@@IAEXPAUjpeg_compress_struct@@E@Z
+8B:
+  01FF:
+    742404FF90:
+      BC000000C20800:
+        0. 00 0000 000F 0000:?AttachWnd@SECWndListener@@UAEHPAVCWnd@@H@Z
+      C4000000C20800:
+        0. 00 0000 000F 0000:?AttachWnd@SECWndListener@@UAEHPAVCWnd@@H@Z
+    A0:
+      C8000000:
+        0. 00 0000 0008 0000:??_9@$BMI@AE
+      D0000000:
+        0. 00 0000 0008 0000:??_9@$BNA@AE
+  41:
+    300FB7400E48741883E803740E83E80474046633C0C366B80001C366B810:
+      0. 07 3ED8 0027 0000:?NumColors@SECImage@@QAEGXZ
+    58538B5C24104040568B74240C0FAFC38B165703C28B5424148B7C241C89:
+      0. 36 D731 0060 0000:?GetCellRect@SECColorWell@@IAEXABVCRect@@AAV2@HH@Z
+    5C538B5C24104040568B74240C0FAFC38B165703C28B5424148B7C241C89:
+      0. 39 B1AA 0063 0000:?GetCellRect@SECColorWell@@IAEXABVCRect@@AAV2@HH@Z
+  4424:
+    04:
+      0FAF44240883E01F750433C0EB166A2032D2592BC88BC124073AD01B:
+        0. 0B 83B0 002B 0000:?CalcPadding@SECImage@@IAEKKK@Z
+      33C9:
+        8B90C80100008988C400000089487C8988B001000005C8010000:
+          0. 10 C7C1 0030 0000:?reset_marker_reader@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        C700........C74004........C74008........C7400C:
+          0. 00 0000 004E 0000:?jpeg_std_error@SECJpeg@@IAEPAUjpeg_error_mgr@@PAU2@@Z
+      50:
+        83A08000000000E8........C20400:
+          0. 00 0000 0014 0000:?jdcoefct_start_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        8B10C742142B0000008B10FF12C20400:
+          0. 00 0000 0015 0000:?new_color_map_1_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+      518B480CE8........6A0158C20400:
+        0. 00 0000 0013 0000:?AddListenerEntry@SECWndListener@@MAEHPAUSECWndListener_MsgProcInfo_tag@@@Z
+      5355568BF1578B48186A01894E188B481C894E1C668B4E225A33ED6A:
+        0. 45 6EEA 0132 0000:?SECoutput_init@SECJpeg@@AAEXPAUjpeg_decompress_struct@@@Z
+      56:
+        6800100000:
+          6A018B50048B701450FF128946188906C74604001000:
+            0. 05 616C 0025 0000:?init_destination@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          8B70148B4E14FF76188B01FF50:
+            388B4618C746040010:
+              0. 0A 7436 002A 0000:?empty_output_buffer@SECJpeg@@IAEEPAUjpeg_compress_struct@@@Z
+            408B4618C746040010:
+              0. 0A 7436 002A 0000:?empty_output_buffer@SECJpeg@@IAEEPAUjpeg_compress_struct@@@Z
+        80784A008BB0B4010000740A8B90DC01000050FF5208FF460C5EC2:
+          0. 02 2768 0022 0000:?finish_output_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        83F8098BF1743D83F80D742483F81B7410FF742410FF74241050E8:
+          0. 00 0000 005C 0000:?OnKeyDown@SECPopupColorWell@@IAEXIII@Z
+        8B:
+          008B501485D27E0D3B50747F088B48708B0C91EB1F8B487885C9:
+            0. 48 3A82 009A 0000:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAD@Z
+            1. 49 4621 009C 0000:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAD@Z
+            2. 4E 6484 00A0 0000:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAG@Z
+            3. 4F C70D 00A2 0000:?format_message@SECJpeg@@IAEXPAUjpeg_common_struct@@PAG@Z
+          7014B8001000002B4604740C8B4E1450FF76188B11FF52:
+            388B4E:
+              0. 0A C31B 002A 0000:?term_destination@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+            408B4E:
+              0. 0A A3F5 002A 0000:?term_destination@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+          74240C:
+            508B10C74214330000008B108972188B10FF125EC20800:
+              0. 00 0000 0020 0000:?out_of_memory@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z
+            8D4C30FF8BC199F7FE8BC15E2BC2C20800:
+              0. 00 0000 001A 0000:?jround_up@SECJpeg@@IAEJJJ@Z
+          B0DC0100008B5610895074FF761450E8........C6461C015EC2:
+            0. 02 2768 0022 0000:?finish_pass1@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          F1:
+            33C985C00F95C181C1D8590000837E:
+              48008986800000000FB7:
+                0. 0A 3580 005C 0000:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z
+              4C008986840000000FB7:
+                0. 0A E346 005C 0000:?SetDirection@SECMenuButton@@QAEXW4Direction@1@@Z
+            8946:
+              4C8B44240C8946508B06FF90F80000006A016A00FF761C:
+                0. 02 ABB7 002A 0000:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z
+              508B44240C8946548B06FF90000100006A016A00FF7620:
+                0. 02 ABB7 002A 0000:?SetIndents@SECBitmapButton@@QAEXVCSize@@@Z
+      68:
+        040100006A00508B5004FF1280A00001000000C20400:
+          0. 00 0000 001B 0000:?jpeg_alloc_quant_table@SECJpeg@@IAEPAUJQUANT_TBL@@PAUjpeg_common_struct@@@Z
+        240200006A00508B5004FF1280A02202000000C20400:
+          0. 00 0000 001B 0000:?jpeg_alloc_huff_table@SECJpeg@@IAEPAUJHUFF_TBL@@PAUjpeg_common_struct@@@Z
+      6A018B502C89512C8B503089513083C2288951348B50248951248B50:
+        0. 74 73C0 0094 0000:?ConvertImage@SECImage@@QAEHPAV1@@Z
+      85C0740C8B40:
+        1C6A0189411C5889414CC20400:
+          0. 00 0000 0017 0000:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z
+        206A0189412058894150C20400:
+          0. 00 0000 0017 0000:?PlugInTo@SECWndPlugIn@@UAEHPAVCWnd@@@Z
+      89:
+        41:
+          10C20400:
+            0. 00 0000 000A 0000:?SetHorzOrient@SECRect@@QAEXH@Z
+          50C20400:
+            0. 00 0000 000A 0000:?SetMessageHandleStatus@SECWndListener@@UAEXK@Z
+          54C20400:
+            0. 00 0000 000A 0000:?SetMessageHandleStatus@SECWndListener@@UAEXK@Z
+          58C20400:
+            0. 00 0000 000A 0000:?SetOtherButton@SECWellButton@@QAEXH@Z
+          5CC20400:
+            0. 00 0000 000A 0000:?SetOtherButton@SECWellButton@@QAEXH@Z
+          78C20400:
+            0. 00 0000 000A 0000:?SetMouseTracking@SECColorWell@@QAEXH@Z
+          7CC20400:
+            0. 00 0000 000A 0000:?SetMouseTracking@SECColorWell@@QAEXH@Z
+        81:
+          84000000C20400:
+            0. 00 0000 000D 0000:?SetPaletteRealization@SECColorWell@@QAEXH@Z
+          88000000C20400:
+            0. 00 0000 000D 0000:?SetPaletteRealization@SECColorWell@@QAEXH@Z
+          98000000C20400:
+            0. 00 0000 000D 0000:?SetNotifyWindow@SECPopupColorWell@@QAEXPAVCWnd@@@Z
+          9C000000C20400:
+            0. 00 0000 000D 0000:?SetNotifyWindow@SECPopupColorWell@@QAEXPAVCWnd@@@Z
+      8B:
+        0883616C008B0083601400C20400:
+          0. 00 0000 0013 0000:?reset_error_mgr@SECJpeg@@IAEXPAUjpeg_common_struct@@@Z
+        40:
+          048B402C2B442410C21000:
+            0. 00 0000 0011 0000:?jpeg_mem_available@SECJpeg@@IAEJPAUjpeg_common_struct@@JJJ@Z
+          14C6402401C20400:
+            0. 00 0000 000E 0000:?init_source@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        502483EA00742F4A74284A74214A741E4A74174A74108B1050C742:
+          0. 1F ED28 0046 0000:?jpeg_default_colorspace@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        51:
+          4C89108B4950894804C20400:
+            0. 00 0000 0012 0000:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ
+          5089108B4954894804C20400:
+            0. 00 0000 0012 0000:?GetIndents@SECBitmapButton@@QBE?AVCSize@@XZ
+        542408:
+          5333DB568BB0:
+            B80100002BD3741D4A4A74108B1050C74214:
+              0. 0D E820 0068 0000:?start_pass_main@SECJpeg@@IAEXPAUjpeg_decompress_struct@@W4J_BUF_MODE@@@Z
+            C00100002BD3744F4A4A742F4A74108B1050:
+              0. 23 A2F8 00A2 0000:?start_pass_dpost@SECJpeg@@IAEXPAUjpeg_decompress_struct@@W4J_BUF_MODE@@@Z
+          568B3085D27D15837E6C007406837E68037C0450FF5608FF:
+            0. 11 8CBF 0031 0000:?emit_message@SECJpeg@@IAEXPAUjpeg_common_struct@@H@Z
+        80:
+          C4010000C700........C20400:
+            0. 00 0000 0013 0000:?finish_input_pass@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+          DC010000C6401C01C20400:
+            0. 00 0000 0011 0000:?new_color_map_2_quant@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+        88D40100008B90480100008951608B4060894164C20400:
+          0. 00 0000 001C 0000:?start_pass_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+      C741:
+        4401000000894148C20400:
+          0. 00 0000 0011 0000:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z
+        480100000089414CC20400:
+          0. 00 0000 0011 0000:?SetMessageHandled@SECWndPlugIn@@UAEXH@Z
+    0C:
+      487818568B742408578D78018BCEFF542418037424104F75F35F5EC2:
+        0. 02 D69A 0022 0000:??_H@YGXPAXIHP6EX0@Z@Z
+      568BF1508B4C24108946:
+        408D464450894E74E8........5985C05974:
+          0. 0C 0E89 0049 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBDPAVCWnd@@@Z (REF 0017: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+          1. 0C 0E89 0049 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBGPAVCWnd@@@Z (REF 0017: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+        448D464850894E78E8........5985C05974:
+          0. 0C 0E89 0049 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBDPAVCWnd@@@Z (REF 0017: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z)
+          1. 0C 0E89 0049 0000:?AttachButton@SECBitmapButton@@UAEHHW4Alignment@1@PBGPAVCWnd@@@Z (REF 0017: ?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z)
+      8B4C241069C0FE0100008D8408FF00000003C999F7F9C21000:
+        0. 00 0000 001D 0000:?largest_input_value@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHH@Z
+      C1E00750FF742408FF742410E8........83C40CC20C00:
+        0. 00 0000 001B 0000:?jcopy_block_row@SECJpeg@@IAEXPAY0EA@F0I@Z
+    10:
+      832000C21000:
+        0. 00 0000 000A 0000:?noop_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+      8B4C240C8908C21000:
+        0. 00 0000 000D 0000:?fullsize_upsample@SECJpeg@@IAEXPAUjpeg_decompress_struct@@PAUjpeg_component_info@@PAPADPAPAPAD@Z
+  45EC50E8........C3B8........E9:
+    0. 00 0000 0014 0000:?
+  49300FB7410E0FAF41048D04C51F000000C1E80325FCFFFF1F0FAF4108C3:
+    0. 00 0000 001F 0000:?NumBytes@SECImage@@QAEKXZ
+  4C24:
+    04:
+      0FAF4C24088BC1C1E803F6C107760140C20800:
+        0. 00 0000 0017 0000:?LastByte@SECImage@@IAEKKK@Z
+      68........E8........8B4C240889018B442404C20800:
+        0. 00 0000 001B 0000:??5@YGAAVCArchive@@AAV0@AAPAVSECDib@@@Z (REF 0005: ?classSECDib@SECDib@@2UCRuntimeClass@@A)
+        1. 00 0000 001B 0000:??5@YGAAVCArchive@@AAV0@AAPAVSECJpeg@@@Z (REF 0005: ?classSECJpeg@SECJpeg@@2UCRuntimeClass@@A)
+      6A015A3991:
+        100100008B81740100007E05895014EB1D8B910C010000:
+          0. 22 D113 0042 0000:?start_iMCU_row@SECJpeg@@IAEXPAUjpeg_compress_struct@@@Z
+        580100008B81BC0100007E0589501CEB208B9150010000:
+          0. 25 1750 0045 0000:?start_iMCU_row@SECJpeg@@IAEXPAUjpeg_decompress_struct@@@Z
+      85C97F036A01596A64583BC87E028BC883F9327D0AB88813000099F7:
+        0. 0A 604F 002A 0000:?jpeg_quality_scaling@SECJpeg@@IAEHH@Z
+    088B4424048D4408FF99F7F9C20800:
+      0. 00 0000 0012 0000:?jdiv_round_up@SECJpeg@@IAEJJJ@Z
+    0C8B44241069C9FF000000992BC2D1F803C199F77C2410C21000:
+      0. 00 0000 001D 0000:?output_value@SECJpeg@@IAEHPAUjpeg_decompress_struct@@HHH@Z
+  4D:
+    E8E9........8B4DE883C114E9........8B4DF0E9........B8:
+      0. 01 B78A 0025 0000:?
+    ECE8........C3B8........E9........8B4DE8E8........C38B4DE883:
+      0. 03 FBE0 0118 0000:?
+    F0:
+      E8........C3:
+        8B4DF083C1:
+          14E8........C3B8........E9........8B:
+            0. 03 8B28 005D 0000:?
+          3CE8........C38B4DF081C188000000E8:
+            0. 00 0000 0126 0000:?
+          40E8........C38B4DF081C18C000000E8:
+            0. 00 0000 0126 0000:?
+        B8........E9........:
+          68DA00000068........8B45E0:
+            0. 02 F6B7 0031 0000:?
+          8D4DCCE8........C38D4DC4E8:
+            0. 00 0000 0187 0000:?
+      E9........:
+        8B4D:
+          ECE9........B8........E9:
+            0. 00 0000 001A 0000:?
+          F083C1:
+            14E9........B8........E9:
+              0. 00 0000 001D 0000:?
+            3CE9........8B4DF081C188000000E9:
+              0. 00 0000 003B 0000:? (0001: 8B)
+              1. 00 0000 002B 0000:? (0001: B8)
+            40E9........8B4DF081C18C000000E9:
+              0. 00 0000 003B 0000:? (0001: 8B)
+              1. 00 0000 002B 0000:? (0001: B8)
+            44E9........:
+              8B4DECE9........B8:
+                0. 01 B78A 0025 0000:?
+              FF75ECE8........C3B8:
+                0. 00 0000 0026 0000:?
+            48E9........:
+              8B4DECE9........B8:
+                0. 01 B78A 0025 0000:?
+              FF75ECE8........C3B8:
+                0. 00 0000 0026 0000:?
+            58E9........B8........E9:
+              0. 00 0000 001D 0000:?
+            78E9........8B4DECE9........B8:
+              0. 01 B78A 0025 0000:?
+            7CE9........8B4DECE9........B8:
+              0. 01 B78A 0025 0000:?
+        B8........E9:
+          0. 00 0000 0012 0000:?
+  542404:
+    53568BF183EA09578B4E:
+      6C8B46680F84F40000006A0083EA1C5B0F84:
+        0. 10 7397 0164 0000:?OnKeyDown@SECColorWell@@IAEXIII@Z
+      708B466C0F84070100006A0083EA1C5B0F84:
+        0. 14 3893 0177 0000:?OnKeyDown@SECColorWell@@IAEXIII@Z
+    563B51:
+      4C8B74240C750A3B715075058B4170EB088B41480FAFC603C2:
+        0. 04 68F6 0024 0000:?GetPaletteIndex@SECColorWell@@IBEHHH@Z
+      508B74240C750A3B715475058B4174EB088B414C0FAFC603C2:
+        0. 04 68F6 0024 0000:?GetPaletteIndex@SECColorWell@@IBEHHH@Z
+    80:
+      7A4800756880BA4001000000755F837A24037559837A2003755383:
+        0. 57 BB4D 0077 0000:?use_merged_upsample@SECJpeg@@IAEEPAUjpeg_decompress_struct@@@Z
+      BAD8000000008B826C01000075308360080083600C008060100056:
+        0. 1F AFFC 0046 0000:?start_pass_main@SECJpeg@@IAEXPAUjpeg_compress_struct@@W4J_BUF_MODE@@@Z
+  81:
+    80000000C3:
+      0. 00 0000 0007 0000:?GetDirection@SECMenuButton@@QBE?AW4Direction@1@XZ
+    84000000C3:
+      0. 00 0000 0007 (?)0000:?GetPaletteRealization@SECColorWell@@QBEHXZ
+    88000000C3:
+      0. 00 0000 0007 0000:?GetPaletteRealization@SECColorWell@@QBEHXZ
+    9C000000C3:
+      0. 00 0000 0007 0000:?IsCreated@SECPopupColorWell@@QBEHXZ
+    A0000000C3:
+      0. 00 0000 0007 0000:?IsCreated@SECPopupColorWell@@QBEHXZ
+  C1:
+    83600400C700........C3:
+      0. 00 0000 000D 0000:??0CGdiObject@@QAE@XZ (REF 0008: ??_7CGdiObject@@6B@)
+    8B4C2404:
+      894810C20400:
+        0. 00 0000 000C 0000:??0SECRect@@QAE@H@Z
+      8B1189108B51088950088B51048950048B490C89480CC20400:
+        0. 00 0000 001F 0000:??4SECRect@@QAEAAV0@ABVCRect@@@Z
+    C7401001000000C3:
+      0. 00 0000 000A 0000:??0SECRect@@QAE@XZ
+8D:
+  4D:
+    08E9........FF7520E8........C3B8........E9:
+      0. 00 0000 001B 0000:?
+    0CE9........:
+      8D4DE4E9........B8........E9:
+        0. 00 0000 001A 0000:?
+      B8........E9:
+        0. 00 0000 0012 0000:?
+    ACE8........C3B8........E9:
+      0. 00 0000 0013 0000:?
+    B0E8........C38D4DC4E8........C3B8........E9:
+      0. 00 0000 001C 0000:?
+    C0E9........8D4DE0E9........8D4DD0E9........8D4DD8E9:
+      0. 04 0248 0042 0000:?
+    CCE9........8D4D:
+      DCE9........8D4DDCE9........B8........E9:
+        0. 00 0000 0022 0000:?
+      E0E9........B8........E9:
+        0. 00 0000 001A 0000:?
+      F0E9........B8........E9:
+        0. 00 0000 001A 0000:?
+    D0E9........B8........E9:
+      0. 00 0000 0012 0000:?
+    E0E9........8D4D:
+      10E9........B8........E9:
+        0. 00 0000 001A 0000:?
+      E0E9........B8........E9:
+        0. 00 0000 001A 0000:?
+    E8E9........8D4DE8E9........B8........E9:
+      0. 00 0000 001A 0000:?
+    EC:
+      E8........C38D4DE4E8........C3B8........E9........8B85E8:
+        F7:
+          0. 04 4E47 0033 0000:?
+        FB:
+          0. 04 4E47 0033 0000:?
+      E9........8D4DECE9........B8........E9:
+        0. 00 0000 001A 0000:?
+  8D:
+    64FFFFFFE9........8D4DC8E9........8D4DECE9........8D4DECE9:
+      0. 00 0000 002D 0000:?
+    70FFFFFFE9........B8........E9:
+      0. 00 0000 0015 0000:?
+    74FFFFFFE9........B8........E9:
+      0. 00 0000 0015 0000:?
+A1........C3:
+  0. 00 0000 0006 0000:?_GetBaseClass@SECWndPlugIn@@KGPAUCRuntimeClass@@XZ (REF 0001: __imp_?classCWnd@CWnd@@2UCRuntimeClass@@B)
+  1. 00 0000 0006 0000:?_GetBaseClass@SECOwnerDrawButton@@KGPAUCRuntimeClass@@XZ (REF 0001: __imp_?classCButton@CButton@@2UCRuntimeClass@@B)
+  2. 00 0000 0006 (!)0000:? (REF 0001: __imp_?messageMap@CWnd@@1UAFX_MSGMAP@@B)
+B8:
+  00:
+    080000C3:
+      0. 00 0000 0006 0000:?GetClassStyle@SECPopupColorWell@@MBEIXZ
+    200000C3:
+      0. 00 0000 0006 0000:?OnGetDlgCode@SECOwnerDrawButton@@IAEIXZ
+  02200000C3:
+    0. 00 0000 0006 0000:?OnGetDlgCode@SECOtherButton@@IAEIXZ
+  40420F00C20400:
+    0. 00 0000 0008 0000:?jpeg_mem_init@SECJpeg@@IAEJPAUjpeg_common_struct@@@Z
+  ........:
+    C3:
+      0. 00 0000 0006 (!)0000:? (REF 0001: ?messageMap@SECWndPlugIn@@1UAFX_MSGMAP@@B)
+      1. 00 0000 0006 0000:?GetRuntimeClass@SECWndListener@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECWndListener@SECWndListener@@2UCRuntimeClass@@B)
+      2. 00 0000 0006 0000:?GetMessageMap@SECWndListener@@MBEPBUAFX_MSGMAP@@XZ (REF 0001: ?messageMap@SECWndListener@@1UAFX_MSGMAP@@B)
+      3. 00 0000 0006 0000:?GetRuntimeClass@SECJpeg@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECJpeg@SECJpeg@@2UCRuntimeClass@@A)
+      4. 00 0000 0006 0000:?GetRuntimeClass@SECDib@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECDib@SECDib@@2UCRuntimeClass@@A)
+      5. 00 0000 0006 0000:?GetMessageMap@SECOtherButton@@MBEPBUAFX_MSGMAP@@XZ (REF 0001: ?messageMap@SECOtherButton@@1UAFX_MSGMAP@@B)
+      6. 00 0000 0006 0000:?GetRuntimeClass@SECPopupColorWell@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECPopupColorWell@SECPopupColorWell@@2UCRuntimeClass@@B)
+      7. 00 0000 0006 0000:?GetMessageMap@SECPopupColorWell@@MBEPBUAFX_MSGMAP@@XZ (REF 0001: ?messageMap@SECPopupColorWell@@1UAFX_MSGMAP@@B)
+      8. 00 0000 0006 0000:?GetRuntimeClass@SECWellButton@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECWellButton@SECWellButton@@2UCRuntimeClass@@B)
+      9. 00 0000 0006 0000:?GetMessageMap@SECWellButton@@MBEPBUAFX_MSGMAP@@XZ (REF 0001: ?messageMap@SECWellButton@@1UAFX_MSGMAP@@B)
+      10. 00 0000 0006 0000:?GetRuntimeClass@SECMenuButton@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECMenuButton@SECMenuButton@@2UCRuntimeClass@@B)
+      11. 00 0000 0006 0000:?GetMessageMap@SECMenuButton@@MBEPBUAFX_MSGMAP@@XZ (REF 0001: ?messageMap@SECMenuButton@@1UAFX_MSGMAP@@B)
+      12. 00 0000 0006 0000:?GetRuntimeClass@SECWndPlugIn@@UBEPAUCRuntimeClass@@XZ (REF 0001: ?classSECWndPlugIn@SECWndPlugIn@@2UCRuntimeClass@@B)
+    E8........:
+      51:
+        51:
+          53568BF1578975F0C706........8B8E94000000:
+            0. 1D 2840 0086 0000:??1SECColorWell@@UAE@XZ
+          56:
+            578B:
+              F16A08E8........33FF593BC7740E8978:
+                0. 03 0F22 010E 0000:?MakeBitmap@SECImage@@QAEPAVCBitmap@@PAVCDC@@@Z
+              F9897DF0C707........83:
+                65FC008D7748:
+                  0. 05 C26E 0053 0000:??1SECBitmapButton@@UAE@XZ
+                BF8000000000:
+                  0. 0D EEF0 0067 0000:??1SECMenuButton@@UAE@XZ
+            8BF1:
+              578975F0C706........8B:
+                4E446A015885:
+                  0. 14 9A4E 0062 0000:??1SECWellButton@@UAE@XZ
+                8E90000000C7:
+                  0. 18 3810 0074 0000:??1SECColorWell@@UAE@XZ
+              8975F0:
+                C706........:
+                  83:
+                    65FC008D4E4489:
+                      0. 04 CF5B 0049 0000:??1SECBitmapButton@@UAE@XZ
+                    7E7C00C745FC01:
+                      0. 09 A4DB 005A 0000:??1SECMenuButton@@UAE@XZ
+                  8B4E406A015885C9:
+                    0. 13 B8A5 0058 0000:??1SECWellButton@@UAE@XZ
+                E8........8365FC008366:
+                  4800C7:
+                    0. 02 D119 0075 0000:??0SECWellButton@@QAE@XZ
+                  4C00C7:
+                    0. 02 BDD3 0075 0000:??0SECWellButton@@QAE@XZ
+        53:
+          55568BF15789742410C706........8B462C8B2D:
+            0. 00 0000 009E 0000:??1SECImage@@UAE@XZ (007D: C3)
+            1. 00 0000 00A4 0000:??1SECImage@@UAE@XZ (007D: 0D)
+          56:
+            576A105F8BD957E8........8BF0576A0056E8:
+              0. 00 0000 00B9 0000:?SubclassNewListenerEntry@SECWndListener@@MAEHPAUHWND__@@@Z
+            8B:
+              D957895DF0E8........8B4D0833C0894B10:
+                0. 09 2EF5 0065 (?)0000:??0SECMemDC@@QAE@AAVCDC@@VCRect@@@Z (003B: 00)
+              F1578975F0:
+                33FF6A0A8D4E58897DFCE8:
+                  0. 00 0000 00D8 0000:??0SECImage@@QAE@XZ
+                C706........33FF6A0A8D4E58:
+                  0. 04 9AE9 00DE 0000:??0SECImage@@QAE@XZ
+        56:
+          578BF98B772885F674:
+            108B066A006A008BCEFF75:
+              0. 09 9D7B 007B 0000:?LoadImageA@SECImage@@UAEHPBD@Z (REF 0041: ??0CFile@@QAE@PBDI@Z)
+              1. 09 9D7B 007B 0000:?LoadImageW@SECImage@@UAEHPBG@Z (REF 0041: ??0CFile@@QAE@PBGI@Z)
+              2. 09 C55A 007B 0000:?LoadImageW@SECImage@@UAEHPBG@Z (REF 0041: ??0CFile@@QAE@PBGI@Z)
+              3. 09 C55A 007B 0000:?LoadImageA@SECImage@@UAEHPBD@Z (REF 0041: ??0CFile@@QAE@PBDI@Z)
+            178B066A0068011000008B:
+              0. 10 8D08 0085 0000:?SaveImage@SECImage@@UAEHPBD@Z (REF 004B: ??0CFile@@QAE@PBDI@Z)
+              1. 10 8D08 0085 0000:?SaveImage@SECImage@@UAEHPBG@Z (REF 004B: ??0CFile@@QAE@PBGI@Z)
+              2. 10 A461 0085 0000:?SaveImage@SECImage@@UAEHPBG@Z (REF 004B: ??0CFile@@QAE@PBGI@Z)
+              3. 10 A461 0085 0000:?SaveImage@SECImage@@UAEHPBD@Z (REF 004B: ??0CFile@@QAE@PBDI@Z)
+          8BF1:
+            578975F0E8........8365FC008366:
+              4000C7:
+                0. 02 1EE6 007A 0000:??0SECColorWell@@QAE@XZ
+              4400C7:
+                0. 02 F55F 007A 0000:??0SECColorWell@@QAE@XZ
+            8975F0:
+              C706........8365FC00:
+                837E:
+                  4C0074:
+                    0. 02 B91A 003E 0000:??1SECWndListener@@UAE@XZ
+                  500074:
+                    0. 02 B91A 003E 0000:??1SECWndListener@@UAE@XZ
+                E8:
+                  0. 05 3792 0033 0000:??1CBitmap@@UAE@XZ (REF 0013: ??_7CGdiObject@@6B@)
+                  1. 05 3792 0033 0000:??1CMenu@@UAE@XZ (REF 0013: ??_7CMenu@@6B@)
+              E8........8365FC00:
+                83A6:
+                  9C000000:
+                    0. 05 19DA 003D 0000:??0SECPopupColorWell@@QAE@XZ
+                  A0000000:
+                    0. 05 19DA 003D 0000:??0SECPopupColorWell@@QAE@XZ
+                C706:
+                  0. 02 ABB7 0042 0000:??0SECOwnerDrawButton@@QAE@XZ
+        689C000000E8........598BC8894DF033C03BC889:
+          0. 05 593E 0035 0000:?CreateObject@SECJpeg@@SGPAVCObject@@XZ
+        6A7CE8........598BC8894DF033C03BC88945FC74:
+          0. 02 B91A 0032 0000:?CreateObject@SECDib@@SGPAVCObject@@XZ
+        894DF0C701........8365FC00E8........8B4DF4:
+          0. 03 D120 0029 0000:??1CBitmap@@UAE@XZ (REF 0010: ??_7CGdiObject@@6B@)
+          1. 03 D120 0029 0000:??1CMenu@@UAE@XZ (REF 0010: ??_7CMenu@@6B@)
+        8B450853568BF15733DB33FF395E2C894628743E39:
+          0. 11 9504 00B2 0000:?LoadImageA@SECImage@@UAEHPAVCFile@@@Z (004B: 24)
+          1. 11 9504 00B2 0000:?LoadImageW@SECImage@@UAEHPAVCFile@@@Z (004B: 2C)
+      81EC:
+        04:
+          0400005356578BD96A10E8........598BC889:
+            0. 0C AAB9 00D0 0000:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z (00A3: 00)
+            1. 0C AAB9 00D1 0000:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z (00A3: 0C)
+          0800005356578BD96A10E8........598BC889:
+            0. 0C AAB9 00D0 0000:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z (00A3: 00)
+            1. 0C AAB9 00D1 0000:?jpeg_open_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@J@Z (00A3: 0C)
+        8000000056:
+          5733FF8BF15757578D8D74FFFFFFE8:
+            0. 00 0000 007A 0000:?OnCustomColor@SECWellButton@@IAEJIJ@Z
+          8BF16A006A006A008D8D74FFFFFFE8:
+            0. 00 0000 007F 0000:?OnClickedOther@SECColorWell@@IAEXXZ
+        8400000056:
+          5733FF8BF15757578D8D70FFFFFFE8:
+            0. 00 0000 007A 0000:?OnCustomColor@SECWellButton@@IAEJIJ@Z
+          8BF16A006A006A008D8D70FFFFFFE8:
+            0. 00 0000 007F 0000:?OnClickedOther@SECColorWell@@IAEXXZ
+        9000000053568BF1568D8D64FFFFFFE8:
+          0. 0E F559 01C0 0000:?OnPaint@SECColorWell@@IAEXXZ
+          1. 0E F87A 01C7 0000:?OnPaint@SECColorWell@@IAEXXZ
+      83EC:
+        1053568B750C578D550C8965F08B4E0C528B01FF:
+          0. 24 3CE4 008B 0000:?close_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@@Z
+          1. 24 4143 008B 0000:?close_backing_store@SECJpeg@@IAEXPAUjpeg_common_struct@@PAUbacking_store_struct@@@Z
+        14568BF1578975E8C706........FF76348B4630:
+          0. 0E A24C 00E8 0000:??1SECMemDC@@UAE@XZ (00B9: C3)
+          1. 0E A24C 00F0 0000:??1SECMemDC@@UAE@XZ (00B9: 64)
+        18578D45DCFF75188BF9FF751450FF7510E8:
+          0. 00 0000 0105 0000:?DrawCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z
+        1C568D45D8FF7518894DF0FF751450FF7510E8:
+          0. 00 0000 0152 0000:?DrawSelectedCell@SECColorWell@@MAEXAAVCDC@@0ABVCRect@@HH@Z
+        24:
+          538B1D........5657894DE86A07FFD350E8:
+            0. 00 0000 017C 0000:?DrawSpecific@SECWellButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z
+          8379:
+            7404538B5D085657894DF00F84E7000000:
+              0. 1D 9FA1 014F 0000:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z
+            7804538B5D085657894DF00F84E7000000:
+              0. 1D CC62 014F 0000:?DrawFocus@SECBitmapButton@@MAEXPAVCDC@@AAVCRect@@@Z
+        285356:
+          57:
+            6A02FF750CE8........6A028BF0FF75:
+              0. 04 3C86 01B0 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z (REF 0016: ?AfxFindResourceHandle@@YGPAUHINSTANCE__@@PBD0@Z)
+              1. 04 3C86 01B0 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z (REF 0016: ?AfxFindResourceHandle@@YGPAUHINSTANCE__@@PBG0@Z)
+            E8........8B700C6A02FF750C56FF15:
+              0. 00 0000 01AC 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBD@Z (REF 0020: FindResourceA)
+              1. 00 0000 01AC 0000:?SECLoadSysColorBitmap@@YAHAAVCBitmap@@PBG@Z (REF 0020: FindResourceW)
+          8BF1568D4DCCE8........33DB8BCE895D:
+            0. 0E BF25 0130 0000:?SizeToContent@SECBitmapButton@@QAEXXZ
+        2C:
+          33C0568BF18945F0C745EC........3946:
+            7489:
+              0. 03 2C98 0097 0000:?DrawFocusRect@SECColorWell@@IAEXXZ
+            7889:
+              0. 03 2C98 0097 0000:?DrawFocusRect@SECColorWell@@IAEXXZ
+          53568BF1578B462C8B7E188B5E1C8945F0668B:
+            0. 14 AA19 0503 0000:?Rotate90@SECImage@@QAEHH@Z
+        3053:
+          568D45D4578BF150FF76:
+            1CFF15........FF:
+              0. 01 5696 01F4 0000:?Paint@SECColorWell@@IAEXAAVCDC@@0@Z
+            20FF15........FF:
+              0. 01 5696 01F7 0000:?Paint@SECColorWell@@IAEXAAVCDC@@0@Z
+          8BD956578B03FF90:
+            D00000008B4B488D41FF:
+              0. 4B 1084 01E4 0000:?Create@SECColorWell@@UAEHKHHPAVCWnd@@IHHPAUCCreateContext@@@Z
+            D80000008B4B4C8D41FF:
+              0. 4E C567 01EA 0000:?Create@SECColorWell@@UAEHKHHPAVCWnd@@IHHPAUCCreateContext@@@Z
+        345356578D4DC0E8........33DB8D4DE0895DFC:
+          0. 01 3E9B 0261 0000:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z (023C: C9)
+          1. 01 3E9B 0273 0000:?DrawDisabled@SECOwnerDrawButton@@MAEXPAVCDC@@HH@Z (023C: E8)
+        3C538BD98B43:
+          4885C00F84660100008D4DB8516A:
+            0. 04 A8E1 0190 0000:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z
+          4C85C00F84660100008D4DB8516A:
+            0. 04 A8E1 0190 0000:?DrawSpecific@SECBitmapButton@@MAEXPAVCDC@@PAUtagDRAWITEMSTRUCT@@AAVCRect@@@Z
+        5853568B7508578BD9FF7618E8........8B7E24:
+          0. 16 45AD 01FE 0000:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z (01C6: 04)
+          1. 16 45AD 0205 0000:?DrawItem@SECOwnerDrawButton@@MAEXPAUtagDRAWITEMSTRUCT@@@Z (01C6: 0D)
+C7:
+  01........:
+    C3:
+      0. 00 0000 0007 0000:??1CObject@@UAE@XZ (REF 0002: ??_7CObject@@6B@)
+    E9:
+      0. 00 0000 000B 0000:??1SECDib@@UAE@XZ (REF 0002: ??_7SECDib@@6B@)
+      1. 00 0000 000B 0000:??1SECOtherButton@@UAE@XZ (REF 0002: ??_7SECOtherButton@@6B@)
+      2. 00 0000 000B 0000:??1SECPopupColorWell@@UAE@XZ (REF 0002: ??_7SECPopupColorWell@@6B@)
+      3. 00 0000 000B 0000:??1SECOwnerDrawButton@@UAE@XZ (REF 0002: ??_7SECOwnerDrawButton@@6B@)
+      4. 00 0000 000B 0000:??1SECJpeg@@UAE@XZ (REF 0002: ??_7SECJpeg@@6B@)
+  41:
+    4804000000C7414405000000C3:
+      0. 00 0000 000F 0000:?SetGridSize@SECColorWell@@MAEXXZ
+    4C04000000C7414805000000C3:
+      0. 00 0000 000F 0000:?SetGridSize@SECColorWell@@MAEXXZ
+E9:
+  0. 00 0000 0005 0000:??1?$CTypedPtrList@VCPtrList@@PAVSECWndListener@@@@UAE@XZ (REF 0001: ??1CPtrList@@UAE@XZ)
+  1. 00 0000 0005 0000:??1AFX_EXCEPTION_LINK@@QAE@XZ (REF 0001: ?AfxTryCleanup@@YGXXZ)
+  2. 00 0000 0005 0000:??1CColorDialog@@UAE@XZ (REF 0001: ??1CDialog@@UAE@XZ)
+  3. 00 0000 0005 0000:??1?$CTypedPtrMap@VCMapPtrToPtr@@PAUHWND__@@PAUSECWndListener_MsgProcInfo_tag@@@@UAE@XZ (REF 0001: ??1CMapPtrToPtr@@UAE@XZ)
+F6:
+  05........017511800D........01B9........E9........C3:
+    0. 00 0000 001B 0000:?
+  44240401568BF1C706........740756E8........598BC65EC20400:
+    0. 00 0000 001D 0000:??_GCObject@@UAEPAXI@Z
+FF:
+  71:
+    68FF716CE8........C3:
+      0. 00 0000 000C 0000:?GetColor@SECColorWell@@QBEKXZ (REF 0007: ?GetPaletteColor@SECColorWell@@IBEKHH@Z)
+    6CFF7170E8........C3:
+      0. 00 0000 000C 0000:?GetColor@SECColorWell@@QBEKXZ (REF 0007: ?GetPaletteColor@SECColorWell@@IBEKHH@Z)
+  7424:
+    04:
+      E8........:
+        59C20400:
+          0. 00 0000 000D 0000:??3CObject@@SGXPAX@Z (REF 0005: ??3@YAXPAX@Z)
+        C20400:
+          0. 00 0000 000C 0000:?DoLoadImage@SECDib@@MAEHPAVCFile@@@Z (REF 0005: ?SECLoadDib@SECImage@@IAEHPAVCFile@@@Z)
+          1. 00 0000 000C 0000:?Serialize@SECJpeg@@UAEXAAVCArchive@@@Z (REF 0005: ?Serialize@SECImage@@UAEXAAVCArchive@@@Z)
+      FF7104FF15........C20400:
+        0. 00 0000 0010 0000:?RectVisible@CDC@@UBEHPBUtagRECT@@@Z
+    08:
+      6A:
+        00FF74240CE8........83C40CC20800:
+          0. 00 0000 0015 0000:?jzero_far@SECJpeg@@IAEXPAXI@Z
+        42FF15........50FF15........C20800:
+          0. 00 0000 0016 0000:?jpeg_get_large@SECJpeg@@IAEPAXPAUjpeg_common_struct@@J@Z
+      E8........59C2:
+        0800:
+          0. 00 0000 000D 0000:?jpeg_get_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@I@Z (REF 0005: _malloc)
+        0C00:
+          0. 00 0000 000D 0000:?jpeg_free_small@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z (REF 0005: _free)
+      FF:
+        15........59C2:
+          0800:
+            0. 00 0000 000E 0000:?jpeg_get_small@SECJpeg@@IAEPAXPAUjpeg_common_struct@@I@Z (REF 0006: malloc)
+          0C00:
+            0. 00 0000 000E 0000:?jpeg_free_small@SECJpeg@@IAEXPAUjpeg_common_struct@@PAXI@Z (REF 0006: free)
+        742408:
+          E8........F7D81BC0F7D8C20800:
+            0. 00 0000 0016 0000:?AttachButton@SECOwnerDrawButton@@UAEHHPAVCWnd@@@Z
+          FF7104FF15........C20800:
+            0. 00 0000 0014 0000:?PtVisible@CDC@@UBEHHH@Z
+    10FF742410FF742410FF742410:
+      E8........C21000:
+        0. 00 0000 0018 0000:?OnSubclassMessage@SECWndListener@@MAEHIIJAAJ@Z
+      FF7104FF15........C21000:
+        0. 00 0000 001C 0000:?DrawTextA@CDC@@UAEHPBDHPAUtagRECT@@I@Z (REF 0015: DrawTextA)
+        1. 00 0000 001C 0000:?Escape@CDC@@UAEHHHPBDPAX@Z (REF 0015: Escape)
+        2. 00 0000 001C 0000:?TextOutW@CDC@@UAEHHHPBGH@Z (REF 0015: TextOutW)
+        3. 00 0000 001C 0000:?DrawTextW@CDC@@UAEHPBGHPAUtagRECT@@I@Z (REF 0015: DrawTextW)
+        4. 00 0000 001C 0000:?TextOutA@CDC@@UAEHHHPBDH@Z (REF 0015: TextOutA)
+  75:
+    ECE8........C3B8........E9:
+      0. 00 0000 0013 0000:?
+    F0E8........C3B8........E9:
+      0. 00 0000 0013 0000:?

@@ -1,0 +1,560 @@
+010000000A00000064000000E803000010270000A086010040420F0080969800:
+  0. 80 976C 03F0 009A:__Float2Str 026A:__Str2Float (034F: C3)
+  1. 80 976C 03F2 009A:__Float2Str 026A:__Str2Float (034F: AB)
+161FBAC8003C837411BACD003C84740ABACE003C857403BACF0092B9FFFF8BD9:
+  0. 01 B78A 0023 0000:__Exception
+1E31C9E8....91F7D81FCB:
+  0. 00 0000 000B 0000:@GetArgCount$qv
+33C08706....CB833E....007501CBA1....E9....8BF4368E4402263B55027F:
+  0. 1B D2CD 005F 0000:@IOResult$qv 0007:@__IOCheck$qv 0015:@__RangeCheck$q7Longintpa2$7Longint 003D:@__StackCheck$q4Word (0021: E9)
+  1. 1B D2CD 0067 0000:@IOResult$qv 0007:@__IOCheck$qv 0015:@__RangeCheck$q7Longintpa2$7Longint 0037:@__RangeError$qv 003D:@__Overflow$qv 0043:@__StackCheck$q4Word (0021: 36)
+35C26821A2DA0FC9FE3F35C26821A2DA0FC9FF3F0042C0FF0048C0FF004AC0FF:
+  0. 1C 8524 02FA 0032:__F87_SINE 0036:__F87_COSINE 003A:__F87_TANGENT 012F:__F87_ARCTAN 0198:__F87_LOG2 019D:__F87_LOG10 01A2:__F87_LOG 020E:__F87_EXP2 0212:__F87_EXP10 021C:__F87_EXP
+3F1F:
+  0AC0742232C98AEC8AE680E480057E3F80CE805052535133C9518BDC:
+    0. 02 216D 00EB 0002:@Extended$q4Real 002C:@Real$q8Extended 0073:@Trunc$q8Extended 0092:@Round$q8Extended 00A1:@Int$q8Extended 00B7:@Frac$q8Extended 00D3:@Sqrt$q8Extended 00D7:@Sin$q8Extended 00DB:@Cos$q8Extended 00DF:@ArcTan$q8Extended 00E3:@Ln$q8Extended 00E7:@Exp$q8Extended
+  45558BEC1E33DB9A........BB0300B8....BA....9A........8BE55D4D:
+    0. 1D 224A 010A 0002:@__InitEM86$qv 0021:@Extended$q4Real 004B:@Real$q8Extended 0092:@Trunc$q8Extended 00B1:@Round$q8Extended 00C0:@Int$q8Extended 00D6:@Frac$q8Extended 00F2:@Sqrt$q8Extended 00F6:@Sin$q8Extended 00FA:@Cos$q8Extended 00FE:@ArcTan$q8Extended 0102:@Ln$q8Extended 0106:@Exp$q8Extended
+4555:
+  89E51E:
+    31C0:
+      50FF7608A1....4850E8....50E8....A3....31C050FF7606:
+        0. 01 FB44 0036 0000:@CursorTo$q7Integert1
+      9A........FF76:
+        069A........8CDA89EC5D4DCA0200:
+          0. 00 0000 001D 0000:@LocalLock$q4Word
+        089A........:
+          50:
+            509A........9A:
+              0. 07 1D72 0027 0000:@GlobalFreePtr$q7Pointer
+            9A........89EC5D4DCA04:
+              0. 01 78F0 0021 0000:@GlobalUnlockPtr$q7Pointer (REF 0016: GLOBALUNLOCK)
+              1. 01 78F0 0021 0000:@GlobalLockPtr$q7Pointer (REF 0016: GLOBALLOCK)
+          89EC5D4DCA0400:
+            0. 00 0000 001B 0000:@GlobalPtrHandle$q7Pointer
+        0AFF7608FF76069A........509A:
+          0. 07 AD41 0027 0000:@GlobalAllocPtr$q4Word7Longint
+        0CFF760AC47E060657B80200509A:
+          0. 07 BDDB 0027 0000:@MapWindowRect$q4Wordt1m5TRect
+        0E9A........50509A........FF760AFF76:
+          0. 05 8769 0036 0000:@GlobalReAllocPtr$q7Pointer7Longint4Word
+    803E....00:
+      7409FF36....9A........31C09A........89EC5D4D:
+        0. 01 A788 0021 0000:@DoneWinCrt$qv
+      75:
+        03E9B30031C050FF7608FF36....E8....50E8:
+          0. 0B F346 00C9 0000:@ScrollTo$q7Integert1
+        52FF36....FF36....BF....1E5731C0BAFF005250:
+          0. 02 32A4 0063 0000:@InitWinCrt$qv
+    81EC9600:
+      803E....007503E99800A1....0B06....7403E98C00B8:
+        0. 00 0000 00B0 0000:?
+      A1....8B16....A3....8916....803E....007503E989:
+        0. 02 C4BB 00AF 0000:?
+    83EC:
+      02:
+        31C08946FC8B46FC89EC5D4DCA0400:
+          0. 00 0000 0017 0000:?
+        9A........9A........08C075:
+          27C606....01803E....00:
+            0. 03 5B64 0062 0000:@READKEY$qv
+          2CC606....01803E....00:
+            0. 03 5B64 0067 0000:@ReadKey$qv
+        A1....408946FC8B46FC89EC5D4DCB:
+          0. 00 0000 0017 (?)0000:@WhereX$qv
+        C47E:
+          0626:
+            817D02B1D7751AB8....BA....26894514268955:
+              0. 17 48FB 0072 0000:?
+            837D0800741F26FF750E26FF750C26FF75089A:
+              0. 00 0000 0040 0000:?
+            FF750E26FF750C26FF75049A........C47E0626:
+              0. 18 7494 0038 0000:?
+          0826FF7520FF76069A........8946FC8B46FC89EC5D:
+            0. 04 D64C 0024 0000:@SetPrnFont$qm4Text4Word
+        C646FD008A46FD89EC5D4DCA0400:
+          0. 00 0000 0016 0000:?
+      04:
+        9A........A1....8946FCA1....8946FA837E06007703E9:
+          0. 19 E0B3 00D8 0000:@WRITEBUF$q5PCHAR4WORD (REF 0009: @INITWINCRT$qv)
+          1. 19 E0B3 00D8 0000:@WriteBuf$q5PChar4Word (REF 0009: @InitWinCrt$qv)
+        C47E0626C705FFFF26C74502B0D726C745048000268D8580:
+          0. 0C E61F 0045 0000:@AssignCrt$qm4Text
+      06:
+        31C08946F89A........8846FB8A46FB3C087513837EF800:
+          0. 09 7063 00B1 0000:@READBUF$q5PCHAR4WORD (REF 000E: @READKEY$qv)
+          1. 09 7063 00B1 0000:@ReadBuf$q5PChar4Word (REF 000E: @ReadKey$qv)
+        C47E06:
+          31C02689450831C02689450A31C08946FC8B46FC89:
+            0. 06 C6CE 0026 0000:?
+          81C72000897EF88C46FA26833D00745526FF35E8:
+            0. 00 0000 0084 0000:?
+          897EF88C46FA81C720000657C47EF826FF750E26FF:
+            0. 07 53DE 0043 0000:?
+      0A:
+        31C08946FA8946FC8B46060B46087448C47E0626803D0074:
+          0. 08 E72A 006D 0000:@STRNEW$q5PCHAR (REF 0028: @STRLEN$q5PCHAR)
+          1. 08 E72A 006D 0000:@StrNew$q5PChar (REF 0028: @StrLen$q5PChar)
+        C47E06897EF88C46FA81C72000897EF48C46F6C47EF82681:
+          0. 07 5152 018B 0000:?
+        FF7608FF76069A........8946F89A........8946F48956:
+          0. 1A 65A4 008A 0000:@GETENVVAR$q5PCHAR (REF 000F: @STRLEN$q5PCHAR)
+          1. 1A 65A4 008A 0000:@GetEnvVar$q5PChar (REF 000F: @StrLen$q5PChar)
+      10FF7614FF7612B05C509A........8946F28956F48B46F20B:
+        0. 0E 5FD4 0169 0000:@FILESPLIT$q5PCHARt1t1t1 (REF 0012: @STRRSCAN$q5PCHAR4CHAR)
+        1. 0E 5FD4 0169 0000:@FileSplit$q5PChart1t1t1 (REF 0012: @StrRScan$q5PChar4Char)
+      149A........8D7EEA165731C05031C05031C050B80100509A:
+        0. 00 0000 005C 0000:@KEYPRESSED$qv (REF 0009: @INITWINCRT$qv)
+        1. 00 0000 005C 0000:@KeyPressed$qv (REF 0009: @InitWinCrt$qv)
+      208D7EDE1657FF7608FF7606B82000509A........8D7EDE16:
+        0. 02 6BAA 0038 0000:@TitlePrn$qm4Text5PChar
+      5E8B460E0B46107552BF....1E57BF....1E57BF....1E578D:
+        0. 09 AE4A 00EB 0000:@AssignPrn$qm4Text5PChart2t2
+    8B46:
+      060B46087418FF7608FF7606FF7608FF76069A........4050:
+        0. 01 ABCB 002C 0000:@STRDISPOSE$q5PCHAR (REF 001A: @STRLEN$q5PCHAR)
+        1. 01 ABCB 002C 0000:@StrDispose$q5PChar (REF 001A: @StrLen$q5PChar)
+      0848508B460648509A........89EC5D4DCA0400:
+        0. 00 0000 001B 0000:@GotoXY$q7Integert1 (REF 0010: @CursorTo$q7Integert1)
+        1. 00 0000 001B 0000:@GOTOXY$q7INTEGERt1 (REF 0010: @CURSORTO$q7INTEGERt1)
+    8D7E061657B80100509A........89EC5D4DCA0200:
+      0. 00 0000 001A 0000:@WriteChar$q4Char (REF 000F: @WriteBuf$q5PChar4Word)
+      1. 00 0000 001A 0000:@WRITECHAR$q4CHAR (REF 000F: @WRITEBUF$q5PCHAR4WORD)
+    9A........:
+      C43E....0657A1....F726....50B020509A:
+        0. 03 8547 0054 0000:@CLRSCR$qv (REF 0006: @INITWINCRT$qv)
+        1. 03 8547 0054 0000:@ClrScr$qv (REF 0006: @InitWinCrt$qv)
+      FF36....FF36....E8....89C78EC20657A1....2B06:
+        0. 00 0000 003B 0000:@CLREOL$qv (REF 0006: @INITWINCRT$qv)
+        1. 00 0000 003B 0000:@ClrEol$qv (REF 0006: @InitWinCrt$qv)
+    A1....2B06....4050FF36....FF36....E8....50E8....50A1:
+      0. 00 0000 0041 0000:@TRACKCURSOR$qv (REF 0038: @SCROLLTO$q7INTEGERt1)
+      1. 00 0000 0041 0000:@TrackCursor$qv (REF 0038: @ScrollTo$q7Integert1)
+    B802009A........83EC02:
+      8B460631D252509A........8946FC8B:
+        0. 09 DF21 0029 0000:@GetInstanceModule$q4Word
+      FF760631C0:
+        31D25250B80200509A:
+          0. 00 0000 002F 0000:@GlobalDiscard$q4Word
+        50B80200509A........89:
+          0. 0C D331 002C 0000:@LocalDiscard$q4Word
+    C47E06:
+      065731C031D2525031C031D2525031C031D252509A:
+        0. 00 0000 0028 0000:@AssignDefPrn$qm4Text
+      26FF7520E8....89EC5D4DCA0400:
+        0. 00 0000 0016 0000:@AbortPrn$qm4Text
+    FF:
+      36....FF36....9A........A1....8B16....A3....8916:
+        0. 05 A5C5 0025 0000:?
+      76:
+        0631C05050B80200509A........89EC5D4DCA0200:
+          0. 00 0000 001C 0000:@GlobalDiscard$q4Word
+        089A........:
+          50509A........9A........89EC5D4DCA0400:
+            0. 00 0000 0020 0000:@GlobalFreePtr$q7Pointer
+          89EC5D4DCA0400:
+            0. 00 0000 0014 0000:@GlobalPtrHandle$q7Pointer
+        0AFF7608FF76069A........509A........89EC5D4DCA0600:
+          0. 00 0000 0020 0000:@GlobalAllocPtr$q4Word7Longint
+        0E9A........50509A........FF760AFF7608FF76069A:
+          0. 00 0000 002F 0000:@GlobalReAllocPtr$q7Pointer7Longint4Word
+  8BEC1E:
+    0BC074:
+      328C06....8936....893E....8916....891E....8C06:
+        0. 00 0000 0040 0000:@__SystemInit$qv
+      4D8C06....8936....893E....8916....891E....8C06:
+        0. 00 0000 005B 0000:@__SystemInit$qv
+    1EC47E0C0657E8....C57608:
+      75168B4E06E311E8....3C0D740A3C:
+        0. 26 3758 0094 0000:@Read$qm4Text5PChar4Word 003A:@Write$qm4Text5PChar4Word
+      B900007515E8....3C0D740E3C1A74:
+        0. 29 598E 0080 0000:@Read$qm4Textm6String4Word 003D:@Write$qm4Textm6String4Word
+    33DB9A........BB0300B8....BA....9A........8BE55D4DCB:
+      0. 00 0000 001F 0000:@__InitEM86$qv
+    83:
+      3E....00753BC45E0626817F02B1D7752A268B7F08263B7F0A75:
+        0. 02 90F1 009B 0000:@Read$qm4Text4Char 004B:@Write$qm4Text4Char4Word
+      EC:
+        20C4:
+          5E06B8....B920008D7EDE8CD2E8....8BCF8D7EDE2BCF:
+            0. 05 6F30 0096 0000:@Read$qm4Text7Longint 005F:@Write$qm4Text7Longint4Word
+          7E060657E8....BE00007521E8....3C1A741A3C207703:
+            0. 04 5DCB 00A7 0000:@Read$qm4Text7Longint 005B:@Write$qm4Text7Longint4Word
+        40C4:
+          5E06B8....B940008D7EBE8CD2E8....8BCF8D7EBE2BCF:
+            0. 05 4178 00A8 0000:@Read$qm4Text8Extended 0063:@Write$qm4Text8Extended4Wordt3
+            1. 05 6F30 00AF 0000:@Read$qm4Text4Real 0061:@Write$qm4Text4Real4Wordt3
+          7E060657E8....BE00007521E8....3C1A741A3C207703:
+            0. 04 5DCB 00C1 0000:@Read$qm4Text4Real 005D:@Write$qm4Text4Real4Wordt3 (0095: 08)
+            1. 04 5DCB 00BA 0000:@Read$qm4Text8Extended 005F:@Write$qm4Text8Extended4Wordt3 (0095: 00)
+    893E....8936....8C06....E30E33C01E50519A........0BC074:
+      0. 02 07BE 007E 0000:@__LibEntry$qv 0054:@__LibExit$qv 005E:@__LibExitProc$qv
+      1. 04 6D66 0060 0000:@__LibEntry$qv 0036:@__LibExit$qv 0040:@__LibExitProc$qv
+    8B:
+      4606E892008BE55D4D7203CA0200B8CB00E9....45558BEC1E8B:
+        0. 18 3361 0217 0000:@GetMem$q4Word 001A:@FreeMem$qm7Pointer4Word 0034:@Mark$qm7Pointer 003A:@MemAvail$qv 0068:@MaxAvail$qv 009D:__NewMemory 019D:__DisMemory
+        1. 18 D250 025B 0000:@GetMem$q4Word 001A:@FreeMem$qm7Pointer4Word 0034:@Mark$qm7Pointer 003A:@MemAvail$qv 0068:@MaxAvail$qv 009D:__NewMemory 01AA:__DisMemory
+      4E06E3101EE835008BF3C47E08AA91F3A41FEB17FF36....C47E:
+        0. 09 FD1A 0063 0000:@ParamStr$qm6String4Word 0038:@ParamCount$qv
+    C4:
+      5E0CB8....8B4E068B7E088B560A:
+        47E8....8BC7C47E082BC748:
+          0. 19 4D0D 0071 0000:@Read$qm4Textm6String4Word 0040:@Write$qm4Textm6String4Word
+        E8....8EC233C0AA8BE55D4D:
+          0. 16 B1AE 0081 0000:@Read$qm4Text5PChar4Word 003D:@Write$qm4Text5PChar4Word
+      7E060657E8....7511E8....7201435F0726895D088BE55D4DCB:
+        0. 0F 8E61 0053 0000:@Read$qm4Text4Char 0024:@Write$qm4Text4Char4Word
+    FF760CFF760AB8....807E08007503B8....1E50FF76060EE8:
+      0. 0A CD52 002A 0000:@Write$qm4Text7Boolean4Word
+55:
+  89E5:
+    1E:
+      0E9A........:
+        508ED8FA8A460AA2....C57606FCAD50AD93AD91AD92:
+          0. 30 B616 0059 0000:@INTR$q4BYTEm10TREGISTERS
+        8ED8FAFF36....1E8A460AA2....C57606FCAD50AD93:
+          0. 36 03B1 0065 0000:@Intr$q4Bytem10TRegisters
+          1. 39 D358 0068 0000:@Intr$q4Bytem10TRegisters
+      C5:
+        56:
+          06:
+            8A460AB425CD211F5DCA0600:
+              0. 00 0000 0013 0000:@SetIntVec$q4Byte7Pointer
+            B41ACD211F:
+              B44FCD217211C47E0683C71E065706579A:
+                0. 00 0000 002A 0000:@FindNext$qm10TSearchRec
+              C47E0C8B4E0AB44EE8....7211C47E0683C71E06:
+                0. 04 1C0D 0031 0000:@FindFirst$q5PChar4Wordm10TSearchRec
+          0883C2308B4E06B80143CD211F720231C0A3....5DCA0600:
+            0. 00 0000 001E 0000:@SetFAttr$qm3Any4Word
+          0A83C230B80043CD211F730431C9EB0231C0A3....C47E0691AB:
+            0. 04 6715 0024 0000:@GetFAttr$qm3Anym4Word
+        760AFCAD2DBC07B109D3E092ADB105D3E001C2AD01C2ADB10BD3E0:
+          0. 18 5F9E 0038 0000:@PackTime$qm9TDateTimem7Longint
+      FC:
+        30C0C47E06B9FFFFF2AEF7D149743689CA8CC38EDBC47E0A89FBB9:
+          0. 33 AE6B 0053 0000:@StrPos$q5PChart1
+        C47E:
+          06:
+            89FEB9FFFF31C099F2AEF7D189F7C5760AF3A6:
+              74228A44FF:
+                0. 24 5A5D 0044 0000:@StrIComp$q5PChart1
+              8A44FF268A:
+                0. 09 5D78 0029 0000:@StrComp$q5PChart1
+            B9FFFF30C0F2AEF7D1:
+              49C57606C47E0A88C8AAF3A41F5DCA:
+                0. 02 2768 0022 0000:@StrPas$q5PChar
+              C57606C47E0A:
+                89F88CC2F3A41F5DCA:
+                  0. 02 87C1 0022 0000:@StrCopy$q5PChart1
+                F3A489F88CC2481F5D:
+                  0. 03 EC71 0023 0000:@StrECopy$q5PChart1
+          08:
+            89FE8B460689C1E3:
+              1A9331C099F2AE29CB89D989F7C5760C:
+                0. 10 0177 0030 0000:@StrLComp$q5PChart14Word
+              359331C099F2AE29CB89D989F7C5760C:
+                0. 2B 48EF 004B 0000:@StrLIComp$q5PChart14Word
+            8B4E0689CB30C0F2AE29CB89D9C57608C47E0C89FB8CC2F3:
+              0. 08 ACAB 0028 0000:@StrLCopy$q5PChart14Word
+        C576:
+          06:
+            89F38CDAAC08C0740F3C:
+              4172F73C5A77F304208844FFEBEC:
+                0. 06 4522 0026 0000:@StrLower$q5PChar
+              6172F73C7A77F32C208844FFEBEC:
+                0. 06 4522 0026 0000:@StrUpper$q5PChar
+            C47E:
+              0A89FB8CC2AC30E491F3A430C0AA931F5DCA0800:
+                0. 00 0000 001E 0000:@StrPCopy$q5PChar6String
+              0EB94F001E56E30BC5760AAC08C07403AAE2F830C0AA:
+                0. 07 0ABC 006D 0000:@FileSearch$q5PChart1t1
+          08C47E0C89F88CC28B4E0639FE7307FD01CE01CF4E4FF3A4FC:
+            0. 05 C2CB 0025 0000:@StrMove$q5PChart14Word
+    803E....:
+      0074:
+        03E8....C606....005DC3:
+          0. 00 0000 0014 0000:?
+        09807E04037503E8....833E....407D0F8A46048B3E:
+          0. 00 0000 002D 0000:?
+        0A803E....007403E8....:
+          8B460699F73E....A3....8B:
+            0. 05 BBBB 0080 0000:?
+          B8FF009A........5DC3:
+            0. 00 0000 001E 0000:?
+        13FF36....BF....1E579A........A3....EB0CFF36:
+          0. 00 0000 0041 0000:? (0020: C3)
+          1. 00 0000 0069 0000:? (0020: 36)
+      107316FE06....8B5604A0....30E48BF8D1E78995....EB06:
+        0. 02 D3ED 002A 0000:?
+    81ECA0001EFCC576068DBE60FF1607AD08C0741180FC3A750C3C617212:
+      0. 3A 3D34 00ED 0000:@FileExpand$q5PChart1
+    83:
+      3E....0075:
+        3AA1....A3....31C050B8007F31D252509A........A3:
+          0. 00 0000 00B4 0000:@__WinCrtInit$qv
+        3FA1....A3....31C050B8007F31D252509A........A3:
+          0. 00 0000 00AA 0000:@__WINCRTInit$qv (0077: 89)
+          1. 00 0000 00B9 0000:@__WinCrtInit$qv (0077: 9A)
+      EC:
+        02:
+          8B:
+            46063B4604:
+              7D088B46068946FEEB068B46048946FE8B46FE89:
+                0. 05 7A15 0025 0000:?
+              7E088B46068946FEEB068B46048946FE8B46FE89:
+                0. 05 7A15 0025 0000:?
+            7E04368B45063D000075098B460A488946FEEB5E3D01007509:
+              0. 62 CA24 0082 0000:?
+          A0....8846FEB0013A46FE77648846FFEB03FE46FF8A46FF30E4:
+            0. 06 28C0 007D 0000:?
+        04:
+          A0....8846FCB0013A46FC77298846FDEB03FE46FD8A46FD30E4:
+            0. 06 28C0 004A 0000:?
+          A1....:
+            0146048B46043B06....7C06A1....2946048B4604F726:
+              0. 00 0000 0041 0000:?
+            8946FEA1....8946FC8B46083D0000751AFF76FEA1:
+              0. 09 E50C 005C 0000:?
+          C47E04:
+            268B05268B55028946FC8956FE268B05260B45027502EB:
+              0. 24 A3DA 00A5 0000:?
+            897EFC8C46FE31C02689450226:
+              837D0A00750D55E8:
+                0. 45 71C4 0076 0000:?
+              89450426FF35E8....09:
+                0. 1D E014 0054 0000:?
+        08:
+          31C08946FEC47E0A897EF88C46FA8B46FE3B46047C03E9AD008B:
+            0. 10 D75D 00D6 0000:?
+          803E....007409807E04037503E8....B81100509A........09:
+            0. 1C B2F4 0073 0000:? (0036: 00)
+            1. 1C B2F4 0083 0000:? (0036: E8)
+          C606....01E8....31C050A1....99F73E....0306....50E8:
+            0. 00 0000 00BE 0000:?
+        0AC47E0A897EF68C46F8837E04007F03E9C9008B46048946FAC47E:
+          0. 0E 4268 00E7 0000:?
+        228B7E0436C47D:
+          0426FF358D7EDE16579A........8B46DE8946FE:
+            0. 09 C11B 0029 0000:?
+          0A26FF358D7EDE16579A........8B46E88946FE:
+            0. 09 C11B 0029 0000:?
+        24E8....FF36....8D7EDC16579A........8B46E8A3....8B46DC:
+          0. 04 D410 0132 0000:?
+        501E515089FE061F8D7EB01607B94F00FCAC08C07403AAE2F830C0:
+          0. 09 96B9 003B 0000:?
+    8A:
+      46:
+        06:
+          08C07505B419CD214088C2C47E080657FC0440B43AABB85C00AB:
+            0. 11 9DF4 0041 0000:@GetCurDir$q5PChar4Byte
+          B42ECD215DCA0200:
+            0. 00 0000 000E 0000:@SetVerify$q7Boolean
+        0AB435CD218CC0C47E06FC93AB93AB5DCA0600:
+          0. 00 0000 0018 0000:@GetIntVec$q4Bytem7Pointer
+      5606:
+        B436CD2189:
+          C23DFFFF7404F7E1F7E35DCA0200:
+            0. 00 0000 0019 0000:@DiskFree$q4Byte
+          D389C23DFFFF7404F7E1F7E35DCA0200:
+            0. 00 0000 001B 0000:@DiskSize$q4Byte
+        B80133CD215DCA0200:
+          0. 00 0000 000F 0000:@SetCBreak$q7Boolean
+      6E0C8A4E0A8A76088A5606B42DCD215DCA0800:
+        0. 00 0000 0017 0000:@SetTime$q4Wordt1t1t1
+    8B:
+      46063B46047D3AE8....FF36....8B46062B06....F726....50A1:
+        0. 00 0000 0049 0000:?
+      4E:
+        08E3181EE8....89DEC47E0A8B4E0639C1720191F3A491AA1FEB14:
+          0. 02 32A4 003E 0000:@GetArgStr$q5PChar7Integer4Word
+        0A8A76088A5606B42BCD215DCA0600:
+          0. 00 0000 0014 0000:@SetDate$q4Wordt1t1
+      7E0436:
+        837DFE00741B8B7E0436C47D0A06578B7E0436FF750836FF75:
+          0. 06 D5F1 0047 0000:?
+        FF75FC36FF75FAE8....8B7E0431C0368945FC31C0368945FA:
+          0. 03 8547 008F 0000:?
+    9A........5DC3:
+      0. 00 0000 000A 0000:? (REF 0004: DESTROYCARET)
+    B02150C47E0606579A........5DCA0400:
+      0. 00 0000 0014 0000:@MsDos$qm10TRegisters (REF 000C: @Intr$q4Bytem10TRegisters)
+      1. 00 0000 0014 0000:@MSDOS$qm10TREGISTERS (REF 000C: @INTR$q4BYTEm10TREGISTERS)
+    B4:
+      2ACD2130E4C47E06AB88D0C47E0AAB88F0C47E0EAB91C47E12AB5DCA:
+        0. 02 D69A 0022 0000:@GetDate$qm4Wordt1t1t1
+      2CCD2130E488D0C47E06AB88F0C47E0AAB88C8C47E0EAB88E8C47E12:
+        0. 05 B7D0 0025 0000:@GetTime$qm4Wordt1t1t1
+      54CD21C47E06AA5DCA0400:
+        0. 00 0000 000F 0000:@GetVerify$qm7Boolean
+    B8:
+      0033CD21C47E062688155DCA0400:
+        0. 00 0000 0012 0000:@GetCBreak$qm7Boolean
+      ....BA....A3....8916....BF....B8....5057FF36....9A:
+        0. 00 0000 0045 0000:@__WinPrnInit$qv
+    C47E:
+      06:
+        268B0508C0742780FC3A751B24DF2C4188C2B40ECD21B419CD21:
+          0. 10 4BBF 003D 0000:@SetCurDir$q5PChar
+        B4:
+          39E8....720231C0A3....5DCA0400:
+            0. 00 0000 0016 0000:@CreateDir$q5PChar
+          3AE8....720231C0A3....5DCA0400:
+            0. 00 0000 0016 0000:@RemoveDir$q5PChar
+        FC8B460CB109D3E805BC07AB8B460CB105D3E8250F00AB8B460C:
+          0. 24 D8F0 0044 0000:@UnpackTime$q7Longintm9TDateTime
+      0A268B1D:
+        8B4E068B5608B80157CD21720231C0A3....5DCA0800:
+          0. 00 0000 001F 0000:@SetFTime$qm3Any7Longint
+        B80057CD21730631C931D2EB0231C0A3....C47E06FC91:
+          0. 07 B914 0027 0000:@GetFTime$qm3Anym7Longint
+    C606....01:
+      803E....007403E8....5DC3:
+        0. 00 0000 0014 0000:?
+      A1....F726....509A........A3....8916....C43E:
+        0. 03 693A 0055 0000:?
+    FCC47E:
+      06B9FFFF30C0F2AE:
+        89F88CC2485DCA0400:
+          0. 00 0000 0017 0000:@StrEnd$q5PChar
+        B8FEFF29C85DCA0400:
+          0. 00 0000 0017 0000:@StrLen$q5PChar
+      08:
+        89FEB9FFFF30C0F2AEF7D189F78A4606F2AEB8000099750589:
+          0. 08 5D3D 0028 0000:@StrScan$q5PChar4Char
+        B9FFFF30C0F2AEF7D1FD4F8A4606F2AEB8000099750589F88C:
+          0. 07 3E63 0027 0000:@StrRScan$q5PChar4Char
+    FF:
+      36....:
+        31C050:
+          31C050B8010050FF36....E8....5031C0509A:
+            0. 00 0000 006B 0000:?
+          FF36....B80200509A........A1....2B06....F726:
+            0. 00 0000 0043 0000:?
+        FF36....:
+          9A........803E....007410FF36....BF....1E57:
+            0. 01 ABCB 0036 0000:?
+          A1....F726....509A........31C0A3....A3:
+            0. 03 8547 0037 0000:?
+      76:
+        0CFF760A0EE8....5250FF7608FF76060EE8....8B460A8B560C5D:
+          0. 03 EC71 0023 0000:@StrCat$q5PChart1 (REF 000B: @StrEnd$q5PChar)
+          1. 03 EC71 0023 0000:@STRCAT$q5PCHARt1 (REF 000B: @STREND$q5PCHAR)
+        0EFF760C0EE8....8B4E0C034E0629C1760D5250FF760AFF760851:
+          0. 02 11FE 002E 0000:@STRLCAT$q5PCHARt14WORD (REF 000B: @STREND$q5PCHAR)
+          1. 02 11FE 002E 0000:@StrLCat$q5PChart14Word (REF 000B: @StrEnd$q5PChar)
+  8BEC:
+    81EC80001E8D7680161F8A460C0AC07506B419CD21FEC08AD004408804:
+      0. 18 47F0 00F8 0000:@GetDir$q4Bytem6String4Word 005A:@ChDir$qm6String 009B:@MkDir$qm6String 00B0:@RmDir$qm6String
+    83EC:
+      145783F90B7E03B90B0083F9F57D03B9F5FF894EFE8876FC06578D:
+        0. FF 9556 0347 0000:__Real2Str 0183:__Str2Real
+      208B460E8B56108D7E:
+        001607E8....1E8BF7161FC47E088B56068B:
+          0. 43 4D4B 007C 0000:@Str$q7Longint4Wordm6String4Byte 004B:@Val__Longint$qm6Stringm7Integer
+          1. 49 B83E 0083 0000:@Str$q7Longint4Word5PChar4Word 004D:@Val__Longint$q5PCharm7Integer
+        E01607E8....1E8BF7161FC47E088B56068B:
+          0. 44 2ABC 0083 0000:@Str$q7Longint4Word5PChar4Word 004D:@Val__Longint$q5PCharm7Integer
+          1. 43 4D4B 007C 0000:@Str$q7Longint4Wordm6String4Byte 004B:@Val__Longint$qm6Stringm7Integer
+      408B:
+        46108B5E128B56148B4E0C0BC9790EB906002B4E0E83F9FE7E:
+          0. 0A 821E 009D 0000:@Str$q4Real4Wordt25PChar4Word 0065:@Val__Real$q5PCharm7Integer (006B: 06)
+          1. 0A 821E 0096 0000:@Str$q4Real4Wordt2m6String4Word 0063:@Val__Real$qm6Stringm7Integer (006B: 00)
+        4E0C0BC9790EB908002B4E0E83F9FE7E03B9FEFF8D7EC01607:
+          0. 01 3E9B 0096 0000:@Str$q8Extended4Wordt25PChar4Word 005C:@Val__Extended$q5PCharm7Integer (006D: 06)
+          1. 01 3E9B 008F 0000:@Str$q8Extended4Wordt2m6String4Word 005A:@Val__Extended$qm6Stringm7Integer (006D: 00)
+57:
+  5651E8....595E5FC3575651E8....595E5FC3575651E8....595E5FC35756:
+    0. 02 2EAE 0473 0028:@Int$q4Real 0079:@Frac$q4Real 008D:@Sqrt$q4Real 00EC:@Sin$q4Real 00FF:@Cos$q4Real 018A:@Ln$q4Real 0233:@Exp$q4Real 02D6:@ArcTan$q4Real
+  FC8BD80BD27D0DF7D3F7D283C30183D200B02DAABE....B1092E3B54027207:
+    0. F2 2287 0112 0000:__Int2Str 007A:__Str2Int
+595BEB0433C933DBA3....:
+  890E....891E....833E....007403E84C00A1:
+    0. 02 9412 00AA 0000:@RunError$q4Byte 0004:@Halt$q4Word 0008:__DoExitProcs 0069:__Terminate
+  8BC10BC3740C83FBFF74078EC3268B1E0000890E:
+    0. 00 0000 00D0 0000:@RunError$q4Byte 0004:@Halt$q4Word 0008:__Terminate 0075:__DoExitProcs
+803E....0272:
+  1B66C1E010660FACD01066C1E110660FACD91066F7E9660FA4C2:
+    0. 1F 0E15 0115 0000:@$brmul$q7Longintt1 003D:@$brdiv$q7Longintt1 00E3:@$brrsh$q7Longint7Integer 00FC:@$brlsh$q7Longint7Integer (00D5: CB)
+    1. 1F 0E15 0129 0000:@$brmul$q7Longintt1 003D:@$brdiv$q7Longintt1 00E3:@$brrsh$q7Longint7Integer 0106:@$brlsh$q7Longint7Integer (00D5: D3)
+  1F66C1E010660FACD01066C1E110660FACD91066F7E972:
+    4A9090:
+      0. 49 D55A 006B 0000:@$brmul$q7Longint7Longint
+    509090:
+      0. 4F 6B86 0071 0000:@$brmul$q7Longint7Longint
+81F700800AC9747B0AC074783AC176059187DE87D72AC1F6D83C:
+  28736786C155:
+    0. FF 7843 0308 0000:__RealSub 0004:__RealAdd 00C7:__RealMul 01CC:__RealDiv 0243:__RealCmp 026D:__RealFloat 02AC:__RealTrunc
+  29736786C155:
+    0. FF 2FB4 0315 0000:__RealSub 0004:__RealAdd 00C7:__RealMul 01CA:__RealDiv 0241:__RealCmp 026B:__RealFloat 02A7:__RealTrunc
+833E....0075:
+  0826817D02B1D7750D268B5D08268B550A26C47D0CC3C706:
+    0. 22 2294 012D 0000:__GetEntry 0024:__GetChar 0040:__PutEntry 0064:__PutChar 00A2:@ReadLn$qm4Text 00D5:@WriteLn$qm4Text 00FE:@Write$qm4Text
+  3526817F02B1D7752E268B7708263B770A742B1E06535226C557:
+    0. 1F 432F 01AB 0000:__ReadText 005E:__WriteBlanks 00AD:__WriteBuffer 0104:@ReadLn$qm4Text 0149:@WriteLn$qm4Text 016F:@Write$qm4Text 018F:__InOutProc
+8B:
+  5D043B470275058B7F04FF2D8CDE8EC68BF3FC8B4F068BD18D7F08F2AF740D:
+    0. 0B 37A9 003E 0000:@__CallMethod$q4Word7Pointer
+  760A83FE017211C45E068CC00BC37409C7460A0000268931CB8B0445558BEC:
+    0. 04 BE31 00B0 0000:@Object@$bctr$q4Word 004A:@Object@$bdtr$q4Word 007D:@Object@$basg$qm6Object4Word 00A0:@__MethodCheck$q7Pointer
+  C88BDA8BF08BFAF7E150528BC6F7E38BD88BC7F7E18BC85A5803D303D1CB55:
+    0. 6B E280 00B4 0000:@__Overflow$qv 0004:@$brmul$q7Longintt1 001F:@$brdiv$q7Longintt1 008D:@$brrsh$q7Longint7Integer 0099:@$brlsh$q7Longint7Integer 00A5:@$brmul$q7Longint7Longint
+  CFBE0A008BDA0BDB7911F7DBF7D883DB00E807004F26C6052D41C333D293F7:
+    0. C3 9CF2 00E3 0000:__Int2Str 003C:__Str2Int
+  DC:
+    1E36C5:
+      570483C230B441CD211F7303A3....CA0400BA33D2558BEC83EC50:
+        0. 28 8951 007B 0000:@Erase$qm4File (d)0017:@Rename$qm4File5PChar 0018:@Rename$qm4Filem6String
+        1. 2A A84D 007D 0000:@Erase$qm4File (d)0017:@Rename$qm4File5PChar 0018:@Rename$qm4Filem6String
+      7F0433C9890DB8003D817D02B1D7740DB002FF05817D02B3D77402:
+        0. 12 1AE2 00E7 0000:__FileOpen
+    368A47043C6172063C7A77022C20CA0200:
+      0. 00 0000 0013 0000:@UpCase$q4Char
+    8CDA36C5770A36C47F06368B4F04FC:
+      3BF7730703F103F94E4FFDF3A4FC8E:
+        0. 18 0D3C 0038 0000:@Move$qm3Anyt14Word 0024:@FillChar$qm3Any4Word4Byte
+      F3A48EDACA0A00:
+        0. 00 0000 0018 0000:@$basg$qm3Anyt14Word
+8CD890455589E51E8ED883EC:
+  04565731C08946FA8946FC8B460EA3....8B460C:
+    0. 06 3788 00E3 0000:?
+  165657FF7608E8....F7D818C0F6D88846E9807E:
+    0. 17 3E5D 007D 0000:?
+B103EB0AB102EB06B101EB02B10045558BEC1EC47E060657E8....751CE8:
+  0. 2C 4597 004C 0000:@SeekEoln$qm4Text 0004:@SeekEof$qm4Text 0008:@Eoln$qm4Text 000C:@Eof$qm4Text
+B430CD21CB:
+  0. 00 0000 0005 0000:@DosVersion$qv
+B90103EB0DB90102EB08B90101EB03B9010045558BEC1EC45E06B8....33D2E8:
+  0. 00 0000 004F 0000:@SeekEoln$qm4Text 0005:@SeekEof$qm4Text 000A:@Eoln$qm4Text 000F:@Eof$qm4Text
+BA:
+  33D28BDC1E36C47F0836C57704FC33C0ABB8B0D7AB:
+    33C0B91600F3AB065706:
+      0. 1D 1DD8 01C8 (d)0000:@Assign$qm4File5PChar 0001:@Assign$qm4Filem6String 0045:@Reset$qm4File4Word 004E:@Rewrite$qm4File4Word 00AA:@Truncate$qm4File 00C6:@Close$qm4File 00FA:@Read$qm4Filem3Any 0101:@Write$qm4Filem3Any 0130:@BlockRead$qm4Filem3Any4Wordm4Word 0137:@BlockWrite$qm4Filem3Any4Wordm4Word 0198:@Seek$qm4File7Longint
+      1. 1B EC7B 01C6 (d)0000:@Assign$qm4File5PChar 0001:@Assign$qm4Filem6String 0043:@Reset$qm4File4Word 004C:@Rewrite$qm4File4Word 00A8:@Truncate$qm4File 00C4:@Close$qm4File 00F8:@Read$qm4Filem3Any 00FF:@Write$qm4Filem3Any 012E:@BlockRead$qm4Filem3Any4Wordm4Word 0135:@BlockWrite$qm4Filem3Any4Wordm4Word 0196:@Seek$qm4File7Longint
+    B88000AB33C0ABABAB8D:
+      0. 07 0401 01C5 (d)0000:@Assign$qm4Text5PChar 0001:@Assign$qm4Textm6String 005B:@SetTextBuf$qm4Textm3Any4Word 0086:@Reset$qm4Text 008B:@Rewrite$qm4Text 0090:@Append$qm4Text 00E1:@Flush$qm4Text 00E5:@Close$qm4Text 0137:__FileRead 0167:__FileWrDev 018C:__FileWrite 01AC:__FileClose (019D: 00)
+      1. 07 0401 01C7 (d)0000:@Assign$qm4Text5PChar 0001:@Assign$qm4Textm6String 005D:@SetTextBuf$qm4Textm3Any4Word 0088:@Reset$qm4Text 008D:@Rewrite$qm4Text 0092:@Append$qm4Text 00E3:@Flush$qm4Text 00E7:@Close$qm4Text 0139:__FileRead 0169:__FileWrDev 018E:__FileWrite 01AE:__FileClose (019D: CA)
+  C8003C837411BACD003C84740ABACE003C857403BACF0092B9FFFF8BD9E9:
+    0. 00 0000 0021 0000:__Exception
+C536....FCAC08C074043C2076F74E89F3AC3C2077FB4E89F029D87402E2E6C3:
+  0. 00 0000 0020 0000:?
+E8:
+  0600CBE80200FF2D8B5D043B470275048B7F04C38CDE8EC68BF3FC8B4F068B:
+    0. 14 FE7A 0046 0000:@__FindMethod$q4Word7Pointer 0004:@__CallMethod$q4Word7Pointer
+  4400:
+    720F268B4D0483F901740633DB0EE8....CA0400E82D0072138BC18BD3:
+      0. 0D F83C 008C 0000:@FilePos$qm4File 0017:@FileSize$qm4File 0032:@Eof$qm4File
+    8BDC9236F7670492CA0200E8360093B88000B92000F6C680750AD1E3D1:
+      0. 0E BD09 008C 0000:@Random$q4Word 000E:@Random__Real$qv 002B:@Random__Extended$qv 007F:@Randomize$qv
+  5A008BDC8BCA36F767048BC18BCA36F7670403C183D2008BC2CA0200E83D00:
+    0. 1D 6258 00A2 0000:@Random$q4Word 001D:@Random__Real$qv 003A:@Random__Extended$qv 0095:@Randomize$qv
+  ....723BCBE8....7235CB8BC88BF38BFAE8....7229CB0AC9742AE8....72:
+    0. 03 DA4C 004C 0000:@$brplu$q4Realt1 0006:@$brmin$q4Realt1 000C:@Sqr$q4Real 0012:@$brmul$q4Realt1 0018:@$brdiv$q4Realt1 0022:@__Cmp$q4Realt1 0026:@Real$q7Longint 002A:@Trunc$q4Real 0032:@Round$q4Real
+FC8BDC8CDA36C47F:
+  0836C57704ACAA8AC832EDF3A48EDACA0400FC8BDC8CDA36:
+    0. FF 711B 0217 0000:@$basg$qm6Stringt1 001A:@$basg$qm6Stringt14Byte 003E:@Copy$qm6Stringt17Integert3 007F:@Concat$qm6Stringt1 00AB:@Pos$qm6Stringt1 00F1:@$bsub$qm6Stringt1 011C:@$basg$qm6String4Char 012E:@$basg$qm6Stringn4Char4Byte 0149:@Insert$qm6Stringt14Word7Integer 01A8:@Delete$qm6String7Integert2 (00F7: 00)
+    1. FF 711B 021C 0000:@$basg$qm6Stringt1 001A:@$basg$qm6Stringt14Byte 003E:@Copy$qm6Stringt17Integert3 007F:@Concat$qm6Stringt1 00AB:@Pos$qm6Stringt1 00F1:@$bsub$qm6Stringt1 011C:@$basg$qm6String4Char 012E:@$basg$qm6Stringn4Char4Byte 0149:@Insert$qm6Stringt14Word7Integer 01A8:@Delete$qm6String7Integert2 (00F7: 8B)
+    2. FF 9B0C 0207 0000:@$basg$qm6Stringt1 001A:@$basg$qm6Stringt14Byte 003E:@__RangeError$qv 004C:@Copy$qm6Stringt17Integert3 008D:@Concat$qm6Stringt1 00B9:@Pos$qm6Stringt1 0105:@$bsub$qm6Stringt1 0130:@$basg$qm6String4Char 0142:@$basg$qm6Stringn4Char4Byte 015D:@Insert$qm6Stringt14Word7Integer 01B1:@Delete$qm6String7Integert2
+  0A36C57706368B5F048ACF32ED32C0F3AA8ACBF3A4B1202A:
+    0. FF 7913 0160 0000:@Set@$bctr$qn4Byte4Word 002A:@$basg$qm3Set4Word 0040:@Set@$brplu$q4Byte 0061:@Set@$brplu$q4Bytet1 0095:@Set@$bctr$qm3Set4Word 00B5:@Set@GetElemOffset$q4Wordt1 00D5:@$brplu$qm3Sett1 00F1:@$brmin$qm3Sett1 010F:@$brmul$qm3Sett1 012B:@$beql$qm3Sett1 0142:@$bgeq$qm3Sett1
+    1. FF BBE8 015A 0000:@Set@$bctr$qn4Byte4Word 002A:@$basg$qm3Set4Word 0039:@Set@$brplu$q4Byte 005A:@Set@$brplu$q4Bytet1 008E:@Set@$bctr$qm3Set4Word 00AE:@Set@GetElemOffset$q4Wordt1 00CF:@$brplu$qm3Sett1 00EB:@$brmin$qm3Sett1 0109:@$brmul$qm3Sett1 0125:@$beql$qm3Sett1 013C:@$bgeq$qm3Sett1

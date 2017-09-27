@@ -1,0 +1,56 @@
+digraph G {
+node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
+bgcolor="transparent"
+a0x00401000movl_0x0UINT32_ebx[label="start\nmovl $0x0<UINT32>, %ebx",color="lightgrey",fillcolor="orange"];
+a0x00401005movl_0x401035UINT32_edx[label="0x00401005\nmovl $0x401035<UINT32>, %edx"];
+a0x0040100acmpl_0x0UINT8_eax[label="0x0040100a\ncmpl $0x0<UINT8>, %eax"];
+a0x0040100djl_0x00401035[label="0x0040100d\njl 0x00401035"];
+a0x0040100fcmpl_0x2UINT8_eax[label="0x0040100f\ncmpl $0x2<UINT8>, %eax"];
+a0x00401035call_0x00401044[label="0x00401035\ncall 0x00401044"];
+a0x00401044jmp_ExitProcess_kernel32_dll[label="0x00401044\njmp ExitProcess@kernel32.dll"];
+ExitProcess_kernel32_dll[label="ExitProcess@kernel32.dll",color="lightgrey",fillcolor="lightgrey"];
+a0x00401012jg_0x00401035[label="0x00401012\njg 0x00401035"];
+a0x00401014movl_eax_ebx[label="0x00401014\nmovl %eax, %ebx"];
+a0x00401016imull_0x8UINT8_ebx_ebx[label="0x00401016\nimull $0x8<UINT8>, %ebx, %ebx"];
+a0x00401019addl_0x401021UINT32_ebx[label="0x00401019\naddl $0x401021<UINT32>, %ebx"];
+a0x0040101fjmp_ebx[label="0x0040101f\njmp %ebx"];
+a0x00401021addl_0x1UINT8_eax[label="0x00401021\naddl $0x1<UINT8>, %eax"];
+a0x00401024subl_0x1UINT8_ebx[label="0x00401024\nsubl $0x1<UINT8>, %ebx"];
+a0x00401027jmp_0x0040100a[label="0x00401027\njmp 0x0040100a"];
+a0x00401031jmp_edx[label="0x00401031\njmp %edx"];
+a0x00401029incl_eax[label="0x00401029\nincl %eax"];
+a0x0040102asubl_eax_edx[label="0x0040102a\nsubl %eax, %edx"];
+a0x0040102caddl_0xaUINT8_ebx[label="0x0040102c\naddl $0xa<UINT8>, %ebx"];
+a0x0040102fjmp_0x0040100a[label="0x0040102f\njmp 0x0040100a"];
+a0x00401033jmp_0x0040103a[label="0x00401033\njmp 0x0040103a"];
+a0x0040103amovl_0xffffffffUINT32_eax[label="0x0040103a\nmovl $0xffffffff<UINT32>, %eax"];
+a0x0040103fcall_0x00401044[label="0x0040103f\ncall 0x00401044"];
+a0x00401000movl_0x0UINT32_ebx -> a0x00401005movl_0x401035UINT32_edx [color="#000000"];
+a0x00401005movl_0x401035UINT32_edx -> a0x0040100acmpl_0x0UINT8_eax [color="#000000"];
+a0x0040100acmpl_0x0UINT8_eax -> a0x0040100djl_0x00401035 [color="#000000"];
+a0x0040100djl_0x00401035 -> a0x0040100fcmpl_0x2UINT8_eax [color="#000000",label="F"];
+a0x0040100djl_0x00401035 -> a0x00401035call_0x00401044 [color="#000000",label="T"];
+a0x00401035call_0x00401044 -> a0x00401044jmp_ExitProcess_kernel32_dll [color="#000000"];
+a0x00401044jmp_ExitProcess_kernel32_dll -> ExitProcess_kernel32_dll [color="#000000"];
+a0x0040100fcmpl_0x2UINT8_eax -> a0x00401012jg_0x00401035 [color="#000000"];
+a0x00401012jg_0x00401035 -> a0x00401014movl_eax_ebx [color="#000000",label="F"];
+a0x00401012jg_0x00401035 -> a0x00401035call_0x00401044 [color="#000000",label="T"];
+a0x00401014movl_eax_ebx -> a0x00401016imull_0x8UINT8_ebx_ebx [color="#000000"];
+a0x00401016imull_0x8UINT8_ebx_ebx -> a0x00401019addl_0x401021UINT32_ebx [color="#000000"];
+a0x00401019addl_0x401021UINT32_ebx -> a0x0040101fjmp_ebx [color="#000000"];
+a0x0040101fjmp_ebx -> a0x00401021addl_0x1UINT8_eax [color="#000000"];
+a0x00401021addl_0x1UINT8_eax -> a0x00401024subl_0x1UINT8_ebx [color="#000000"];
+a0x00401024subl_0x1UINT8_ebx -> a0x00401027jmp_0x0040100a [color="#000000"];
+a0x00401027jmp_0x0040100a -> a0x0040100acmpl_0x0UINT8_eax [color="#000000"];
+a0x0040101fjmp_ebx -> a0x00401031jmp_edx [color="#000000"];
+a0x00401031jmp_edx -> a0x00401035call_0x00401044 [color="#000000"];
+a0x0040101fjmp_ebx -> a0x00401029incl_eax [color="#000000"];
+a0x00401029incl_eax -> a0x0040102asubl_eax_edx [color="#000000"];
+a0x0040102asubl_eax_edx -> a0x0040102caddl_0xaUINT8_ebx [color="#000000"];
+a0x0040102caddl_0xaUINT8_ebx -> a0x0040102fjmp_0x0040100a [color="#000000"];
+a0x0040102fjmp_0x0040100a -> a0x0040100acmpl_0x0UINT8_eax [color="#000000"];
+a0x00401031jmp_edx -> a0x00401033jmp_0x0040103a [color="#000000"];
+a0x00401033jmp_0x0040103a -> a0x0040103amovl_0xffffffffUINT32_eax [color="#000000"];
+a0x0040103amovl_0xffffffffUINT32_eax -> a0x0040103fcall_0x00401044 [color="#000000"];
+a0x0040103fcall_0x00401044 -> a0x00401044jmp_ExitProcess_kernel32_dll [color="#000000"];
+}

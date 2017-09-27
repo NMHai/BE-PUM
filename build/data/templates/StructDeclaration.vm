@@ -1,0 +1,42 @@
+#macro( struct $funcName $paramsList )
+	public static class $funcName extends Structure {
+#foreach ( $param in $paramsList )
+		public $param.type $param.name;
+#end
+
+		protected List<String> getFieldOrder() {
+			return Arrays.asList(new String[] { 
+#foreach ( $param in $paramsList )
+#if ( $param.order == $paramsList.size() )
+				"$param.name"
+#else
+				"$param.name",
+#end
+#end
+			});
+		}
+
+		public static class ByReference extends $funcName implements Structure.ByReference {
+			public ByReference() {
+			}
+
+			public ByReference(Pointer memory) {
+				super(memory);
+			}
+		}
+
+		public $funcName() {
+
+		}
+
+		public $funcName(Pointer memory) {
+			super(memory);
+			read();
+		}
+	}
+#end
+
+
+#struct( $func.funcName $func.paramsList )
+
+	//////////////////////////////////////////////////////////////////////////////////// \$newStruct

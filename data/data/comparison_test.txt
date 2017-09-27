@@ -1,0 +1,162 @@
+===============================================================================
+Comparison between BE-PUM and IDA Pro on DOT file: D:\WORKSPACE\Java\BE-PUMv2\asm\cfg\seh.exe_model.dot vs D:\WORKSPACE\Java\BE-PUMv2\asm\cfg\seh.exe.dot:
+---------------------------------------------------------------
+Not contain: start: pushl $0x401007<UINT32>
+Not contain: 0x00401005: jmp 0x0040101a
+Not contain: 0x0040101a: pushl %fs:0
+Not contain: 0x00401021: movl %esp, %fs:0
+Not contain: 0x00401028: movl $0x0<UINT32>, %ebx
+Not contain: 0x0040102d: movl $0x12345678<UINT32>, %eax
+Not contain: 0x00401032: xchgl %eax, (%ebx)
+Not contain: 0x00401007: movl 0x8(%esp), %esp
+Not contain: 0x0040100b: pushl $0x403000<UINT32>
+Not contain: 0x00401010: call 0x0040103c
+Not contain: 0x0040103c: pushl %ebp
+Not contain: 0x0040103d: movl %esp, %ebp
+Not contain: 0x0040103f: addl $0xfffffff4<UINT8>, %esp
+Not contain: 0x00401042: pushl $0xfffffff5<UINT8>
+Not contain: 0x00401044: call 0x004010f8
+Not contain: 0x004010f8: jmp GetStdHandle@kernel32.dll
+Not contain: 0x00401049: movl %eax, -4(%ebp)
+Not contain: 0x0040104c: pushl 0x8(%ebp)
+Not contain: 0x0040104f: call 0x00401080
+Not contain: 0x00401080: movl 0x4(%esp), %eax
+Not contain: 0x00401084: leal 0x3(%eax), %edx
+Not contain: 0x00401087: pushl %ebp
+Not contain: 0x00401088: pushl %edi
+Not contain: 0x00401089: movl $0x80808080<UINT32>, %ebp
+Not contain: 0x0040108e: movl (%eax), %edi
+Not contain: 0x00401090: addl $0x4<UINT8>, %eax
+Not contain: 0x00401093: leal -16843009(%edi), %ecx
+Not contain: 0x00401099: notl %edi
+Not contain: 0x0040109b: andl %edi, %ecx
+Not contain: 0x0040109d: andl %ebp, %ecx
+Not contain: 0x0040109f: jne 0x004010da
+Not contain: 0x004010a1: movl (%eax), %edi
+Not contain: 0x004010a3: addl $0x4<UINT8>, %eax
+Not contain: 0x004010a6: leal -16843009(%edi), %ecx
+Not contain: 0x004010ac: notl %edi
+Not contain: 0x004010ae: andl %edi, %ecx
+Not contain: 0x004010b0: andl %ebp, %ecx
+Not contain: 0x004010b2: jne 0x004010da
+Not contain: 0x004010b4: movl (%eax), %edi
+Not contain: 0x004010b6: addl $0x4<UINT8>, %eax
+Not contain: 0x004010b9: leal -16843009(%edi), %ecx
+Not contain: 0x004010bf: notl %edi
+Not contain: 0x004010c1: andl %edi, %ecx
+Not contain: 0x004010c3: andl %ebp, %ecx
+Not contain: 0x004010c5: jne 0x004010da
+Not contain: 0x004010c7: movl (%eax), %edi
+Not contain: 0x004010c9: addl $0x4<UINT8>, %eax
+Not contain: 0x004010cc: leal -16843009(%edi), %ecx
+Not contain: 0x004010d2: notl %edi
+Not contain: 0x004010d4: andl %edi, %ecx
+Not contain: 0x004010d6: andl %ebp, %ecx
+Not contain: 0x004010d8: je 0x0040108e
+Not contain: 0x004010da: testl $0x8080<UINT32>, %ecx
+Not contain: 0x004010e0: jne 0x004010e8
+Not contain: 0x004010e2: shrl $0x10<UINT8>, %ecx
+Not contain: 0x004010e5: addl $0x2<UINT8>, %eax
+Not contain: 0x004010e8: shlb %cl
+Not contain: 0x004010ea: sbbl %edx, %eax
+Not contain: 0x004010ec: popl %edi
+Not contain: 0x004010ed: popl %ebp
+Not contain: 0x004010ee: ret $0x4<UINT16>
+Not contain: 0x00401054: movl %eax, -12(%ebp)
+Not contain: 0x00401057: pushl $0x0<UINT8>
+Not contain: 0x00401059: leal -8(%ebp), %eax
+Not contain: 0x0040105c: pushl %eax
+Not contain: 0x0040105d: pushl -12(%ebp)
+Not contain: 0x00401060: pushl 0x8(%ebp)
+Not contain: 0x00401063: pushl -4(%ebp)
+Not contain: 0x00401066: call 0x004010fe
+Not contain: 0x004010fe: jmp WriteFile@kernel32.dll
+Not contain: 0x0040106b: movl -8(%ebp), %eax
+Not contain: 0x0040106e: leave 
+Not contain: 0x0040106f: ret $0x4<UINT16>
+Not contain: 0x00401015: call 0x004010f2
+Not contain: 0x004010f2: jmp ExitProcess@kernel32.dll
+Not contain: null: 
+Not contain: null: 
+Not contain: null: 
+---------------------------------------------------------------
+Not contain: start: pushl $0x401007<UINT32> --> 0x00401005: jmp 0x0040101a
+Not contain: 0x00401005: jmp 0x0040101a --> 0x0040101a: pushl %fs:0
+Not contain: 0x0040101a: pushl %fs:0 --> 0x00401021: movl %esp, %fs:0
+Not contain: 0x00401021: movl %esp, %fs:0 --> 0x00401028: movl $0x0<UINT32>, %ebx
+Not contain: 0x00401028: movl $0x0<UINT32>, %ebx --> 0x0040102d: movl $0x12345678<UINT32>, %eax
+Not contain: 0x0040102d: movl $0x12345678<UINT32>, %eax --> 0x00401032: xchgl %eax, (%ebx)
+Not contain: 0x00401032: xchgl %eax, (%ebx) --> 0x00401007: movl 0x8(%esp), %esp
+Not contain: 0x00401007: movl 0x8(%esp), %esp --> 0x0040100b: pushl $0x403000<UINT32>
+Not contain: 0x0040100b: pushl $0x403000<UINT32> --> 0x00401010: call 0x0040103c
+Not contain: 0x00401010: call 0x0040103c --> 0x0040103c: pushl %ebp
+Not contain: 0x0040103c: pushl %ebp --> 0x0040103d: movl %esp, %ebp
+Not contain: 0x0040103d: movl %esp, %ebp --> 0x0040103f: addl $0xfffffff4<UINT8>, %esp
+Not contain: 0x0040103f: addl $0xfffffff4<UINT8>, %esp --> 0x00401042: pushl $0xfffffff5<UINT8>
+Not contain: 0x00401042: pushl $0xfffffff5<UINT8> --> 0x00401044: call 0x004010f8
+Not contain: 0x00401044: call 0x004010f8 --> 0x004010f8: jmp GetStdHandle@kernel32.dll
+Not contain: 0x004010f8: jmp GetStdHandle@kernel32.dll --> null: 
+Not contain: null:  --> 0x00401049: movl %eax, -4(%ebp)
+Not contain: 0x00401049: movl %eax, -4(%ebp) --> 0x0040104c: pushl 0x8(%ebp)
+Not contain: 0x0040104c: pushl 0x8(%ebp) --> 0x0040104f: call 0x00401080
+Not contain: 0x0040104f: call 0x00401080 --> 0x00401080: movl 0x4(%esp), %eax
+Not contain: 0x00401080: movl 0x4(%esp), %eax --> 0x00401084: leal 0x3(%eax), %edx
+Not contain: 0x00401084: leal 0x3(%eax), %edx --> 0x00401087: pushl %ebp
+Not contain: 0x00401087: pushl %ebp --> 0x00401088: pushl %edi
+Not contain: 0x00401088: pushl %edi --> 0x00401089: movl $0x80808080<UINT32>, %ebp
+Not contain: 0x00401089: movl $0x80808080<UINT32>, %ebp --> 0x0040108e: movl (%eax), %edi
+Not contain: 0x0040108e: movl (%eax), %edi --> 0x00401090: addl $0x4<UINT8>, %eax
+Not contain: 0x00401090: addl $0x4<UINT8>, %eax --> 0x00401093: leal -16843009(%edi), %ecx
+Not contain: 0x00401093: leal -16843009(%edi), %ecx --> 0x00401099: notl %edi
+Not contain: 0x00401099: notl %edi --> 0x0040109b: andl %edi, %ecx
+Not contain: 0x0040109b: andl %edi, %ecx --> 0x0040109d: andl %ebp, %ecx
+Not contain: 0x0040109d: andl %ebp, %ecx --> 0x0040109f: jne 0x004010da
+Not contain: 0x0040109f: jne 0x004010da --> 0x004010a1: movl (%eax), %edi
+Not contain: 0x004010a1: movl (%eax), %edi --> 0x004010a3: addl $0x4<UINT8>, %eax
+Not contain: 0x004010a3: addl $0x4<UINT8>, %eax --> 0x004010a6: leal -16843009(%edi), %ecx
+Not contain: 0x004010a6: leal -16843009(%edi), %ecx --> 0x004010ac: notl %edi
+Not contain: 0x004010ac: notl %edi --> 0x004010ae: andl %edi, %ecx
+Not contain: 0x004010ae: andl %edi, %ecx --> 0x004010b0: andl %ebp, %ecx
+Not contain: 0x004010b0: andl %ebp, %ecx --> 0x004010b2: jne 0x004010da
+Not contain: 0x004010b2: jne 0x004010da --> 0x004010b4: movl (%eax), %edi
+Not contain: 0x004010b4: movl (%eax), %edi --> 0x004010b6: addl $0x4<UINT8>, %eax
+Not contain: 0x004010b6: addl $0x4<UINT8>, %eax --> 0x004010b9: leal -16843009(%edi), %ecx
+Not contain: 0x004010b9: leal -16843009(%edi), %ecx --> 0x004010bf: notl %edi
+Not contain: 0x004010bf: notl %edi --> 0x004010c1: andl %edi, %ecx
+Not contain: 0x004010c1: andl %edi, %ecx --> 0x004010c3: andl %ebp, %ecx
+Not contain: 0x004010c3: andl %ebp, %ecx --> 0x004010c5: jne 0x004010da
+Not contain: 0x004010c5: jne 0x004010da --> 0x004010c7: movl (%eax), %edi
+Not contain: 0x004010c7: movl (%eax), %edi --> 0x004010c9: addl $0x4<UINT8>, %eax
+Not contain: 0x004010c9: addl $0x4<UINT8>, %eax --> 0x004010cc: leal -16843009(%edi), %ecx
+Not contain: 0x004010cc: leal -16843009(%edi), %ecx --> 0x004010d2: notl %edi
+Not contain: 0x004010d2: notl %edi --> 0x004010d4: andl %edi, %ecx
+Not contain: 0x004010d4: andl %edi, %ecx --> 0x004010d6: andl %ebp, %ecx
+Not contain: 0x004010d6: andl %ebp, %ecx --> 0x004010d8: je 0x0040108e
+Not contain: 0x004010d8: je 0x0040108e --> 0x0040108e: movl (%eax), %edi
+Not contain: 0x004010d8: je 0x0040108e --> 0x004010da: testl $0x8080<UINT32>, %ecx
+Not contain: 0x004010da: testl $0x8080<UINT32>, %ecx --> 0x004010e0: jne 0x004010e8
+Not contain: 0x004010e0: jne 0x004010e8 --> 0x004010e2: shrl $0x10<UINT8>, %ecx
+Not contain: 0x004010e2: shrl $0x10<UINT8>, %ecx --> 0x004010e5: addl $0x2<UINT8>, %eax
+Not contain: 0x004010e5: addl $0x2<UINT8>, %eax --> 0x004010e8: shlb %cl
+Not contain: 0x004010e8: shlb %cl --> 0x004010ea: sbbl %edx, %eax
+Not contain: 0x004010ea: sbbl %edx, %eax --> 0x004010ec: popl %edi
+Not contain: 0x004010ec: popl %edi --> 0x004010ed: popl %ebp
+Not contain: 0x004010ed: popl %ebp --> 0x004010ee: ret $0x4<UINT16>
+Not contain: 0x004010ee: ret $0x4<UINT16> --> 0x00401054: movl %eax, -12(%ebp)
+Not contain: 0x00401054: movl %eax, -12(%ebp) --> 0x00401057: pushl $0x0<UINT8>
+Not contain: 0x00401057: pushl $0x0<UINT8> --> 0x00401059: leal -8(%ebp), %eax
+Not contain: 0x00401059: leal -8(%ebp), %eax --> 0x0040105c: pushl %eax
+Not contain: 0x0040105c: pushl %eax --> 0x0040105d: pushl -12(%ebp)
+Not contain: 0x0040105d: pushl -12(%ebp) --> 0x00401060: pushl 0x8(%ebp)
+Not contain: 0x00401060: pushl 0x8(%ebp) --> 0x00401063: pushl -4(%ebp)
+Not contain: 0x00401063: pushl -4(%ebp) --> 0x00401066: call 0x004010fe
+Not contain: 0x00401066: call 0x004010fe --> 0x004010fe: jmp WriteFile@kernel32.dll
+Not contain: 0x004010fe: jmp WriteFile@kernel32.dll --> null: 
+Not contain: null:  --> 0x0040106b: movl -8(%ebp), %eax
+Not contain: 0x0040106b: movl -8(%ebp), %eax --> 0x0040106e: leave 
+Not contain: 0x0040106e: leave  --> 0x0040106f: ret $0x4<UINT16>
+Not contain: 0x0040106f: ret $0x4<UINT16> --> 0x00401015: call 0x004010f2
+Not contain: 0x00401015: call 0x004010f2 --> 0x004010f2: jmp ExitProcess@kernel32.dll
+Not contain: 0x004010f2: jmp ExitProcess@kernel32.dll --> null: 
+
+===============================================================================

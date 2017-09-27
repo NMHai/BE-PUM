@@ -1,0 +1,9 @@
+digraph G {
+node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
+bgcolor="transparent"
+a0x00401000movl_0x5UINT32_ebx[label="start\nmovl $0x5<UINT32>, %ebx",color="lightgrey",fillcolor="orange"];
+a0x00401005shll_0x1dUINT8_ebx[label="0x00401005\nshll $0x1d<UINT8>, %ebx"];
+a0x00401008[label="0x00401008",color="lightgrey",fillcolor="lightgrey"];
+a0x00401000movl_0x5UINT32_ebx -> a0x00401005shll_0x1dUINT8_ebx [color="#000000"];
+a0x00401005shll_0x1dUINT8_ebx -> a0x00401008 [color="#000000"];
+}

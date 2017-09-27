@@ -1,0 +1,22 @@
+char,byte
+wchar_t,char
+short,short
+int,int
+bool,boolean
+long long,long
+__int64,long
+float,float
+double,double
+WORD,short
+DWORD,int
+BOOL,boolean
+CHAR,byte
+BYTE,byte
+SHORT,short
+LONG,NativeLong,com.sun.jna.ptr.NativeLong
+LPCTSTR,String
+LPTSTR,String
+LPSTR,String
+LPCTCH,char[]
+PCTCH,char[]
+LPTCH,char[]

@@ -1,0 +1,168 @@
+1E:
+  B8....50:
+    1EB8....50..........83C4081EB8....501EB8....50:
+      0. 00 0000 08E1 0000:_tsk_install_dos 0225:_tsk_remove_dos 032F:_@videntry 036A:_@diskentry 03D6:_@fdiskentry 0477:_@dosentry 068E:_@dosbusy 06A1:_@wait_dos_free 06CB:_@relres 0706:_@schedent 071E:_@idleentry 07A9:_@critsectint 084F:_tsk_emergency_exit 08BB:_tsk_fatal
+    ..........83C40433C08EC0FAA1....26A3....A1....26A3:
+      0. 08 FD44 0117 0000:_tsk_remove_int17 0022:_tsk_install_int17 0054:_@prn_int
+  B9....8ED926807F2800740626384728753F26807F2200740E8A26....2622:
+    0. 11 16E3 0367 0000:_@check_hotkey 00AF:_tsk_install_kbd 0181:_tsk_remove_kbd 01CF:_@hwdentry 0248:_@intercept 028F:_@kbdentry (0335: CF)
+    1. 11 16E3 036A 0000:_@check_hotkey 00AF:_tsk_install_kbd 0181:_tsk_remove_kbd 01CF:_@hwdentry 024A:_@intercept 0292:_@kbdentry (0335: 18)
+2E803E....00740750B020E62058CF2EFE06....2E8C16....2E8926....2E8E:
+  0. 01 CF85 02CC 0000:_@timer_int_late 00DA:_@timer_int_early 01DC:_@tim_install 0221:_@tim_uninstall 0263:_tsk_chain_timer 026B:_tsk_install_timer 02AB:_tsk_remove_timer
+528B16....0BD2741AB00EEEEB00A1....D1E886E042EEEB004AB00FEEEB008A:
+  0. 09 A5C8 07E3 0000:_@setcsr 0025:_@disregen 0142:_@nodis 0143:_@dischar 014E:_@filechar 0182:_@stringchar 018E:_@hexdigbp 01A2:_@hexconv 01C7:_@decconv 01FB:_@getint 0218:_@padleft 0276:_@padright 0299:_@disprintf 050B:_tsk_printf 0526:_tsk_vprintf 053D:_tsk_fprintf 0580:_tsk_vfprintf 05BF:_tsk_sprintf 05E4:_tsk_vsprintf 0605:_tsk_rprintf 0621:_tsk_vrprintf 0639:_tsk_putc 0644:_tsk_puts 0664:_tsk_rputc 0670:_tsk_rputs 0692:_tsk_setpos 06AA:_tsk_set_regen 06D5:_tsk_set_dualdis 0733:_tsk_set_currdis 0777:_tsk_set_colour 07A2:_tsk_set_mono 07CD:_tsk_set_attr 07D8:_tsk_set_clreol
+558BEC:
+  1E57C47E08C55E04268B4D09C55F04F6470880750A394F097305C55F04:
+    0. 66 74C7 015E 0000:_tsk_enqueue 0049:_tsk_putqueue 007C:_tsk_enqtimer 00ED:_tsk_dequeue 0118:_tsk_deqtimer
+  4C4C565733C033D25052B80001501EB8....501EB8....50:
+    0. 0C 50F2 01F0 0086:_init_conout 00EB:_end_conout 0113:_tprintf 018B:_tputs 01C3:_tputch
+  56:
+    807E0E017606807E0E05760733D233C0E9B2008B46040B46067531B8:
+      0. 05 4404 01A4 0000:_tsk_setup_telem 00CC:_enable_watch 0105:_disable_watch 0138:_delete_watch
+    8B:
+      46060B460875:
+        1AC41E....26C45F0826C45F6A268B4734268B5732:
+          0. 06 32DC 02D7 0000:_wake_task 006A:_stop_task 00E4:_get_priority 0112:_set_priority 0192:_set_task_flags 01DF:_set_funcs 0236:_set_user_ptr 0298:_get_user_ptr 02CA:_curr_task
+        31B8120050C41E....26C45F0826C45F6A26FF5F4C:
+          0. 36 E1D8 01B2 0000:_create_ticker 00BA:_delete_ticker 0159:_set_ticker 0180:_get_ticker
+      76040BF67416C41E....26807F2A00740B1EB8....50E8....83C4:
+        0. 20 BFD4 0435 00E9:_killretn 00FE:_tsk_kill_queue 0158:_create_task 0382:_kill_task 03DB:_start_task
+  83:
+    7E04007416C41E....26807F2A00740BB8....1E50E8....83C404C4:
+      0. 1B 9C51 0422 (l)0000:tsk_kill 00E6:_killretn 00FC:_tsk_kill_queue 014E:_create_task 0362:_kill_task 03BE:_start_task
+    EC:
+      02:
+        5756C47E088C5EFEC57604EB0A908A042638057508474626803D:
+          0. E4 8A44 01CA (l)0000:tsk_streq 0050:_find_group_name 00FC:_find_name 0178:_add_event_name
+        807E0E017606807E0E0576082BC0998BE55DC3908B46040B4606:
+          0. 08 6B66 01B8 0000:_tsk_setup_telem 00CC:_enable_watch 010E:_disable_watch 0142:_delete_watch
+        8B46060B460875:
+          1AC41E....26C45F0826C45F6A268B4732268B:
+            0. 08 A492 02EE 0000:_wake_task 0072:_stop_task 00F2:_get_priority 0120:_set_priority 019E:_set_task_flags 01F0:_set_funcs 024C:_set_user_ptr 02AE:_get_user_ptr 02E0:_curr_task
+          32B8120050C41E....26C45F0826C45F6A26FF:
+            0. 36 9E20 01BA 0000:_create_ticker 00B8:_delete_ticker 015C:_set_ticker 0188:_get_ticker
+        C45E06837E04011BC0F7D82688471D837E04007405B002EB0390:
+          0. 33 4D5B 10BE (l)0000:change_rts (l)004A:transmit_ready (l)0120:modem_status_int (l)014C:receive_ready (l)0276:sioint 02E8:_tsk_sio_int (l)0322:v24_chain_remove 032C:_v24_define_port (l)03E8:ret_error 042A:_v24_install 0980:_v24_remove 0C22:_v24_remove_all 0C84:_v24_change_rts 0CBE:_v24_change_dtr 0CF4:_v24_change_baud 0DAA:_v24_change_parity 0DD8:_v24_change_wordlength 0E40:_v24_change_stopbits 0E8E:_v24_watch_modem 0EA0:_v24_protocol 0F48:_v24_send 0F8C:_v24_receive 100E:_v24_overrun 1028:_v24_check 1040:_v24_modem_status 104E:_v24_complete 1070:_v24_wait_complete 108E:_v24_flush_receive 10A6:_v24_flush_transmit
+      04:
+        2BC05050B8....1E50..........83C408FF7606..........83:
+          0. 09 ACCC 00F2 0000:_tsk_alloc 003C:_tsk_calloc 007C:_tsk_free 00B0:_tsk_realloc
+        33C033D250521EB8....50..........83C408FF7606:
+          0. 00 0000 0102 0000:_tsk_alloc 0040:_tsk_calloc 0084:_tsk_free 00BB:_tsk_realloc
+        56:
+          57E8....8BF0C746FC00008946FEC45E0426C7474C....26C7:
+            0. 02 53AF 040D 0000:_tsk_create_group 0150:_tsk_kill_group 02E7:_tsk_remove_group
+          8B:
+            460AA3....B80800501EB8....501EB8....50:
+              0. 03 D427 00F3 0000:_install_tasker 00B5:_remove_tasker
+            7604833E....007E0EA1....3B06....7C05B8FFFFEB528D:
+              0. 19 AEEE 08C1 0863:_snapshot 0889:_csnapshot 0897:_screensnap
+          EB5AFF76FEFF76FCE8....83C40456..........4444C45EFC:
+            0. 11 D34D 0437 00AB:_tsk_install_main 035B:_tsk_remove_chain 03DB:_tsk_remove_tasker
+        807E12017206807E120776:
+          0733D233C0E983008D461C8946FC8C:
+            0. 28 1775 01B9 0000:_create_memory_watch_elem 00A0:_create_memory_watch 010E:_wait_memory (0170: CB)
+            1. 28 1775 01BA 0000:_create_port_watch_elem 00A0:_create_port_watch 010F:_wait_port (0170: 5D)
+          082BC0998BE55DCB908D461C8946FC:
+            0. 29 D024 01C6 0000:_create_memory_watch_elem 00A2:_create_memory_watch 0118:_wait_memory (017A: 5D)
+            1. 29 D024 01C4 0000:_create_port_watch_elem 00A2:_create_port_watch 0118:_wait_port (017A: 90)
+        833E....007E11A1....3906....7C08B8FFFF8BE55DC3908D46:
+          0. 18 DE12 08C6 (l)0000:xprintf (l)007C:sn_wlist (l)0146:dgroup (l)0192:event_group (l)0558:dump_events (l)05B0:task_group (l)078E:dump_tasks (l)0802:ssnap 0866:_snapshot 088C:_csnapshot 089A:_screensnap
+        8B4604BA4902F7EA05....8946FC8C5EFEC45EFC268A470B24EF:
+          0. 19 B2B8 065D 0000:_tsk_prt_int 01D5:_prt_install 03F7:_prt_remove 04B5:_prt_remove_all 04E1:_prt_change_control 0545:_prt_write 0583:_prt_status 05B4:_prt_complete 05F4:_prt_wait_complete 062E:_prt_flush
+        8D46:
+          168946FC8C56FE:
+            8346FC04C45EFC26FF77FE26FF77FC8A46:
+              0. 15 3503 02A6 0000:_create_timer_elem 0082:_enable_timer 00DE:_disable_timer 0112:_create_timer 017C:_delete_timer 01F2:_change_timer
+            8E46FE8346FC048B5EFC26FF77FE26FF77:
+              0. 15 7BF6 029B 0000:_create_timer_elem 007B:_enable_timer 00DE:_disable_timer 0111:_create_timer 0174:_delete_timer 01E0:_change_timer
+          208946FC8C56FE:
+            8346FC04C45EFC26FF77FE26FF77FC8A46:
+              0. 15 5188 0236 0000:_create_hotkey_elem 00A6:_create_hotkey_entry 0126:_wait_hotkey 01E0:_enable_hotkey
+            8E46FE8346FC048B5EFC26FF77FE26FF77:
+              0. 15 3B06 0223 0000:_create_hotkey_elem 009E:_create_hotkey_entry 0118:_wait_hotkey 01D4:_enable_hotkey
+      06:
+        56:
+          C45E04268A472BB400488BD883FB057603E9C500D1E32EFFA7:
+            0. 00 0000 0451 0000:_tsk_timer_action 01F1:_tsk_timer 0438:_tsk_int8
+          EB5A90FF76FEFF76FCE8....83C40456..........83C402C4:
+            0. 13 28E8 0414 (l)0000:tsk_kill 00A2:_tsk_install_main 0338:_tsk_remove_chain 03B4:_tsk_remove_tasker
+        57562BC05050B8000150B8....1E50B8....1E50..........83:
+          0. 0E AC3E 01DC (l)0000:conout 005E:_init_conout 00C8:_end_conout 00F4:_tprintf 0178:_tputs 01B0:_tputch
+        8B460AA3....B8080050B8....1E50B8....1E50..........83:
+          0. 02 D70D 00FA 0000:_install_tasker 00BC:_remove_tasker
+        B84902F76E0405....8946FC8C5EFEC45EFC2680670BEF268B47:
+          0. 1A 91A7 06BA 0000:_tsk_prt_int (l)0044:pr_toggle_strobe (l)0074:pr_ready (l)009C:pr_output_poll (l)0104:pr_output_int (l)01E0:pr_task (l)0224:prt_chain_remove 022E:_prt_install 0432:_prt_remove 04FC:_prt_remove_all 0536:_prt_change_control 05A2:_prt_write 05E0:_prt_status 061A:_prt_complete 0656:_prt_wait_complete 068E:_prt_flush
+      08:
+        C45E04268A472B2AE42D01003D05007603E9D20003C0932EFFA7:
+          0. 00 0000 0428 0000:_tsk_timer_action (l)00F0:tsk_exec_watch 01F0:_tsk_timer 0412:_tsk_int8
+        E8....8946FE8BD02BC08946FA8956FCC45E0426C7474C....26:
+          0. 03 47E0 03F4 0000:_tsk_create_group 014E:_tsk_kill_group 02CC:_tsk_remove_group
+  8B46060B460875:
+    30B8:
+      260050C41E....26C45F0826C45F6A26FF5F4C44:
+        0. 2D B176 0392 0000:_create_resource 008C:_delete_resource 00F4:_request_resource 0182:_c_request_resource 01F4:_request_cresource 0280:_c_request_cresource 02F0:_release_resource 037C:_check_resource
+      280050C41E....26C45F0826C45F6A26FF5F4C44:
+        0. 2D 1E78 0290 0000:_create_mailbox 008E:_delete_mailbox 00F8:_wait_mail 0177:_c_wait_mail 01D2:_send_mail 0277:_check_mailbox
+      2B0050C41E....26C45F0826C45F6A26FF5F4C44:
+        0. 2D 49CB 0238 0000:_create_flag 0093:_delete_flag 00FF:_wait_flag_set 0155:_wait_flag_clear 01AF:_set_flag 01D8:_clear_flag 0207:_clear_flag_wait_set 022C:_check_flag
+      2D0050C41E....26C45F0826C45F6A26FF5F4C44:
+        0. 2D C231 036E 0000:_create_counter 0099:_delete_counter 010B:_clear_counter 0140:_wait_counter_set 01BF:_wait_counter_clear 021C:_inc_counter 0283:_dec_counter 02EB:_check_counter 02FB:_set_counter
+    31B8:
+      260050C41E....26C45F0826C45F6A26FF5F4C83:
+        0. 2B 035E 03AA 0000:_create_resource 0086:_delete_resource 00F2:_request_resource 0188:_c_request_resource 0208:_request_cresource 029C:_c_request_cresource 031A:_release_resource 0398:_check_resource
+      280050C41E....26C45F0826C45F6A26FF5F4C83:
+        0. 2B 38D7 0286 0000:_create_mailbox 008A:_delete_mailbox 00FA:_wait_mail 017C:_c_wait_mail 01D4:_send_mail 026C:_check_mailbox
+      2B0050C41E....26C45F0826C45F6A26FF5F4C83:
+        0. 2B BE77 0254 0000:_create_flag 0092:_delete_flag 0106:_wait_flag_set 0162:_wait_flag_clear 01C4:_set_flag 01F0:_clear_flag 0222:_clear_flag_wait_set 0248:_check_flag
+      2D0050C41E....26C45F0826C45F6A26FF5F4C83:
+        0. 2B 3DDA 0394 0000:_create_counter 0096:_delete_counter 010E:_clear_counter 0144:_wait_counter_set 01C8:_wait_counter_clear 022E:_inc_counter 029C:_dec_counter 030A:_check_counter 031A:_set_counter
+      3E0050C41E....26C45F0826C45F6A26FF5F4C:
+        44:
+          0. 31 83D8 04F2 0000:_create_pipe 011B:_delete_pipe 01C4:_read_pipe 02D0:_c_read_pipe 030C:_write_pipe 03E6:_c_write_pipe 0429:_wait_pipe_empty 0483:_check_pipe 04AB:_pipe_free 04BB:_flush_pipe
+          1. 31 E242 04EC 0000:_create_wpipe 011D:_delete_wpipe 01C6:_read_wpipe 02D2:_c_read_wpipe 030E:_write_wpipe 03DF:_c_write_wpipe 0421:_wait_wpipe_empty 047B:_check_wpipe 04A5:_wpipe_free 04B5:_flush_wpipe
+        83:
+          0. 31 A91F 04D6 0000:_create_pipe 011A:_delete_pipe 01CC:_read_pipe 02BE:_c_read_pipe 02FC:_write_pipe 03BC:_c_write_pipe 0402:_wait_pipe_empty 0464:_check_pipe 048C:_pipe_free 049C:_flush_pipe (0430: E4)
+          1. 31 A91F 04D6 0000:_create_wpipe 011C:_delete_wpipe 01CE:_read_wpipe 02C2:_c_read_wpipe 0300:_write_wpipe 03BE:_c_write_wpipe 0402:_wait_wpipe_empty 0464:_check_wpipe 048C:_wpipe_free 049C:_flush_wpipe (0430: 00)
+    32B8A30050C41E....26C45F0826C45F6A26FF5F4C44:
+      0. 33 8D09 04A6 0000:_create_buffer 011B:_delete_buffer 01B4:_read_buffer 02A9:_c_read_buffer 0351:_write_buffer 03FE:_c_write_buffer 0499:_check_buffer
+    33B8A30050C41E....26C45F0826C45F6A26FF5F4C83:
+      0. 34 CEAB 050C 0000:_create_buffer 0118:_delete_buffer 01B0:_read_buffer 02C8:_c_read_buffer (l)033E:tsk_wrbuf 037E:_write_buffer 045A:_c_write_buffer 04FE:_check_buffer
+  B451CD21538B5E04B450CD21B452CD21268B57FE8B5E048EC226391E01:
+    0. 4B 8925 006B 0000:_tsk_free_mem 0043:_t_read_key 0049:_t_wait_key 0059:_t_keyhit 0064:_tsk_getpsp
+  C45E:
+    0426C64715048B:
+      4604052B00FF760650E8....83C404FF7606FF76:
+        0. 02 6103 0297 0000:_tsk_runable 004C:_tsk_run_pending 0075:_tsk_runable_all 0109:_tsk_wait 018B:_tsk_copy_name 01D5:_tsk_add_name 024F:_tsk_del_name 0271:_tsk_init_qhead
+      C38CC2052B005250E8....83C404FF7606FF7604:
+        0. 01 3E9B 02A2 0000:_tsk_runable 004C:_tsk_run_pending 0074:_tsk_runable_all 0100:_tsk_wait 0184:_tsk_copy_name 01DA:_tsk_add_name 0258:_tsk_del_name 027E:_tsk_init_qhead
+    068B4604F7D81BC0402688471D268A471724FD50837E04007404B0:
+      0. 26 371F 0FBD 02B3:_tsk_sio_int 02F9:_v24_define_port 040B:_v24_install 0938:_v24_remove 0B8C:_v24_remove_all 0BD8:_v24_change_rts 0C09:_v24_change_dtr 0C3A:_v24_change_baud 0CD4:_v24_change_parity 0CF5:_v24_change_wordlength 0D40:_v24_change_stopbits 0D76:_v24_watch_modem 0D87:_v24_protocol 0E48:_v24_send 0E8B:_v24_receive 0F13:_v24_overrun 0F2A:_v24_check 0F41:_v24_modem_status 0F4F:_v24_complete 0F72:_v24_wait_complete 0F8F:_v24_flush_receive 0FA6:_v24_flush_transmit
+  EB06FF4608FF4604C45E0826803F00740B268A07C45E04263A0774E6C4:
+    0. C6 92A2 0198 0038:_find_group_name 00DB:_find_name 014F:_add_event_name
+5657:
+  33C08EC0268E069E01BF0A00BE....B90800F3A67425E9:
+    C700B8034ECD67:
+      0. 0A 9B5D 0118 0000:_tsk_install_ems 00E7:_@ems_savefn 00F8:_@ems_restfn 010A:_@save_ems_tsk
+    ....B8034ECD67:
+      0. 0A 9B5D 0119 0000:_tsk_install_ems 00E7:_@ems_savefn 00F8:_@ems_restfn 010A:_@save_ems_tsk
+  BA....BB3412B80030CD2133C083FBF0732283F9F0731D0BC974198BFB8E:
+    0. 02 C080 0053 0000:_ctask_resident 0039:_link_ctask (0030: CB)
+    1. 02 C080 0054 0000:_ctask_resident 0039:_link_ctask (0030: 00)
+9C:
+  FA2E8F06....2E8F06....2E891E....2E890E....2E892E....8BEC8B5E00:
+    0. 03 C777 012A 0000:_tsk_switch_stack 00B6:_tsk_old_stack 00F2:_@stsw_retn
+  FB80FC90720D80FC9177083C02760A3CFD74069D2EFF2E....9DE8....804E:
+    0. 0B F5A6 0128 0000:_@bios_int 008D:_tsk_remove_bios 00CD:_tsk_install_bios
+C41E....26C6472701CBC41E....26C6472700FA:
+  26807F28007405:
+    0. 05 8A47 021A 0000:_preempt_off 000A:_preempt_on 0022:_tsk_ena_preempt 003C:_tsk_dis_preempt 0046:_t_delay 00CC:_chain_removefunc 0166:_unchain_removefunc 0210:_ticks_per_sec
+  C41E....26807F28007405:
+    0. 00 0000 0234 0000:_preempt_off 000A:_preempt_on 0026:_tsk_ena_preempt 004D:_tsk_dis_preempt 005C:_t_delay 00E5:_chain_removefunc 0187:_unchain_removefunc 022B:_ticks_per_sec
+E8....:
+  33C050E8....83C402FAB020E620CFE8....B8010050E8....83C402FA:
+    0. 06 638B 0038 0000:_tskprt_int0 0012:_tskprt_int1 0025:_tskprt_int2
+  B8020050E8....83C402FAB020E620CFE8....B8030050E8....83C402:
+    0. 07 9A8E 00B3 0000:_tsksio_int2 0013:_tsksio_int3 0026:_tsksio_int4 0039:_tsksio_int5 004C:_tsksio_int7 005F:_tsksio_int10 0074:_tsksio_int11 0089:_tsksio_int12 009E:_tsksio_int15
+FA1E532E8E1E....C51E....807F2A007407C64728015B1FCFFE472A1E53C55F:
+  0. 46 9C6D 0373 0000:_tsk_scheduler 02A1:_sched_int 02D0:_schedule 02D9:_yield 02F0:_c_schedule 02F8:_tsk_callfunc 030A:_tsk_dseg 030D:_tsk_flags 0310:_tsk_dis_int 031B:_tsk_ena_int 0327:_tsk_cli 0329:_tsk_sti 032B:_tsk_inp 0336:_tsk_inpw 033F:_tsk_outp 034B:_tsk_nop 0350:_tsk_memcpy (030C: CB)
+  1. 46 9C6D 0379 0000:_tsk_scheduler 02A1:_sched_int 02D2:_schedule 02DD:_yield 02F6:_c_schedule 02FE:_tsk_callfunc 0310:_tsk_dseg 0313:_tsk_flags 0316:_tsk_dis_int 0321:_tsk_ena_int 032D:_tsk_cli 032F:_tsk_sti 0331:_tsk_inp 033C:_tsk_inpw 0345:_tsk_outp 0351:_tsk_nop 0356:_tsk_memcpy (030C: 01)

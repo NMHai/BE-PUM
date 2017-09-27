@@ -1,0 +1,1307 @@
+2BC0:
+  C3:
+    558BEC:
+      8CD38EC38D5E04E8....8B1E....8B47FE85C0750AC45E0C26C7:
+        0. 20 5FE9 0118 0000:isnan 0003:frexp 0035:ldexp 006F:modf
+      8D5E04E8....8B1E....8B47FE85C075098B5E0CC70700005DC3:
+        0. 16 732D 0106 0000:isnan 0003:frexp 002F:ldexp 0065:modf
+    578B3E....EB:
+      05578B3E....568CDE8EC6268B470288258AF0D1E086E0:
+        0. 3F 264B 07BD 0000:$floats 0003:$flds 000A:$fldp 005A:$fsts 0076:$fst 00D9:$dlis 00FD:$dlds 0108:$dlip 012C:$dldp 0171:$dsts 0189:$dst 01BE:$dpshs 01C7:$dpsh 01D0:$dpopp 01DB:$dpop 01E6:$dswap 01F1:$dng 01F9:$dtst 020A:$dcmp 024A:$dsb 0251:$dad 03CB:$ddv 04F0:$dml 0697:$utod 06B8:$itod 071E:$xtod 074F:$dtou
+      31578CD78EC78B3E....EB26578CDF8EC78B3E....EB1B:
+        0. 07 3077 081A 0000:$floats 0003:$flds 000A:$fldsss 0015:$fldsds 0020:$fldpss 002B:$fldpds 0036:$fldp 0087:$fstss 008D:$fstds 0093:$fstsss 0099:$fstsds 009F:$fsts 00B7:$fst 011A:$dlis 012C:$dldsds 0133:$dldsss 013A:$dlds 0141:$dlip 0152:$dldpss 0158:$dldpds 015E:$dldp 01AA:$dstss 01B0:$dstds 01B6:$dstsss 01BC:$dstsds 01C2:$dsts 01DA:$dst 020B:$dpshs 0218:$dpsh 0225:$dpopp 0234:$dpop 0243:$dswap 024E:$dng 0256:$dtst 0267:$dcmp 02A7:$dsb 02AE:$dad 0428:$ddv 054D:$dml 06F4:$utod 0715:$itod 077B:$xtod 07AC:$dtou
+  CB:
+    558BEC:
+      8CD38EC38D5E06..........8B1E....8B47FE85C0750AC45E0E:
+        0. 21 1F55 012A 0000:isnan 0003:frexp 0037:ldexp 0073:modf
+      8D5E06..........8B1E....8B47FE85C075098B5E0EC7070000:
+        0. 17 7E9A 0118 0000:isnan 0003:frexp 0031:ldexp 0069:modf
+    578B3E....EB:
+      05578B3E....568CDE8EC6268B470288258AF0D1E086E0:
+        0. 3F 36FC 07B9 0000:$floats 0003:$flds 000A:$fldp 005A:$fsts 0078:$fst 00DB:$dlis 00F7:$dlds 0102:$dlip 011E:$dldp 0163:$dsts 017D:$dst 01B2:$dpshs 01BD:$dpsh 01C8:$dpopp 01D5:$dpop 01E2:$dswap 01ED:$dng 01F5:$dtst 0206:$dcmp 0246:$dsb 024D:$dad 03C7:$ddv 04EC:$dml 0693:$utod 06B4:$itod 071A:$xtod 074B:$dtou
+      31578CD78EC78B3E....EB26578CDF8EC78B3E....EB1B:
+        0. 07 3077 081E 0000:$floats 0003:$flds 000A:$fldsss 0015:$fldsds 0020:$fldpss 002B:$fldpds 0036:$fldp 0087:$fstss 008D:$fstds 0093:$fstsss 0099:$fstsds 009F:$fsts 00B9:$fst 011C:$dlis 012A:$dldsds 0131:$dldsss 0138:$dlds 013F:$dlip 014C:$dldpss 0152:$dldpds 0158:$dldp 01A4:$dstss 01AA:$dstds 01B0:$dstsss 01B6:$dstsds 01BC:$dsts 01D6:$dst 0207:$dpshs 0216:$dpsh 0225:$dpopp 0236:$dpop 0247:$dswap 0252:$dng 025A:$dtst 026B:$dcmp 02AB:$dsb 02B2:$dad 042C:$ddv 0551:$dml 06F8:$utod 0719:$itod 077F:$xtod 07B0:$dtou
+2E8C1E....833E....00751B1EB82335CD21891E....8C06....BA....8CC88E:
+  0. 0C 136C 00A1 0000:_sig_setup
+  1. 0C 3336 0082 0000:_sig_setup
+3B:
+  36....774E83FE00724981FFC700774383FF007303E93B0050538A1E....B7:
+    0. 0B 5829 009C 0000:$pnt 002D:mid 0055:ultra 0080:point (0070: C3)
+    1. 0B 5829 009E 0000:$pnt 002D:mid 0055:ultra 0080:point (0070: 5E)
+  F076039687FB7503E9:
+    83002BC6A3....2BDF7503E98800B901007904F7D9F7:
+      0. 03 CFD2 00EC 0000:$inline 00A8:lineto 00CB:line
+    87002BC6A3....2BDF7503E98E00B901007904F7D9F7:
+      0. 03 CFD2 00F8 0000:$inline 00B0:lineto 00D5:line
+558BEC:
+  068B46:
+    0484E4750286E08B56068B4E08CD218CC20725FF005DC3:
+      0. 00 0000 001D 0000:bdos
+    0684E4750286E08B56088B4E0ACD218CC20725FF005DCB:
+      0. 00 0000 001D 0000:bdos
+  168D46:
+    0850FF7606FF7604:
+      B8....50E8....83C40A8BE55DC3:
+        0. 00 0000 001C 0000:printf
+      E8....83C4088BE55DC3:
+        0. 00 0000 0018 0000:execlp (REF 000F: execvp)
+        1. 00 0000 0018 0000:execl (REF 000F: execv)
+        2. 00 0000 0018 0000:fexecl (REF 000F: fexecv)
+    0A50FF7608FF7606:
+      BA....B8....5250..........83C40C8BE5:
+        0. 02 1714 0022 0000:printf
+      ..........83C4088BE55DCB:
+        0. 00 0000 001A 0000:execlp (REF 000F: execvp)
+        1. 00 0000 001A 0000:execl (REF 000F: execv)
+        2. 00 0000 001A 0000:fexecl (REF 000F: fexecv)
+  1E:
+    5657:
+      8CDB8EC3FC8B5E:
+        048E1E....8E1E2C002BF6AC84C074362BFF3C:
+          0. 1E 7726 005A 0000:getenv
+        068E1E....8E1E2C002BF6AC84C074362BFF3C:
+          0. 1E 7726 005A 0000:getenv
+      FCC45E:
+        048E1E....8E1E2C002BF6AC84C074262BFF3C3D75022A:
+          0. 28 AD0D 0048 0000:getenv
+        068E1E....8E1E2C002BF6AC84C074262BFF3C3D75022A:
+          0. 28 E581 0048 0000:getenv
+    5756C576:
+      04C47E08B80029CD2125FF0026807D01207503B8FFFF5E5F:
+        0. 03 869E 0023 0000:fcbinit
+      06C47E0AB80029CD2125FF0026807D01207503B8FFFF5E5F:
+        0. 03 CE12 0023 0000:fcbinit
+    B403B700CD10C55E:
+      048837C6470100C55E088817C64701001F5DC3:
+        0. 00 0000 001F 0000:scr_loc
+      068837C6470100C55E0A8817C64701001F5DCB:
+        0. 00 0000 001F 0000:scr_loc
+    B8:
+      0143C556:
+        048B4E08CD211F7308A3....B8FFFF5DC32BC05DC3:
+          0. 00 0000 001E 0000:chmod
+        068B4E0ACD211F7308A3....B8FFFF5DCB2BC05DCB:
+          0. 00 0000 001E 0000:chmod
+      ....50:
+        E8....83C4048BE55DC3:
+          0. 00 0000 0012 0000:getchar
+        FF76:
+          04E8....83C4068BE55DC3:
+            0. 00 0000 0015 0000:putchar
+          06..........83C4068BE55DCB:
+            0. 00 0000 0017 0000:putchar
+        ..........83C4048BE55DCB:
+          0. 00 0000 0014 0000:getchar
+    C55E:
+      04:
+        8B071F5DC3558BEC1EC55E048A0725FF001F5DC3558BEC1E8B:
+          0. 19 7DFE 0039 0000:peekw 000C:peekb 001B:pokew 002A:poke
+        8D460489078B4600894702897704897F068B46028947082BC0:
+          0. 24 040D 0044 0000:setjmp 0023:longjmp
+      06:
+        8B071F5DCB558BEC1EC55E068A0725FF001F5DCB558BEC1E8B:
+          0. 19 0D69 0039 0000:peekw 000C:peekb 001B:pokew 002A:poke
+        8D460689078B4600894702897704897F068B46028947088B46:
+          0. 2A 3F0C 004A 0000:setjmp 0029:longjmp
+    E8....8E06....:
+      8B7606BF8000B94000F3A58B7608BF5C00B90800F3:
+        0. 45 53DE 017D 0000:exec
+      C57606BF8000B94000F3A5C5760ABF5C00B90800F3:
+        0. 45 BEB6 017D 0000:exec
+    ..........8E06....:
+      8B7608BF8000B94000F3A58B760ABF5C00B908:
+        0. 47 99ED 017F 0000:exec
+      C57608BF8000B94000F3A5C5760CBF5C00B908:
+        0. 47 F9E7 017F 0000:exec
+  33C0:
+    50:
+      50:
+        E8....83C40433C08BE55DC3:
+          0. 00 0000 0013 0000:scr_home
+        ..........83C40433C08BE55DCB:
+          0. 00 0000 0015 0000:scr_home
+      8D5E:
+        04E8....E8....E8:
+          210083C40A8BE55DC3558BECB8010050:
+            0. 04 E1C5 032D 0000:asin 0019:acos 0033:arcsine
+          ....83C408E8....192D4454FB21F93F:
+            0. 01 3E9B 0301 0000:cos 0039:sin (02DD: E9)
+            1. 01 3E9B 02FF 0000:cos 0039:sin (02DD: FD)
+        06..............................83C4:
+          08:
+            0. 08 76FF 03F7 0000:cos 004B:sin (03CC: E9)
+            1. 08 76FF 03F5 0000:cos 004B:sin (03CC: FD)
+          0A8BE55DCB55:
+            0. 09 B87F 041D 0000:asin 001F:acos 003F:arcsine
+    8BE55D:
+      C3558BEC:
+        57568B760433C050E8....59A2....B8010050E8:
+          0. 00 0000 00E2 0000:noper 0009:Croot 00D0:exit
+        83C4FC33C050E8....59A2....B8010050E8:
+          0. 02 B08D 0130 0000:noper 0009:Croot 011E:exit
+      CB558BEC:
+        57568B760633C050..........59A2....B80100:
+          0. 01 FDA2 00F6 0000:noper 0009:Croot 00E2:exit
+        83C4FC33C050..........59A2....B8010050:
+          0. 00 0000 0147 0000:noper 0009:Croot 0133:exit
+  56:
+    1EFCC576:
+      048A46088B4E0AE30DF2AC75094E8BC68CDA1F5E5DC32BD2:
+        0. 06 0561 0026 0000:memchr
+      068A460A8B4E0CE30DF2AC75094E8BC68CDA1F5E5DCB2BD2:
+        0. 06 4DED 0026 0000:memchr
+    57:
+      1E:
+        06:
+          8B5E:
+            088B07FF77028B4F048B57068B77088B7F0A8E470E8E5F:
+              0. 2E E35F 004E 0000:farcall
+            0A8B07FF77028B4F048B57068B77088B7F0A8E470E8E5F:
+              0. 2E 49DD 004E 0000:farcall
+          C55E:
+            088B07FF77028B4F048B57068B77088B7F0A8E470E8E5F:
+              0. 2E BFC0 004E 0000:farcall
+            0A8B07FF77028B4F048B57068B77088B7F0A8E470E8E5F:
+              0. 2E 8C97 004E 0000:farcall
+        C576:
+          04C47E088B4E0CE3158CD88CC23BC275043BFE7409268A05:
+            0. 0B 5803 002B 0000:swapmem
+          06C47E0A8B4E0EE3158CD88CC23BC275043BFE7409268A05:
+            0. 0B 108F 002B 0000:swapmem
+        FC:
+          C47E:
+            04C57608:
+              8A5E0C8B4E0EE313ACAA3AC37404E2F8EB098B:
+                0. 11 663D 0031 0000:memccpy
+              8B4E0C8BD1D1E9E302F3A5F6C2017401A48B46:
+                0. 09 C76D 0029 0000:memcpy
+            06C5760A:
+              8A5E0E8B4E10E313ACAA3AC37404E2F8EB098B:
+                0. 11 07D8 0031 0000:memccpy
+              8B4E0E8BD1D1E9E302F3A5F6C2017401A48B46:
+                0. 09 D743 0029 0000:memcpy
+          C576:
+            04C47E088B4E0CE30AF3A6B8000077087401481F5F5E5D:
+              0. 04 4A92 0024 0000:memcmp
+            06C47E0A8B4E0EE30AF3A6B8000077087401481F5F5E5D:
+              0. 04 9277 0024 0000:memcmp
+      8B46:
+        048B5E068B4E088B560ACD105F5E33C05DC3:
+          0. 00 0000 0019 0000:scr_call
+        068B5E088B4E0A8B560CCD105F5E33C05DCB:
+          0. 00 0000 0019 0000:scr_call
+      8CDF8EC78B76:
+        048B7E068B4E08E30D3BFE7409268A058604AA46E2:
+          0. 05 0203 0025 0000:swapmem
+        068B7E088B4E0AE30D3BFE7409268A058604AA46E2:
+          0. 05 4A8F 0025 0000:swapmem
+      9CFF363000FF362E001E062E8C16....2E8926....8B46:
+        06A3:
+          0. 08 3F4A 0076 0000:fexec
+        08A3:
+          0. 08 8F79 0076 0000:fexec
+          1. 04 A50F 0072 0000:fexec
+        0AA3:
+          0. 04 755B 0072 0000:fexec
+      FC8CDF8EC78B:
+        76:
+          048B7E068B4E08E30AF3A6B8000077077401485F:
+            0. 06 47F8 0026 0000:memcmp
+          068B7E088B4E0AE30AF3A6B8000077077401485F:
+            0. 06 9F1D 0026 0000:memcmp
+        7E:
+          048B7606:
+            8A5E088B4E0AE310ACAA3AC37404E2F8:
+              0. 0E 2665 002E 0000:memccpy
+            8B4E088BD1D1E9E302F3A5F6C2017401:
+              0. 08 144C 0028 0000:memcpy
+          068B7608:
+            8A5E0A8B4E0CE310ACAA3AC37404E2F8:
+              0. 0E 8237 002E 0000:memccpy
+            8B4E0A8BD1D1E9E302F3A5F6C2017401:
+              0. 08 D4D6 0028 0000:memcpy
+    837E:
+      04007505C74604....B8....50FF7604E8....83C404B8....50:
+        0. 04 2B63 0060 0000:tmpnam
+      06007505C74606....B8....50FF7606..........83C404B8:
+        0. 00 0000 0068 0000:tmpnam
+    8B:
+      36....85F675:
+        30B8040150B8....50FF7604E8....83C4068BF085:
+          0. 05 0CFA 00C7 0000:__tty_rd 0065:__tty_wr
+        32B8040150B8....50FF7606..........83C4068B:
+          0. 07 7F3F 00D1 0000:__tty_rd 0069:__tty_wr
+        35B80401501EB8....50FF7604E8....83C4088BF0:
+          0. 06 D1D3 00FF 0000:__tty_rd 0071:__tty_wr
+        37B80401501EB8....50FF7606..........83C408:
+          0. 08 F25C 0109 0000:__tty_rd 0075:__tty_wr
+      46:
+        04A3....8D460850FF7606B8....50E8....83C4068BF08B1E:
+          0. 00 0000 0043 0000:sprintf
+        06A3....8D460A50FF7608BA....B8....5250..........83C4:
+          0. 05 8365 0049 0000:sprintf
+      56:
+        068B46048916....A3....168D460C50FF760AFF7608B8....50:
+          0. 01 3E9B 0051 0000:sprintf
+        088B46068916....A3....168D460E50FF760CFF760ABA....B8:
+          0. 00 0000 0057 0000:sprintf
+      76:
+        04:
+          803C0074:
+            1A8BDE468A079850E8....593DFFFF7508B8FFFF5E:
+              0. 0B 2A9E 0030 0000:puts
+            1FFF76068BDE468A079850E8....83C4043DFFFF75:
+              0. 0F 262E 002F 0000:fputs
+          81E6FF0083FE207C1733C050B8010050FF36....8BC60D0009:
+            0. 02 F6B7 003E 0000:scr_putc
+          83:
+            7C040074055E8BE55DC3837E0600740D8B4606894404C744:
+              0. 14 02EC 0034 0000:setbuf
+            FE0A751DFF7608FF7606B80D0050E8....83C4063DFFFF75:
+              0. 11 1E4F 0038 0000:aputc
+          FF76:
+            0656E8....83C4043D00007D08B8FFFF5E8BE55DC3FF76:
+              0. 09 92D7 003C 0000:putw
+            08FF760656E8....83C4063D00007D08B8FFFF5E8BE55D:
+              0. 0F 8C83 0042 0000:putw
+        06:
+          803C0074:
+            1C8BDE468A079850..........593DFFFF7508B8FF:
+              0. 0C 57EE 0034 0000:puts
+            21FF76088BDE468A079850..........83C4043DFF:
+              0. 11 C068 0031 0000:fputs
+          81E6FF0083FE207C1933C050B8010050FF36....8BC60D0009:
+            0. 01 FDA2 0042 0000:scr_putc
+          83:
+            7C040074055E8BE55DCB837E0800740D8B4608894404C744:
+              0. 14 02EC 0034 0000:setbuf
+            FE0A751FFF760AFF7608B80D0050..........83C4063DFF:
+              0. 12 EEAB 003C 0000:aputc
+          8B:
+            043B440272138B460425FF005056E8A50083C4045E8BE55D:
+              0. 15 1F5C 0176 0000:putc 004E:fclose 00BE:flsh_
+            46043DFFFF74078B043B44047708B8FFFF5E8BE55DC38B46:
+              0. 0C 8FE7 002C 0000:ungetc
+          FF76:
+            0856..........83C4043D00007D08B8FFFF5E8BE55DCB:
+              0. 0A CF62 0040 0000:putw
+            0AFF760856..........83C4063D00007D08B8FFFF5E8B:
+              0. 10 C456 0046 0000:putw
+        088B:
+          043B440272158B460625FF005056..........83C4045E8B:
+            0. 17 32E7 0190 0000:putc 0052:fclose 00CC:flsh_
+          46063DFFFF74078B043B44047708B8FFFF5E8BE55DCB8B46:
+            0. 0C 8C50 002C 0000:ungetc
+    8D76:
+      048064077F8D5E04E8....5E8BE55DC3:
+        0. 00 0000 0016 0000:fabs
+      068064077F8D5E06..........5E8BE55DCB:
+        0. 00 0000 0018 0000:fabs
+    BE....807C0600741283C60D81FE....720733C05E8BE55D:
+      C3EBE88B:
+        0. 13 2D04 006C 0000:newstream 0023:getbuff
+      CBEBE88B:
+        0. 12 7DCA 0070 0000:newstream 0023:getbuff
+    C45E:
+      04268B07268B5702263B570672087509263B47047303E9840026:
+        0. 28 100E 00BF 0000:getc
+      06268B07268B5702263B570672087509263B47047303E9880026:
+        0. 27 8C4F 00C3 0000:getc
+    E8....8BF085F6750733C05E8BE55DC3:
+      56FF7606FF7604E8050083C4:
+        0. 0C 6FAE 0085 0000:fopen 0023:freopen
+      8B4604884407C64406018BC6:
+        0. 02 9D3E 0022 0000:fdopen
+    FC8B76:
+      048A46068B4E08E30AF2AC75064E8BC65E5DC32BC05E5DC3:
+        0. 00 0000 001F 0000:memchr
+      068A46088B4E0AE30AF2AC75064E8BC65E5DCB2BC05E5DCB:
+        0. 00 0000 001F 0000:memchr
+    FF76:
+      06FF7604E8....83C4048BF08BC63DFFFF742981E67F008BC6EB:
+        0. 26 92C1 0046 0000:agetc
+      08FF7606..........83C4048BF08BC63DFFFF742981E67F008B:
+        0. 28 8439 0048 0000:agetc
+    ..........8BF085F6750733C05E8BE55DCB:
+      56FF7608FF7606:
+        0. 00 0000 008F 0000:fopen 0027:freopen
+      8B4606884407C6440601:
+        0. 04 3CFC 0024 0000:fdopen
+  57:
+    56:
+      1E069CFC8B4E:
+        0CC47E08C5760483F9047501FA85C97505B90080EB:
+          0. 16 F9FB 0036 0000:movblock
+        0EC47E0AC5760683F9047501FA85C97505B90080EB:
+          0. 16 B177 0036 0000:movblock
+      33C050:
+        E8....598BF0B8....5056E8....83C4048BF885FF750756:
+          0. 01 3E9B 0052 0000:tmpfile
+        FF76:
+          06FF7604E8....83C4068BF08BC63DFFFF7509B8FFFF:
+            0. 23 2363 005E 0000:utime
+          08FF7606..........83C4068BF08BC63DFFFF7509B8:
+            0. 24 8C5C 0066 0000:utime
+        ..........598BF0B8....5056..........83C4048BF885:
+          0. 04 C260 0060 0000:tmpfile
+      8B:
+        46:
+          04:
+            84E4750286E08B5E068B4E088B560A8B7E0C8B760ECD2173:
+              0. 02 06CC 002B 0000:dos
+            F766068BF056E8....598BF885FF740B33C0505657E8:
+              0. 0B DD42 002B 0000:calloc
+          06:
+            84E4750286E08B5E088B4E0A8B560C8B7E0E8B7610CD2173:
+              0. 02 06CC 002B 0000:dos
+            F766088BF056..........598BF885FF740D33C0505657:
+              0. 00 0000 002F 0000:calloc
+          08F7660A8BF833F63BF77328FF760EFF760CC45E0483460401:
+            0. 06 C30C 0040 0000:fwrite
+          0AF7660C8BF833F63BF7732AFF7610FF760EC45E0683460601:
+            0. 05 A36C 0042 0000:fwrite
+          0E3D0400750CC45E04268B37268B7F02EB218B46083D00007E:
+            0. 51 8B72 0389 00B7:format (0317: FF) (REF 01C9: .)
+            1. 51 8B72 03EB 00B7:format (0317: 46) (REF 01C9: .)
+          103D0400750CC45E06268B37268B7F02EB218B460A3D00007E:
+            0. 50 A92C 03FF 00BB:format (0324: 1F) (REF 01CA: .)
+            1. 50 A92C 0395 00BB:format (0324: FF) (REF 01CA: .)
+        76:
+          04:
+            56E8....59:
+              03F08B3E....4E803C58751A8BC7B90A002BD2:
+                0. 2A BDC5 0085 0000:mktemp
+              8BF88BC73DFFFF742681E77F008BC7EB0F804C:
+                0. 20 66AC 0040 0000:agetc
+            803E....007508E8....C606....0183EE018BC63D00007C:
+              0. 08 DA9D 0048 0000:signal
+            8B:
+              043B44027254F64406187409B8FFFF5E5F8BE55DC38064:
+                0. 0A F818 006F 0000:getc
+              7E0683:
+                FE0A751957B80D0050E8....83C4043DFFFF7509:
+                  0. 0C 26D5 0033 0000:aputc
+                FF507C03BF4F0083FE197C03BE18008BC686E02A:
+                  0. 0D 71D0 003A 0000:scr_curs
+            E8....8BF88BC73DFFFF740E83FF0A74098BC78BDE468807:
+              0. 1C D548 003C 0000:gets
+          06:
+            56..........59:
+              03F08B3E....4E803C58751A8BC7B90A00:
+                0. 2B 6883 008B 0000:mktemp
+              8BF88BC73DFFFF742681E77F008BC7EB0F:
+                0. 22 3270 0042 0000:agetc
+            8B:
+              043B44027258F64406187409B8FFFF5E5F8BE55DCB8064:
+                0. 09 47C5 0073 0000:getc
+              7E0883:
+                FE0A751B57B80D0050..........83C4043DFFFF:
+                  0. 0D F06A 0037 0000:aputc
+                FF507C03BF4F0083FE197C03BE18008BC686E02A:
+                  0. 0C D903 003C 0000:scr_curs
+            ..........8BF88BC73DFFFF740E83FF0A74098BC78BDE46:
+              0. 1E 593F 003E 0000:gets
+        7E:
+          04FF4E067E1EFF7608E8....598BF08BC63DFFFF740E8BC68B:
+            0. 25 AC56 0045 0000:fgets
+          06FF4E087E20FF760A..........598BF08BC63DFFFF740E8B:
+            0. 27 466F 0047 0000:fgets
+      8C:
+        D88EC08B46:
+          0484E4750286E08B5E068B4E088B560A8B7E0C8B76:
+            0. 06 3BC6 002F 0000:dos
+          0684E4750286E08B5E088B4E0A8B560C8B7E0E8B76:
+            0. 06 29BD 002F 0000:dos
+        DF8EC78B76:
+          048B7E06B80029CD2125FF0026807D01207503B8FF:
+            0. 05 451F 0025 0000:fcbinit
+          068B7E08B80029CD2125FF0026807D01207503B8FF:
+            0. 05 0D93 0025 0000:fcbinit
+      A1....8B16....8BF08BFAB90400D3C28BDA81E3F0FF81E20F0003:
+        0. 32 821B 00FC 0000:sbrk 006C:brk
+        1. 6A D25C 00FA 0000:sbrk 006A:brk
+      C45E:
+        0426803F20740626803F09750683460401EBEB33FFC45E0426:
+          0. 28 2FE1 007C 0000:atoi (REF 0048: .)
+        0626:
+          803F20740626803F09750683460601EBEB33FFC45E0626:
+            0. 28 EF1D 007C 0000:atoi (REF 0048: .)
+          8B07268B5702263B570672087508263B47047302EB198B:
+            0. 42 DA8C 0280 0000:putc 0084:fclose 0148:flsh_
+        08268B07268B5702263B570672087508263B47047302EB1B8B:
+          0. 0C B4DA 029A 0000:putc 0088:fclose 0156:flsh_
+      FF76:
+        04E8....598BF08BC63DFFFF7410FF7604E8....598BF88BC7:
+          0. 18 6FB2 0038 0000:getw
+        06:
+          FF7604E8....83C4048BF08BC63DFFFF7415FF7606FF7604:
+            0. 01 3E9B 0042 0000:getw
+          ..........598BF08BC63DFFFF7412FF7606..........59:
+            0. 1C 47F2 003C 0000:getw
+        08FF7606..........83C4048BF08BC63DFFFF7417FF7608FF:
+          0. 02 65CE 0046 0000:getw
+    8B46:
+      048B3E....03C750E80C005985C075028BC75F85C05DC3558BEC:
+        0. 08 14F7 00AE 0000:sbrk 001D:brk 00A1:rsvstk
+      068B3E....03C750..........5985C075028BC75F85C05DCB55:
+        0. 0A 5D35 00B0 0000:sbrk 001F:brk 00A3:rsvstk
+    FC:
+      8CDF8EC78B7E:
+        048A46068AE08B4E088BD1D1E9E302F3ABF6C20174:
+          0. 08 E8F0 0028 0000:memset
+        068A46088AE08B4E0A8BD1D1E9E302F3ABF6C20174:
+          0. 08 D645 0028 0000:memset
+      C47E:
+        048A46088AE08B4E0A8BD1D1E9E302F3ABF6C2017401AA8B46:
+          0. 07 DD90 0027 0000:memset
+        068A460A8AE08B4E0C8BD1D1E9E302F3ABF6C2017401AA8B46:
+          0. 07 6C85 0027 0000:memset
+  81C4:
+    36FF33C050FF76:
+      06FF7604E8....83C4068946F43DFFFF7507B8FF:
+        0. 13 5A4A 011F 0000:execv
+      08FF7606..........83C4068946F43DFFFF7507:
+        0. 14 3081 012C 0000:execv
+    3EFF575633C050FF76:
+      04E8....83C4048946FC3DFFFF7509B8FFFF:
+        0. 13 7B94 00DE 0000:execv
+      06..........83C4048946FC3DFFFF7509B8:
+        0. 14 35C5 00E8 0000:execv
+    54FF8D8675FF8C56FE8946FCC746F60100C45E:
+      0826837F02007504:
+        0. 3A DC46 00E4 0000:fexecv
+      0A26837F02007504:
+        0. 3C DE21 00ED 0000:fexecv
+    5CFF57568DB67DFFC746FE01008B5E:
+      06833F00745E834606028B5E:
+        0. 1A F053 00A5 0000:fexecv
+      08833F007462834608028B5E:
+        0. 19 6BED 00AB 0000:fexecv
+    6CFF8D8670FF8C966EFF89866CFF8B46:
+      0848F7660A0346048B5606:
+        0. 9F A696 021B 0000:qsort
+      0A48F7660C0346068B5608:
+        0. 9E 9AEA 021D 0000:qsort
+    6DFF57568B76:
+      068B7E08C746F800008B4604A3....8BDE468A0798:
+        0. 20 E4BD 054D 0000:scanfmt 0365:skipblank 0394:getflt 043A:getnum (REF 03C5: .)
+        1. 20 E627 0441 0000:scanfmt 02FF:skipblank 032E:getnum (REF 030E: .)
+      0A8B7E0CC746F800008B56088B46068916....A3:
+        0. 00 0000 056E 0000:scanfmt 0384:skipblank 03B3:getflt 0459:getnum (0435: 8B) (REF 03E4: .)
+        1. 00 0000 0456 0000:scanfmt 0312:skipblank 0341:getnum (0435: FE) (REF 0321: .)
+    6FFF575633FF8B:
+      4604A3....C45E0683460601268A07988BF085F6:
+        0. 1B 4521 047B 0000:scanfmt 0336:skipblank 0365:getnum (REF 0345: .)
+        1. 1B CE91 05BF 0000:scanfmt 03AB:skipblank 03DA:getflt 04A9:getnum (REF 0413: .)
+      56088B46068916....A3....C45E0A83460A0126:
+        0. 22 05F8 0491 0000:scanfmt 034A:skipblank 0379:getnum (REF 0359: .)
+        1. 22 932D 05E1 0000:scanfmt 03CB:skipblank 03FA:getflt 04C9:getnum (REF 0433: .)
+    7AFFB80037CD212AF68916....1EB8....50:
+      E8....83C4048956FE:
+        0. 0D B40E 0085 0000:system
+      ..........83C40489:
+        0. 0F BE2B 008F 0000:system
+    7EFF56B80037CD212AF68916....B8....50:
+      E8....598BF085F675:
+        0. 02 DA79 006D 0000:system
+      ..........598BF085:
+        0. 04 970F 0077 0000:system
+  83:
+    C4:
+      B8FF76:
+        0AFF7608FF7606FF76041EB8....50E8820083C40C1EB8:
+          0. 00 0000 0176 0000:execvp
+        0CFF760AFF7608FF76061EB8....50..........83C40C1E:
+          0. 01 BBC9 0192 0000:execvp
+      BA57568D46BC8946BA8B46:
+        0648F766080346048946FC8B46FC2B46:
+          0. 49 09DF 0101 0000:qsort
+        0848F7660A0346068946FC8B46FC2B46:
+          0. 48 B2E7 0103 0000:qsort
+      C05756FF76:
+        06FF7604B8....50E8560083C406B8....50E8....59:
+          0. 5A FFA6 011F 0000:execvp
+        08FF7606B8....50..........83C406B8....50:
+          0. 00 0000 013B 0000:execvp
+      D1168D46D550B81A0050:
+        E8....83C406B8F7FF50FF7606FF7604B8:
+          0. 04 9AFC 00D9 0000:access
+        ..........83C406B8F7FF50FF7608FF76:
+          0. 05 4334 00E6 0000:access
+      D5:
+        168D46D550B81A0050:
+          E8....83C406B8F7FF50FF7606FF7604B8:
+            0. 04 9AFC 0064 0000:stat
+          ..........83C406B8F7FF50FF7608FF76:
+            0. 05 4334 0068 0000:stat
+        56:
+          8B76:
+            068D46D550B81A0050E8....83C404B8F7FF50FF7604B8:
+              0. 04 9AFC 0057 0000:stat
+            088D46D550B81A0050..........83C404B8F7FF50FF76:
+              0. 05 4334 005B 0000:stat
+          8D46D550B81A0050:
+            E8....83C404B8F7FF50FF7604B84E0050:
+              0. 01 3E9B 00B4 0000:access
+            ..........83C404B8F7FF50FF7606B84E:
+              0. 02 C25D 00BE 0000:access
+      DE8D5E:
+        04E8....E8....4E621058392E8640E8....7E15C706:
+          0. 03 A211 01FB 0000:exp
+        06....................4E621058392E8640:
+          0. 04 DDE3 0295 0000:exp
+      E68D5E:
+        04E8....8D5EF8E8....C746E600008D5E04E8....E8:
+          0. 09 A1DA 037F 0000:sinh 0235:cosh
+        06..........8D5EF8..........C746E600008D5E06:
+          0. 00 0000 049A 0000:sinh 02E8:cosh
+      E88D5E:
+        04E8....E8....E8....83C4088D5EF8E8....8D5EF8E8:
+          0. 00 0000 01D5 0000:tanh
+        06..............................83C4088D5EF8:
+          0. 00 0000 0274 0000:tanh
+      EE8D5E:
+        04E8....E8....0000000000000000E8....750A8D5E04E8:
+          0. 00 0000 0182 0000:sqrt (0160: A0)
+          1. 00 0000 0181 0000:sqrt (0160: FE)
+        06....................0000000000000000:
+          0. 05 A6B4 01FC 0000:sqrt (01D5: 2E)
+          1. 05 A6B4 01FB 0000:sqrt (01D5: FE)
+      F4:
+        8D5E:
+          0CE8....E8....0000000000000000E8....75388D5E04E8:
+            0. 00 0000 037B 0000:atan2 013E:atan (0358: E5)
+            1. 00 0000 0379 0000:atan2 013C:atan (0358: C3)
+          0E....................0000000000000000:
+            0. 05 530C 0485 0000:atan2 018E:atan (045D: E5)
+            1. 05 530C 0483 0000:atan2 018C:atan (045D: CB)
+        C45E:
+          04268B47FC268B57FE25FEFF81E2FFFF8956FA8946F8FF76:
+            0. 0B 174C 03C7 0000:realloc 0113:malloc 0381:free
+          06268B47FC268B57FE25FEFF81E2FFFF8956FA8946F8FF76:
+            0. 0A 811A 03DF 0000:realloc 0121:malloc 0399:free
+      F8:
+        57568B7E:
+          0C8B46:
+            0E408946F8C746FE00008D5E04E8....E8:
+              0. 09 A1DA 01CD 0000:ftoa
+            10408946F8C746FE00008CD38EC38D5E04E8:
+              0. 00 0000 01EE 0000:ftoa
+          0E8B46:
+            10408946F8C746FE00008D5E06:
+              0. 00 0000 01FD 0000:ftoa
+            12408946F8C746FE00008CD38EC38D5E06:
+              0. 00 0000 021E 0000:ftoa
+        8D5E:
+          04E8....E8....:
+            0000000000000000E8....7F648D5E04E8:
+              0. 00 0000 0112 0000:pow
+            E8....83C4088D5EF8E8....8D5EF8E8:
+              0. 00 0000 032B 0000:cotan 0087:tan (0309: B4)
+              1. 00 0000 032A 0000:cotan 0087:tan (0309: FD)
+          06....................:
+            0000000000000000:
+              0. 08 10B2 015A 0000:pow
+            ..........83C4088D5EF8:
+              0. 00 0000 0419 0000:cotan 00A9:tan (03F7: FE)
+              1. 00 0000 0418 0000:cotan 00A9:tan (03F7: FC)
+        BA0000B800005250:
+          E8....83C4048956FE8946FC1EB8....50FF:
+            0. 06 57F9 0096 0000:tmpfile
+          ..........83C4048956FE8946FC1EB8:
+            0. 07 93AB 00A4 0000:tmpfile
+      FC:
+        168D46FC50168D46FE50:
+          E8....83C408:
+            33C050B8:
+              19002B46FEB9:
+                0. 0C 973F 003E 0000:scr_eos
+              50002B46FC50:
+                0. 02 32A4 0034 0000:scr_eol
+            B84F18508B46FE86E02A:
+              0. 03 22AB 0046 0000:scr_ldelete (0009: 06)
+              1. 03 22AB 0046 0000:scr_linsert (0009: 07)
+          ..........83C408:
+            33C050B8:
+              19002B46:
+                0. 0E E3A0 0042 0000:scr_eos
+              50002B46:
+                0. 04 5734 0038 0000:scr_eol
+            B84F18508B46FE86:
+              0. 05 82DA 004C 0000:scr_ldelete (0009: 06)
+              1. 05 82DA 004C 0000:scr_linsert (0009: 07)
+        56:
+          8B:
+            46:
+              04F766068BF056E8....598956FE8946FC0BD0741033C0:
+                0. 09 550B 0039 0000:calloc
+              06F766088BF056..........598956FE8946FC0BD07412:
+                0. 0A E50A 003D 0000:calloc
+            56:
+              068B46048956FE8946FC:
+                E8....8BF08BC63DFFFF741383:
+                  0. 41 D041 0061 0000:gets
+                FF4E087E28FF760CFF760AE8:
+                  0. 00 0000 006F 0000:fgets
+              088B46068956FE8946FC:
+                FF4E0A7E2AFF760EFF760C:
+                  0. 00 0000 0071 0000:fgets
+                ..........8BF08BC63DFFFF74:
+                  0. 43 7560 0063 0000:gets
+            76:
+              06803E....00750A..........C606....0183EE018BC6:
+                0. 0C BFF1 0065 0000:signal
+              088B460A3D040075108B5E048B078B57028956FE8946FC:
+                0. 63 4503 0349 00BA:format (02C5: FF) (REF 01B2: .)
+                1. 63 4503 03AD 00BA:format (02C5: 19) (REF 01B2: .)
+              0A8B460C3D040075108B5E068B078B57028956FE8946FC:
+                0. 62 45ED 032F 00BE:format (02AC: FF) (REF 01A0: .)
+                1. 62 45ED 039A 00BE:format (02AC: 46) (REF 01A0: .)
+          C45E:
+            042680670CF726F6470C04741EB8FFFF50FF7606FF7604:
+              0. 01 3E9B 0114 0000:fseek 00A6:ftell
+            062680670CF726F6470C047420B8FFFF50FF7608FF7606:
+              0. 00 0000 011A 0000:fseek 00AA:ftell
+        5756:
+          168D46FC50168D46FE50:
+            E8....83C408:
+              8B7EFC83FF4F7348:
+                0. 08 C000 009E 0000:scr_cdelete
+              BF4F003B7EFC7648:
+                0. 08 9821 0091 0000:scr_cinsert
+            ..........83C408:
+              8B7EFC83FF4F:
+                0. 09 B834 00AE 0000:scr_cdelete
+              BF4F003B7EFC:
+                0. 09 801C 009F 0000:scr_cinsert
+          8B:
+            56:
+              068B46048956FE8946FCFF76FEFF76FCE8....83C404:
+                0. 0E 34F1 00C9 0000:mktemp
+              088B46068956FE8946FCFF76FEFF76FC..........83:
+                0. 10 3B45 00CF 0000:mktemp
+            76:
+              04:
+                80:
+                  3C207405803C09750346EBF333FF803C2D7506BF:
+                    0. 1C 3BC2 0099 0000:atol (REF 003C: .)
+                  6406F7F6440604741AB8FFFF5056E8....83C404:
+                    0. 40 68F5 00D3 0000:fseek 007C:ftell
+                8B44FE25FEFF8946FE2BC68946FC3B4606760B8B46:
+                  0. 25 62B8 0187 0000:realloc 0069:malloc 0164:free
+                C746FE00008B46FE3B46087D368B46068946FC837E:
+                  0. 08 076D 0053 0000:fread
+              06:
+                80:
+                  3C207405803C09750346EBF333FF803C2D7506BF:
+                    0. 1C 3BC2 0099 0000:atol (REF 003C: .)
+                  6406F7F6440604741CB8FFFF5056..........83:
+                    0. 41 4323 00D9 0000:fseek 0080:ftell
+                8B44FE25FEFF8946FE2BC68946FC3B4608760B8B46:
+                  0. 0A A10B 018F 0000:realloc 006F:malloc 016C:free
+                C746FE00008B46FE3B460A7D388B46088946FC837E:
+                  0. 07 A1E2 0055 0000:fread
+          8D46FC508D46FE50:
+            E8....83C404:
+              8B7EFC83FF4F73488BC7:
+                0. 06 B19E 009C 0000:scr_cdelete
+              BF4F003B7EFC76488BC7:
+                0. 06 E9BF 008F 0000:scr_cinsert
+            ..........83C404:
+              8B7EFC83FF4F7350:
+                0. 07 6F0F 00AC 0000:scr_cdelete
+              BF4F003B7EFC7650:
+                0. 07 4F55 009D 0000:scr_cinsert
+          C45E:
+            0426803F20740626803F09750683460401EBEB33F6C4:
+              0. 33 5FF6 00B5 0000:atol (REF 0053: .)
+            0626803F20740626803F09750683460601EBEB33F6C4:
+              0. 33 D8E5 00B5 0000:atol (REF 0053: .)
+        837E:
+          06007504837E040075088C5E06C74604....1EB8....50FF:
+            0. 06 198E 0090 0000:tmpnam
+          08007504837E060075088C5E08C74606....1EB8....50FF:
+            0. 05 1503 0098 0000:tmpnam
+        8C5EFEC746FC....C45EFC26807F0C00741B8346FC158B56FE8B:
+          0. 03 AD29 00A6 0000:newstream 003B:getbuff (0082: C9)
+          1. 03 AD29 00AA 0000:newstream 003B:getbuff (0082: 89)
+        8D46:
+          048C56FE8946FCC45EFC268067077F8D5E04E8....8BE55D:
+            0. 01 EF04 0021 0000:fabs
+          068C56FE8946FCC45EFC268067077F8D5E06..........8B:
+            0. 03 80ED 0023 0000:fabs
+          FC508D46FE50:
+            E8....83C404:
+              33C050B8:
+                19002B46FEB95000:
+                  0. 0A 897E 003C 0000:scr_eos
+                50002B46FC50FF36:
+                  0. 00 0000 0032 0000:scr_eol
+              B84F18508B46FE86E02AC050:
+                0. 01 FB44 0044 0000:scr_ldelete (0009: 06)
+                1. 01 FB44 0044 0000:scr_linsert (0009: 07)
+            ..........83C404:
+              33C050B8:
+                19002B46FEB9:
+                  0. 0C 973F 0040 0000:scr_eos
+                50002B46FC50:
+                  0. 02 32A4 0036 0000:scr_eol
+              B84F18508B46FE86E02A:
+                0. 03 22AB 004A 0000:scr_ldelete (0009: 06)
+                1. 03 22AB 004A 0000:scr_linsert (0009: 07)
+        E8....8956FE8946FC0BD0750ABA0000B800008BE55DC3:
+          8B4604:
+            0. 17 A194 0037 0000:fdopen
+          FF76FE:
+            0. 25 171C 00C5 0000:fopen 0037:freopen
+        FF76:
+          06FF7604E8....83C4048956FE8946FCFF76FEFF76FCE8:
+            0. 00 0000 0028 0000:ctime
+          08FF7606..........83C4048956FE8946FCFF76FEFF76FC:
+            0. 00 0000 002C 0000:ctime
+        ..........8956FE8946FC0BD0750ABA0000B800008BE55DCB:
+          8B:
+            0. 19 E1A1 0039 0000:fdopen
+          FF:
+            0. 11 B8CF 00CF 0000:fopen 003B:freopen
+      FE:
+        5756:
+          8B:
+            5E:
+              0480BF....00750FC706....1400B8FFFF5E5F8BE55D:
+                0. 0B 3369 019F 0000:ioctl 0126:raw_rd
+                1. 0E 66AF 01CB 0000:ioctl 0142:raw_rd
+              0680BF....00750FC706....1400B8FFFF5E5F8BE55D:
+                0. 0B 735F 01C3 0000:ioctl 0146:raw_rd
+                1. 0E C9F6 01EF 0000:ioctl 0162:raw_rd
+            76:
+              04:
+                803C207405803C09750346EBF3C746FE0000803C2D:
+                  0. 19 D083 006A 0000:atoi (REF 0039: .)
+                8B4606F766088946FE33FF3B7EFE7320FF760A8BDE:
+                  0. 06 728B 0040 0000:fwrite
+              06:
+                33C050FF7604E8....83C4048BF88BC73DFFFF7509:
+                  0. 19 FF03 0056 0000:utime
+                803C207405803C09750346EBF3C746FE0000803C2D:
+                  0. 19 D083 006A 0000:atoi (REF 0039: .)
+                8B4608F7660A8946FE33FF3B7EFE7322FF760C8BDE:
+                  0. 05 10CD 0042 0000:fwrite
+              0833C050FF7606..........83C4048BF88BC73DFFFF:
+                0. 1A F623 005E 0000:utime
+          C746FE00008B46FE3B46:
+            0A7D398B7E0885FF742DFF760EFF:
+              0. 03 2B52 0053 0000:fread
+            0C7D3B8B7E0A85FF742FFF7610FF:
+              0. 02 2D42 0055 0000:fread
+        C746FE0000837E:
+          04007519FF7606E8....5989460485C0750633:
+            0. 15 0DDC 0055 0000:getcwd
+          060075:
+            04837E04007520FF7608E8....598956:
+              0. 25 5C1E 0071 0000:getcwd
+            1BFF7608..........5989460685C075:
+              0. 16 936C 005B 0000:getcwd
+          08007504837E06007522FF760A..........59:
+            0. 26 CE0B 0077 0000:getcwd
+        FF76:
+          04E8....598946FE50E8....598BE55DC3:
+            0. 00 0000 0019 0000:ctime
+          06..........598946FE50..........598BE55DCB:
+            0. 00 0000 001D 0000:ctime
+    EC:
+      025756:
+        8CDF8EC78B7E:
+          048A053C2074043C09750347EBF33C2D7507:
+            0. 18 5DC3 00FA 0000:atof
+          068A053C2074043C09750347EBF33C2D7507:
+            0. 17 FAB6 010E 0000:atof
+        C47E:
+          04268A053C2074043C09750347EBF23C2D750747C646:
+            0. 15 AB97 0103 0000:atof
+          06268A053C2074043C09750347EBF23C2D750747C646:
+            0. 14 CCF5 0117 0000:atof
+      0E5657061EC646F6CD8A46:
+        048846F7C746F88CCDC746FA8ED5C646:
+          0. 61 0CD7 0081 0000:sysint
+          1. 5E 13E4 007E 0000:sysint
+        068846F7C746F88CCDC746FA8ED5C646:
+          0. 61 5975 0081 0000:sysint
+          1. 5E A187 007E 0000:sysint
+  8A46:
+    042AE43C617C063C7A7F022C205DC3558BEC8A46042AE43C417C06:
+      0. 08 CEC6 0028 0000:toupper 0014:tolower
+    062AE43C617C063C7A7F022C205DCB558BEC8A46062AE43C417C06:
+      0. 08 864A 0028 0000:toupper 0014:tolower
+  8B:
+    16....A1....5092BB7D00F7E38BC858F7E303D18916....A3....BB:
+      0. 05 15B4 0090 0000:ran 006A:randl
+      1. 06 A6DC 007E 0000:ran 0062:randl
+    46:
+      04:
+        3DFFFF741AC45E06268B07268B5702263B570A77087508263B47:
+          0. 21 40D3 0041 0000:ungetc
+        84E4750286E080FC0A72:
+          27570680FC4775088B56088B7606EB06:
+            0. 0E C9E5 0042 0000:_sys
+          29571E0680FC4775088B560AC57606EB:
+            0. 10 542E 0044 0000:_sys
+        8B:
+          5606B90400D3C28BDA81E3F0FF81E20F0003C383D2005DC355:
+            0. 20 B5BA 0040 0000:ptrtoabs 001F:abstoptr
+          5E068B4E088B560ACD105DC3:
+            0. 00 0000 0013 0000:scr_call
+        A3....:
+          33C08BE55DC3:
+            0. 00 0000 000F 0000:scr_echo
+          8B4606A3....5DC3558BEC8B4E04890E....8B56068916:
+            0. 00 0000 01CD 0000:set_asp 0011:circle (01AC: C3)
+            1. 00 0000 01D1 0000:set_asp 0011:circle (01AC: 5F)
+          8D460850FF7606B8....50E8....83C4068BE55DC3558B:
+            0. 03 BBC1 0032 0000:fprintf
+          C606....008D460850FF7606B8....50E8....83C4068B:
+            0. 0E ED56 0066 0000:sscanf
+          C706....00008D460850FF7606B8....50E8....83C406:
+            0. 0F CBC0 0061 0000:fscanf
+        EB67B8030050E8....59E99100A1....A3....C706....0600C7:
+          0. 01 4E95 016C 0000:mode 00A6:color 0121:palette 0154:ground (014A: C3)
+          1. 01 4E95 016E 0000:mode 00A6:color 0123:palette 0156:ground (014A: E5)
+      06:
+        2B:
+          460A1BD2B90400D1E0D1D2E2FA03460483D2002B460883DA00:
+            0. 04 C87A 0024 0000:_ptrdiff
+          D2B90400D1E0D1D2E2FA03460483D20003460813560A8BD8B9:
+            0. 13 9413 0033 0000:_ptradd
+        3DFFFF741AC45E08268B07268B5702263B570A77087508263B47:
+          0. 21 5146 0041 0000:ungetc
+        84E4750286E080FC0A72:
+          27570680FC4775088B560A8B7608EB06:
+            0. 0E A73C 0042 0000:_sys
+          29571E0680FC4775088B560CC57608EB:
+            0. 10 41B2 0044 0000:_sys
+        8B:
+          5608B90400D3C28BDA81E3F0FF81E20F0003C383D2005DCB55:
+            0. 20 1298 0040 0000:ptrtoabs 001F:abstoptr
+          5E088B4E0A8B560CCD105DCB:
+            0. 00 0000 0013 0000:scr_call
+        A3....:
+          33C08BE55DCB:
+            0. 00 0000 000F 0000:scr_echo
+          8B4608A3....5DCB558BEC8B4E06890E....8B56088916:
+            0. 00 0000 01CD 0000:set_asp 0011:circle (01AC: C3)
+            1. 00 0000 01D1 0000:set_asp 0011:circle (01AC: 5F)
+          8D460A50FF7608BA....B8....5250..........83C408:
+            0. 09 939C 003A 0000:fprintf
+          C606....008D460A50FF7608BA....B8....5250:
+            0. 00 0000 006C 0000:sscanf
+          C706....00008D460A50FF7608BA....B8....5250:
+            0. 00 0000 006B 0000:fscanf
+        EB70B8030050..........59E99E00A1....A3....C706....06:
+          0. 03 5824 0181 0000:mode 00B5:color 0130:palette 0167:ground (015D: CB)
+          1. 03 5824 0183 0000:mode 00B5:color 0132:palette 0169:ground (015D: E5)
+      082B:
+        460C1BD2B90400D1E0D1D2E2FA03460683D2002B460A83DA00:
+          0. 04 80F6 0024 0000:_ptrdiff
+        D2B90400D1E0D1D2E2FA03460683D20003460A13560C8BD8B9:
+          0. 13 DC9F 0033 0000:_ptradd
+    56:
+      04EC25FF005DC3558BEC8B5604ED5DC3558BEC8B56048A4606EE5D:
+        0. 0D 769C 002D 0000:inport 000C:inportw 0015:outport 0021:outportw
+      06:
+        8B46048916....A3....:
+          168D460C50FF760AFF7608B8....50E8:
+            0. 00 0000 0041 0000:fprintf
+          C606....00168D460C50FF760AFF7608:
+            0. 01 BBC9 0076 0000:sscanf
+          C706....0000168D460C50FF760AFF76:
+            0. 02 44F8 007A 0000:fscanf
+        EC25FF005DCB558BEC8B5606ED5DCB558BEC8B56068A4608EE5D:
+          0. 0D AFA4 002D 0000:inport 000C:inportw 0015:outport 0021:outportw
+      088B46068916....A3....:
+        168D460E50FF760CFF760ABA....B8:
+          0. 00 0000 0049 0000:fprintf
+        C606....00168D460E50FF760CFF760A:
+          0. 01 A9EA 007C 0000:sscanf
+        C706....0000168D460E50FF760CFF76:
+          0. 02 E6E8 0084 0000:fscanf
+    5E:
+      04:
+        1E8B56068B4E088CC88ED8B43FCD211F7306A3....B8FFFF5DC3:
+          0. 00 0000 0020 0000:_csread
+        8B470A056C0750FF37FF7702FF7704FF77068B4708D1E0D1E005:
+          0. 00 0000 0043 0000:asctime
+        8D460489078B4600894702897704897F068B46028947082BC05D:
+          0. 26 75A3 0046 0000:setjmp 0021:longjmp
+        B4448A46063C0074:
+          2A3C0174343C067D1D8B56088B4E0ACD2173:
+            0. 02 06CC 005A 0000:_ioctl
+          2C3C0174373C067D1F1EC556088B4E0CCD21:
+            0. 04 7B21 005E 0000:_ioctl
+        B80044CD21720FF6C280740AF6C2037405B801005DC32BC05DC3:
+          0. 00 0000 0020 0000:isatty
+      06:
+        1EC556088B4E0CB43FCD211F7306A3....B8FFFF5DCB:
+          0. 00 0000 001C 0000:_csread
+        8B470A056C0750FF37FF7702FF7704FF77068B4708D1E0D1E005:
+          0. 00 0000 0045 0000:asctime
+        8D460689078B4600894702897704897F068B46028947088B4604:
+          0. 2C D0AA 004C 0000:setjmp 0027:longjmp
+        B4448A46083C0074:
+          2A3C0174343C067D1D8B560A8B4E0CCD2173:
+            0. 02 06CC 005A 0000:_ioctl
+          2C3C0174373C067D1F1EC5560A8B4E0ECD21:
+            0. 04 7B21 005E 0000:_ioctl
+        B80044CD21720FF6C280740AF6C2037405B801005DCB2BC05DCB:
+          0. 00 0000 0020 0000:isatty
+  8CDB8EC38B5E:
+    04268C0F268C5702268C5F04268C47065DC3:
+      0. 00 0000 001B 0000:segread
+    068B4604268907268C5702268C5F04268C47065DCB:
+      0. 00 0000 001E 0000:segread
+  8D:
+    46:
+      0650FF7604:
+        B8....50E8....83C4068BE55DC3:
+          0. 00 0000 0018 0000:printf
+        E8....83C4048BE55DC3:
+          0. 00 0000 0014 0000:execlp (REF 000B: execvp)
+          1. 00 0000 0014 0000:execl (REF 000B: execv)
+          2. 00 0000 0014 0000:fexecl (REF 000B: fexecv)
+      0850FF7606:
+        BA....B8....5250..........83C4088BE55DCB:
+          0. 00 0000 001E 0000:printf
+        ..........83C4048BE55DCB:
+          0. 00 0000 0016 0000:execlp (REF 000B: execvp)
+          1. 00 0000 0016 0000:execl (REF 000B: execv)
+          2. 00 0000 0016 0000:fexecl (REF 000B: fexecv)
+    5E:
+      04E8....E8....:
+        0000000000000000E8....7D198D5E04E8....E8:
+          0. 00 0000 00C3 0000:floor 004D:ceil (009E: E8)
+          1. 00 0000 00C5 0000:floor 004E:ceil (009E: 5E)
+        E8150083C408E8....0EE526157BCBDB3FE8:
+          0. 0E 0C08 0240 0000:log10 0024:log (0210: 11)
+          1. 0E 0C08 023F 0000:log10 0024:log (0210: FE)
+      06....................:
+        0000000000000000..........7D238D:
+          0. 02 9623 0101 0000:floor 0066:ceil (00D5: 8D)
+          1. 02 9623 00FF 0000:floor 0065:ceil (00D5: 06)
+        ..........83C408..........0EE526:
+          0. 05 E896 02F8 0000:log10 002E:log (02D1: 6B)
+          1. 05 E896 02F7 0000:log10 002E:log (02D1: FD)
+  9BDBE39BDD46:
+    049B:
+      D9E49BDD3E....8A26....9E730A9BD9E0C706:
+        0. 07 F435 0027 0000:sqrt
+      E8....5DC3558BEC9BDBE39BD9E89BD9E09BDD4604:
+        0. 06 EC62 0084 0000:isnan 0010:frexp 004C:ldexp 005F:modf (005D: C3)
+        1. 06 EC62 0087 0000:isnan 0010:frexp 004E:ldexp 0061:modf (005D: DE)
+    069B:
+      D9E49BDD3E....8A26....9E730A9BD9E0C706:
+        0. 07 BCB9 0027 0000:sqrt
+      ..........5DCB558BEC9BDBE39BD9E89BD9E09BDD:
+        0. 08 9D36 0086 0000:isnan 0012:frexp 004E:ldexp 0061:modf (005D: CB)
+        1. 08 9D36 0089 0000:isnan 0012:frexp 0050:ldexp 0063:modf (005D: DE)
+  9CFC:
+    5657:
+      1EC576:
+        04C47E088B4E0C8CC08CDA3BC275173BFE741F7211FD:
+          0. 22 3A2C 0042 0000:movmem
+        06C47E0A8B4E0E8CC08CDA3BC275173BFE741F7211FD:
+          0. 22 72A0 0042 0000:movmem
+      8CDF8EC78B76:
+        048B7E068B4E088CC08CDA3BC275173BFE741F:
+          0. 24 8C17 0044 0000:movmem
+        068B7E088B4E0A8CC08CDA3BC275173BFE741F:
+          0. 24 C49B 0044 0000:movmem
+    57:
+      8CDF8EC78B7E:
+        048B:
+          4E068A46088AE08BD1D1E97402F3ABF6C201:
+            0. 07 FCD6 0027 0000:setmem
+          D72BC0B9FF7FF2AE8BCF2BCA4F8A4606FDF2:
+            0. 10 DC28 0030 0000:strrchr
+        068B:
+          4E088A460A8AE08BD1D1E97402F3ABF6C201:
+            0. 07 B45A 0027 0000:setmem
+          D72BC0B9FF7FF2AE8BCF2BCA4F8A4608FDF2:
+            0. 10 2889 0030 0000:strrchr
+      C47E:
+        048B:
+          4E088A460A8AE08BD1D1E97402F3ABF6C2017401AA5F:
+            0. 03 D227 0023 0000:setmem
+          D72BC0B9FF7FF2AE8BCF2BCA4F8A4608FDF2AE74082B:
+            0. 10 A238 0030 0000:strrchr
+        068B:
+          4E0A8A460C8AE08BD1D1E97402F3ABF6C2017401AA5F:
+            0. 03 9AAB 0023 0000:setmem
+          D72BC0B9FF7FF2AE8BCF2BCA4F8A460AFDF2AE74082B:
+            0. 10 C3DD 0030 0000:strrchr
+  A1....3D00007C063B06....7E07B8FFFF8BE55D:
+    C3837E:
+      04007411FF76:
+        0. 02 E451 004B 0000:perror
+      06007504837E:
+        0. 0C D7B3 005E 0000:perror
+    CB837E:
+      06007413FF76:
+        0. 02 5462 004F 0000:perror
+      08007504837E:
+        0. 0C A3E6 0062 0000:perror
+  B4:
+    03B700CD108B5E:
+      048837C64701008B5E068817C64701005DC3:
+        0. 00 0000 001D 0000:scr_loc
+      068837C64701008B5E088817C64701005DCB:
+        0. 00 0000 001D 0000:scr_loc
+    2ACD2181E9BC078BC1B109D3E080E60F80E21FB103D2E2D3EA0BC250:
+      0. 29 45DD 0049 0000:time
+      1. 2D AF8D 004D 0000:time
+      2. 29 B653 0049 0000:time
+      3. 2D D615 004D 0000:time
+    39:
+      1EC556:
+        04CD211F7306A3....B8FFFF5DC3558BECB43AEBE8558BEC:
+          0. 04 10BB 0024 0000:mkdir 0016:rmdir 001D:chdir
+        06CD211F7306A3....B8FFFF5DCB558BECB43AEBE8558BEC:
+          0. 04 10BB 0024 0000:mkdir 0016:rmdir 001D:chdir
+      8B56:
+        04CD217306A3....B8FFFF5DC3558BECB43AEBEA558BECB43B:
+          0. 02 E3D7 0022 0000:mkdir 0014:rmdir 001B:chdir
+        06CD217306A3....B8FFFF5DCB558BECB43AEBEA558BECB43B:
+          0. 02 E3D7 0022 0000:mkdir 0014:rmdir 001B:chdir
+    3F8B5E:
+      04EB2E558BECB4408B5E04EB24558BECB43FEB05558BECB440:
+        0. 05 4BDB 00BC 0000:_read 000A:_write 0014:read 001B:write 004C:close 0064:lseek 0083:unlink 009D:rename (0094: C0)
+        1. 05 4BDB 00BA 0000:_read 000A:_write 0014:read 001B:write 004A:close 0062:lseek 0081:unlink 0099:rename (0094: C3)
+      06EB2E558BECB4408B5E06EB24558BECB43FEB05558BECB440:
+        0. 05 F36E 00BC 0000:_read 000A:_write 0014:read 001B:write 004C:close 0064:lseek 0083:unlink 009D:rename (0094: C0)
+        1. 05 F36E 00BA 0000:_read 000A:_write 0014:read 001B:write 004A:close 0062:lseek 0081:unlink 0099:rename (0094: CB)
+    458B5E:
+      04CD217306A3....B8FFFF5DC3558BEC8B4E06B446EBE7:
+        0. 00 0000 001E 0000:dup 0014:fdup
+      06CD217306A3....B8FFFF5DCB558BEC8B4E08B446EBE7:
+        0. 00 0000 001E 0000:dup 0014:fdup
+    578A46:
+      048B5E068B4E088B560ACD21730AA3....B8FFFF8BD05DC3F6:
+        0. 0D DE96 002D 0000:ftime
+      068B5E088B4E0A8B560CCD21730AA3....B8FFFF8BD05DCBF6:
+        0. 0D 2D18 002D 0000:ftime
+  B8:
+    01438B56:
+      048B4E06CD217308A3....B8FFFF5DC32BC05DC3:
+        0. 00 0000 001C 0000:chmod
+      068B4E08CD217308A3....B8FFFF5DCB2BC05DCB:
+        0. 00 0000 001C 0000:chmod
+    0700837E:
+      04007403B87000A3....33C08BE55DC3:
+        0. 00 0000 0018 0000:scr_invers
+      06007403B87000A3....33C08BE55DCB:
+        0. 00 0000 0018 0000:scr_invers
+    ....50:
+      E8....598BE55DC3:
+        0. 00 0000 000F 0000:getchar
+      FF76:
+        04E8....83C4048BE55DC3:
+          0. 00 0000 0014 0000:putchar
+        06..........83C4048BE55DCB:
+          0. 00 0000 0016 0000:putchar
+      ..........598BE55DCB:
+        0. 00 0000 0011 0000:getchar
+  B9FF7FEB06558BEC8B4E:
+    08FC56578B76048CDF8EC78B7E06ACAE750A84:
+      0. 14 B743 0034 0000:strcmp 0008:strncmp
+    0AFC56578B76068CDF8EC78B7E08ACAE750A84:
+      0. 14 5B49 0034 0000:strcmp 0008:strncmp
+    0CFC56571EC57604C47E08ACAE750B84C0E0F8:
+      0. 12 7C13 0032 0000:strcmp 0008:strncmp
+    0EFC56571EC57606C47E0AACAE750B84C0E0F8:
+      0. 12 9019 0032 0000:strcmp 0008:strncmp
+  BAFF7FEB06558BEC8B56:
+    08FC56578CDF8EC78B7E042BC0B9FF7FF2AE4F:
+      0. 17 C16A 0037 0000:strcat 0008:strncat
+    0AFC56578CDF8EC78B7E062BC0B9FF7FF2AE4F:
+      0. 17 2853 0037 0000:strcat 0008:strncat
+    0CFC56571EC47E042BC0B9FF7FF2AE4FC57608:
+      0. 18 CB18 0038 0000:strcat 0008:strncat
+    0EFC56571EC47E062BC0B9FF7FF2AE4FC5760A:
+      0. 18 CE8C 0038 0000:strcat 0008:strncat
+  C45E:
+    0426:
+      803F0074:
+        1B83460401268A079850E8....593DFFFF7507B8FF:
+          0. 0C 934C 0031 0000:puts
+        23FF760AFF760883460401268A079850E8....83C4:
+          0. 13 EDD9 0033 0000:fputs
+      837F0A00750526837F080074048BE55DC3837E0A007504837E:
+        0. 3C BCC7 005C 0000:setbuf
+      8B470A056C075026FF3726FF770226FF770426FF77061E268B:
+        0. 07 2886 0050 0000:asctime
+      8C0F268C5702268C5F04268C47065DC3:
+        0. 00 0000 0017 0000:segread
+    06:
+      26:
+        803F0074:
+          1D83460601268A079850..........593DFFFF7507:
+            0. 0D 8C46 0035 0000:puts
+          25FF760CFF760A83460601268A079850:
+            0. 15 B6D9 0035 0000:fputs
+        837F0A00750526837F080074048BE55DCB837E0C007504837E:
+          0. 3C 9241 005C 0000:setbuf
+        8B470A056C075026FF3726FF770226FF770426FF77061E268B:
+          0. 07 2886 0052 0000:asctime
+      8B4604268907268C5702268C5F04268C47065DCB:
+        0. 00 0000 001A 0000:segread
+  C706....0000:
+    168D46:
+      0850FF7606FF7604B8....50E8....83C40A8BE5:
+        0. 0D 985B 0063 0000:scanf
+      0A50FF7608FF7606BA....B8....5250:
+        0. 00 0000 006D 0000:scanf
+    8D46:
+      0650FF7604B8....50E8....83C4068BE55DC3558B:
+        0. 09 7CBB 005B 0000:scanf
+      0850FF7606BA....B8....5250..........83C408:
+        0. 0F BCAB 0065 0000:scanf
+  E8....33C050B8D00750FF36....B8200950E8....83C40833C08BE55D:
+    0. 01 EF04 0021 0000:scr_clear
+  FC:
+    56:
+      1EC576:
+        048A5E08AC:
+          3AC3740C84C075F72BD22BC01F5E5DC38BC68C:
+            0. 06 F875 0026 0000:strchr
+          84C0740D3AC375F78BC68CDA481F5E5DC32BD2:
+            0. 06 0561 0026 0000:index
+        068A5E0AAC:
+          3AC3740C84C075F72BD22BC01F5E5DCB8BC68C:
+            0. 06 B0F9 0026 0000:strchr
+          84C0740D3AC375F78BC68CDA481F5E5DCB2BD2:
+            0. 06 4DED 0026 0000:index
+      57:
+        1E:
+          8B4E:
+            0CC47E04C57608E30CAC84C07405AAE2F8EB02F3AA1F5F:
+              0. 09 D882 0029 0000:strncpy
+            0EC47E06C5760AE30CAC84C07405AAE2F8EB02F3AA1F5F:
+              0. 09 DD16 0029 0000:strncpy
+          C47E:
+            04C57608ACAA84C075FA1F5F5E8B46048B56065DC3:
+              0. 00 0000 001E 0000:strcpy
+            06C5760AACAA84C075FA1F5F5E8B46068B56085DCB:
+              0. 00 0000 001E 0000:strcpy
+        8B4E:
+          088CDF8EC78B7E048B7606E30CAC84C07405AAE2F8EB02F3:
+            0. 08 A7AE 0028 0000:strncpy
+          0A8CDF8EC78B7E068B7608E30CAC84C07405AAE2F8EB02F3:
+            0. 08 5797 0028 0000:strncpy
+        8CDF8EC78B7E:
+          048B7606ACAA84C075FA5F5E8B46045DC3:
+            0. 00 0000 001D 0000:strcpy
+          068B7608ACAA84C075FA5F5E8B46065DCB:
+            0. 00 0000 001D 0000:strcpy
+      8B76:
+        048A5E06AC:
+          3AC3740984C075F72BC05E5DC38BC6485E5DC3:
+            0. 00 0000 001F 0000:strchr
+          84C0740A3AC375F78BC6485E5DC32BC05E5DC3:
+            0. 00 0000 001F 0000:index
+        068A5E08AC:
+          3AC3740984C075F72BC05E5DCB8BC6485E5DCB:
+            0. 00 0000 001F 0000:strchr
+          84C0740A3AC375F78BC6485E5DCB2BC05E5DCB:
+            0. 00 0000 001F 0000:index
+    57:
+      8CDF8EC78B7E:
+        048BDF2BC0B9FF7FF2AE8BC72BC3485F5DC3:
+          0. 00 0000 001D 0000:strlen
+        068BDF2BC0B9FF7FF2AE8BC72BC3485F5DCB:
+          0. 00 0000 001D 0000:strlen
+      C47E:
+        048BDF2BC0B9FF7FF2AE8BC72BC3485F5DC3:
+          0. 00 0000 0019 0000:strlen
+        068BDF2BC0B9FF7FF2AE8BC72BC3485F5DCB:
+          0. 00 0000 0019 0000:strlen
+  FF76:
+    04E80500598BE55DC3558BEC83C4FC8B5E048B078B57028956FE89:
+      0. 0B 68B4 00BD 0000:gmtime 000E:localtime
+    06:
+      B8010350FF7604E8070083C4068BE55DC3558BEC57568B7E0681:
+        0. 19 B8E8 00A9 0000:creat 0017:open
+      FF7604E8070083C4048BE55DC3558BEC83C4FCC45E04268B0726:
+        0. 12 644A 00C6 0000:gmtime 0013:localtime
+      ..........598BE55DCB558BEC83C4FC8B5E068B078B57028956:
+        0. 0D 2B2F 00BF 0000:gmtime 0010:localtime
+    08:
+      B8010350FF7606:
+        FF7604E8070083C4088BE55DC3558BEC57568B:
+          0. 1F 027B 00B2 0000:creat 001A:open
+        ..........83C4068BE55DCB558BEC57568B7E:
+          0. 1A 9B8B 00B5 0000:creat 0019:open
+      FF7606..........83C4048BE55DCB558BEC83C4FCC45E06268B:
+        0. 14 BE05 00C8 0000:gmtime 0015:localtime
+    0AB8010350FF7608FF7606..........83C4088BE55DCB558BEC57:
+      0. 20 5545 00BE 0000:creat 001C:open
+  ..........33C050B8D00750FF36....B8200950..........83C40833:
+    0. 05 3742 0025 0000:scr_clear
+572BFF85D27908F7DAF7D883DA004785DB790BF7DBF7D983DB0081F70100E8:
+  39:
+    0. 98 9474 00B8 0000:$longs 002E:$lrm 0052:$lum 005A:$lud
+  3D:
+    0. 9C 7602 00BC 0000:$longs 002E:$lrm 0052:$lum 005A:$lud
+5B:
+  0706268B0F83C302E30A263B07740983C304E2F626FF37CB26FF7702CB:
+    0. 00 0000 001E 0000:$swt
+  2E8B0F83C302E30A2E3B07740983C304E2F62EFF37C32EFF7702C3:
+    0. 00 0000 001C 0000:$swt
+  558BEC03E05756FFD35E5F8BE55DC3:
+    0. 00 0000 0010 0000:$csav 000A:$cret
+  57:
+    068CCF8EC78BFB8BD9D1E3FCF2AF268B49FC075FFFE1:
+      0. 00 0000 0018 0000:$cswt
+    56558BEC03E0FFD38BE55D5E5FC3:
+      0. 00 0000 0010 0000:$sav 000A:$ret
+    8CCF8EC78BFB8BD9D1E3FCF2AF268B49FC5FFFE1:
+      0. 00 0000 0016 0000:$cswt
+  8CC20706268B0F83C302E30A263B07740B83C304E2F626FF378EC2CB26FF77:
+    0. 04 9A58 0024 0000:$swt
+83:
+  3E....00740B1EC516....B82325CD211F:
+    C3:
+      0. 00 0000 0013 0000:_sigfix
+    CB:
+      0. 00 0000 0013 0000:_sigfix
+  C4FEB42CCD218956FE8AC598BB3C00F7E3938AC1989303C3BB3C00F7E3938A:
+    0. 24 A4CC 0061 0000:clock
+9BD9E59BDD3E....9B8A26....80E44780FC01741280FC02740D80FC05740C80:
+  0. 17 05DA 0289 0000:$floats 0030:$flds 003A:$fldsss 0044:$fldsds 004D:$fldp 0055:$fldpss 005D:$fldpds 0064:$fst 006A:$fsts 0089:$fstss 008F:$fstds 00AD:$fstsss 00CC:$fstsds 00D1:$dlis 00EF:$dldsss 00F6:$dldsds 0100:$dlds 0119:$dlip 0128:$dldpss 0130:$dldpds 0137:$dldp 013F:$dsts 0160:$dst 0166:$dstss 016C:$dstds 0171:$dstsss 0190:$dstsds 01AE:$dpsh 01BC:$dpshs 01CA:$dpopp 01D7:$dpop 01E4:$dswap 01F2:$dng 01F6:$dtst 020D:$dcmp 022C:$dsb 0232:$dad 0238:$ddv 023E:$dml 0244:$utod 0256:$itod 0262:$xtod 0272:$dtou
+  1. 1B 4C3F 01B2 0000:$floats 0030:$flds 003E:$fldp 004A:$fst 0054:$fsts 0077:$dlis 0090:$dlds 00A3:$dlip 00B0:$dldp 00BC:$dsts 00DB:$dst 00E5:$dpsh 00EE:$dpshs 00F7:$dpopp 0102:$dpop 010D:$dswap 011B:$dng 011F:$dtst 0136:$dcmp 0155:$dsb 015B:$dad 0161:$ddv 0167:$dml 016D:$utod 017F:$itod 018B:$xtod 019B:$dtou
+  2. 1B A906 01CD 0000:$floats 0030:$flds 003E:$fldp 004A:$fst 0054:$fsts 0077:$dlis 0095:$dlds 00A8:$dlip 00BB:$dldp 00C7:$dsts 00E8:$dst 00F2:$dpsh 0100:$dpshs 010E:$dpopp 011B:$dpop 0128:$dswap 0136:$dng 013A:$dtst 0151:$dcmp 0170:$dsb 0176:$dad 017C:$ddv 0182:$dml 0188:$utod 019A:$itod 01A6:$xtod 01B6:$dtou
+  3. 17 A95A 0272 0000:$floats 0030:$flds 003A:$fldsss 0044:$fldsds 004D:$fldp 0055:$fldpss 005D:$fldpds 0064:$fst 006A:$fsts 0089:$fstss 008F:$fstds 00AD:$fstsss 00CC:$fstsds 00D1:$dlis 00EA:$dldsss 00F1:$dldsds 00FB:$dlds 0114:$dlip 0121:$dldpss 0129:$dldpds 0130:$dldp 0138:$dsts 0157:$dst 015D:$dstss 0163:$dstds 0168:$dstsss 0187:$dstsds 01A5:$dpsh 01AE:$dpshs 01B7:$dpopp 01C2:$dpop 01CD:$dswap 01DB:$dng 01DF:$dtst 01F6:$dcmp 0215:$dsb 021B:$dad 0221:$ddv 0227:$dml 022D:$utod 023F:$itod 024B:$xtod 025B:$dtou
+B4:
+  00CD16E8:
+    2000803E....00740A3D8000730550E8....58C3B401CD167504B8:
+      0. 22 7B86 0042 0000:scr_getc 0019:scr_poll
+    2200803E....00740C3D8000730750..........58CBB401CD1675:
+      0. 24 4BCC 0044 0000:scr_getc 001B:scr_poll
+  4DCD217302F7D8:
+    C3:
+      0. 00 0000 0009 0000:wait
+    CB:
+      0. 00 0000 0009 0000:wait
+BD....85ED75:
+  028CDD2E8C1E....8B1E02002BDD81FB0010760F8D9E00108CC0:
+    0. 0E EF35 014E 0000:$begin 0143:_exit (011C: FF)
+    1. 0E EF35 0150 0000:$begin 0145:_exit (011C: 21)
+  06B8FD00E9:
+    E7002E8C1E....8EC5268C1E....268B1E....BD:
+      0. 00 0000 00FD 0000:$begin 00F2:_exit
+    E9002E8C1E....8EC5268C1E....268B1E....BD:
+      0. 00 0000 00FF 0000:$begin 00F4:_exit
+F7DAF7D883DA00C33BD3750E3BC1740A77052BC048F9C32BC040C303C113D3C3:
+  0. 4E 0297 006E 0000:$olongs 0008:$lcmp 001B:$lad 0020:$lsb 0025:$lan 002A:$lor 002F:$lxr 0034:$lcm 0039:$lls 0045:$lrs 0051:$lur 005D:$lml
+FFFF1E003A00590077009600B400D300F20010012F014D01558BEC0656B42ACD:
+  0. 54 447C 00A1 0018:dostime
+  1. 4B 4EE1 0093 0018:dostime
+  2. 4B 55F9 0093 0018:dostime
+  3. 54 B5FC 00A1 0018:dostime
