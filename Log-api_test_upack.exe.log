@@ -1,6 +1,0 @@
-================== DEBUG ==================
-Start analyzing file with BE-PUM
-Parsing main module asm/virus/api_test_upack.exe...
-MS-DOS executables are not supported.
--- Reading image import descriptors....
-IOException while parsing ImageImportDescriptor ! BinaryInputBuffer.readDWORD: Premature EOF
