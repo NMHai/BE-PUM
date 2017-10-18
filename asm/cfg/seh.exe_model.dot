@@ -1,5 +1,0 @@
-digraph G {
-node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
-bgcolor="transparent"
-a0x00401000pushl_0x401007UINT32[label="start\npushl $0x401007<UINT32>",fillcolor="orange",color="lightgrey"];
-}

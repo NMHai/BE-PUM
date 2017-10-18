@@ -1,5 +1,0 @@
-digraph G {
-node[shape=rectangle,style=filled,fillcolor=lightsteelblue,color=lightsteelblue]
-bgcolor="transparent"
-a0x00566000[label="start\nsubl $0x4<UINT8>, %esp",fillcolor="orange",color="lightgrey"];
-}
