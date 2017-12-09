@@ -8,9 +8,9 @@ Binary Emulation for Pushdown Model (BE-PUM) is a project currently led by Assoc
 
 - N. M. Hai, O. Mizuhito, and Q. T. Tho. Pushdown model generation of malware. Technical report, Japan Advanced Institute of Science and Technology, Japan, 2014
 
-- Nguyen Minh Hai, Mizuhito Ogawa, Quan Thanh Tho, “Obfuscation code localization based on CFG generation of malware”, The 8th International Symposium on Foundations & Practice of Security, Springer, Clermont-Ferrand, France, 2015
+- Nguyen Minh Hai, Mizuhito Ogawa, Quan Thanh Tho, Obfuscation code localization based on CFG generation of malware, The 8th International Symposium on Foundations & Practice of Security, Springer, Clermont-Ferrand, France, 2015
 
-- Nguyen Minh Hai, Le Nguyen Dung and Quan Thanh Tho, “Applying Symbolic Execution for Malware Analysis”, The 2nd Symposium on Information Security (SOIS 2017), 02-03 December 2017, University of Information Technology Ho Chi Minh City, Vietnam (in Vietnamese).
+- Nguyen Minh Hai, Le Nguyen Dung and Quan Thanh Tho, Applying Symbolic Execution for Malware Analysis, The 2nd Symposium on Information Security (SOIS 2017), 02-03 December 2017, University of Information Technology Ho Chi Minh City, Vietnam (in Vietnamese).
 
 # Download
 
@@ -32,6 +32,6 @@ Java Runtime Environment 1.7 or higher.
 
   - java -jar BE-PUM.jar [BinaryFilePath]
     - Example: java -jar BE-PUM.jar asm/virus.exe
+	
+  - Or java -jar BE-PUM.jar -adjmatrix [BinaryFilePath] (if you want to extract the image of malware).
 
-
-- You may encounter the error of short of memory, please type: java -Xmx1024m -jar BE-PUM.jar [BinaryFilePath].
